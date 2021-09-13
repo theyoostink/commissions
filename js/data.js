@@ -7,7 +7,7 @@ var data = {
 			artist: "Anonymous Artist",
 			artist_url: null,
 			art_url: null,
-			desc: "An inside joke between the artist and myself. It's yogurt.",
+			desc: "Artist did not wish to be named or identified. An inside joke between the artist and myself. It's yogurt. Why is it marked NSFW? It's just yogurt.",
 			date_str: "May 2017",
 			tags: [""],
 			hidden: true
@@ -428,6 +428,18 @@ var data = {
 			artist_url: "https://twitter.com/OrenjiNoodle",
 			art_url: "https://twitter.com/OrenjiNoodle/status/1436008766353199105",
 			desc: "OrenjiNoodle's Hooters Lucina is so cute! I really love how it turned out. The brightness of the colors and the contrast of the blue and orange are so visually nice. Adorable! Amazing work!",
+			date_str: "September 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/7ADHqIx.jpg"],
+			thumbnail: "https://i.imgur.com/hXiylRj.jpg",
+			title: "Hooters Lucina (Seityr)",
+			artist: "Seityr",
+			artist_url: "https://twitter.com/Seityr_Art",
+			art_url: "https://twitter.com/Seityr_Art/status/1436914514016886792",
+			desc: "This is Seityr's Hooters Lucina! The colors give this a really nice refreshing feeling, and I love Lucina's smile and confident pose. It's all very pretty and very well done!",
 			date_str: "September 2021",
 			tags: ["hooters"],
 			hidden: false
