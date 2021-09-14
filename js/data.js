@@ -445,6 +445,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/T1MJdqZ.jpg", "https://i.imgur.com/z6Ahcqy.jpg", "https://i.imgur.com/IxzHnO6.jpg", "https://i.imgur.com/D503m1I.jpg", "https://i.imgur.com/03JLEMK.jpg", "https://i.imgur.com/fd99dy8.jpg", "https://i.imgur.com/4YP001d.jpg", "https://i.imgur.com/UuJFJVF.jpg", "https://i.imgur.com/zb1LgAa.jpg", "https://i.imgur.com/qFN1Z8W.jpg", "https://i.imgur.com/hMhmw44.jpg", "https://i.imgur.com/EH0ptxt.jpg"],
+			thumbnail: "https://i.imgur.com/HdiYCIS.jpg",
+			title: "Sex with Summer Lucina (mazenda3378)",
+			artist: "mazenda3378",
+			artist_url: "https://twitter.com/mazenda3378",
+			art_url: "https://skeb.jp/@mazenda3378/works/12",
+			desc: "Sex with Lucina in her Cipher swimsuit at the beach! This one came with 9 preset variants by the artist. The provided .psd file also had some other options, so I was able to create some custom variants as well.",
+			date_str: "September 2021",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
