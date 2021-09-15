@@ -111,7 +111,7 @@ var data = {
 		{
 			src: ["https://i.imgur.com/mv7v0xR.jpg"],
 			thumbnail: "https://i.imgur.com/HwNTLdH.jpg",
-			title: "Lucina HYPE!!!!",
+			title: "Lucina HYPE!!!! (Vallurite)",
 			artist: "Vallurite",
 			artist_url: "https://twitter.com/Vallurite",
 			art_url: "https://twitter.com/Vallurite/status/1403458247458275345",
@@ -327,7 +327,7 @@ var data = {
 		{
 			src: ["https://i.imgur.com/HqPH9Wr.jpg"],
 			thumbnail: "https://i.imgur.com/Nic6DtB.jpg",
-			title: "Lucina Paizuri",
+			title: "Lucina Paizuri (Devilukez10)",
 			artist: "Devilukez10",
 			artist_url: "https://twitter.com/Devilukez10",
 			art_url: "https://twitter.com/Devilukez10/status/1427917077252165632",
