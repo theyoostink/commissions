@@ -1,17 +1,25 @@
 $(document).ready(function() {
 	// Display the images
 	var gallery_html = "";
+
+	// The gallery images from data.js
 	var images = data.images;
+
+	// Set of tags collected from the images
 	const tags = new Set();
 	
+	// Shuffle the images for a random order every time the page is loaded
 	//shuffle(images);
 
+	// For every image, display it in the gallery
 	for (var i = 0; i < images.length; i += 1) {
 		var image = images[i];
-		var tags_class = image.tags.join(" ");
+		var tags_class = image.tags.join(" ");	// CSS classes for tags
+		// Add tag to the tags set
 		for (var t = 0; t < image.tags.length; t += 1) {
 			tags.add(image.tags[t]);
 		}
+		// If image is hidden, then don't show it
 		if (image.hidden) {
 			tags_class += " hidden-image"
 		}
@@ -19,14 +27,19 @@ $(document).ready(function() {
 	}
 	$("#gallery").html(gallery_html);
 
-	// Add a click listener to open a modal
+	// Add a click listener to open a modal when an image in the gallery is clicked
 	for (var i = 0; i < images.length; i += 1) {
 		$("#img"+i).click(function() {
+			// The index number is the number assigned when the gallery was created (corresponds to the index of the images array in data.js)
 			var index = +($(this).attr("index"));
 			$("#imageModalLabel").html(images[index].title);
+
+			// Create the carousel for the image(s)
 			var src = images[index].src;
 			var carousel_html = "";
 			for (var j = 0; j < src.length; j += 1) {
+
+				// The first image in the carousel is active
 				if (j == 0) {
 					carousel_html += "<div class='carousel-item active'>";
 				}
@@ -34,6 +47,8 @@ $(document).ready(function() {
 					carousel_html += "<div class='carousel-item'>";
 				}
 
+				// If there are multiple images, then have the carousel images be a bit small to show the controls
+				// Otherwise, have the carousel image span across the entire width available
 				if (src.length > 1) {
 					carousel_html += "<img src='"+ src[j] +"' class='d-block img-carousel-responsive' alt='...'>";
 				}
@@ -43,6 +58,8 @@ $(document).ready(function() {
 				carousel_html += "</div>"
 				$("#imageModalImage").html(carousel_html);
 			}
+			// If there are multiple images, then show the carousel controls and indicators and make the image slightly smaller
+			// Otherwise, hide them
 			if (src.length > 1) {
 				$(".carousel-control-prev").show();
 				$(".carousel-control-next").show();
@@ -58,16 +75,16 @@ $(document).ready(function() {
 				}
 				$(".carousel-indicators").html(indicator_html);
 				$(".carousel-inner").addClass("carousel-inner-padding");
-				$("#imageModalFooter").addClass("imageModalFooterPadding");
+				$("#imageModalDesc").addClass("imageModalDescPadding");
 			}
 			else {
 				$(".carousel-control-prev").hide();
 				$(".carousel-control-next").hide();
 				$(".carousel-indicators").hide();
 				$(".carousel-inner").removeClass("carousel-inner-padding");
-				$("#imageModalFooter").removeClass("imageModalFooterPadding");
+				$("#imageModalDesc").removeClass("imageModalDescPadding");
 			}
-			$("#imageModalFooter").html(getModalFooterText(images[index]));
+			$("#imageModalDesc").html(getModalDescText(images[index]));
 			//enableTooltips();
 		});
 	}
@@ -75,7 +92,8 @@ $(document).ready(function() {
 	createTagsDropdown(tags);
 });
 
-function getModalFooterText(image) {
+// Create the gallery image modal description section
+function getModalDescText(image) {
 	text = "";
 	if (image.src.length == 1) {
 		text += "1 image<br/><br/>";
@@ -105,6 +123,8 @@ function getModalFooterText(image) {
 
 	return text;
 }
+
+// Enable tooltips
 function enableTooltips() {
 	var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
 	var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
@@ -112,6 +132,7 @@ function enableTooltips() {
 	})
 }
 
+// Shuffle an array (Fisher-Yates [aka Knuth] Shuffle)
 function shuffle(array) {
 	var currentIndex = array.length,  randomIndex;
 	// While there remain elements to shuffle...
@@ -126,6 +147,7 @@ function shuffle(array) {
 	return array;
 }
 
+// Map a string to another string
 function translateWord(word) {
 	var translations = {
 		hooters: "Hooters 🦉",
@@ -139,35 +161,41 @@ function translateWord(word) {
 	}
 }
 
+// Create the tags dropdown menu
 function createTagsDropdown(tags) {
+	// Delete the empty string tag
 	tags.delete("");
+
 	var tags_to_show = {};
 	
+	// By default, hide images with these tags
 	$(".hooters").hide();
 	$(".nsfw").hide();
 
-	//<li><label><input type="checkbox"> Cheese</label></li>
+	// Create the dropdown options
 	var tags_dropdown_HTML = "";
 	tags.forEach (function(value) {
-		tags_dropdown_HTML += "<li><label><input type='checkbox' value='"+value+"'> "+translateWord(value)+"</label></li>"
+		tags_dropdown_HTML += "<li><label><input type='checkbox' value='"+value+"'> <strong>"+translateWord(value)+"</strong></label></li>"
 		tags_to_show[value] = false;
 	});
 	$("#tags-dropdown").html(tags_dropdown_HTML);
 
+	// When a checkbox is checked/unchecked in the dropdown menu...
 	$(".checkbox-menu").on("change", "input[type='checkbox']", function() {
 		var tag = $(this)[0].value;
 
-		// If the tag is "nsfw" and is unchecked, then ask for 18+ confirmation
+		// If the tag is "nsfw" and is checked, then ask for 18+ confirmation
 		if (tag == "nsfw" && $(this).closest("input").prop("checked")) {
 			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
 			var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older. Click Cancel if you are not.");
-			//
+			// Set the checkbox to unchecked if Cancel was selected instead of OK
 			if (!nsfw_confirmation) {
 				$(this).closest("input").prop("checked", false);
 				return false;
 			}
 		}
 
+		// Mark the tag in the map to true if checked and false if unchecked
 		$(this).closest("li").toggleClass("active", this.checked);
 		if ($(this).closest("li").hasClass("active")) {
 			tags_to_show[tag] = true;
@@ -175,6 +203,9 @@ function createTagsDropdown(tags) {
 		else {
 			tags_to_show[tag] = false;
 		}
+
+		// Go through the map and show/hide the images
+		// Might need to rework this part by iterating over each image and checking their tags
 		for (let key in tags_to_show) {
 			if (tags_to_show[key]) {
 				$("."+key).show();
