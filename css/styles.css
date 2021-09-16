@@ -184,7 +184,7 @@ a:hover, a:active {
 }
 
 .nsfw {
-	border: 2px dashed red;
+	border: 2px dashed #888ca2;
 }
 
 @media (max-width: 767px) {

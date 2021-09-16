@@ -67,7 +67,7 @@ var data = {
 			artist: "SonicHeroXD",
 			artist_url: "https://twitter.com/SonicHeroXD",
 			art_url: "https://twitter.com/SonicHeroXD/status/1399120844639584261",
-			desc: "It was wonderfully done by SonicHeroXD! <3 There is also a spicy lingerie variant in the Twitter source!",
+			desc: "It was wonderfully done by SonicHeroXD! <3 There is also a spicy lingerie variant!",
 			date_str: "May 2021",
 			tags: ["hooters"],
 			hidden: false
