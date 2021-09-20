@@ -90,6 +90,7 @@ $(document).ready(function() {
 	}
 
 	createTagsDropdown(tags);
+	updateImageCountLabel();
 });
 
 // Create the gallery image modal description section
@@ -145,6 +146,12 @@ function shuffle(array) {
 	}
 
 	return array;
+}
+
+// Update the image count label
+function updateImageCountLabel() {
+	var numOfVisibleImages = $(".gallery-img > img:visible").length;
+	$("#count").html(numOfVisibleImages);
 }
 
 // Map a string to another string
@@ -214,5 +221,6 @@ function createTagsDropdown(tags) {
 				$("."+key).hide();
 			}
 		}
+		updateImageCountLabel();
 	});
 }
