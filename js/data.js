@@ -457,6 +457,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/0rpziUl.png"],
+			thumbnail: "https://i.imgur.com/MyMvSSp.jpg",
+			title: "Dumb_Lucina (eunnieverse)",
+			artist: "eunnieverse",
+			artist_url: "https://twitter.com/eunnieverse",
+			art_url: null,
+			desc: "This is the eunnieverse signature \"Dumb\" character art. This one is Dumb_Lucina. Very cute!",
+			date_str: "September 2021",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
