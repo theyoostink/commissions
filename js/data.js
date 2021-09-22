@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Artist did not wish to be named or identified. An inside joke between the artist and myself. It's yogurt. Why is it marked NSFW? It's just yogurt.",
 			date_str: "May 2017",
-			tags: [""],
+			tags: ["nsfw"],
 			hidden: true
 		},
 		{
@@ -31,7 +31,7 @@ var data = {
 			artist: "Anonymous Artist",
 			artist_url: null,
 			art_url: null,
-			desc: "Artist did not wish to be named or identified. Not a commission, but was a gift for Christmas",
+			desc: "Artist did not wish to be named or identified. Not a commission, but was a gift for Christmas. The same anonymous artist who drew <span class='series-link' index='1'>this one</span>.",
 			date_str: "December 2018",
 			tags: ["hooters"],
 			hidden: false

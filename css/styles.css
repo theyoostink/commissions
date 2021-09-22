@@ -182,6 +182,14 @@ a:hover, a:active {
 	background-color: #666a80;
 	color: white;
 }
+.series-link {
+	text-decoration: underline;
+	cursor: pointer;
+	color: #b3bdff;
+}
+.series-link:hover, .series-link:active {
+	color: #959ccf;
+}
 
 .nsfw {
 	border: 2px dashed #888ca2;

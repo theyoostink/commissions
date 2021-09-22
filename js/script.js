@@ -1,3 +1,7 @@
+// Keeps track if a series link was clicked - used in enableImageSeriesLinks()
+var series_link_clicked = false;
+
+// When the document finished loading and is ready...
 $(document).ready(function() {
 	// Display the images
 	var gallery_html = "";
@@ -9,6 +13,7 @@ $(document).ready(function() {
 	const tags = new Set();
 	
 	// Shuffle the images for a random order every time the page is loaded
+	// Turning on shuffling will break series links since it relies on predetermined index values - enableImageSeriesLinks()
 	//shuffle(images);
 
 	// For every image, display it in the gallery
@@ -85,6 +90,7 @@ $(document).ready(function() {
 				$("#imageModalDesc").removeClass("imageModalDescPadding");
 			}
 			$("#imageModalDesc").html(getModalDescText(images[index]));
+			enableImageSeriesLinks();
 			//enableTooltips();
 		});
 	}
@@ -222,5 +228,22 @@ function createTagsDropdown(tags) {
 			}
 		}
 		updateImageCountLabel();
+	});
+}
+
+// When a series link is clicked, then it closes the modal and changes the content and re-opens it with the new image
+// Assumes that there is no shuffling of the images (random sequence) so that the pre-determined index value can be used
+function enableImageSeriesLinks() {
+	$(".series-link").click(function() {
+		// This global variable is important so that closing the modal triggers the hide modal event only once
+		series_link_clicked = true;
+		$("#imageModal").modal("hide");
+		var index = +($(this).attr("index"));
+		$("#imageModal").on("hidden.bs.modal", function () {
+			if (series_link_clicked) {
+				$("#img"+index).click();
+				series_link_clicked = false;
+			}
+		});
 	});
 }
