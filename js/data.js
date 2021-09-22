@@ -7,9 +7,9 @@ var data = {
 			artist: "Anonymous Artist",
 			artist_url: null,
 			art_url: null,
-			desc: "Artist did not wish to be named or identified. An inside joke between the artist and myself. It's yogurt. Why is it marked NSFW? It's just yogurt.",
+			desc: "Artist did not wish to be named or identified. An inside joke between the artist and myself. It's just yogurt.",
 			date_str: "May 2017",
-			tags: ["nsfw"],
+			tags: [""],
 			hidden: true
 		},
 		{
