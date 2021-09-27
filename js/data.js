@@ -469,6 +469,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/TV24SId.png"],
+			thumbnail: "https://i.imgur.com/Vvswb6P.jpg",
+			title: "Hooters Lucina (Ozkh)",
+			artist: "Ozkh",
+			artist_url: "https://twitter.com/Ozkh6",
+			art_url: null,
+			desc: "Ozkh's Hooters Lucina is super pretty! I really like the slightly peeved expression on her face. It's different from the rest of the commissions, and it grants us a view of her busy work shift. It's an amazing piece of artwork! It was also a great experience working with the artist - they were very quick and provided frequent updates.",
+			date_str: "September 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
