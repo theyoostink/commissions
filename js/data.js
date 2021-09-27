@@ -475,7 +475,19 @@ var data = {
 			artist: "Ozkh",
 			artist_url: "https://twitter.com/Ozkh6",
 			art_url: null,
-			desc: "Ozkh's Hooters Lucina is super pretty! I really like the slightly peeved expression on her face. It's different from the rest of the commissions, and it grants us a view of her busy work shift. It's an amazing piece of artwork! It was also a great experience working with the artist - they were very quick and provided frequent updates.",
+			desc: "Ozkh's Hooters Lucina is super pretty! I really like the slightly peeved and tired expression on her face. It's different from the other commissions, and it grants us a view of her busy work shift. It's an amazing piece of artwork! It was also a great experience working with the artist - they were very quick and provided frequent updates.",
+			date_str: "September 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/RGLrXJw.jpg"],
+			thumbnail: "https://i.imgur.com/9pVxmJw.jpg",
+			title: "Hooters Lucina (Desspie)",
+			artist: "Desspie",
+			artist_url: "https://twitter.com/Desspie",
+			art_url: "https://twitter.com/Desspie/status/1442601726842900482",
+			desc: "This is a Hooters Lucina by Rain (@Desspie)! It turned out so pretty and so cute - I really love the smile! Including Feh in the logo is always such a nice and cute touch. It's all very lovely with the brightness and the pop of the colors and lighting <3",
 			date_str: "September 2021",
 			tags: ["hooters"],
 			hidden: false
