@@ -1,5 +1,6 @@
 // Keeps track if a series link was clicked - used in enableImageSeriesLinks()
 var series_link_clicked = false;
+var series_link_clicked_index = null;
 
 // When the document finished loading and is ready...
 $(document).ready(function() {
@@ -238,10 +239,10 @@ function enableImageSeriesLinks() {
 		// This global variable is important so that closing the modal triggers the hide modal event only once
 		series_link_clicked = true;
 		$("#imageModal").modal("hide");
-		var index = +($(this).attr("index"));
+		series_link_clicked_index = +($(this).attr("index"));
 		$("#imageModal").on("hidden.bs.modal", function () {
 			if (series_link_clicked) {
-				$("#img"+index).click();
+				$("#img"+series_link_clicked_index).click();
 				series_link_clicked = false;
 			}
 		});

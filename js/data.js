@@ -331,7 +331,7 @@ var data = {
 			artist: "Devilukez10",
 			artist_url: "https://twitter.com/Devilukez10",
 			art_url: "https://twitter.com/Devilukez10/status/1427917077252165632",
-			desc: "Lucina tried her best at a titfuck using her small breasts. She looks satisfied with the result! Part 1 of 2 commissions.",
+			desc: "Lucina tried her best at a titfuck using her small breasts. She looks satisfied with the result! The follow-up sex scene is available <span class='series-link' index='41'>here</span>.",
 			date_str: "August 2021",
 			tags: ["nsfw"],
 			hidden: false
@@ -490,6 +490,18 @@ var data = {
 			desc: "This is a Hooters Lucina by Rain (@Desspie)! It turned out so pretty and so cute - I really love the smile! Including Feh in the logo is always such a nice and cute touch. It's all very lovely with the brightness and the pop of the colors and lighting <3",
 			date_str: "September 2021",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/4vA0bMn.jpg", "https://i.imgur.com/4CI6pZm.jpg"],
+			thumbnail: "https://i.imgur.com/0CuoXj5.jpg",
+			title: "Spooning Sex with Lucina (Devilukez10)",
+			artist: "Devilukez10",
+			artist_url: "https://twitter.com/Devilukez10",
+			art_url: "https://twitter.com/Devilukez10/status/1443083979905593344",
+			desc: "This is a follow-up sex scene to the <span class='series-link' index='27'>this titfuck</span> artwork commission. I requested a variant where the man is wearing a condom and a variant where the man creampies Lucina after using up all the condoms.",
+			date_str: "September 2021",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
