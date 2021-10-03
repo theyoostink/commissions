@@ -505,6 +505,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/LoVkNFj.png"],
+			thumbnail: "https://i.imgur.com/K27SP5k.jpg",
+			title: "Hooters Lucina (Mnejing30)",
+			artist: "Mnejing30",
+			artist_url: "https://twitter.com/Mnejing30",
+			art_url: "https://twitter.com/Mnejing30/status/1444584014711427072",
+			desc: "This was a Patreon request to Mnejing30. I've seen their other Hooters drawings of Fire Emblem characters, so I sent one for Lucina. I'm a big fan of their sketches, comics, and humor. This artwork is really nice, simple, and pretty - I love Lucina's smile!",
+			date_str: "October 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
