@@ -517,6 +517,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/U4VbAkn.png"],
+			thumbnail: "https://i.imgur.com/vhxHSfq.jpg",
+			title: "Barista Lucina (iktk)",
+			artist: "iktk",
+			artist_url: "https://twitter.com/ika_tko",
+			art_url: "https://twitter.com/ika_tko/status/1445458599690608641",
+			desc: "This is iktk's gorgeous Lucina as a coffee shop barista. The artwork gives a nice warm and cozy feeling like you're enjoying a nice cup of hot coffee in the shop on an autumn morning. The latte art and her smile are so lovely too!",
+			date_str: "October 2021",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
