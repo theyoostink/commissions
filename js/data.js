@@ -529,6 +529,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/5Ha7ij1.png"],
+			thumbnail: "https://i.imgur.com/VqZWZT7.jpg",
+			title: "Hooters Lucina (jumpaoki)",
+			artist: "jumpaoki",
+			artist_url: "https://twitter.com/jumpaoki",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Kenichiro Aoki, who is one of my favorite animators at JC Staff! I really love the pose and the \"camera angle\" of this piece. I also love the vibrant colors and, of course, Lucina's smile!",
+			date_str: "October 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/ZNZoeE8.png", "https://i.imgur.com/9fFX6cU.png", "https://i.imgur.com/zALrQKW.png"],
+			thumbnail: "https://i.imgur.com/SyvgDGo.jpg",
+			title: "Hooters Lucina Blowjob (keiz_0120)",
+			artist: "keiz_0120",
+			artist_url: "https://twitter.com/keiz_0120",
+			art_url: "https://twitter.com/keiz_0120/status/1445713394875596801",
+			desc: "This is keiz's artwork of Hooters Lucina giving a blowjob. The artist has drawn lewd Lucina artwork before, so I sent a request for a Hooters Lucina one. It turned out really well! She looks pretty and cute here! I requested cum facial variants - one with a happy, satisfied expression and one with an annoyed expression.",
+			date_str: "October 2021",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
