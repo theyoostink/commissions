@@ -271,7 +271,7 @@ var data = {
 			artist: "azure_monarch",
 			artist_url: "https://twitter.com/azure_monarch",
 			art_url: "https://twitter.com/azure_monarch/status/1419380538205380608",
-			desc: "The Lucina art community's very own azure_monarch has done a Hooters Lucina! I've watched his growth as an artist for a long while now, and I look forward to his future work. I really like Lucina's smile and the beer, and the lighting is impressive! Keep it up!<br/>azure_monarch also came up with Hooters Lucina independently from me back in 2018 in this <a href='https://twitter.com/azure_monarch/status/981019322209337344'>Tweet</a>.",
+			desc: "The Lucina art community's very own azure_monarch has done a Hooters Lucina! I've watched his growth as an artist for a long while now, and I look forward to his future work. I really like Lucina's smile and the beer, and the lighting is impressive! Keep it up!<br/>azure_monarch also came up with Hooters Lucina independently from me back in 2018 in this <a href='https://twitter.com/azure_monarch/status/981019322209337344' target='_blank'>Tweet</a>.",
 			date_str: "July 2021",
 			tags: ["hooters"],
 			hidden: false
@@ -343,7 +343,7 @@ var data = {
 			artist: "NaijMizuho",
 			artist_url: "https://twitter.com/SnippyAsianGuy",
 			art_url: "https://twitter.com/SnippyAsianGuy/status/1428413308411994113",
-			desc: "This is NaijMizuho's very pretty Hooters Lucina! I'm a big fan of his Lucina artwork. I love Lucina's confident pose and, of course, her smile! It's just so pretty!<br/>This was a commission request in response to this <a href='https://twitter.com/SnippyAsianGuy/status/1423506971706208257'>Tweet</a>.",
+			desc: "This is NaijMizuho's very pretty Hooters Lucina! I'm a big fan of his Lucina artwork. I love Lucina's confident pose and, of course, her smile! It's just so pretty!<br/>This was a commission request in response to this <a href='https://twitter.com/SnippyAsianGuy/status/1423506971706208257' target='_blank'>Tweet</a>.",
 			date_str: "August 2021",
 			tags: ["hooters"],
 			hidden: false
@@ -511,7 +511,7 @@ var data = {
 			artist: "Mnejing30",
 			artist_url: "https://twitter.com/Mnejing30",
 			art_url: "https://twitter.com/Mnejing30/status/1444584014711427072",
-			desc: "This was a Patreon request to Mnejing30. I've seen their other Hooters drawings of Fire Emblem characters, so I sent one for Lucina. I'm a big fan of their sketches, comics, and humor. This artwork is really nice, simple, and pretty - I love Lucina's smile!",
+			desc: "This was a Patreon request to Mnejing30. I've seen their other Hooters drawings of Fire Emblem characters, so I sent one for Lucina. I'm a big fan of their sketches, comics, and humor. This artwork is really nice, simple, and pretty - I love Lucina's smile!<br/>You can check out my other Patreon requests <span class='series-link' index='46'>here</span>.",
 			date_str: "October 2021",
 			tags: ["hooters"],
 			hidden: false
@@ -550,6 +550,20 @@ var data = {
 			desc: "This is keiz's artwork of Hooters Lucina giving a blowjob. The artist has drawn lewd Lucina artwork before, so I sent a request for a Hooters Lucina one. It turned out really well! She looks pretty and cute here! I requested cum facial variants - one with a happy, satisfied expression and one with an annoyed expression.",
 			date_str: "October 2021",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png"],
+			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
+			title: "Mnejing30 Patreon Requests",
+			artist: "Mnejing30",
+			artist_url: "https://twitter.com/Mnejing30",
+			art_url: null,
+			desc: `Various Mnejing30 Patreon requests by me will be posted here with Twitter source links below:<br/>
+			<span class='series-link' index='42'>Hooters Lucina</span><br/>
+			<a href='https://twitter.com/Mnejing30/status/1446852778492530692' target='_blank'>Chocolate Milk</a>`,
+			date_str: "October 2021",
+			tags: [""],
 			hidden: false
 		},
 		{
