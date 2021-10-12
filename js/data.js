@@ -567,6 +567,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/rIxbFQY.jpg"],
+			thumbnail: "https://i.imgur.com/iOELR8p.jpg",
+			title: "Hooters Lucina (1340Smile)",
+			artist: "1340Smile",
+			artist_url: "https://twitter.com/1340Smile",
+			art_url: "https://twitter.com/1340smile/status/1447940124445057025",
+			desc: "This is 1340Smile's Hooters Lucina! It's so very nice, and I really like how dynamic it is. You can really sense the motion and how Lucina is hurrying to deliver. I hope she does as well a job as the artist did for this artwork!",
+			date_str: "October 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
