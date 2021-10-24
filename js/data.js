@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -561,8 +561,9 @@ var data = {
 			art_url: null,
 			desc: `Various Mnejing30 Patreon requests by me will be posted here with Twitter source links below:<br/>
 			<span class='series-link' index='42'>Hooters Lucina</span><br/>
-			<a href='https://twitter.com/Mnejing30/status/1446852778492530692' target='_blank'>Chocolate Milk</a>`,
-			date_str: "October 2021",
+			<a href='https://twitter.com/Mnejing30/status/1446852778492530692' target='_blank'>Chocolate Milk</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1450803527404568576' target='_blank'>Hooters Fjorm</a> (Gift request for YoshaTime)<br/>`,
+			date_str: "October 2021 - ?",
 			tags: [""],
 			hidden: false
 		},
@@ -573,9 +574,21 @@ var data = {
 			artist: "1340Smile",
 			artist_url: "https://twitter.com/1340Smile",
 			art_url: "https://twitter.com/1340smile/status/1447940124445057025",
-			desc: "This is 1340Smile's Hooters Lucina! It's so very nice, and I really like how dynamic it is. You can really sense the motion and how Lucina is hurrying to deliver. I hope she does as well a job as the artist did for this artwork!",
+			desc: "This is 1340Smile's Hooters Lucina! It's so very nice, and I really like how dynamic it is. You can really sense the motion and how Lucina is hurrying to deliver. I hope she does a good job!",
 			date_str: "October 2021",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/n3trlW6.jpg", "https://i.imgur.com/NQ1eElH.jpg", "https://i.imgur.com/LvKtpOF.jpg"],
+			thumbnail: "https://i.imgur.com/w18KILC.jpg",
+			title: "Hooters Lucina Masturbating (mon_eree)",
+			artist: "mon_eree",
+			artist_url: "https://twitter.com/mon_eree",
+			art_url: "https://twitter.com/mon_eree/status/1452303875965284355",
+			desc: "This is moneree's Hooters Lucina artwork featuring her masturbating. I really like the legs and the seductive look on her face. It's very inviting!",
+			date_str: "October 2021",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
