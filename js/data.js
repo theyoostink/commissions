@@ -592,6 +592,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/oBVKLVk.jpg"],
+			thumbnail: "https://i.imgur.com/cOO0UA6.jpg",
+			title: "Hooters Lucina (Burnt_Green_Tea)",
+			artist: "Burnt_Green_Tea",
+			artist_url: "https://twitter.com/Burnt_Green_Tea",
+			art_url: "https://twitter.com/Burnt_Green_Tea/status/1453765707448029188",
+			desc: "A gorgeous Hooters Lucina by Burnt! I really love the liveliness, the colors, and the lighting. It's a great vivid piece of art ",
+			date_str: "October 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
