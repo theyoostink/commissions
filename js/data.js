@@ -598,9 +598,21 @@ var data = {
 			artist: "Burnt_Green_Tea",
 			artist_url: "https://twitter.com/Burnt_Green_Tea",
 			art_url: "https://twitter.com/Burnt_Green_Tea/status/1453765707448029188",
-			desc: "A gorgeous Hooters Lucina by Burnt! I really love the liveliness, the colors, and the lighting. It's a great vivid piece of art ",
+			desc: "A gorgeous Hooters Lucina by Burnt! I really love the liveliness, the colors, the food detail, and the lighting. It's a great vivid piece of art with a cute and pretty smile from Lucina!",
 			date_str: "October 2021",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/mbpcFyR.jpg"],
+			thumbnail: "https://i.imgur.com/L36oHkt.jpg",
+			title: "Lucina Eating Pizza (picnicic)",
+			artist: "picnicic",
+			artist_url: "https://twitter.com/picnicic",
+			art_url: "https://twitter.com/picnicic/status/1454444316269547520",
+			desc: "A simple commission by picnicic of Lucina enjoying a slice of pizza. Not sure if pizza exists in Ylisse, but you can make one in FEH's Dining Hall.",
+			date_str: "October 2021",
+			tags: [""],
 			hidden: false
 		},
 		{

@@ -10,16 +10,19 @@ $(document).ready(function() {
 	// The gallery images from data.js
 	var images = data.images;
 
+	// The indexes of the images array which will determine in which order the images will be displayed in the gallery
+	var images_indexes = [...Array(images.length).keys()];
+
 	// Set of tags collected from the images
 	const tags = new Set();
 	
-	// Shuffle the images for a random order every time the page is loaded
-	// Turning on shuffling will break series links since it relies on predetermined index values - enableImageSeriesLinks()
-	//shuffle(images);
+	// Shuffle the images indexes for a random order every time the page is loaded
+	shuffle(images_indexes);
 
 	// For every image, display it in the gallery
-	for (var i = 0; i < images.length; i += 1) {
-		var image = images[i];
+	for (var i = 0; i < images_indexes.length; i += 1) {
+		var index = images_indexes[i];
+		var image = images[index];
 		var tags_class = image.tags.join(" ");	// CSS classes for tags
 		// Add tag to the tags set
 		for (var t = 0; t < image.tags.length; t += 1) {
@@ -29,7 +32,7 @@ $(document).ready(function() {
 		if (image.hidden) {
 			tags_class += " hidden-image"
 		}
-		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img'><img src='"+image.thumbnail+"' alt='"+image.alt+"' id='img"+i+"' index='"+i+"' class='"+tags_class+"'></a>";
+		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img'><img src='"+image.thumbnail+"' alt='"+image.alt+"' id='img"+index+"' index='"+index+"' class='"+tags_class+"'></a>";
 	}
 	$("#gallery").html(gallery_html);
 
@@ -233,7 +236,6 @@ function createTagsDropdown(tags) {
 }
 
 // When a series link is clicked, then it closes the modal and changes the content and re-opens it with the new image
-// Assumes that there is no shuffling of the images (random sequence) so that the pre-determined index value can be used
 function enableImageSeriesLinks() {
 	$(".series-link").click(function() {
 		// This global variable is important so that closing the modal triggers the hide modal event only once
