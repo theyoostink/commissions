@@ -17,7 +17,7 @@ $(document).ready(function() {
 	const tags = new Set();
 	
 	// Shuffle the images indexes for a random order every time the page is loaded
-	shuffle(images_indexes);
+	//shuffle(images_indexes);
 
 	// For every image, display it in the gallery
 	for (var i = 0; i < images_indexes.length; i += 1) {

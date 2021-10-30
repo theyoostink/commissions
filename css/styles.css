@@ -197,6 +197,9 @@ a:hover, a:active {
 
 @media (max-width: 767px) {
 	/* Small devices (tablets, 768px and less) */
+	body {
+		background-color: #485276;
+	}
 	#gallery {
 		-webkit-column-count: 2; /* Chrome, Safari, Opera */
 		-moz-column-count: 2; /* Firefox */
