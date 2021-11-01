@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -562,8 +562,9 @@ var data = {
 			desc: `Various Mnejing30 Patreon requests by me will be posted here with Twitter source links below:<br/>
 			<span class='series-link' index='42'>Hooters Lucina</span><br/>
 			<a href='https://twitter.com/Mnejing30/status/1446852778492530692' target='_blank'>Chocolate Milk</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1450803527404568576' target='_blank'>Hooters Fjorm</a> (Gift request for YoshaTime)<br/>`,
-			date_str: "October 2021 - ?",
+			<a href='https://twitter.com/Mnejing30/status/1450803527404568576' target='_blank'>Hooters Fjorm</a> (Gift request for YoshaTime)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1455135794151051267' target='_blank'>Lucina fighting a giant spider</a><br/>`,
+			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
 		},

@@ -110,7 +110,7 @@ function getModalDescText(image) {
 		text += "1 image<br/><br/>";
 	}
 	else {
-		text += ""+image.src.length+" images<br/>";
+		text += ""+image.src.length+" images<br/><br/>";
 	}
 	text += "<strong>Artist:</strong> "+image.artist+"<br/>";
 
