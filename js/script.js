@@ -231,6 +231,7 @@ function createTagsDropdown(tags) {
 				$("."+key).hide();
 			}
 		}
+		$(".hidden-image").hide();
 		updateImageCountLabel();
 	});
 }

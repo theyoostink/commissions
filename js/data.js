@@ -617,6 +617,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/U4DLmFn.jpg"],
+			thumbnail: "https://i.imgur.com/17Fo1Xt.jpg",
+			title: "Oktoberfest Lucina (kh_kyo_hibiki / mattsun!)",
+			artist: "kh_kyo_hibiki / mattsun!",
+			artist_url: "https://twitter.com/kh_kyo_hibiki",
+			art_url: "https://skeb.jp/@kh_kyo_hibiki/works/6",
+			desc: "I got the opportunity to commission kh_kyo_hibiki/mattsun! (FEH artist for Tanya and Bride Tanith) to produce this gorgeous artwork of Lucina at Oktoberfest. I really love Lucina's beautiful dirndl dress, especially the big cute bow on the side. I hope she enjoys her time having fun and eating good food in this festive autumn atmosphere.",
+			date_str: "November 2021",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/4tmgTul.jpg"],
+			thumbnail: "https://i.imgur.com/LR307RQ.jpg",
+			title: "\"At the Intersection of Despair and Hope\" ft. Exalt Morgan, Mo-Mo, and Lucina (AcrylicStroke)",
+			artist: "AcrylicStroke",
+			artist_url: "https://twitter.com/AcrylicStroke",
+			art_url: "",
+			desc: "\"At the Intersection of Despair and Hope\": This is a joint commission I requested with Exalted! The artist AcrylicStroke did a wonderful job creating this artwork. The idea was to request a piece resembling a movie poster of Exalt Morgan and Fallen Morgan (Mo-Mo) facing each other and determined to battle while Lucina watches over and prays that hope may not die. We hope you enjoy the art, and please consider checking out the AcrylicStroke!",
+			date_str: "November 2021",
+			tags: [""],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/KNwJGH2.jpg", "https://i.imgur.com/zRKiS9a.jpg"],
+			thumbnail: "https://i.imgur.com/obP7Q9P.jpg",
+			title: "Hooters Lucina (PomeloMelon1)",
+			artist: "PomeloMelon1",
+			artist_url: "https://twitter.com/PomeloMelon1",
+			art_url: null,
+			desc: "This is PomeloMelon1's Hooters Lucina! I'm a big fan of their art. I love the lighting/shading and Lucina's expression: the confidence and the slight smugness when she looks at you the viewer. I also like how she plays with her hair; it really adds to that strong aura of confidence.",
+			date_str: "November 2021",
+			tags: ["hooters"],
+			hidden: true
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
