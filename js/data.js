@@ -647,10 +647,22 @@ var data = {
 			artist: "PomeloMelon1",
 			artist_url: "https://twitter.com/PomeloMelon1",
 			art_url: null,
-			desc: "This is PomeloMelon1's Hooters Lucina! I'm a big fan of their art. I love the lighting/shading and Lucina's expression: the confidence and the slight smugness when she looks at you the viewer. I also like how she plays with her hair; it really adds to that strong aura of confidence.",
+			desc: "This is PomeloMelon1's Hooters Lucina! I'm a big fan of their art. I love the lighting/shading and Lucina's expression: the confidence and the slight smugness when she looks at you the viewer. I also like how she plays with her hair; it really adds to that aura of confidence. There is a also a variant with the black-colored uniform.",
 			date_str: "November 2021",
 			tags: ["hooters"],
 			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/YWlmxn3.png"],
+			thumbnail: "https://i.imgur.com/ThKnL8L.jpg",
+			title: "Hooters Lucina (Paulygon2)",
+			artist: "Paulygon2",
+			artist_url: "https://twitter.com/Paulygon_2",
+			art_url: "https://twitter.com/Paulygon_2/status/1456082126042976257",
+			desc: "This is a unique type of commission: a FEH-style chibi of Hooters Lucina by Paulygon2. I think it's absolutely adorable! Paulygon2 did an excellent job on creating the custom outfit, and I especially love the little chibi Feh sprite on the shirt too!",
+			date_str: "November 11",
+			tags: ["hooters"],
+			hidden: false
 		},
 		{
 			src: [""],
