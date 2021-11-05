@@ -634,11 +634,11 @@ var data = {
 			title: "\"At the Intersection of Despair and Hope\" ft. Exalt Morgan, Mo-Mo, and Lucina (AcrylicStroke)",
 			artist: "AcrylicStroke",
 			artist_url: "https://twitter.com/AcrylicStroke",
-			art_url: "",
+			art_url: "https://twitter.com/AcrylicStroke/status/1456635598463135755",
 			desc: "\"At the Intersection of Despair and Hope\": This is a joint commission I requested with Exalted! The artist AcrylicStroke did a wonderful job creating this artwork. The idea was to request a piece resembling a movie poster of Exalt Morgan and Fallen Morgan (Mo-Mo) facing each other and determined to battle while Lucina watches over and prays that hope may not die. We hope you enjoy the art, and please consider checking out the AcrylicStroke!",
 			date_str: "November 2021",
 			tags: [""],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/KNwJGH2.jpg", "https://i.imgur.com/zRKiS9a.jpg"],
@@ -659,7 +659,7 @@ var data = {
 			artist: "Paulygon2",
 			artist_url: "https://twitter.com/Paulygon_2",
 			art_url: "https://twitter.com/Paulygon_2/status/1456082126042976257",
-			desc: "This is a unique type of commission: a FEH-style chibi of Hooters Lucina by Paulygon2. I think it's absolutely adorable! Paulygon2 did an excellent job on creating the custom outfit, and I especially love the little chibi Feh sprite on the shirt too!",
+			desc: "This is a unique type of commission: a FEH-style chibi of Hooters Lucina by Paulygon2. I think it's absolutely adorable! Paulygon2 did an excellent job on creating the custom outfit, and I especially love the little chibi Feh on the shirt too!",
 			date_str: "November 11",
 			tags: ["hooters"],
 			hidden: false
