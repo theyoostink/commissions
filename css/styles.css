@@ -121,6 +121,9 @@ a:hover, a:active {
 	color: #959ccf;
 }
 
+.gallery-buttons-container {
+	float: right;
+}
 .checkbox-menu li label {
 	display: block;
 	padding: 3px 10px;
@@ -164,6 +167,25 @@ a:hover, a:active {
 }
 #tags-dropdown {
 	background-color: #e1e4f2;
+}
+.tag-dropdown-button {
+	float: left;
+}
+.shuffle-button {
+	float: left;
+	margin-left: 10px;
+	width: 50px;
+	color: white;
+	border: none;
+	padding: 0.4375rem 0.75rem;
+	border-radius: 0.25rem;
+	background-color: #666a80;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.shuffle-button:hover {
+	background-color: #797E96;
+	cursor: pointer;
+	color: white;
 }
 .accordion-button {
 	background-color: #666a80;
@@ -239,6 +261,9 @@ a:hover, a:active {
 		justify-content: center; /* align horizontal */
 		align-items: center; /* align vertical */
 	}
+	.gallery-buttons-container {
+		float: left;
+	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	/* Medium devices (desktops, 768px and up) */
@@ -274,6 +299,9 @@ a:hover, a:active {
 		display: flex;
 		justify-content: center; /* align horizontal */
 		align-items: center; /* align vertical */
+	}
+	.gallery-buttons-container {
+		float: left;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px) {

@@ -1,24 +1,100 @@
 // Keeps track if a series link was clicked - used in enableImageSeriesLinks()
 var series_link_clicked = false;
 var series_link_clicked_index = null;
+// Keeps track of tags and which images to show - used in ready()'s shuffle function and createTagsDropdown()
+var tags_to_show = {};
 
 // When the document finished loading and is ready...
 $(document).ready(function() {
-	// Display the images
-	var gallery_html = "";
-
 	// The gallery images from data.js
 	var images = data.images;
-
-	// The indexes of the images array which will determine in which order the images will be displayed in the gallery
-	var images_indexes = [...Array(images.length).keys()];
-
 	// Set of tags collected from the images
 	const tags = new Set();
+	setUpGallery(images, tags, false);
+	createTagsDropdown(tags);
+
+	// Shuffle the image order when the shuffle button is clicked
+	$("#shuffle").click(function() {
+		setUpGallery(images, tags, true);
+		// Go through the tags map and show/hide the images
+		for (let key in tags_to_show) {
+			if (tags_to_show[key]) {
+				$("."+key).show();
+			}
+			else {
+				$("."+key).hide();
+			}
+		}
+		$(".hidden-image").hide();
+		updateImageCountLabel();
+	});
+});
+
+// Create the gallery image modal description section
+function getModalDescText(image) {
+	text = "";
+	if (image.src.length == 1) {
+		text += "1 image<br/><br/>";
+	}
+	else {
+		text += ""+image.src.length+" images<br/><br/>";
+	}
+	text += "<strong>Artist:</strong> "+image.artist+"<br/>";
+
+	if (image.artist_url == null) {
+		text += "";
+	}
+	else {
+		text += "<strong><a href='"+image.artist_url+"' data-bs-toggle='tooltip' data-bs-placement='right' title='"+image.artist_url+"' target='_blank'>Artist's Page</a></strong><br/>";
+	}
+
+	if (image.art_url == null) {
+		text += "Artwork was not posted publicly.<br/>";
+	}
+	else {
+		text += "<strong><a href='"+image.art_url+"' data-bs-toggle='tooltip' data-bs-placement='right' title='"+image.art_url+"' target='_blank'>Art Source</a></strong><br/>";
+	}
+
+	text += "<br/><strong>Description:</strong><br/>" + image.desc + "<br/>";
+
+	text += "<br/>[" + image.date_str + "]<br/>";
+
+	return text;
+}
+
+// Enable tooltips
+function enableTooltips() {
+	var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+	var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+		return new bootstrap.Tooltip(tooltipTriggerEl)
+	})
+}
+
+// Shuffle an array (Fisher-Yates [aka Knuth] Shuffle)
+function shuffle(array) {
+	var currentIndex = array.length,  randomIndex;
+	// While there remain elements to shuffle...
+	while (currentIndex != 0) {
+		// Pick a remaining element...
+		randomIndex = Math.floor(Math.random() * currentIndex);
+		currentIndex--;
+		// And swap it with the current element.
+		[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+	}
+
+	return array;
+}
+
+function setUpGallery(images, tags, shuffleOrder) {
+	// The indexes of the images array which will determine in which order the images will be displayed in the gallery
+	var images_indexes = [...Array(images.length).keys()];
 	
 	// Shuffle the images indexes for a random order every time the page is loaded
-	//shuffle(images_indexes);
+	if (shuffleOrder) {
+		shuffle(images_indexes);
+	}
 
+	var gallery_html = "";
 	// For every image, display it in the gallery
 	for (var i = 0; i < images_indexes.length; i += 1) {
 		var index = images_indexes[i];
@@ -98,64 +174,7 @@ $(document).ready(function() {
 			//enableTooltips();
 		});
 	}
-
-	createTagsDropdown(tags);
 	updateImageCountLabel();
-});
-
-// Create the gallery image modal description section
-function getModalDescText(image) {
-	text = "";
-	if (image.src.length == 1) {
-		text += "1 image<br/><br/>";
-	}
-	else {
-		text += ""+image.src.length+" images<br/><br/>";
-	}
-	text += "<strong>Artist:</strong> "+image.artist+"<br/>";
-
-	if (image.artist_url == null) {
-		text += "";
-	}
-	else {
-		text += "<strong><a href='"+image.artist_url+"' data-bs-toggle='tooltip' data-bs-placement='right' title='"+image.artist_url+"' target='_blank'>Artist's Page</a></strong><br/>";
-	}
-
-	if (image.art_url == null) {
-		text += "Artwork was not posted publicly.<br/>";
-	}
-	else {
-		text += "<strong><a href='"+image.art_url+"' data-bs-toggle='tooltip' data-bs-placement='right' title='"+image.art_url+"' target='_blank'>Art Source</a></strong><br/>";
-	}
-
-	text += "<br/><strong>Description:</strong><br/>" + image.desc + "<br/>";
-
-	text += "<br/>[" + image.date_str + "]<br/>";
-
-	return text;
-}
-
-// Enable tooltips
-function enableTooltips() {
-	var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
-	var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
-		return new bootstrap.Tooltip(tooltipTriggerEl)
-	})
-}
-
-// Shuffle an array (Fisher-Yates [aka Knuth] Shuffle)
-function shuffle(array) {
-	var currentIndex = array.length,  randomIndex;
-	// While there remain elements to shuffle...
-	while (currentIndex != 0) {
-		// Pick a remaining element...
-		randomIndex = Math.floor(Math.random() * currentIndex);
-		currentIndex--;
-		// And swap it with the current element.
-		[array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
-	}
-
-	return array;
 }
 
 // Update the image count label
@@ -183,7 +202,7 @@ function createTagsDropdown(tags) {
 	// Delete the empty string tag
 	tags.delete("");
 
-	var tags_to_show = {};
+	tags_to_show = {};
 	
 	// By default, hide images with these tags
 	$(".hooters").hide();

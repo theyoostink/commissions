@@ -646,11 +646,11 @@ var data = {
 			title: "Hooters Lucina (PomeloMelon1)",
 			artist: "PomeloMelon1",
 			artist_url: "https://twitter.com/PomeloMelon1",
-			art_url: null,
+			art_url: "https://twitter.com/PomeloMelon1/status/1456663767190810628",
 			desc: "This is PomeloMelon1's Hooters Lucina! I'm a big fan of their art. I love the lighting/shading and Lucina's expression: the confidence and the slight smugness when she looks at you the viewer. I also like how she plays with her hair; it really adds to that aura of confidence. There is a also a variant with the black-colored uniform.",
 			date_str: "November 2021",
 			tags: ["hooters"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/YWlmxn3.png"],
