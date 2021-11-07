@@ -665,6 +665,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/8HL1XDQ.jpg"],
+			thumbnail: "https://i.imgur.com/VWRIXZG.jpg",
+			title: "Hooters Lucina (Xith)",
+			artist: "Xith",
+			artist_url: "https://twitter.com/x_Xith_x",
+			art_url: "https://twitter.com/x_Xith_x/status/1457122193272446979",
+			desc: "This is Xith's Hooters Lucina! I really like the angles, the perspective, and the contrast of the lighting and shading. The blowing wind also makes the piece feel like it's moving, fluid, and dynamic. And a nice large mug of frothy beer for you!",
+			date_str: "November 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
