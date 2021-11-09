@@ -677,6 +677,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/KGlI6JP.jpg"],
+			thumbnail: "https://i.imgur.com/npUkYYz.jpg",
+			title: "Hooters Lucina (KiritzuguArt)",
+			artist: "KiritzuguArt",
+			artist_url: "https://twitter.com/KiritzuguArt",
+			art_url: "https://twitter.com/KiritzuguArt/status/1458078246193541123",
+			desc: "This is Kiritzugu's Hooters Lucina! She looks so pretty! It's amazing artwork! The artist decided on a unique facial expression and outfit design from the rest, and I really like both! It's so wonderfully done and so lovely. It was great working with the artist, and I loved seeing the progress on stream.",
+			date_str: "November 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
