@@ -12,6 +12,7 @@ $(document).ready(function() {
 	const tags = new Set();
 	setUpGallery(images, tags, false);
 	createTagsDropdown(tags);
+	updateImageCountLabel();
 
 	// Shuffle the image order when the shuffle button is clicked
 	$("#shuffle").click(function() {
