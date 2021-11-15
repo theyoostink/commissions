@@ -690,6 +690,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/qtCmZEX.png"],
+			thumbnail: "https://i.imgur.com/cyofeqL.jpg",
+			title: "Hooters Lucina (tenchan_man)",
+			artist: "tenchan_man",
+			artist_url: "https://twitter.com/tenchan_man",
+			art_url: "https://skeb.jp/@tenchan_man/works/40",
+			desc: "This is tenchan_man's Hooters Lucina! She looks so pretty! I love the colors, lighting, and highlights. I also love Lucina's confident smile and pose!",
+			date_str: "November 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
