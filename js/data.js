@@ -702,6 +702,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/xnWMj9H.jpg"],
+			thumbnail: "https://i.imgur.com/mXulc2f.jpg",
+			title: "Survey Corps Lucina (Saiykik)",
+			artist: "Saiykik",
+			artist_url: "https://twitter.com/Saiykik",
+			art_url: "https://twitter.com/Saiykik/status/1461096513602527240",
+			desc: "Dedicate your heart! This is a commission of Lucina as a Survey Corps member flying around with the ODMG/3DMG and dual wielding two Falchions (she borrowed Chrom's). The artwork was wonderfully done by Saiykik! It's a great action pose as if she's about cut down Grima's nape. Lucina's Japanese VA, Yu Kobayashi, also happens to voice Sasha, my favorite character from Attack on Titan.",
+			date_str: "November 2021",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
