@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/LraH4m5.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -564,7 +564,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1446852778492530692' target='_blank'>Chocolate Milk</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1450803527404568576' target='_blank'>Hooters Fjorm</a> (Gift request for YoshaTime)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1455135794151051267' target='_blank'>Lucina fighting a giant spider</a><br/>
-			<a href='https://twitter.com/mnejing30/status/1458454513082269703' target='_blank'>F!Morgan stacking tomes</a> (Gift request for Exalted)<br/>`,
+			<a href='https://twitter.com/mnejing30/status/1458454513082269703' target='_blank'>F!Morgan stacking tomes</a> (Gift request for Exalted)<br/>
+			<a href='https://twitter.com/mnejing30/status/1464794100352229377' target='_blank'>Lucina in ASG Lumen's outfit</a> (Gift request for PhantomT)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -695,7 +696,7 @@ var data = {
 			title: "Hooters Lucina (tenchan_man)",
 			artist: "tenchan_man",
 			artist_url: "https://twitter.com/tenchan_man",
-			art_url: "https://skeb.jp/@tenchan_man/works/40",
+			art_url: "https://twitter.com/tenchan_man/status/1461541232375595011",
 			desc: "This is tenchan_man's Hooters Lucina! She looks so pretty! I love the colors, lighting, and highlights. I also love Lucina's confident smile and pose!",
 			date_str: "November 2021",
 			tags: ["hooters"],
