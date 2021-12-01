@@ -720,11 +720,11 @@ var data = {
 			title: "Hooters Lucina (Omiza_Zu)",
 			artist: "Omiza_Zu",
 			artist_url: "https://twitter.com/Omiza_Zu",
-			art_url: null,
+			art_url: "https://twitter.com/omiza_zu/status/1466131711272570889",
 			desc: "This is Omiza SOmi's Hooters Lucina (Omiza_Zu on Twitter)! She's so pretty! I love how her hair was drawn, and I also love Lucina's smile and confident pose! It's amazing work!",
 			date_str: "November 2021",
 			tags: ["hooters"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/XKHbmR2.jpg"],
