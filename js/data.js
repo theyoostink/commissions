@@ -715,6 +715,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/82soMRT.jpg"],
+			thumbnail: "https://i.imgur.com/uWIJf1z.jpg",
+			title: "Hooters Lucina (Omiza_Zu)",
+			artist: "Omiza_Zu",
+			artist_url: "https://twitter.com/Omiza_Zu",
+			art_url: null,
+			desc: "This is Omiza SOmi's Hooters Lucina (Omiza_Zu on Twitter)! She's so pretty! I love how her hair was drawn, and I also love Lucina's smile and confident pose! It's amazing work!",
+			date_str: "November 2021",
+			tags: ["hooters"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/XKHbmR2.jpg"],
+			thumbnail: "https://i.imgur.com/K959Pwz.jpg",
+			title: "Hooters Lucina (fumaimpact)",
+			artist: "fumaimpact",
+			artist_url: "https://twitter.com/fumaimpact",
+			art_url: "https://twitter.com/fumaimpact/status/1465529600029560836",
+			desc: "This is a Hooters Lucina by FumaFu (fumaimpact on Twitter)! It's amazing! She looks so cute and happy, and I love the energy and the colors. The sparkles also give this piece life, and the moving foam of the beer makes it feel dynamic. It turned out so nicely!",
+			date_str: "November 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
