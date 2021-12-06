@@ -739,6 +739,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/soWssE1.png", "https://i.imgur.com/iV0Jcfh.png", "https://i.imgur.com/Aqla32K.png"],
+			thumbnail: "https://i.imgur.com/nSWSAdv.jpg",
+			title: "Hooters Lucina (cryptidkani)",
+			artist: "cryptidkani",
+			artist_url: "https://twitter.com/cryptidkani",
+			art_url: "https://twitter.com/cryptidkani/status/1467616992697987075",
+			desc: "This is a Hooters Lucina by cryptid crab (cryptidkani on Twitter)! She looks beautiful in cryptid's style. Her smile and expression are so pretty! It turned out wonderfully!",
+			date_str: "December 2021",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
