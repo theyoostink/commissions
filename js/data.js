@@ -745,10 +745,34 @@ var data = {
 			artist: "cryptidkani",
 			artist_url: "https://twitter.com/cryptidkani",
 			art_url: "https://twitter.com/cryptidkani/status/1467616992697987075",
-			desc: "This is a Hooters Lucina by cryptid crab (cryptidkani on Twitter)! She looks beautiful in cryptid's style. Her smile and expression are so pretty! It turned out wonderfully!",
+			desc: "This is a Hooters Lucina by cryptid crab (cryptidkani on Twitter)! She looks beautiful in cryptid's style. Her smile and expression are so pretty! Her blue hair looks great too. It turned out wonderfully!",
 			date_str: "December 2021",
 			tags: ["hooters", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/qMb395n.jpg"],
+			thumbnail: "https://i.imgur.com/KJ9z0aM.jpg",
+			title: "Florist Lucina (purrlucii)",
+			artist: "purrlucii",
+			artist_url: "https://twitter.com/purrlucii",
+			art_url: "https://twitter.com/purrlucii/status/1468334983928446976",
+			desc: "This is a commission of Lucina as a florist by Luci (purrlucci on Twitter)! She looks so cute and so pretty! The artwork turned out so wonderfully. The flower is a reference to Lucina's S Support art in Awakening. I love Lucina's sweet smile and the background of daisies.",
+			date_str: "December 2021",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/vGGHE2s.jpg", "https://i.imgur.com/giezXFo.jpg"],
+			thumbnail: "https://i.imgur.com/lgTNqjD.jpg",
+			title: "Hooters Lucina 69 (Moursho)",
+			artist: "Moursho",
+			artist_url: "https://twitter.com/Moursho",
+			art_url: "",
+			desc: "",
+			date_str: "December 2021",
+			tags: ["hooters", "nsfw"],
+			hidden: true
 		},
 		{
 			src: [""],
