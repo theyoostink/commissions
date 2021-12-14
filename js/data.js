@@ -768,11 +768,23 @@ var data = {
 			title: "Hooters Lucina 69 (Moursho)",
 			artist: "Moursho",
 			artist_url: "https://twitter.com/Moursho",
-			art_url: "",
-			desc: "",
+			art_url: null,
+			desc: "This is artwork of Hooters Lucina in the 69 position by Moursho! It turned out really well! She looks really cute, and the pinky out is a nice detail. She's fancy!",
 			date_str: "December 2021",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Jp36gBb.jpg", "https://i.imgur.com/BD8LsSf.jpg"],
+			thumbnail: "https://i.imgur.com/JVDRNry.jpg",
+			title: "Hooters Lucina (RadicalsLab)",
+			artist: "RadicalsLab",
+			artist_url: "https://twitter.com/RadicalsLab",
+			art_url: "https://twitter.com/RadicalsLab/status/1468762824633569283",
+			desc: "This is a Hooters Lucina by DrRadical (RadicalsLab on Twitter)! She's so pretty! I really like the sloshing beer, and I love the warm colors and lighting! It's so pleasant and nice!",
+			date_str: "December 2021",
+			tags: ["hooters"],
+			hidden: false
 		},
 		{
 			src: [""],
