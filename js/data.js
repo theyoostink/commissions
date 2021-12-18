@@ -787,6 +787,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/qpRCwxh.png"],
+			thumbnail: "https://i.imgur.com/EBOVPpc.jpg",
+			title: "Hooters Lucina (Jeureza/Aequorine)",
+			artist: "Jeureza (Aequorine)",
+			artist_url: "https://twitter.com/Aequorine",
+			art_url: "",
+			desc: "This is a Hooters Lucina by Jeureza (Aequorine on Twitter)! Lucina looks so pretty! I really love the colors and lighting. Her blue hair was drawn so well too! It turned out amazingly!",
+			date_str: "December 2021",
+			tags: ["hooters"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/NfEAbwi.jpg"],
+			thumbnail: "https://i.imgur.com/ceTdddd.jpg",
+			title: "Hooters Lucina (Kiora06)",
+			artist: "Kiora06",
+			artist_url: "https://twitter.com/Kiora06",
+			art_url: "https://twitter.com/Kiora06/status/1471936045491097604",
+			desc: "This is Kiora06's Hooters Lucina! It's awesome! I love Kiora06's Lucina art, and this turned out great. I really like the pose and the skirt. I also love the included details of the cuffs and belt which are from her regular uniform!",
+			date_str: "December 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
