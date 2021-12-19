@@ -812,7 +812,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/5gKM7aw.png"],
+			src: ["https://i.imgur.com/5gKM7aw.png", "https://i.imgur.com/OEw06tK.png"],
 			thumbnail: "https://i.imgur.com/5fRE4oF.jpg",
 			title: "Tea Party with Lissa and Lucina (RedKite59623438)",
 			artist: "RedKite59623438",
