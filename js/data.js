@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/LraH4m5.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -565,7 +565,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1450803527404568576' target='_blank'>Hooters Fjorm</a> (Gift request for YoshaTime)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1455135794151051267' target='_blank'>Lucina fighting a giant spider</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1458454513082269703' target='_blank'>F!Morgan stacking tomes</a> (Gift request for Exalted)<br/>
-			<a href='https://twitter.com/mnejing30/status/1464794100352229377' target='_blank'>Lucina in ASG Lumen's outfit</a> (Gift request for PhantomT)<br/>`,
+			<a href='https://twitter.com/mnejing30/status/1464794100352229377' target='_blank'>Lucina in ASG Lumen's outfit</a> (Gift request for PhantomT)<br/>
+			<a href='https://twitter.com/mnejing30/status/1472411991473983488' target='_blank'>Christmas Micaiah</a> (Gift request for Leaf)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -808,6 +809,18 @@ var data = {
 			desc: "This is Kiora06's Hooters Lucina! It's awesome! I love Kiora06's Lucina art, and this turned out great. I really like the pose and the skirt. I also love the included details of the cuffs and belt which are from her regular uniform!",
 			date_str: "December 2021",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/5gKM7aw.png"],
+			thumbnail: "https://i.imgur.com/5fRE4oF.jpg",
+			title: "Tea Party with Lissa and Lucina (RedKite59623438)",
+			artist: "RedKite59623438",
+			artist_url: "https://twitter.com/RedKite59623438",
+			art_url: "https://twitter.com/RedKite59623438/status/1472422463845797888",
+			desc: "As part of a gift exchange, I commissioned this piece for DarthMarth who is a Lissa fan. This artwork of a tea party with Lissa and Lucina was done wonderfully by the talented RedKite59623438! The aunt and niece pair don their fancy dresses to have a proper princess tea party. The details are amazing, and the art is so beautiful!",
+			date_str: "December 2021",
+			tags: [""],
 			hidden: false
 		},
 		{
