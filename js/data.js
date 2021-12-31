@@ -793,11 +793,11 @@ var data = {
 			title: "Hooters Lucina (Jeureza/Aequorine)",
 			artist: "Jeureza (Aequorine)",
 			artist_url: "https://twitter.com/Aequorine",
-			art_url: "",
+			art_url: null,
 			desc: "This is a Hooters Lucina by Jeureza (Aequorine on Twitter)! Lucina looks so pretty! I really love the colors and lighting. Her blue hair was drawn so well too! It turned out amazingly!",
 			date_str: "December 2021",
 			tags: ["hooters"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/NfEAbwi.jpg"],
@@ -818,9 +818,33 @@ var data = {
 			artist: "RedKite59623438",
 			artist_url: "https://twitter.com/RedKite59623438",
 			art_url: "https://twitter.com/RedKite59623438/status/1472422463845797888",
-			desc: "As part of a gift exchange, I commissioned this piece for DarthMarth who is a Lissa fan. This artwork of a tea party with Lissa and Lucina was done wonderfully by the talented RedKite59623438! The aunt and niece pair don their fancy dresses to have a proper princess tea party. The details are amazing, and the art is so beautiful!",
+			desc: "As part of a gift exchange, I commissioned this piece for DarthMarth who is a Lissa fan. This artwork of Lissa and Lucina was done wonderfully by the talented RedKite59623438! The aunt and niece pair don their fancy dresses to have a proper princess tea party. The details are amazing, and the art is so beautiful! The second image is the concept doodle I provided to the artist.",
 			date_str: "December 2021",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/lQi6evw.png"],
+			thumbnail: "https://imgur.com/a/ceoT11e",
+			title: "Hooters Lucina (sakuuremi)",
+			artist: "sakuuremi",
+			artist_url: "https://twitter.com/sakuuremi",
+			art_url: "https://twitter.com/sakuuremi/status/1472965658669293570",
+			desc: "This is Sakuremi's Hooters Lucina (sakuuremi on Twitter)! She looks very pretty! I love Sakuremi's style and seeing Lucina in it is really nice. I really like the lighting and shading and the big frothy mug of beer! Thank you!",
+			date_str: "December 2021",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/05N0fAD.png"],
+			thumbnail: "https://i.imgur.com/EGImJBv.jpg",
+			title: "Hooters Lucina (LambOic029)",
+			artist: "LambOic029",
+			artist_url: "https://twitter.com/LambOic029",
+			art_url: "https://skeb.jp/@LambOic029/works/201",
+			desc: "This is Lamb's Hooters Lucina (LambOic029 on Twitter)! She looks really pretty and also really cute! I like the bashful expression in this one. The colors are also pleasant and have some warmth to them. It's all really nice!",
+			date_str: "December 2021",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
