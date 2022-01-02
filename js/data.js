@@ -824,8 +824,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lQi6evw.png"],
-			thumbnail: "https://imgur.com/a/ceoT11e",
+			src: ["https://i.imgur.com/nwc1Cov.png"],
+			thumbnail: "https://i.imgur.com/f4Y0FL6.jpg",
 			title: "Hooters Lucina (sakuuremi)",
 			artist: "sakuuremi",
 			artist_url: "https://twitter.com/sakuuremi",
