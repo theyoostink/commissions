@@ -848,6 +848,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/DMP6LTO.jpg"],
+			thumbnail: "https://i.imgur.com/gKayKoO.jpg",
+			title: "Lucina in a Hurry (cremanata_art)",
+			artist: "cremanata_art",
+			artist_url: "https://twitter.com/cremanata_art",
+			art_url: null,
+			desc: "This is a commission done by the great cremanata (cremanata_art on Twitter)! Lucina is in a hurry, because she overslept and is running late to her father's strategy meeting. She grabbed a quick toast breakfast and is on the move! I absolutely adore the colors, and the expression on her face is perfect!",
+			date_str: "January 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/tZJespf.jpg"],
+			thumbnail: "https://i.imgur.com/n9zH8Mu.jpg",
+			title: "Lucina Drinking Chocolate Milk (AkaiRiot)",
+			artist: "AkaiRiot",
+			artist_url: "https://twitter.com/AkaiRiot",
+			art_url: "https://twitter.com/AkaiRiot/status/1478518544300187650",
+			desc: "This is commission I got from the one and only AkaiRiot! She's drinking chocolate milk, because she's epic! It's always so nice to see AkaiRiot's Lucina art, and this one is awesome!",
+			date_str: "January 2021",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
