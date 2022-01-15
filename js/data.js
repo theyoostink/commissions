@@ -926,7 +926,7 @@ var data = {
 			title: "Hooters Lucina (cleruuuuu)",
 			artist: "cleruuuuu",
 			artist_url: "https://twitter.com/cleruuuuu",
-			art_url: null,
+			art_url: "https://twitter.com/cleruuuuu/status/1482165061938397184",
 			desc: "This is a Hooters Lucina by cleru (cleruuuuu on Twitter)! There's a lot in here that I really like. The food looks really tasty, and the beer looks nice and refreshing. The background is so cute and creative. And the Feh and the orbs in the shirt's logo are always such nice little details. She looks so pretty, and it turned out really great!",
 			date_str: "January 2022",
 			tags: ["hooters"],
