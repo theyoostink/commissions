@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -566,7 +566,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1455135794151051267' target='_blank'>Lucina fighting a giant spider</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1458454513082269703' target='_blank'>F!Morgan stacking tomes</a> (Gift request for Exalted)<br/>
 			<a href='https://twitter.com/mnejing30/status/1464794100352229377' target='_blank'>Lucina in ASG Lumen's outfit</a> (Gift request for PhantomT)<br/>
-			<a href='https://twitter.com/mnejing30/status/1472411991473983488' target='_blank'>Christmas Micaiah</a> (Gift request for Leaf)<br/>`,
+			<a href='https://twitter.com/mnejing30/status/1472411991473983488' target='_blank'>Christmas Micaiah</a> (Gift request for Leaf)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1480737871581495297' target='_blank'>Hatsuyume Mitama</a> (Gift request for tyle)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -638,7 +639,7 @@ var data = {
 			artist: "AcrylicStroke",
 			artist_url: "https://twitter.com/AcrylicStroke",
 			art_url: "https://twitter.com/AcrylicStroke/status/1456635598463135755",
-			desc: "\"At the Intersection of Despair and Hope\": This is a joint commission I requested with Exalted! The artist AcrylicStroke did a wonderful job creating this artwork. The idea was to request a piece resembling a movie poster of Exalt Morgan and Fallen Morgan (Mo-Mo) facing each other and determined to battle while Lucina watches over and prays that hope may not die. We hope you enjoy the art, and please consider checking out the AcrylicStroke!",
+			desc: "\"At the Intersection of Despair and Hope\": This is a joint commission I requested with Exalted! The artist AcrylicStroke did a wonderful job creating this artwork. The idea was to request a piece resembling a movie poster of Exalt Morgan and Fallen Morgan (Mo-Mo) facing each other and determined to battle while Lucina watches over and prays that hope may not die. We hope you enjoy the art, and please consider checking out AcrylicStroke!",
 			date_str: "November 2021",
 			tags: [""],
 			hidden: false
@@ -869,6 +870,66 @@ var data = {
 			desc: "This is commission I got from the one and only AkaiRiot! She's drinking chocolate milk, because she's epic! It's always so nice to see AkaiRiot's Lucina art, and this one is awesome!",
 			date_str: "January 2021",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/KtLfcyn.jpg", "https://i.imgur.com/Xpnb80h.jpg", "https://i.imgur.com/Iwa188D.jpg", "https://i.imgur.com/FJ142ct.jpg", "https://i.imgur.com/8sqA9HX.jpg", "https://i.imgur.com/qrICDSY.jpg", "https://i.imgur.com/VGYikAW.jpg", "https://i.imgur.com/j6DdFyh.jpg"],
+			thumbnail: "https://i.imgur.com/XLdTpDZ.jpg",
+			title: "Modern Lucina Sex (amezooooon)",
+			artist: "amezooooon",
+			artist_url: "https://twitter.com/amezooooon",
+			art_url: "https://twitter.com/amezooooon/status/1479095133421600769",
+			desc: "This is a commission that was done by amezooooon! It's Lucina in her modern outfit design by Kozaki. I really love the detail in her clothes and the \"texture\" of it. The smuggish expression is really cute too!",
+			date_str: "January 2022",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/kdXAcNU.jpg", "https://i.imgur.com/1EFSqGO.jpg", "https://i.imgur.com/5umtrDx.jpg", "https://i.imgur.com/5rkUgd1.jpg", "https://i.imgur.com/L8DA8kn.jpg", "https://i.imgur.com/t1zw6nZ.jpg"],
+			thumbnail: "https://i.imgur.com/zBYpqyg.jpg",
+			title: "Lucina and Robin Choose Sex over the Strategy Meeting (OathCradle)",
+			artist: "OathCradle",
+			artist_url: "https://twitter.com/OathCradle",
+			art_url: "https://skeb.jp/@OathCradle/works/42",
+			desc: "This is a commission done by OathCradle! It comes with multiple variants as a timeline of events. Lucina and Robin are having sex, but they are going to be late to Chrom's strategy meeting. In the end, they decide to continue having sex and skip the meeting.",
+			date_str: "January 2022",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/vXbLRaU.jpg"],
+			thumbnail: "https://i.imgur.com/QtVQT1d.jpg",
+			title: "Hooters Lucina (Evomanaphy)",
+			artist: "Evomanaphy",
+			artist_url: "https://twitter.com/Evomanaphy",
+			art_url: "https://twitter.com/Evomanaphy/status/1481492488300937216",
+			desc: "This is Evomanaphy's Hooters Lucina! It turned out amazingly! The lighting and shading and colors give this piece a really nice warm and bright tone. Her smile and wink are also really cute and pretty! It's all wonderful!",
+			date_str: "January 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/s3Htiev.jpg", "https://i.imgur.com/n5Z8h8x.jpg", "https://i.imgur.com/M8EQ1Mf.jpg", "https://i.imgur.com/vaCo2yB.jpg", "https://i.imgur.com/oUaQXz3.jpg"],
+			thumbnail: "https://i.imgur.com/0meqoL3.jpg",
+			title: "Hooters Lucina Sex (Saikunn)",
+			artist: "Saikunn",
+			artist_url: "https://twitter.com/saikunn_nsfw",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina having sex made by Saikunn! She looks really pretty! I think the best part is the expressions on her face. The heart eyes were actually Saikunn's suggestion, and I really like the idea! This was done amazingly well!",
+			date_str: "January 2022",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/bZYoR4e.png"],
+			thumbnail: "https://i.imgur.com/GHo4MQ5.jpg",
+			title: "Hooters Lucina (cleruuuuu)",
+			artist: "cleruuuuu",
+			artist_url: "https://twitter.com/cleruuuuu",
+			art_url: null,
+			desc: "This is a Hooters Lucina by cleru (cleruuuuu on Twitter)! There's a lot in here that I really like. The food looks really tasty, and the beer looks nice and refreshing. The background is so cute and creative. And the Feh and the orbs in the shirt's logo are always such nice little details. She looks so pretty, and it turned out really great!",
+			date_str: "January 2022",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
