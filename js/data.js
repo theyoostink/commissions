@@ -867,7 +867,7 @@ var data = {
 			artist: "AkaiRiot",
 			artist_url: "https://twitter.com/AkaiRiot",
 			art_url: "https://twitter.com/AkaiRiot/status/1478518544300187650",
-			desc: "This is commission I got from the one and only AkaiRiot! She's drinking chocolate milk, because she's epic! It's always so nice to see AkaiRiot's Lucina art, and this one is awesome!",
+			desc: "This is a commission I got from the one and only AkaiRiot! She's drinking chocolate milk, because she's epic! It's always so nice to see AkaiRiot's Lucina art, and this one is awesome!",
 			date_str: "January 2021",
 			tags: [""],
 			hidden: false
