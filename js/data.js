@@ -933,6 +933,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/rG7TLkJ.jpg"],
+			thumbnail: "https://i.imgur.com/TMAinop.jpg",
+			title: "Hooters Lucina (huro_at)",
+			artist: "huro_at",
+			artist_url: "https://twitter.com/huro_at",
+			art_url: "https://twitter.com/huro_at/status/1485054675258941443",
+			desc: "This is a Hooters Lucina by huro_at! She looks so pretty! Lucina is working hard and diligently, and her smile is so nice and bright. It's all so wonderful!",
+			date_str: "January 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
