@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -567,7 +567,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1458454513082269703' target='_blank'>F!Morgan stacking tomes</a> (Gift request for Exalted)<br/>
 			<a href='https://twitter.com/mnejing30/status/1464794100352229377' target='_blank'>Lucina in ASG Lumen's outfit</a> (Gift request for PhantomT)<br/>
 			<a href='https://twitter.com/mnejing30/status/1472411991473983488' target='_blank'>Christmas Micaiah</a> (Gift request for Leaf)<br/>
-			<a href='https://twitter.com/Mnejing30/status/1480737871581495297' target='_blank'>Hatsuyume Mitama</a> (Gift request for tyle)<br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1480737871581495297' target='_blank'>Hatsuyume Mitama</a> (Gift request for tyle)<br/>
+			<a href='https://twitter.com/mnejing30/status/1490052934180098048' target='_blank'>Lucina at a Mets game</a> (Gift request for Mifi)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -965,6 +966,42 @@ var data = {
 			art_url: null,
 			desc: "This is a Hooters Lucina by an artist who wished to be anonymous! She's so cute! I like the energy of this piece: the movement of the food, Lucina's dynamic pose, and the sense of busyness on her face. It's wonderfully done!",
 			date_str: "January 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Fk16WsF.png", "https://i.imgur.com/yxti6Tt.png"],
+			thumbnail: "https://i.imgur.com/pHdAgvb.jpg",
+			title: "Hooters Lucina (Kaos_ArtGX)",
+			artist: "Kaos_ArtGX",
+			artist_url: "https://twitter.com/Kaos_ArtGX",
+			art_url: "https://twitter.com/Kaos_ArtGX/status/1490104462559559685",
+			desc: "This is a Hooters Lucina by Kaos (Kaos_ArtGX on Twitter)! It was really well done, and she looks so pretty! Lucina's smile brightens up the room as she serves up some tasty-looking beer and wings. It was great working with the artist especially since they're also a fan of the series. It's all so wonderful!",
+			date_str: "February 2022",
+			tags: ["hooters", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/JuihDua.png"],
+			thumbnail: "https://i.imgur.com/rfqJvKW.jpg",
+			title: "Hooters Lucina (ScruffyTurtles)",
+			artist: "ScruffyTurtles",
+			artist_url: "https://twitter.com/ScruffyTurtles",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ScruffyTurtles! This is absolutely gorgeous! The colors are so vibrant, and Lucina's smile is just as brilliant. Lucina is really pretty in this artwork! It was a great opportunity to commission the great Scruffy as well.",
+			date_str: "February 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/6qtdLsk.jpg", "https://i.imgur.com/rbOb8wP.jpg"],
+			thumbnail: "https://i.imgur.com/tC14YbA.jpg",
+			title: "Saving Up for Brave Chrom (shugo)",
+			artist: "shugo",
+			artist_url: "https://twitter.com/hiomaika",
+			art_url: null,
+			desc: "This is a joint commission with 6 people done so wonderfully by shugo! Hooters Lucina and Robin are waiting on Leonie, Ophelia, Lissa, and Noire. Leonie is getting ready to dig into her meal. Ophelia is already munching on some chicken. Lissa is calling out to her niece. Noire is looking through the menu. Lucina and Robin are working hard to save up for Brave Chrom after he won the 2022 Choose Your Legends event. It was great working with shugo as well as all the other commissioners in this joint piece. shugo did a superb job and all their suggestions were creative and just perfect. AMAZING!",
+			date_str: "February 2022",
 			tags: ["hooters"],
 			hidden: false
 		},
