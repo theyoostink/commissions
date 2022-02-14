@@ -987,7 +987,7 @@ var data = {
 			title: "Hooters Lucina (ScruffyTurtles)",
 			artist: "ScruffyTurtles",
 			artist_url: "https://twitter.com/ScruffyTurtles",
-			art_url: null,
+			art_url: "https://twitter.com/ScruffyTurtles/status/1492101366310785025",
 			desc: "This is a Hooters Lucina by ScruffyTurtles! This is absolutely gorgeous! The colors are so vibrant, and Lucina's smile is just as brilliant. Lucina is really pretty in this artwork! It was a great opportunity to commission the great Scruffy as well.",
 			date_str: "February 2022",
 			tags: ["hooters"],
@@ -1003,6 +1003,18 @@ var data = {
 			desc: "This is a joint commission with 6 people done so wonderfully by shugo! Hooters Lucina and Robin are waiting on Leonie, Ophelia, Lissa, and Noire. Leonie is getting ready to dig into her meal. Ophelia is already munching on some chicken. Lissa is calling out to her niece. Noire is looking through the menu. Lucina and Robin are working hard to save up for Brave Chrom after he won the 2022 Choose Your Legends event. It was great working with shugo as well as all the other commissioners in this joint piece. shugo did a superb job and all their suggestions were creative and just perfect. AMAZING!",
 			date_str: "February 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/HTDmChl.png", "https://i.imgur.com/KCNYAOm.jpg", "https://i.imgur.com/QpnBuek.jpg", "https://i.imgur.com/3EQ73I8.jpg"],
+			thumbnail: "https://i.imgur.com/RT6LsCF.jpg",
+			title: "Lucina is Your Valentine's Day Gift (keiz_0120)",
+			artist: "keiz_0120",
+			artist_url: "https://twitter.com/keiz_0120",
+			art_url: "https://twitter.com/keiz_0120/status/1493139592332988418",
+			desc: "This is a Valentine's Day commission of Lucina done by keiz_0120! It turned out amazingly! Lucina in red ribbons looks so cute and pretty! She's a really beautiful Valentine's gift! There are a few variants of this as well with different expressions and actions that you can find in their <a href='https://www.pixiv.net/artworks/96245317'>pixiv post</a>.",
+			date_str: "February 2022",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
