@@ -1018,6 +1018,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/HF3kN6p.jpg"],
+			thumbnail: "https://i.imgur.com/zL0NfRQ.jpg",
+			title: "Hooters Lucina (SEBU_illust)",
+			artist: "SEBU_illust",
+			artist_url: "https://twitter.com/sebu_illust",
+			art_url: "https://twitter.com/sebu_illust/status/1493770444029444096",
+			desc: "This is a Hooters Lucina by SEBU (SEBU_illust on Twitter)! Lucina is super pretty and cute in this! I love the colors, lighting, shading, and the delicious-looking food and drinks. I also love Lucina's smile! It's wonderfully done!",
+			date_str: "February 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/CGnOA7N.png"],
+			thumbnail: "https://i.imgur.com/E8H2AuM.jpg",
+			title: "Hooters Lucina (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://twitter.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Hayato_Stuff! She's very cute and pretty! I love her expression - it's very fun, and the rendering of the hair is really nice! It turned out amazingly!",
+			date_str: "February 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/USerhWJ.jpg"],
+			thumbnail: "https://i.imgur.com/FvNEhen.jpg",
+			title: "Little Lucina and Aunt Lissa Reading Together (kakiko228)",
+			artist: "kakiko228",
+			artist_url: "https://twitter.com/kakiko228",
+			art_url: "https://twitter.com/kakiko228/status/1495036724522917902",
+			desc: "This is a commission of young Lucina and Aunt Lissa reading together done so wonderfully by kakiko228! In the castle's royal library, Aunt Lissa is reading aloud Lucina's favorite book about a bear and a frog who become best friends. Lissa's enthusiastic reading makes Lucina's day so much brighter! This was a gift commission for DarthMarth for making an emote.",
+			date_str: "February 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/GrtSlNr.gif", "https://i.imgur.com/06Dy7Xj.gif"],
+			thumbnail: "https://i.imgur.com/kxCQ1wQ.png",
+			title: "Lucina Helltaker Animation",
+			artist: "atelier951",
+			artist_url: "https://twitter.com/atelier951",
+			art_url: "https://twitter.com/atelier951/status/1495196257224122368",
+			desc: "This is a Lucina Helltaker animation by atelier951! It turned out super cute! I love her adorable smile and the details in her clothes and branded eye. There is also a Masked Marth version as well.",
+			date_str: "February 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
