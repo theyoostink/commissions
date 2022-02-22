@@ -382,7 +382,7 @@ var data = {
 			desc: "I really like the outfit design for this: the tied-up shirt, the cute visor, and the orange socks. It turned out really cute, and it has a really refreshing quality about it!",
 			date_str: "August 2021",
 			tags: ["hooters"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/HwvGRJk.png"],
@@ -418,7 +418,7 @@ var data = {
 			desc: "This is Mari's Hooters Lucina artwork! I'm stunned by how beautiful this is. Lucina looks so pretty and so cute here! I love the bright and warm colors and, of course, Lucina's smile. It's all so lovely!",
 			date_str: "August 2021",
 			tags: ["hooters"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/kbpAZ1W.png"],
@@ -883,7 +883,7 @@ var data = {
 			desc: "This is a commission that was done by amezooooon! It's Lucina in her modern outfit design by Kozaki. I really love the detail in her clothes and the \"texture\" of it. The smuggish expression is really cute too!",
 			date_str: "January 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/kdXAcNU.jpg", "https://i.imgur.com/1EFSqGO.jpg", "https://i.imgur.com/5umtrDx.jpg", "https://i.imgur.com/5rkUgd1.jpg", "https://i.imgur.com/L8DA8kn.jpg", "https://i.imgur.com/t1zw6nZ.jpg"],
@@ -891,11 +891,11 @@ var data = {
 			title: "Lucina and Robin Choose Sex over the Strategy Meeting (OathCradle)",
 			artist: "OathCradle",
 			artist_url: "https://twitter.com/OathCradle",
-			art_url: "https://skeb.jp/@OathCradle/works/42",
+			art_url: "https://twitter.com/OathCradle/status/1495396570585387009",
 			desc: "This is a commission done by OathCradle! It comes with multiple variants as a timeline of events. Lucina and Robin are having sex, but they are going to be late to Chrom's strategy meeting. In the end, they decide to continue having sex and skip the meeting.",
 			date_str: "January 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/vXbLRaU.jpg"],
@@ -979,7 +979,7 @@ var data = {
 			desc: "This is a Hooters Lucina by Kaos (Kaos_ArtGX on Twitter)! It was really well done, and she looks so pretty! Lucina's smile brightens up the room as she serves up some tasty-looking beer and wings. It was great working with the artist especially since they're also a fan of the series. It's all so wonderful!",
 			date_str: "February 2022",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/JuihDua.png"],
@@ -1060,9 +1060,21 @@ var data = {
 			artist: "atelier951",
 			artist_url: "https://twitter.com/atelier951",
 			art_url: "https://twitter.com/atelier951/status/1495196257224122368",
-			desc: "This is a Lucina Helltaker animation by atelier951! It turned out super cute! I love her adorable smile and the details in her clothes and branded eye. There is also a Masked Marth version as well.",
+			desc: "This is a Lucina Helltaker animation by atelier951! It turned out super cute! I love her adorable smile and the details in her clothes and branded eye. There is also a Masked Marth version as well <a href='https://twitter.com/atelier951/status/1495196005628796932'>here</a>.",
 			date_str: "February 2022",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/L44SDht.jpg"],
+			thumbnail: "https://i.imgur.com/jZxMoFG.jpg",
+			title: "Hooters Lucina (atma909)",
+			artist: "atma909",
+			artist_url: "https://twitter.com/atma909",
+			art_url: "https://twitter.com/atma909/status/1495478733079293954",
+			desc: "This is a Hooters Lucina by atma909! I really love the design that atma came up with. It's a combination of Lucina's regular outfit, the Hooters outfit, and an airplane attendant outfit. The airplane attendant inspiration is a reference to the now defunct Hooters Air airline. I also always love seeing Feh in the logo, and I love the soaring Feh in the background. This piece has a lot of details and creativity packed into it! It's awesome!",
+			date_str: "February 2022",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
