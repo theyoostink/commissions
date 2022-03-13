@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -568,7 +568,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1464794100352229377' target='_blank'>Lucina in ASG Lumen's outfit</a> (Gift request for PhantomT)<br/>
 			<a href='https://twitter.com/mnejing30/status/1472411991473983488' target='_blank'>Christmas Micaiah</a> (Gift request for Leaf)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1480737871581495297' target='_blank'>Hatsuyume Mitama</a> (Gift request for tyle)<br/>
-			<a href='https://twitter.com/mnejing30/status/1490052934180098048' target='_blank'>Lucina at a Mets game</a> (Gift request for Mifi)<br/>`,
+			<a href='https://twitter.com/mnejing30/status/1490052934180098048' target='_blank'>Lucina at a Mets game</a> (Gift request for Mifi)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1501549016164999171' target='_blank'>Igrene Bunshin no Jutsu</a> (Gift request for igrenefor)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1035,7 +1036,7 @@ var data = {
 			title: "Hooters Lucina (Hayato_Stuff)",
 			artist: "Hayato_Stuff",
 			artist_url: "https://twitter.com/Hayato_Stuff",
-			art_url: null,
+			art_url: "https://twitter.com/Hayato_Stuff/status/1501634564044689408",
 			desc: "This is a Hooters Lucina by Hayato_Stuff! She's very cute and pretty! I love her expression - it's very fun, and the rendering of the hair is really nice! It turned out amazingly!",
 			date_str: "February 2022",
 			tags: ["hooters"],
@@ -1054,13 +1055,13 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/GrtSlNr.gif", "https://i.imgur.com/06Dy7Xj.gif"],
+			src: ["https://i.imgur.com/GrtSlNr.gif", "https://i.imgur.com/06Dy7Xj.gif", "https://i.imgur.com/XpuBvRI.gif"],
 			thumbnail: "https://i.imgur.com/kxCQ1wQ.png",
 			title: "Lucina Helltaker Animation",
 			artist: "atelier951",
 			artist_url: "https://twitter.com/atelier951",
 			art_url: "https://twitter.com/atelier951/status/1495196257224122368",
-			desc: "This is a Lucina Helltaker animation by atelier951! It turned out super cute! I love her adorable smile and the details in her clothes and branded eye. There is also a Masked Marth version as well <a href='https://twitter.com/atelier951/status/1495196005628796932'>here</a>.",
+			desc: "This is a Lucina Helltaker animation by atelier951! It turned out super cute! I love her adorable smile and the details in her clothes and branded eye. There is also a Masked Marth version <a href='https://twitter.com/atelier951/status/1495196005628796932'>here</a> and a Hooters version <a href='https://twitter.com/atelier951/status/1498140022092009476'>here</a>.",
 			date_str: "February 2022",
 			tags: [""],
 			hidden: false
@@ -1075,6 +1076,78 @@ var data = {
 			desc: "This is a Hooters Lucina by atma909! I really love the design that atma came up with. It's a combination of Lucina's regular outfit, the Hooters outfit, and an airplane attendant outfit. The airplane attendant inspiration is a reference to the now defunct Hooters Air airline. I also always love seeing Feh in the logo, and I love the soaring Feh in the background. This piece has a lot of details and creativity packed into it! It's awesome!",
 			date_str: "February 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/H0tUX2Q.jpg", "https://i.imgur.com/3KTEz9B.jpg", "https://i.imgur.com/u20NqnU.jpg", "https://i.imgur.com/oOtCG6F.jpg", "https://i.imgur.com/mmQRswy.jpg", "https://i.imgur.com/k2ILZE2.jpg", "https://i.imgur.com/xOMA1pL.jpg", "https://i.imgur.com/7uDCoZn.jpg", "https://i.imgur.com/UGnKJyu.jpg", "https://i.imgur.com/rypVdBC.jpg", "https://i.imgur.com/RQCGF1q.jpg", "https://i.imgur.com/5oCPUlJ.jpg", "https://i.imgur.com/3FptX9C.jpg", "https://i.imgur.com/5Lbl7iO.jpg", "https://i.imgur.com/9knD8y4.jpg"],
+			thumbnail: "https://i.imgur.com/fsoGxY5.jpg",
+			title: "Lucina and Robin Getting Cozy (ExaltedBrandAO3)",
+			artist: "ExaltedBrandAO3",
+			artist_url: "https://twitter.com/ExaltedBrandAO3",
+			art_url: "https://twitter.com/ExaltedBrandAO3/status/1496187675916787714",
+			desc: "This is my first 3D commission, and it was done by the talented ExaltedBrand (ExaltedBrandAO3 on Twitter)! After dinner, Lucina and Robin strip down, get cozy in bed, and begin their night of intimacy with some foreplay. I love all the angles ExaltedBrand included in this set and how they captured the mood and lighting of Lucina's and Robin's romantic evening. It turned out amazingly, and it was great working with the artist!",
+			date_str: "February 2022",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/by3XNu1.jpg"],
+			thumbnail: "https://i.imgur.com/GBmmNnQ.jpg",
+			title: "Hooters Lucina (IRIA_splash)",
+			artist: "IRIA_splash",
+			artist_url: "https://twitter.com/IRIA_splash",
+			art_url: null,
+			desc: "This is a Hooters Lucina by IRIA (IRIA_splash on Twitter)! She is so magnificently pretty! IRIA did an amazing job! I really love the lighting, shading, and colors. It's nice and bright, and the food detail is great!",
+			date_str: "February 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/SEwdqp7.jpg"],
+			thumbnail: "https://i.imgur.com/xNXuBES.jpg",
+			title: "Lucina Celebrating Aunt Lissa's Birthday (Min_Jeungi)",
+			artist: "Min_Jeungi",
+			artist_url: "https://twitter.com/Min_Jeungi",
+			art_url: "https://twitter.com/Min_Jeungi/status/1500456261850124291",
+			desc: "This is a joint commission with DarthMarth and an Ophelia fan done by Jeungi (Min_Jeungi on Twitter)! Here, Lissa is celebrating her birthday with her family who each brought gifts for their mother, grandmother, wife, aunt, and sister respectively. One of the gifts has a surprise!",
+			date_str: "March 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/g2TeIIE.png"],
+			thumbnail: "https://i.imgur.com/3C2RTjL.jpg",
+			title: "Lucina and Robin Getting Intimate (Ebinkuu)",
+			artist: "Ebinkuu",
+			artist_url: "https://www.pixiv.net/users/78716022",
+			art_url: null,
+			desc: "This is a wonderful sketch commission done by Ebinkuu! After getting cozy together, Lucina and Robin start getting intimate. A long full night of pleasure awaits this couple. I love how the artist presented this romantic scene and the sensual mood.",
+			date_str: "March 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/dZmzBl4.jpg"],
+			thumbnail: "https://i.imgur.com/Ze3J1So.jpg",
+			title: "Lucina and Lissa: Valentine's Flower Girls (Yog09_)",
+			artist: "Yog09_",
+			artist_url: "https://twitter.com/Yog09_",
+			art_url: "https://twitter.com/Yog09_/status/1501213460847288326",
+			desc: "This is a joint commission I did with DarthMarth done by Yog09_! It's an art piece for Lissa's birthday depicting a scene of an aunt and a niece bonding while picking some flowers for Valentine's Day. I wonder who those flowers are for?",
+			date_str: "March 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/vnosdK9.jpg"],
+			thumbnail: "https://i.imgur.com/8cFaaAE.jpg",
+			title: "Lucina's Nuptial Future (adricarraART)",
+			artist: "adricarraART",
+			artist_url: "https://twitter.com/adricarraART",
+			art_url: "https://twitter.com/adricarraART/status/1501221082157752324",
+			desc: "This is a beautiful commission done so wonderfully by adricarraART! The bride-to-be Lucina gets a glimpse into her future as she goes window shopping for a wedding dress. The artist did an amazing job capturing and depicting the idea I had in mind! It turned out to be one of my favorite commissions!",
+			date_str: "March 2022",
+			tags: [""],
 			hidden: false
 		},
 		{
