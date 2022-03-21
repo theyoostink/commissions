@@ -1175,6 +1175,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/Svg9Q6x.jpg", "https://i.imgur.com/hzBimEA.jpg", "https://i.imgur.com/If9aGRq.jpg", "https://i.imgur.com/T3qX0qw.jpg", "https://i.imgur.com/EacK1uM.jpg", "https://i.imgur.com/Fb5i4ml.jpg", "https://i.imgur.com/TtwqlBV.jpg", "https://i.imgur.com/kCb11fm.jpg", "https://i.imgur.com/obDn4CL.jpg", "https://i.imgur.com/f1Juoup.jpg"],
+			thumbnail: "https://i.imgur.com/QwmuIzl.jpg",
+			title: "Hooters Lucina (ExaltedBrandAO3)",
+			artist: "ExaltedBrandAO3",
+			artist_url: "https://twitter.com/ExaltedBrandAO3",
+			art_url: "https://twitter.com/ExaltedBrandAO3/status/1505641479783526405",
+			desc: "",
+			date_str: "March 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
