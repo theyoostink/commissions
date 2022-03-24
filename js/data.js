@@ -1181,7 +1181,19 @@ var data = {
 			artist: "ExaltedBrandAO3",
 			artist_url: "https://twitter.com/ExaltedBrandAO3",
 			art_url: "https://twitter.com/ExaltedBrandAO3/status/1505641479783526405",
-			desc: "",
+			desc: "This is a 3D Hooters Lucina by ExaltedBrand (ExaltedBrandAO3 on Twitter)! This is a unique one in that it's a 3D model. ExaltedBrand did a great job on this with the environment, lighting, posing, and edits. Lucina looks very pretty and cute in this! You can check out the album linked in the art source for all of the angles.",
+			date_str: "March 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/xzXI9er.jpg"],
+			thumbnail: "https://i.imgur.com/0tkPZLf.jpg",
+			title: "Hooters Lucina (Icoochu)",
+			artist: "Icoochu",
+			artist_url: "https://twitter.com/Icoochu",
+			art_url: "https://twitter.com/Icoochu/status/1506330078749335555",
+			desc: "This is a Hooters Lucina by Icoochu! She looks super cute and pretty here! I really like the detail, shading, and coloring in the tasy-looking wings and the big mugs of frothy beer. A smile on Lucina's face is also the best as always!",
 			date_str: "March 2022",
 			tags: ["hooters"],
 			hidden: false
