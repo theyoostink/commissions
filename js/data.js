@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -569,7 +569,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1472411991473983488' target='_blank'>Christmas Micaiah</a> (Gift request for Leaf)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1480737871581495297' target='_blank'>Hatsuyume Mitama</a> (Gift request for tyle)<br/>
 			<a href='https://twitter.com/mnejing30/status/1490052934180098048' target='_blank'>Lucina at a Mets game</a> (Gift request for Mifi)<br/>
-			<a href='https://twitter.com/Mnejing30/status/1501549016164999171' target='_blank'>Igrene Bunshin no Jutsu</a> (Gift request for igrenefor)<br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1501549016164999171' target='_blank'>Igrene Bunshin no Jutsu</a> (Gift request for igrenefor)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1511165074127613952' target='_blank'>Lucina wearing Eula's outfit</a> (Gift request for FATE)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1245,6 +1246,54 @@ var data = {
 			date_str: "March 2022",
 			tags: ["hooters"],
 			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Hdh96PD.jpg"],
+			thumbnail: "https://i.imgur.com/xsORUTQ.jpg",
+			title: "Hooters Lucina (sajittari)",
+			artist: "sajittari",
+			artist_url: "https://twitter.com/sajittari",
+			art_url: null,
+			desc: "This is a Hooters Lucina by sajittari! She looks really pretty! The background and lighting are gorgeous! I really like the dutch angle too. A smile on Lucina's face is great, but a slight scowl is nice change of pace and refreshing to see. I also want to thank a commissioner friend for recommending sajittari to me.",
+			date_str: "March 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/kiDUf2y.png"],
+			thumbnail: "https://i.imgur.com/Lxtztdt.jpg",
+			title: "Walhart Goes to Hooters ft. Pheros and Lucina (Anonymous Artist)",
+			artist: "Anonymous Artist",
+			artist_url: null,
+			art_url: null,
+			desc: "Walhart goes to Hooters. What will he order? It's a good thing that there are at least a few vegetarian options for him on the menu. This was done by the anonymous artist who did the very first Hooters Lucina commission for me years ago. It turned out amazingly, and I absolutely adore it. Hooters Lucina started as an inside joke between me and the artist (my friend) a few years ago. Now, I hope it's a joke that we can all share and laugh at together. The Lucina Fan Club Discord server also switched to a Pheros Fan Club server for April Fool's Day 2022, which is why Hooters Pheros is included in this artwork. Happy April Fool's Day!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/mSqS6jX.jpg"],
+			thumbnail: "https://i.imgur.com/DifhpIO.jpg",
+			title: "Hooters Lucina (navigavi)",
+			artist: "navigavi",
+			artist_url: "https://twitter.com/navigavi",
+			art_url: "https://twitter.com/navigavi/status/1510614566375653378",
+			desc: "This is a Hooters Lucina by navigavi! I had the opportunity to commission the great navigavi, and it turned out amazingly! Lucina enjoys a big yummy burger during her break with some chicken and beer on the side. Her smile is adorable too. She's so lovely when she's happy!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/QYZ0AFm.png", "https://i.imgur.com/YfV6HJR.png", "https://i.imgur.com/UZOmwOs.png", "https://i.imgur.com/OAl20Vm.png", "https://i.imgur.com/rLzZqEz.png", "https://i.imgur.com/d7lfHge.png"],
+			thumbnail: "https://i.imgur.com/RmnX3h1.jpg",
+			title: "Bunny Lucina's Nursing Handjob (blade_ride)",
+			artist: "blade_ride",
+			artist_url: "https://twitter.com/blade_ride",
+			art_url: "https://twitter.com/blade_ride/status/1511364670182998016",
+			desc: "This is a commission of Bunny Lucina giving Robin a nursing handjob done by blade_ride! Lucina lovingly strokes Robin's penis as he sucks on her breast. This happy couple is enjoying their time with each other and releasing their springtime lust. Spring has sprung!",
+			date_str: "April 2022",
+			tags: ["nsfw"],
+			hidden: true
 		},
 		{
 			src: [""],
