@@ -1296,6 +1296,54 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://i.imgur.com/Al25QTn.jpg"],
+			thumbnail: "https://i.imgur.com/WCyOGwB.jpg",
+			title: "Hooters Lucina (etchimune)",
+			artist: "etchimune",
+			artist_url: "https://twitter.com/etchimune",
+			art_url: "https://twitter.com/etchimune/status/1512104161269071875",
+			desc: "This is a Hooters Lucina by etchimune! I absolutely love the colors and brightness in this. Her pretty smile is just as bright too! I also love the rendering in the hair - it looks nice and glossy. I love when Lucina is happy, and she is super pretty and cute here!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/COaEpjZ.jpg"],
+			thumbnail: "https://i.imgur.com/r4kvxLn.jpg",
+			title: "Morgan's Feast ft. Lucina (Mari48240422)",
+			artist: "Mari48240422",
+			artist_url: "https://twitter.com/Mari48240422",
+			art_url: "https://twitter.com/Mari48240422/status/1514376585247264769",
+			desc: "This is a joint commmission I did with Exalted done by SeaSunSmasher (Mari48240422 on Twitter)! Morgan takes advantage of her mother's employee discount but goes a little too far. Will Lucina's wallet recover? The detail in the food and all the little background pieces are absolutely amazing! It was great working with the artist on this, and I'm glad to hear that they had a blast working on this. This artwork is truly spectacular and wonderful!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/3iuEubD.jpg", "https://i.imgur.com/qryM4oy.png"],
+			thumbnail: "https://i.imgur.com/VcQAYkC.jpg",
+			title: "Zero Suit Florina, Lissa, Lucina, and Mitama (jarckius_art)",
+			artist: "jarckius_art",
+			artist_url: "https://twitter.com/jarckius_art",
+			art_url: "https://twitter.com/jarckius_art/status/1515763198863065100",
+			desc: "This is a joint commission with DarthMarth and tyle done by jarckius_art! Lissa, Lucina, and Mitama dropped or lost their blasters, and they needed Florina to take on Metroid larva. Jarckius did a great job working on this big piece and drew each expression of fear and determination so nicely.",
+			date_str: "April 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/7j7RDq2.jpg", "https://i.imgur.com/71BE3iw.jpg"],
+			thumbnail: "https://i.imgur.com/XucF4Ku.jpg",
+			title: "Lucina's Onsen Mishap (oic_oco)",
+			artist: "oic_oco",
+			artist_url: "https://twitter.com/oic_oco",
+			art_url: "https://twitter.com/oic_oco/status/1516054159895969806",
+			desc: "This is a commission by oic_oco! After a nice relaxing onsen bath, a satisfied Lucina takes a nice long drink from a bottle of milk. Unfortunately, her towel slips revealing her nude body underneath. In her moment of panic, a now embarrassed Lucina spills some of the milk.",
+			date_str: "April 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
