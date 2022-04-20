@@ -1344,6 +1344,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/edf8YrR.jpg", "https://i.imgur.com/DfSNUfR.jpg", "https://i.imgur.com/GEvup5L.jpg", "https://i.imgur.com/jGKeupR.jpg", "https://i.imgur.com/MYWdmKP.png", "https://i.imgur.com/x2VmMsX.jpg", "https://i.imgur.com/izq6t18.jpg", "https://i.imgur.com/5ex1KFE.jpg", "https://i.imgur.com/u9JQTKY.jpg", "https://i.imgur.com/7v4Gi91.jpg", "https://i.imgur.com/scWiUKo.jpg", "https://i.imgur.com/tWeyAk6.jpg"],
+			thumbnail: "https://i.imgur.com/LUqVcgo.jpg",
+			title: "Plegian Dancer Lucina Sex (Lainart1)",
+			artist: "Lainart1",
+			artist_url: "https://twitter.com/Lainart1",
+			art_url: "https://twitter.com/Lainart1/status/1516247413689880580",
+			desc: "This is a commission of Lucina in the Plegian dancer outfit by Lainart1! Lucina dons the erotic Plegian dancer outfit and gives the man a sensual buttjob. The aroused man then fucks and inseminates Lucina. Lucina looks really pretty in the outfit, and I like how the outfit matches her usual blue and gold outfit color scheme! It was great working with Lainart on this especially since they draw the Plegian dancer outfits so well.",
+			date_str: "April 2022",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
