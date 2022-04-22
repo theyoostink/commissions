@@ -1229,7 +1229,7 @@ var data = {
 			title: "Hooters Lucina (Kshatriya_666_)",
 			artist: "Kshatriya_666_",
 			artist_url: "https://twitter.com/Kshatriya_666_",
-			art_url: "",
+			art_url: "https://twitter.com/Kshatriya_666_/status/1509333011245854722",
 			desc: "This is a Hooters Lucina by Kshatriya_666_! I love the retro anime design of it - it's nostalgic and pleasing to look at. She looks really pretty and cute! Can you guess which 90s anime this artwork references?",
 			date_str: "March 2022",
 			tags: ["hooters"],

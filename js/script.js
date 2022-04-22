@@ -29,6 +29,9 @@ $(document).ready(function() {
 		$(".hidden-image").hide();
 		updateImageCountLabel();
 	});
+
+	// Handle closing the modal when the back button is clicked
+	backButtonHideModal();
 });
 
 // Create the gallery image modal description section
@@ -269,5 +272,32 @@ function enableImageSeriesLinks() {
 				series_link_clicked = false;
 			}
 		});
+	});
+}
+
+// When a modal is opened, the URL is updated so that when the back button is clicked, the modal is closed.
+function backButtonHideModal() {
+	// When the modal is opened, update the URL
+	$("#imageModal").on("show.bs.modal", function(e) {
+		window.location.hash = "imageModal";
+	});
+	$("#aboutMeModal").on("show.bs.modal", function(e) {
+		window.location.hash = "aboutMeModal";
+	});
+	// When the URL is changed when the back button is pressed, then hide the modal
+	$(window).on("hashchange", function (e) {
+		if (window.location.hash != "imageModal") {
+			$("#imageModal").modal("hide");
+		}
+		if (window.location.hash != "aboutMeModal") {
+			$("#aboutMeModal").modal("hide");
+		}
+	});
+	// When the modal is closed, go back to the previous page since the URL was updated
+	$("#imageModal").on("hidden.bs.modal", function(e) {
+		window.history.back();
+	});
+	$("#aboutMeModal").on("hidden.bs.modal", function(e) {
+		window.history.back();
 	});
 }
