@@ -277,27 +277,29 @@ function enableImageSeriesLinks() {
 
 // When a modal is opened, the URL is updated so that when the back button is clicked, the modal is closed.
 function backButtonHideModal() {
-	// When the modal is opened, update the URL
-	$("#imageModal").on("show.bs.modal", function(e) {
-		window.location.hash = "imageModal";
-	});
-	$("#aboutMeModal").on("show.bs.modal", function(e) {
-		window.location.hash = "aboutMeModal";
-	});
-	// When the URL is changed when the back button is pressed, then hide the modal
-	$(window).on("hashchange", function (e) {
-		if (window.location.hash != "imageModal") {
-			$("#imageModal").modal("hide");
-		}
-		if (window.location.hash != "aboutMeModal") {
-			$("#aboutMeModal").modal("hide");
+	// https://stackoverflow.com/questions/40314576/bootstrap-3-close-modal-when-pushing-browser-back-button
+	$("div.modal").on("show.bs.modal", function() {
+		var modal = this;
+		var hash = modal.id;
+		window.location.hash = hash;
+		window.onhashchange = function() {
+			if (!location.hash){
+				$(modal).modal("hide");
+			}
 		}
 	});
-	// When the modal is closed, go back to the previous page since the URL was updated
-	$("#imageModal").on("hidden.bs.modal", function(e) {
-		window.history.back();
-	});
-	$("#aboutMeModal").on("hidden.bs.modal", function(e) {
-		window.history.back();
+	$("div.modal").on("hidden.bs.modal", function() {
+		var hash = this.id;
+			history.replaceState("", document.title, window.location.pathname);
+		});
+		// when close button clicked simulate back
+		$("div.modal button.close").on("click", function(){
+			window.history.back();
+		})
+		// when esc pressed when modal open simulate back
+		$("div.modal").keyup(function(e) {
+		if (e.keyCode == 27){
+			window.history.back();
+		}
 	});
 }
