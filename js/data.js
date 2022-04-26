@@ -1356,6 +1356,42 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://i.imgur.com/B3slUbx.png"],
+			thumbnail: "https://i.imgur.com/hGa5kcy.jpg",
+			title: "Hooters Lucina (peach11_01)",
+			artist: "peach11_01",
+			artist_url: "https://twitter.com/peach11_01",
+			art_url: "https://skeb.jp/@peach11_01/works/6",
+			desc: "This is a Hooters Lucina by peach11_01! She is so cute! I love the artist's really soft style. The beer looks so tasty and frothy, and Lucina's smile is adorable! I feel like it needs to be said again: Lucina is so cute!",
+			date_str: "2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/jVqPVvt.jpg"],
+			thumbnail: "https://i.imgur.com/ZSjpUF8.jpg",
+			title: "Hooters Lucina (daruo_0)",
+			artist: "daruo_0",
+			artist_url: "https://twitter.com/daruo_0",
+			art_url: "https://twitter.com/daruo_0/status/1518247436652662786",
+			desc: "This is a Hooters Lucina by daruo_0! Her flustered expression is so cute! It looks like someone unexpected visited her at work. The colors are so nice and vibrant, and the chicken and beer look really tasty too! It's so wonderful!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/TNfTjbR.jpg", "https://i.imgur.com/1dKKLkp.jpg"],
+			thumbnail: "https://i.imgur.com/HkFPl5A.jpg",
+			title: "Hooters Lucina Thighjob (the_atko)",
+			artist: "the_atko",
+			artist_url: "https://twitter.com/the_atko",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina giving a thighjob by the_atko! Lucina uses her soft thighs and her hand to gently caress the penis. The man can't hold back from the tender strokes and ejaculates all over Lucina. I like the vibrancy of the piece and how you can tell how soft her thighs are. Lucina also looks so pretty and cute too!",
+			date_str: "April 2022",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
