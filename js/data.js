@@ -1392,6 +1392,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/lMLYWtt.jpg"],
+			thumbnail: "https://i.imgur.com/f9NrQdV.jpg",
+			title: "Hooters Lucina (toho10min)",
+			artist: "toho10min",
+			artist_url: "https://twitter.com/toho10min",
+			art_url: "https://twitter.com/toho10min/status/1519335224127401984",
+			desc: "This is a Hooters Lucina by toho10min! Lucina is super pretty in toho10min's style! I'm glad that I got the opportunity to commission them for their first Lucina artwork. The towering burger looks really delicious too. The details are beautiful, and the brightness of the colors are really pleasant. Everything is so gorgeous in this piece!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/zsTHCn6.jpg"],
+			thumbnail: "https://i.imgur.com/3qlvl8b.jpg",
+			title: "Tomboy Tavern",
+			artist: "aquiadok",
+			artist_url: "https://twitter.com/aquiadok",
+			art_url: "https://twitter.com/aquiadok/status/1519711699997233153",
+			desc: "This is a group commission with fans of Larcei, Leonie, Lucina, and Dagr done by aquiadok! At Tomboy Tavern, all the waitresses are tomboys, including Lucina as her Marth persona (\"tomboy\"). The character art is great. Larcei, Leonie, Lucina, and Dagr all look so pretty. The background art is especially amazing! It was great working with the other commissioners and the artist on this!",
+			date_str: "April 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/zw7Y6xv.jpg", "https://i.imgur.com/a7CN1qC.jpg", "https://i.imgur.com/G2CXf7P.jpg", "https://i.imgur.com/J5JbOXz.jpg"],
+			thumbnail: "https://i.imgur.com/lzzSkMu.jpg",
+			title: "Hooters Lucina (Meziosaur)",
+			artist: "Meziosaur",
+			artist_url: "https://twitter.com/meziosaur",
+			art_url: "https://twitter.com/meziosaur/status/1520203860928774144",
+			desc: "This is a Hooters Lucina by Meziosaur! It turned out so amazingly, and Lucina looks so pretty and cute! It was great watching Mezio work on this on stream as well, and I'm glad they had fun on this piece. I love all the details that are included in this from the backdrop to the shirt logo. It's all truly wonderful!",
+			date_str: "April 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
