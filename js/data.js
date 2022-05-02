@@ -1181,7 +1181,7 @@ var data = {
 			title: "Hooters Lucina (ExaltedBrandAO3)",
 			artist: "ExaltedBrandAO3",
 			artist_url: "https://twitter.com/ExaltedBrandAO3",
-			art_url: "https://twitter.com/ExaltedBrandAO3/status/1505641479783526405",
+			art_url: "https://www.pixiv.net/en/artworks/98050418",
 			desc: "This is a 3D Hooters Lucina by ExaltedBrand (ExaltedBrandAO3 on Twitter)! This is a unique one in that it's a 3D model. ExaltedBrand did a great job on this with the environment, lighting, posing, and edits. Lucina looks very pretty and cute in this! You can check out the album linked in the art source for all of the angles.",
 			date_str: "March 2022",
 			tags: ["hooters"],
@@ -1425,6 +1425,42 @@ var data = {
 			desc: "This is a Hooters Lucina by Meziosaur! It turned out so amazingly, and Lucina looks so pretty and cute! It was great watching Mezio work on this on stream as well, and I'm glad they had fun on this piece. I love all the details that are included in this from the backdrop to the shirt logo. It's all truly wonderful!",
 			date_str: "April 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/XqZ4ZXI.jpg", "https://i.imgur.com/IpLBSOU.jpg"],
+			thumbnail: "https://i.imgur.com/v2PIxeK.jpg",
+			title: "Armor Break Lucina Prone Boned (OXXO)",
+			artist: "OXXO",
+			artist_url: "https://www.pixiv.net/users/2650009",
+			art_url: "https://www.pixiv.net/artworks/98025638",
+			desc: "This is a commission of Lucina being prone boned by OXXO. Lucina is wearing her broken armor outfit from Fire Emblem Warriors. I love how the shorts are pulled down just enough for Lucina and the man to begin lovemaking right away. Lucina's aroused and satisfied face is so cute too!",
+			date_str: "May 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/jQuRPDb.jpg", "https://i.imgur.com/uHCjNU8.jpg", "https://i.imgur.com/YlPjPVI.jpg", "https://i.imgur.com/SIvYpLO.jpg"],
+			thumbnail: "https://i.imgur.com/J8H8Q62.jpg",
+			title: "Masked Marth's Kisses (PomeloMelon1)",
+			artist: "PomeloMelon1",
+			artist_url: "https://twitter.com/PomeloMelon1",
+			art_url: "https://twitter.com/PomeloMelon1/status/1521165611149234179",
+			desc: "This is a commission of Masked Marth (Lucina) by PomeloMelon1! It turns out the masked swordsman is actually a beautiful princess. The penis ejaculates all over Lucina from her gentle kisses, and the mask protects her pretty face from the semen.",
+			date_str: "May 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/w71JltY.jpg", "https://i.imgur.com/jlZbPfd.jpg"],
+			thumbnail: "https://i.imgur.com/UFCVevs.jpg",
+			title: "Lissa's Warp Goes Wrong (shugo)",
+			artist: "shugo",
+			artist_url: null,
+			art_url: null,
+			desc: "This is a comic commission by shugo (artist just wanted to go by shugo)! It takes place during Awakening's Chapter 6 map. Lissa warps Marth over to aid Chrom, but her warp skills still need some polishing. She ends up warping just Marth's body and the clothes stay behind. It looks like both Chrom and Marth are going to be in for a surprise!",
+			date_str: "May 2022",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
