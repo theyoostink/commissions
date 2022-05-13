@@ -1526,13 +1526,61 @@ var data = {
 		{
 			src: ["https://i.imgur.com/qsaaSIW.png"],
 			thumbnail: "https://i.imgur.com/ZwxxE8C.jpg",
-			title: "Robcina Family Yotsuba Pose",
+			title: "Robcina Family Yotsubato Pose (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
 			art_url: "https://twitter.com/RedKite333/status/1521901905563336705",
-			desc: "This is a commission of the Robcina family by RedKite333!",
+			desc: "This is a commission of the Robcina family by RedKite333! It's a reference to the Yotsubato pose, and RedKite did a great job drawing this happy family! Morgan looks especially adorable! Happy Birthday Morgan!",
 			date_str: "May 2022",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/q7KQjwx.jpg"],
+			thumbnail: "https://i.imgur.com/T15RKpl.jpg",
+			title: "Hooters Lucina (ray_ryuusaki)",
+			artist: "ray_ryuusaki",
+			artist_url: "https://twitter.com/ray_ryuusaki",
+			art_url: "https://twitter.com/ray_ryuusaki/status/1523229615111966721",
+			desc: "This is a Hooters Lucina by ray_ryuusaki! Lucina is so cute and pretty! Her smile and wink are adorable! The mugs of beer look tasty, but she needs to keep an eye on those wings - oh no!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/oOnvbR3.jpg", "https://i.imgur.com/OacTaRC.jpg"],
+			thumbnail: "https://i.imgur.com/bfTfRRC.jpg",
+			title: "Maid Lucina (c022m)",
+			artist: "c022m",
+			artist_url: "https://twitter.com/c022m",
+			art_url: "https://skeb.jp/@c022m/works/23",
+			desc: "This is a commission of Maid Lucina by c022m! The adorable maid Lucina imbues love into your order of omurice. The maid cafe also includes an array of snacks, treats, and tea as well. She's a little embarrassed but still hopes you enjoy your meal! Happy Maid Day!",
+			date_str: "May 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/uVJvxLA.png"],
+			thumbnail: "https://i.imgur.com/GfnmPe7.jpg",
+			title: "Hooters Lucina and Lissa (yuda_nf)",
+			artist: "yuda_nf",
+			artist_url: "https://twitter.com/yuda_nf",
+			art_url: "https://twitter.com/yuda_nf/status/1524559107973595136",
+			desc: "This is a Hooters Lucina and Lissa by yuda_nf! It's a joint commission with DarthMarth. Aunt Lissa finally joins her niece for a shift at Hooters. Lissa has a lot to learn from the more experienced employee Lucina, but I'm sure this aunt-niece duo will enjoy their time working together!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/tPukrw4.png"],
+			thumbnail: "https://i.imgur.com/0y5mTdd.jpg",
+			title: "Hooters Lucina (snow20200)",
+			artist: "snow20200",
+			artist_url: "https://twitter.com/snow20200",
+			art_url: null,
+			desc: "This is a Hooters Lucina by snow20200! Lucina looks so cute and so pretty! It looks like a misstep caused her to lose balance. Hopefully she can use her high skill, speed, and luck stats to catch herself and the wings!",
+			date_str: "May 2022",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
