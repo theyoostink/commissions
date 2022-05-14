@@ -1577,8 +1577,20 @@ var data = {
 			title: "Hooters Lucina (snow20200)",
 			artist: "snow20200",
 			artist_url: "https://twitter.com/snow20200",
-			art_url: null,
+			art_url: "https://twitter.com/snow20200/status/1525086348184801281",
 			desc: "This is a Hooters Lucina by snow20200! Lucina looks so cute and so pretty! It looks like a misstep caused her to lose balance. Hopefully she can use her high skill, speed, and luck stats to catch herself and the wings!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/EPZrBwm.jpg", "https://i.imgur.com/AECdv5z.jpg", "https://i.imgur.com/YxU5eZw.jpg"],
+			thumbnail: "https://i.imgur.com/NQwGMIf.jpg",
+			title: "Hooters Lucina (in2naps)",
+			artist: "in2naps",
+			artist_url: "https://twitter.com/in2naps",
+			art_url: "https://twitter.com/in2naps/status/1525158941193252864",
+			desc: "This is a Hooters Lucina by in2naps! Lucina is really cute and pretty in this! This one came with a few different hair styles: regular, short, and ponytail. Each of them is really cute and suits Lucina really well. The short hair one especially looks really refreshing! And Feh in the logo always a nice touch!",
 			date_str: "May 2022",
 			tags: ["hooters"],
 			hidden: false
