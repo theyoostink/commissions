@@ -1518,7 +1518,7 @@ var data = {
 			artist: "Atramada1",
 			artist_url: "https://twitter.com/Atramada1",
 			art_url: "https://twitter.com/Atramada1/status/1521709366789160960",
-			desc: "This is a group commission with some other commissioner friends done by Atramada1! The male swimsuit challenge is one in which a lady is topless and wears only male swimming trunks. Some pull it off better than others, and you can see how each lady is handling the challenge.",
+			desc: "This is a group commission with some other commissioner friends done by Atramada1! The male swimsuit challenge is one in which a lady is topless and wears only male swimming trunks. Some pull it off better than others, and you can see how each lady is handling the challenge differently.",
 			date_str: "May 2022",
 			tags: ["nsfw"],
 			hidden: false
@@ -1591,6 +1591,42 @@ var data = {
 			artist_url: "https://twitter.com/in2naps",
 			art_url: "https://twitter.com/in2naps/status/1525158941193252864",
 			desc: "This is a Hooters Lucina by in2naps! Lucina is really cute and pretty in this! This one came with a few different hair styles: regular, short, and ponytail. Each of them is really cute and suits Lucina really well. The short hair one especially looks really refreshing! And Feh in the logo always a nice touch!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/oAHbbWm.jpg"],
+			thumbnail: "https://i.imgur.com/5lmvwMw.jpg",
+			title: "Lucina: Future Fondness (t_ippers)",
+			artist: "t_ippers",
+			artist_url: "https://twitter.com/t_ippers",
+			art_url: null,
+			desc: "This is a Day of Devotion Lucina sketch commission by the very talented ippers! I cannot put into words how much I adore this piece. Lucina looks super pretty and super cute and super beautiful and super adorable! ippers did an absolutely wonderful job, and it was really cool watching the progress on stream. Ah, it's so amazing!",
+			date_str: "May 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/IcShcBO.png", "https://i.imgur.com/8i7YvFe.png", "https://i.imgur.com/ol58h4v.jpg"],
+			thumbnail: "https://i.imgur.com/RVzf1TR.jpg",
+			title: "Hooters Lucina Cowgirl (ukimukai)",
+			artist: "ukimukai",
+			artist_url: "https://twitter.com/ukimukai",
+			art_url: "https://twitter.com/ukimukai/status/1525829016682643462",
+			desc: "This is a commission of Hooters Lucina having sex in the cowgirl position by ukimukai! Lucina looks really pretty when she's eager to have sex. She satisfies her lust by riding a dick until it fills her up.",
+			date_str: "May 2022",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/gfjMYcO.jpg"],
+			thumbnail: "https://i.imgur.com/C1VEcLv.jpg",
+			title: "Hooters Lucina (Hakuramen)",
+			artist: "Hakuramen",
+			artist_url: "https://twitter.com/Hakuramen",
+			art_url: "https://twitter.com/Hakuramen/status/1526300264277213184",
+			desc: "This is a Hooters Lucina by Hakuramen! She looks so pretty and so cute! I really like the pose and the colors. The mug of beer looks really tasty too! Lucina is adorable in this wonderful and lovely artwork!",
 			date_str: "May 2022",
 			tags: ["hooters"],
 			hidden: false
