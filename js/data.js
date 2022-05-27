@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -570,7 +570,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1480737871581495297' target='_blank'>Hatsuyume Mitama</a> (Gift request for tyle)<br/>
 			<a href='https://twitter.com/mnejing30/status/1490052934180098048' target='_blank'>Lucina at a Mets game</a> (Gift request for Mifi)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1501549016164999171' target='_blank'>Igrene Bunshin no Jutsu</a> (Gift request for igrenefor)<br/>
-			<a href='https://twitter.com/Mnejing30/status/1511165074127613952' target='_blank'>Lucina wearing Eula's outfit</a> (Gift request for FATE)<br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1511165074127613952' target='_blank'>Lucina wearing Eula's outfit</a> (Gift request for FATE)<br/>
+			<a href='https://twitter.com/mnejing30/status/1526679783102263296' target='_blank'>Silque cooks miso soup</a> (Gift request for Miso)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1629,6 +1630,78 @@ var data = {
 			desc: "This is a Hooters Lucina by Hakuramen! She looks so pretty and so cute! I really like the pose and the colors. The mug of beer looks really tasty too! Lucina is adorable in this wonderful and lovely artwork!",
 			date_str: "May 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Tbry1r3.png"],
+			thumbnail: "https://i.imgur.com/4noeFLA.jpg",
+			title: "Lucina Chibi (Meqqey)",
+			artist: "Meqqey",
+			artist_url: "https://twitter.com/Meqqey",
+			art_url: "https://twitter.com/Meqqey/status/1526701680653479936",
+			desc: "This is a chibi commission of Lucina by Meqqey! Lucina looks so cute! Meqqey's style is really soft, and Lucina is absolutley adorable!",
+			date_str: "May 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/EAXiVA3.png"],
+			thumbnail: "https://i.imgur.com/WzgKbjp.jpg",
+			title: "Lucina Taking a Bath (AKN_646)",
+			artist: "AKN_646",
+			artist_url: "https://twitter.com/AKN_646",
+			art_url: "https://twitter.com/AKN_646/status/1528665017280651264",
+			desc: "This is an artwork commission of Lucina taking a bath by AKN_646! After waking up from a long and good night's sleep, Lucina washes up and relaxes in the bathtub. She enjoys the morning view out of the castle while playing with some rubber ducks. She looks so cute and pretty!",
+			date_str: "May 2022",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/1OeT54o.jpg"],
+			thumbnail: "https://i.imgur.com/DGwGDkx.jpg",
+			title: "Hooters Lucina (_Yuxine)",
+			artist: "_Yuxine",
+			artist_url: "https://twitter.com/_Yuxine",
+			art_url: "https://twitter.com/_Yuxine/status/1528874680886566912",
+			desc: "This is a Hooters Lucina by Yuxine! She looks so pretty and so cute! Her adorable smile is amazing! I really like the lighting and the vibrant colors too. I'm glad to hear that the artist had a lot of fun working on this. It turned out wonderfully!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/9l6SE3U.jpg"],
+			thumbnail: "https://i.imgur.com/c4eucXy.jpg",
+			title: "Hooters Lucina (kokuzou593)",
+			artist: "kokuzou593",
+			artist_url: "https://twitter.com/kokuzou593",
+			art_url: null,
+			desc: "This is a Hooters Lucina by kokuzou593! She looks super pretty! I really like the colors and the lightness. It gives it a nice warm and calming tone. The wings and the beer look tasty too! It's a wonderful work of art!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/ShsF1YB.jpg"],
+			thumbnail: "https://i.imgur.com/drxfIsx.jpg",
+			title: "Hooters Lucina (JaxArtDump)",
+			artist: "JaxArtDump",
+			artist_url: "https://twitter.com/JaxArtDump",
+			art_url: "https://twitter.com/JaxArtDump/status/1529882473747910656",
+			desc: "This is a Hooters Lucina by JaxArtDump! Lucina looks really cute when she smiles! The brightness of this piece and all the lighting effects add such a nice flair. The flow of the hair from twirling is really nice too!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/DbwBtq9.jpg", "https://i.imgur.com/ZgkadtP.jpg"],
+			thumbnail: "https://i.imgur.com/FfRxBk7.jpg",
+			title: "Lucina at the Beach (eva02marina0)",
+			artist: "eva02marina0",
+			artist_url: "https://twitter.com/eva02marina0",
+			art_url: "https://twitter.com/eva02marina0/status/1530055882079600640",
+			desc: "This is a commission of Lucina at the beach by eva02marina0! Lucina takes a day off and relaxes at the beach with an ice cream cone. A cold treat on a hot day is what she deserves! Lucina is so pretty!",
+			date_str: "May 2022",
+			tags: [""],
 			hidden: false
 		},
 		{
