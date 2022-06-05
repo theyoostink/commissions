@@ -1705,6 +1705,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/N4LgifX.png"],
+			thumbnail: "https://i.imgur.com/nFZQ6ay.jpg",
+			title: "Hooters Lucina (voyager_bihai)",
+			artist: "voyager_bihai",
+			artist_url: "https://twitter.com/voyager_bihai",
+			art_url: null,
+			desc: "This is a Hooters Lucina by voyager_bihai! Lucina is always so pretty! I love the colors in this. They give a really nice warm tone to the piece. voyager did a great job with the hair too. Lucina looks great in their style!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/hhTXC1f.png"],
+			thumbnail: "https://i.imgur.com/35mcc58.jpg",
+			title: "Hooters Lucina (TristorCM)",
+			artist: "TristorCM",
+			artist_url: "https://twitter.com/TristorCM",
+			art_url: "https://twitter.com/TristorCM/status/1531238702055317504",
+			desc: "This is a Hooters Lucina by TristorCM! It's a piece gifted to me for my birthday. Lucina enjoys a big burger with some beer on the way. Feh tags along Lucina during her work shift. What a cute smile!",
+			date_str: "May 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/PhoLuqk.jpg"],
+			thumbnail: "https://i.imgur.com/CGfqXmW.jpg",
+			title: "Resplendent Lucina (a_fjkw)",
+			artist: "a_fjkw",
+			artist_url: "https://twitter.com/a_fjkw",
+			art_url: null,
+			desc: "This a commission of Resplendent Lucina by Akira Fujikawa (a_fjkw on Twitter) who is the artist for Celica, F!Celica, and Marisa in FEH as well as a number of Cipher cards. I really like the glowing left eye and the butterflies surrounding her. The light effects and her pose make her look really cool and pretty too! It's an amazingly gorgeous piece, and I'm glad I got the opportunity to commission Fujikawa!",
+			date_str: "May 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Yg4ezly.jpg", "https://i.imgur.com/LtA6jkC.jpg"],
+			thumbnail: "https://i.imgur.com/sOpfpxZ.jpg",
+			title: "Hooters Lucina (FadingzZ)",
+			artist: "FadingzZ",
+			artist_url: "https://twitter.com/FadingzZ",
+			art_url: "https://twitter.com/FadingzZ/status/1532664439719489537",
+			desc: "This is a Hooters Lucina by FadingzZ! It looks like Lucina decided to take a break and munch on a chicken wing. It looks like her father also came by to support her at work. The style and colors are great, and I enjoyed watching the WIP timelapse as well. Lucina is very cute, and it's a very funny piece!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/LLevxvg.jpg"],
+			thumbnail: "https://i.imgur.com/s0A30cI.jpg",
+			title: "Hooters Lucina (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: "https://twitter.com/true_jek_art/status/1532871216939380736",
+			desc: "This is a Hooters Lucina by true_jek_art! It turned out really nice! Lucina looks super pretty! I really like the vibrant colors and also the Brand of the Exalt on the paper under the wings. The artist also left a fun little detail on the bracelet on Lucina's left wrist. Take a shot at figuring out what it spells!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
