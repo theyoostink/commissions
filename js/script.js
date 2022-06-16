@@ -17,17 +17,9 @@ $(document).ready(function() {
 	// Shuffle the image order when the shuffle button is clicked
 	$("#shuffle").click(function() {
 		setUpGallery(images, tags, true);
-		// Go through the tags map and show/hide the images
-		for (let key in tags_to_show) {
-			if (tags_to_show[key]) {
-				$("."+key).show();
-			}
-			else {
-				$("."+key).hide();
-			}
-		}
-		$(".hidden-image").hide();
-		updateImageCountLabel();
+
+		// Show only the images that need to be shown (filtering by tags)
+		showImagesByTags();
 	});
 
 	// Handle closing the modal when the back button is clicked
@@ -244,18 +236,8 @@ function createTagsDropdown(tags) {
 			tags_to_show[tag] = false;
 		}
 
-		// Go through the map and show/hide the images
-		// Might need to rework this part by iterating over each image and checking their tags
-		for (let key in tags_to_show) {
-			if (tags_to_show[key]) {
-				$("."+key).show();
-			}
-			else {
-				$("."+key).hide();
-			}
-		}
-		$(".hidden-image").hide();
-		updateImageCountLabel();
+		// Show only the images that need to be shown (filtering by tags)
+		showImagesByTags();
 	});
 }
 
@@ -302,4 +284,33 @@ function backButtonHideModal() {
 			window.history.back();
 		}
 	});
+}
+
+// Filters images by tags using 'AND' logic. The image must have exactly the tags that are specified by the filter to be shown.
+function showImagesByTags() {
+	// Get the visible tags in string form
+	var visible_tags = [];
+	for (var tag_key in tags_to_show) {
+		if (tags_to_show[tag_key]) {
+			visible_tags.push(tag_key)
+		}
+	}
+	var visible_tags_str = visible_tags.sort().toString();
+
+	// Then compare it with the tags of each image. If they match, then show. Otherwise, hide.
+	var images = data.images;
+	for (var i = 0; i < images.length; i++) {
+		var tags_str = images[i].tags.sort().toString();
+		if (visible_tags_str == tags_str) {
+			$("#img"+i).show();
+		}
+		else {
+			$("#img"+i).hide();
+		}
+	}
+
+	// Hide hidden images no matter what
+	$(".hidden-image").hide();
+
+	updateImageCountLabel();
 }

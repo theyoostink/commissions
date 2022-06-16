@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -571,7 +571,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1490052934180098048' target='_blank'>Lucina at a Mets game</a> (Gift request for Mifi)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1501549016164999171' target='_blank'>Igrene Bunshin no Jutsu</a> (Gift request for igrenefor)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1511165074127613952' target='_blank'>Lucina wearing Eula's outfit</a> (Gift request for FATE)<br/>
-			<a href='https://twitter.com/mnejing30/status/1526679783102263296' target='_blank'>Silque cooks miso soup</a> (Gift request for Miso)<br/>`,
+			<a href='https://twitter.com/mnejing30/status/1526679783102263296' target='_blank'>Silque cooks miso soup</a> (Gift request for Miso)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1535224423237971970' target='_blank'>Lucina capturing a Pidgey</a> (Gift request for Pidgey)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1255,7 +1256,7 @@ var data = {
 			artist: "sajittari",
 			artist_url: "https://twitter.com/sajittari",
 			art_url: null,
-			desc: "This is a Hooters Lucina by sajittari! She looks really pretty! The background and lighting are gorgeous! I really like the dutch angle too. A smile on Lucina's face is great, but a slight scowl is nice change of pace and refreshing to see. I also want to thank a commissioner friend for recommending sajittari to me.",
+			desc: "This is a Hooters Lucina by sajittari! She looks really pretty! The background and lighting are gorgeous! I really like the Dutch angle too. A smile on Lucina's face is great, but a pout is nice too. I also want to thank a commissioner friend for recommending sajittari to me.",
 			date_str: "March 2022",
 			tags: ["hooters"],
 			hidden: false
@@ -1639,7 +1640,7 @@ var data = {
 			artist: "Meqqey",
 			artist_url: "https://twitter.com/Meqqey",
 			art_url: "https://twitter.com/Meqqey/status/1526701680653479936",
-			desc: "This is a chibi commission of Lucina by Meqqey! Lucina looks so cute! Meqqey's style is really soft, and Lucina is absolutley adorable!",
+			desc: "This is a chibi commission of Lucina by Meqqey! Lucina looks so cute! Meqqey's style is really soft, and Lucina is absolutely adorable!",
 			date_str: "May 2022",
 			tags: [""],
 			hidden: false
@@ -1786,6 +1787,42 @@ var data = {
 			desc: "This is a Hooters Lucina by crazzeffect! Lucina looks really cute and pretty! The colors are super nice and vibrant. The chicken looks delicious too.",
 			date_str: "June 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/WEdaUbt.jpg"],
+			thumbnail: "https://i.imgur.com/FtZWCvq.jpg",
+			title: "Hooters Lucina (yamagiwajustin)",
+			artist: "yamagiwajustin",
+			artist_url: "https://twitter.com/yamagiwajustin",
+			art_url: "https://twitter.com/yamagiwajustin/status/1536060770760261634",
+			desc: "This is a Hooters Lucina by yamagiwajustin! I really like the art style, and Lucina looks so cute! The super foamy beer and wings look great, and Lucina's slightly flustered expression is adorable! It's wonderful!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/hslpe8x.png"],
+			thumbnail: "https://i.imgur.com/DHK5Mim.jpg",
+			title: "Hooters Lucina (springexalt)",
+			artist: "springexalt",
+			artist_url: "https://twitter.com/springexalt",
+			art_url: "https://twitter.com/springexalt/status/1536524064193253376",
+			desc: "This is a Hooters Lucina by springexalt! She is so cute! Lucina's smile is absolutely adorable! The colors are so nice, and the design of the background gives the piece a fresh feeling. So cute!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/H99e7tI.jpg"],
+			thumbnail: "https://i.imgur.com/m9eTyQR.jpg",
+			title: "Beach Party (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://twitter.com/RedKite333",
+			art_url: "https://twitter.com/RedKite333/status/1536683518600048640",
+			desc: "This is a huge group commission by RedKite333. Over 20 commissioners came together to work with the talented RedKite333 on this project. This scene spans from the deeper waters to sandy beach. Lots of characters are interacting with each other and having fun on this gorgeous summer day. What a masterpiece!",
+			date_str: "June 2022",
+			tags: [""],
 			hidden: false
 		},
 		{

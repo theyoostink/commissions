@@ -87,6 +87,7 @@ body {
 	display: inline-block;
 	width: 100%;
 	text-align: left;
+	max-width: 95%;
 }
 .modal-content {
 	background-color: #485276;
@@ -254,7 +255,7 @@ a:hover, a:active {
 		padding-top: 20px;
 	}
 	.modal-dialog {
-		width: 95%;
+		max-width: 97%;
 	}
 	.sidebar-item-container {
 		display: flex;
