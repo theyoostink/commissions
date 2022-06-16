@@ -1295,7 +1295,7 @@ var data = {
 			desc: "This is a commission of Bunny Lucina giving Robin a nursing handjob done by blade_ride! Lucina lovingly strokes Robin's penis as he sucks on her breast. This happy couple is enjoying their time with each other and releasing their springtime lust. Spring has sprung!",
 			date_str: "April 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/Al25QTn.jpg"],
@@ -1355,7 +1355,7 @@ var data = {
 			desc: "This is a commission of Lucina in the Plegian dancer outfit by Lainart1! Lucina dons the erotic Plegian dancer outfit and gives the man a sensual buttjob. The aroused man then fucks and inseminates Lucina. Lucina looks really pretty in the outfit, and I like how the outfit matches her usual blue and gold outfit color scheme! It was great working with Lainart on this especially since they draw the Plegian dancer outfits so well.",
 			date_str: "April 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/B3slUbx.png"],
@@ -1655,7 +1655,7 @@ var data = {
 			desc: "This is an artwork commission of Lucina taking a bath by AKN_646! After waking up from a long and good night's sleep, Lucina washes up and relaxes in the bathtub. She enjoys the morning view out of the castle while playing with some rubber ducks. She looks so cute and pretty!",
 			date_str: "May 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/1OeT54o.jpg"],
@@ -1796,7 +1796,7 @@ var data = {
 			artist: "yamagiwajustin",
 			artist_url: "https://twitter.com/yamagiwajustin",
 			art_url: "https://twitter.com/yamagiwajustin/status/1536060770760261634",
-			desc: "This is a Hooters Lucina by yamagiwajustin! I really like the art style, and Lucina looks so cute! The super foamy beer and wings look great, and Lucina's slightly flustered expression is adorable! It's wonderful!",
+			desc: "This is a Hooters Lucina by yamagiwajustin! I really like the art style, and Lucina looks so cute! The super foamy beer and wings look great, and Lucina's slightly flustered expression is adorable! It's wonderful! This is also apparently the 100th Hooters Lucina.",
 			date_str: "June 2022",
 			tags: ["hooters"],
 			hidden: false
@@ -1823,6 +1823,18 @@ var data = {
 			desc: "This is a huge group commission by RedKite333. Over 20 commissioners came together to work with the talented RedKite333 on this project. This scene spans from the deeper waters to sandy beach. Lots of characters are interacting with each other and having fun on this gorgeous summer day. What a masterpiece!",
 			date_str: "June 2022",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/1Qqj22y.jpg"],
+			thumbnail: "https://i.imgur.com/Tcu6Bdg.jpg",
+			title: "Hooters Lucina (collateralds & Usanekorin)",
+			artist: "collateralds & Usanekorin",
+			artist_url: "https://twitter.com/Usanekorin",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Collateral Damage Studios and artist Usanekorin! It was my first time working with a studio on a commission, so it was a cool process. The manager and Usanekorin did a wonderful job organizing and producing this amazing artwork. I love the details, the colors, and the shading, and the background work is great! You can check out Collateral Damage Studios at their <a href='https://www.collateralds.com/'>website</a> and <a href='https://twitter.com/collateralds'>Twitter</a>.",
+			date_str: "June 2022",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
