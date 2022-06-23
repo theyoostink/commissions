@@ -1831,10 +1831,46 @@ var data = {
 			title: "Hooters Lucina (collateralds & Usanekorin)",
 			artist: "collateralds & Usanekorin",
 			artist_url: "https://twitter.com/Usanekorin",
-			art_url: null,
+			art_url: "https://twitter.com/collateralds/status/1537633718055030785",
 			desc: "This is a Hooters Lucina by Collateral Damage Studios and artist Usanekorin! It was my first time working with a studio on a commission, so it was a cool process. The manager and Usanekorin did a wonderful job organizing and producing this amazing artwork. I love the details, the colors, and the shading, and the background work is great! You can check out Collateral Damage Studios at their <a href='https://www.collateralds.com/'>website</a> and <a href='https://twitter.com/collateralds'>Twitter</a>.",
 			date_str: "June 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/cS30vx7.jpg", "https://i.imgur.com/ZFIKZtm.jpg"],
+			thumbnail: "https://i.imgur.com/SwjOibz.jpg",
+			title: "Lucina x Masked Marth Poolside Strap-On Sex (zero_0a)",
+			artist: "zero_0a",
+			artist_url: "https://twitter.com/zero_0a",
+			art_url: "https://twitter.com/zero_0a/status/1539644940103274496",
+			desc: "This is a commission of Lucina and Masked Marth in their swimsuits by zero_0a! Masked Marth uses a strap-on to fuck her other Lucina self at the Hana Zono Room pool. Masked Marth has fun pounding away at Lucina's sopping wet pussy while grabbing a handful of her soft ass. Lucina moans as the large strap-on pushes in and out of her vagina and fantasizes about her turn to fuck Masked Marth. The colors and shading and background work are all so wonderfully done. It was great working with the artist on this piece.",
+			date_str: "June 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/qkCVIRv.jpg"],
+			thumbnail: "https://i.imgur.com/7AUOfPu.jpg",
+			title: "Hooters Lucina (KatakuMusou)",
+			artist: "KatakuMusou",
+			artist_url: "https://twitter.com/KatakuMusou",
+			art_url: "https://twitter.com/katakumusou/status/1539186162690314240",
+			desc: "This is a Hooters Lucina by KatakuMusou! She looks really pretty! Her hair is drawn nicely, and the colors are great! I like how the eyes are drawn and their deep blue color. It's very wonderfully done!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Hzch9uL.jpg"],
+			thumbnail: "https://i.imgur.com/NGbk2Zo.jpg",
+			title: "Spring Lucina (CM_Lynarc)",
+			artist: "CM_Lynarc",
+			artist_url: "https://twitter.com/CM_Lynarc",
+			art_url: "https://twitter.com/CM_Lynarc/status/1539309440360652800",
+			desc: "This is a commission by bunny Lucina by CM_Lynarc! It turned out really amazingly! Lucina looks super pretty sitting down with her big magic egg. The colors are gorgeous too. The spring outfit is so nice, and Lucina's smile is awesome!",
+			date_str: "June 2022",
+			tags: [""],
 			hidden: false
 		},
 		{
