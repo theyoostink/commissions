@@ -1874,6 +1874,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/RqJKg1A.jpg"],
+			thumbnail: "https://i.imgur.com/aDjFfKb.jpg",
+			title: "Hooters Lucina, Miriel, and Nina (RitDelba)",
+			artist: "RitDelba",
+			artist_url: "https://twitter.com/RitDelba",
+			art_url: "https://twitter.com/RitDelba/status/1540379899445366786",
+			desc: "This is a joint commission I did with a friend done by RitDelba. Miriel and Nina decide to join Lucina on her shift. It look like they're doing a good job and having fun! They are all very pretty, and it was great working with the other commissioner and the artist on this!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/yej65bb.jpg", "https://i.imgur.com/NpEduDX.png"],
+			thumbnail: "https://i.imgur.com/bFbVKZz.png",
+			title: "Hooters Lucina (abihokuyuumore)",
+			artist: "abihokuyuumore",
+			artist_url: "https://twitter.com/abihokuyuumore",
+			art_url: "https://twitter.com/abihokuyuumore/status/1540989675359588359",
+			desc: "This is a Hooters Lucina by abihokuyuumore! She's very pretty, and I love the long flowing hair! It's a lovely piece! It also came with a very cute special thank you sketch.",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/v2cO2jV.png"],
+			thumbnail: "https://i.imgur.com/p8gRlcJ.png",
+			title: "Hooters Lucina (mikoko1)",
+			artist: "mikoko1",
+			artist_url: "https://twitter.com/mikoko1",
+			art_url: "https://twitter.com/mikoko1/status/1541377337815896069",
+			desc: "This is a Hooters Lucina by mikoko1! Lucina is very cute and pretty! The beer looks great: refreshing, and delicious! This was my first official appeal on the Skeb platform, so it was cool to see an artist reach out and wanting to draw Lucina.",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Ug2XSdu.jpg", "https://i.imgur.com/IkFvtYV.jpg", "https://i.imgur.com/4px33mv.jpg", "https://i.imgur.com/5TFEDk3.jpg"],
+			thumbnail: "https://i.imgur.com/DjvLQQe.png",
+			title: "Lucina's Tent Sex",
+			artist: "Arc_Edo11",
+			artist_url: "https://twitter.com/Arc_Edo11",
+			art_url: null,
+			desc: "This is a commission of Lucina having sex in a tent by Arc_Edo11! Sex with Lucina in her tent was interrupted when someone outside called out to her to ask a question. Lucina peeks out to answer but continues having sex discreetly.",
+			date_str: "June 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/WPxAaDp.jpg"],
+			thumbnail: "https://i.imgur.com/5jocFs3.jpg",
+			title: "Hooters Lucina (mitsuchiis)",
+			artist: "mitsuchiis",
+			artist_url: "https://twitter.com/mitsuchiis",
+			art_url: "https://twitter.com/mitsuchiis/status/1542627944257953797",
+			desc: "This is a Hooters Lucina by mitsuchiis! She's so pretty and cute! The outfit design, the colors, and the bubbly background are really nice. Her smile is adorable too!",
+			date_str: "June 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
