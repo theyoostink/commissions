@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -572,7 +572,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1501549016164999171' target='_blank'>Igrene Bunshin no Jutsu</a> (Gift request for igrenefor)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1511165074127613952' target='_blank'>Lucina wearing Eula's outfit</a> (Gift request for FATE)<br/>
 			<a href='https://twitter.com/mnejing30/status/1526679783102263296' target='_blank'>Silque cooks miso soup</a> (Gift request for Miso)<br/>
-			<a href='https://twitter.com/Mnejing30/status/1535224423237971970' target='_blank'>Lucina capturing a Pidgey</a> (Gift request for Pidgey)<br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1535224423237971970' target='_blank'>Lucina capturing a Pidgey</a> (Gift request for Pidgey)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1542765478397214720' target='_blank'>Dat girl Lissa</a> (Gift request for DarthMarth)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1931,6 +1932,18 @@ var data = {
 			desc: "This is a Hooters Lucina by mitsuchiis! She's so pretty and cute! The outfit design, the colors, and the bubbly background are really nice. Her smile is adorable too!",
 			date_str: "June 2022",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/kHfHtlH.png", "https://i.imgur.com/sKeKanI.png", "https://i.imgur.com/GU65UIH.png", "https://i.imgur.com/T9nBQbE.png"],
+			thumbnail: "https://i.imgur.com/gZhjnGw.png",
+			title: "Lucina and Robin Try for a Baby (SxZR2A16XHqqQyB)",
+			artist: "SxZR2A16XHqqQyB",
+			artist_url: "https://twitter.com/SxZR2A16XHqqQyB",
+			art_url: null,
+			desc: "This is a commission of Lucina and Robin trying for a baby by SxZR2A16XHqqQyB! Lucina tells Robin she's ready and wants to try for a baby. Energized by her wish, Robin pumps cum into his wife during their lust-filled sex session. They cuddle afterwards hoping that Lucina's wish comes true.",
+			date_str: "July 2022",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
