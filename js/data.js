@@ -1947,6 +1947,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/1SZZK7D.jpg"],
+			thumbnail: "https://i.imgur.com/7lXSM2a.jpg",
+			title: "Hooters Lucina (hood_x_art)",
+			artist: "hood_x_art",
+			artist_url: "https://twitter.com/hood_x_art",
+			art_url: "https://twitter.com/hood_x_art/status/1543901750226128897",
+			desc: "This is a Hooters Lucina by hood_x_art! Oh no - An unfortunate accident occurs, and Lucina ends up dropping the order. It happens to the best of us. Lucina looks very cute and pretty in this art style, and I'm glad I got the chance to work with the artist and watch their progress on stream!",
+			date_str: "July 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/3BIsNcA.jpg"],
+			thumbnail: "https://i.imgur.com/k88nrnB.jpg",
+			title: "Hooters Lucina (DeebyFeeby)",
+			artist: "DeebyFeeby",
+			artist_url: "https://twitter.com/DeebyFeeby",
+			art_url: null,
+			desc: "This is a Hooters Lucina by DeebyFeeby! It's in the style of Sharena's doodles from the Meet the Heroes website. Lucina looks super adorable with her smile and wink! This art style is so cute that it melts my heart.",
+			date_str: "July 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/LKirb3x.jpg"],
+			thumbnail: "https://i.imgur.com/h6MSYsx.jpg",
+			title: "Hooters Lucina (_TheVitus)",
+			artist: "_TheVitus",
+			artist_url: "https://twitter.com/_TheVitus",
+			art_url: "https://twitter.com/_TheVitus/status/1546870520666361857",
+			desc: "This is a Hooters Lucina by _TheVitus! I love the artist's Lucina artwork, so I wanted to request one of Lucina in the Hooters outfit. It turned out great! Lucina looks so pretty! I love the peace sign she's making and her long blue hair. It's a wonderful piece!",
+			date_str: "July 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/o6NxArO.jpg"],
+			thumbnail: "https://i.imgur.com/tXGYpBa.png",
+			title: "Hooters Lucina (eposhim)",
+			artist: "eposhim",
+			artist_url: "https://twitter.com/eposhim",
+			art_url: "https://twitter.com/eposhim/status/1546699818734460928",
+			desc: "This is a Hooters Lucina by eposhim! This is an absolutely gorgeous piece! I love the colors! As always, Lucina is super pretty, and the food looks great! It's all so lovely and wonderful!",
+			date_str: "July 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/8EsYnQh.png", "https://i.imgur.com/gvGmTXx.png"],
+			thumbnail: "https://i.imgur.com/nkvMBgD.png",
+			title: "Lucina and Robin Getting Passionate",
+			artist: "Ebinkuu",
+			artist_url: "https://www.pixiv.net/users/78716022",
+			art_url: "https://www.pixiv.net/artworks/99619475",
+			desc: "This is a sequence sketch commission done by Ebinkuu! It's a sequel to my previous commission. Lucina and Robin allow lust to overtake them as they have sex all night long and please each other lovingly. After their session, they kiss and cuddle before falling asleep exhausted.",
+			date_str: "July 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
