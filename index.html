@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="robots" content="noindex"/>
+	<title>Yoostink's Commissions Gallery</title>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TYXYXZZHXR"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-TYXYXZZHXR');
+	</script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-2" id="sidebar-container">
+				<div class="row">
+					<div class="col-lg-1"></div>
+					<div class="col-lg-10" id="sidebar">
+						<div class="row">
+							<h1 id="title"><strong>Yoostink's Commissions</strong></h1>
+						</div>
+						<div class="row title-underscore-container">
+							<div class="col-lg-1"></div>
+							<div class="col-lg-9 title-underscore"></div>
+						</div>
+						<div class="sidebar-item-container">
+							<div class="row sidebar-item">
+								<div class="col-lg-1 sidebar-item-spacer"></div>
+								<div class="col-lg-9 sidebar-item-inner">
+									<a data-bs-toggle='modal' data-bs-target='#aboutMeModal'><strong class="sidebar-item-button"><i class="bi bi-person-circle"></i> <span class="sidebar-item-buttom-label">About Me</span></strong></a>
+								</div>
+								<div class="col-lg-1"></div>
+							</div>
+							<div class="row sidebar-item">
+								<div class="col-lg-1 sidebar-item-spacer"></div>
+								<div class="col-lg-9 sidebar-item-inner">
+									<a href="https://twitter.com/theyoostink" class="sidebar-item-button-link" target="_blank"><strong class="sidebar-item-button"><i class="bi bi-twitter"></i> <span class="sidebar-item-buttom-label">Twitter</span></strong></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-1"></div>
+				</div>
+			</div>
+			<div class="col-lg-10" id="gallery-container">
+				<div class="row" id="gallery-header">
+					<div class="col-lg-9">
+						<h2><strong>Gallery</strong></h2>
+						<p>Showing <span id="count"></span> of my artwork commissions</p>
+					</div>
+					<div class="col-lg-3">
+						<div class="gallery-buttons-container">
+							<div class="dropdown tag-dropdown-button">
+								<a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+								<strong>Filter:</strong>
+								</a>
+								<ul class="dropdown-menu checkbox-menu allow-focus" aria-labelledby="dropdownMenuLink" id="tags-dropdown"></ul>
+							</div>
+							<div class="btn shuffle-button" id="shuffle">
+								<i class="bi bi-shuffle"></i>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div id="gallery"></div>
+				</div>
+			</div>
+		</div>
+		<!-- Gallery Image Modal -->
+		<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-xl">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="imageModalLabel"></h5>
+						<button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<div class="row">
+							<div class="col-lg-9">
+								<div id="modal-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+									<div class="carousel-indicators"></div>
+									<div class="carousel-inner" id="imageModalImage"></div>
+									<button class="carousel-control-prev" type="button" data-bs-target="#modal-carousel" data-bs-slide="prev">
+										<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+										<span class="visually-hidden">Previous</span>
+									</button>
+									<button class="carousel-control-next" type="button" data-bs-target="#modal-carousel" data-bs-slide="next">
+										<span class="carousel-control-next-icon" aria-hidden="true"></span>
+										<span class="visually-hidden">Next</span>
+									</button>
+								</div>
+							</div>
+							<div class="col-lg-3"><div id="imageModalDesc"></div></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- About Me Modal -->
+		<div class="modal fade" id="aboutMeModal" tabindex="-1" aria-labelledby="aboutMeModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-xl">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="aboutMeModalLabel">About Me</h5>
+						<button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<div class="row">
+							<div class="col-lg-12">
+								<p></p>
+								<p>Hello, I'm Yoostink! Welcome to my commissions gallery - a place where I can showcase the artwork I commissioned.</p>
+								<p>I like to commission art from artists whom I admire for their work, especially the ones who draw Lucina a lot. I love Lucina! I think she's a very pretty and strong-willed lady. Most of my commissions will feature her as the main subject. If you're a fan of Lucina too, please consider joining the 1000+ member Lucina Fan Club Discord server using the invite link: <a href="https://discord.gg/lucina">https://discord.gg/lucina</a></p>
+								<p>Unfortunately, I don't plan on accepting follower requests on Twitter. I only use my Twitter account to follow and contact artists. My DMs are open, but if you pester me with frequent messages or requests, I will block you. :-(</p>
+								<div class="accordion" id="accordionAboutMe">
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										About the Hooters Lucina Series
+										</button>
+										</h2>
+										<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+											<div class="accordion-body">
+												<p>This is a series of commissioned artwork depicting Lucina dressed in the Hooters outfit.</p>
+												<p>Hooters Lucina was an inside joke between me and an artist friend. I commissioned them to draw the first Hooters Lucina back in 2018. Now, I guess it's something we can all share. Also, it is not a fetish thing.</p>
+												<p>I first started with sending Hooters Lucina requests to a handful of artists. I thought the idea was too weird and zany to be accepted, which is why I shotgunned requests hoping for just one to be accepted. To my surprise, all of them were accepted. After the first few were delivered, I decided to request more as I saw more artists opening up commissions - artists whom I really admire for their work. I then decided to keep this commission series going as a way to support my favorite artists. Plus, it's fun to see people's reactions.</p>
+												<p>Yes, I do plan on ending the series. I will transition to commissioning Lucina in other outfits and settings but not as a series, and the frequency of requests will drop. I may revisit Hooters Lucina and request it here and there however.</p>
+												<p>I am not a fan of the new Hooters uniform that was revealed in October 2021. My commission requests will only have references to the original outfit design. I also always give the artist the freedom to alter the outfit design and omit/modify the logo on the shirt.</p>
+												<h5><strong></strong></h5>
+												<p></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/data.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
