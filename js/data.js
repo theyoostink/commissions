@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -575,7 +575,10 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1535224423237971970' target='_blank'>Lucina capturing a Pidgey</a> (Gift request for Pidgey)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1542765478397214720' target='_blank'>Dat girl Lissa</a> (Gift request for DarthMarth)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1554325195325730817' target='_blank'>Plumeria eating a popsicle</a> (Gift request for LOST)<br/>
-			<a href='https://twitter.com/Mnejing30/status/1563024693401366531' target='_blank'>Beach Volleyball Judith</a> (Gift request for Jud)<br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1563024693401366531' target='_blank'>Beach Volleyball Judith</a> (Gift request for Jud)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1571861166510723072' target='_blank'>Nephenee and Pancakes</a> (Gift request for labmemb3r)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1580876737285869570' target='_blank'>Halloween Lucina</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1592341458505564162' target='_blank'>The Alears Watch a 3D Movie</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1991,7 +1994,7 @@ var data = {
 			artist: "eposhim",
 			artist_url: "https://twitter.com/eposhim",
 			art_url: "https://twitter.com/eposhim/status/1546699818734460928",
-			desc: "This is a Hooters Lucina by eposhim! This is an absolutely gorgeous piece! I love the colors! As always, Lucina is super pretty, and the food looks great! It's all so lovely and wonderful!",
+			desc: "This is a Hooters Lucina by eposhim! This is an absolutely gorgeous piece! I love the colors! As always, Lucina is super pretty, and the food looks great! It's all so lovely and wonderful! You can watch eposhim's WIP video <a href='https://www.youtube.com/watch?v=ESRG6AydQJU'>here</a>.",
 			date_str: "July 2022",
 			tags: ["hooters"],
 			hidden: false
@@ -2714,6 +2717,66 @@ var data = {
 			desc: "This is a commission of Resplendent Lucina and Robin by bbk13z! This resplendent couple decided to try something new in their new outfits. Since Lucina's armpits are exposed in her resplendent outift, Robin tries fucking her armpit. Meanwhile, Lucina masturbates until Robin blows a load all over her upper body. I think they enjoyed this new experience!",
 			date_str: "November 2022",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/u0aZex7.jpg"],
+			thumbnail: "https://i.imgur.com/ejoMVrw.png",
+			title: "Bartender Lucina (LiaLiar1)",
+			artist: "LiaLiar1",
+			artist_url: "https://twitter.com/LiaLiar1",
+			art_url: "https://twitter.com/LiaLiar1/status/1588963632443842562",
+			desc: "This is a commission of Lucina as a bartender by LiaLiar1! Lucina is super pretty! Her outfit is beautiful, and her smile is the best! I love the background and the butterfly effects as well. I hope you enjoy the drink she's prepared!",
+			date_str: "November 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/yc4WjCF.png"],
+			thumbnail: "https://i.imgur.com/g5ik6UW.png",
+			title: "Lucina Drinking Chocolate Milk (tomioka2)",
+			artist: "tomioka2",
+			artist_url: "https://twitter.com/tomioka2",
+			art_url: "https://www.pixiv.net/artworks/102671590",
+			desc: "This is a commission of Lucina drinking chocolate milk by Tomioka Jiro who drew Spring Lucina in FEH! I'm super glad to have had to the opportunity to commission them for this idea since I love their artwork. Lucina looks super cute! I hope she is enjoying her chocolatey beverage!",
+			date_str: "November 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/3Eikka4.jpg", "https://i.imgur.com/bP6Obgb.jpg"],
+			thumbnail: "https://i.imgur.com/haJdAmS.jpg",
+			title: "Hooters Lucina (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: "https://twitter.com/GrimmelsDaThird/status/1593811817368670210",
+			desc: "This is a Hooters Lucina by GrimmelsDaThird! She looks so pretty and cute! The colors are super nice and bright, and Lucina's smile is the best! The background is amazing too! I love the Feh in the logo and in the framed picture in the background as well as something a little sus!",
+			date_str: "November 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/99ToX0X.jpg", "https://i.imgur.com/PoJl2wo.jpg"],
+			thumbnail: "https://i.imgur.com/PxfYTGu.jpg",
+			title: "Lucina and Clair Swap Outfits (Rynn_art)",
+			artist: "Rynn_art",
+			artist_url: "https://twitter.com/Rynn_art",
+			art_url: "https://twitter.com/Rynn_art/status/1594356335222861826",
+			desc: "This is a joint commission I did with MRC Rulez, and the art was done by Rynn_art! Lucina and Clair are both voiced by Alexis Tipton, and MRC Rulez likes Clair. So, we decided to do a joint commission idea and did an outfit swap and a pose swap based on their official art! Both Lucina and Clair are so pretty and look like they are enjoying their time together at the park. There's also a spicy version too!",
+			date_str: "November 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/GzdZlYw.jpg"],
+			thumbnail: "https://i.imgur.com/quhLcby.jpg",
+			title: "Lucina and Kronya Swap Outfits (Ihsnet)",
+			artist: "Ihsnet",
+			artist_url: "https://twitter.com/Ihsnet",
+			art_url: "https://twitter.com/Ihsnet/status/1595307666359943168",
+			desc: "This is a joint commission I did with a friend MythicJunkRare, and the art was done by Ihsnet! Lucina and Kronya decide to swap outfits and spend some time together as friends do. They are both very pretty, and the colors are so nice and bright! It's a fun idea, and I'm glad the artist also had a lot of fun working on the artwork!",
+			date_str: "November 2022",
+			tags: [""],
 			hidden: false
 		},
 		{
