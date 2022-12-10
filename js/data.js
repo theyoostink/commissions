@@ -1097,7 +1097,7 @@ var data = {
 			desc: "This is my first 3D commission, and it was done by the talented ExaltedBrand (ExaltedBrandAO3 on Twitter)! After dinner, Lucina and Robin strip down, get cozy in bed, and begin their night of intimacy with some foreplay. I love all the angles ExaltedBrand included in this set and how they captured the mood and lighting of Lucina's and Robin's romantic evening. It turned out amazingly, and it was great working with the artist!",
 			date_str: "February 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/by3XNu1.jpg"],
@@ -1178,7 +1178,7 @@ var data = {
 			artist: "panna44",
 			artist_url: "https://twitter.com/panna44",
 			art_url: null,
-			desc: "This is a commission of Valentine's Lucina and Robin by panna44! Lucina and Robin sneak off into the woods where Lucina shows Robin her devotion. I love the art of the scenery and the expressions on Lucina's face. It's very pretty and gentle.",
+			desc: "This is a commission of Valentine's Lucina and Robin by panna44! Lucina and Robin sneak off into the woods where Lucina shows Robin her devotion. I love the art of the scenery and the expressions on Lucina's face. It's very pretty and gentle. I also got a commission for the next scene <span class='series-link' index='234'>here</span>.",
 			date_str: "March 2022",
 			tags: ["nsfw"],
 			hidden: false
@@ -2453,7 +2453,7 @@ var data = {
 			desc: "This is a commission of Bunny Lucina having sex by dannex009! The bunny ears pose while in a bunny outfit is a fun idea that I thought was cute. The artist did an amazing job! It's been a while since they drew Lucina, so I'm glad to see them draw Lucina again. Lucina looks so cute and sexy! She must enjoy fucking like a rabbit in the field.",
 			date_str: "October 2022",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/NHeoL0P.jpg"],
@@ -2813,6 +2813,42 @@ var data = {
 			desc: "This is a commission of a Lucina Padoru by Yumizu! 'Tis the season for Padorus! The adorable Lucina is ready for the winter festivities! There is also a spinning animated version as well!",
 			date_str: "December 2022",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Rhuv6BE.jpg"],
+			thumbnail: "https://i.imgur.com/X3EQPKo.jpg",
+			title: "Barista Reina",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of Reina as a barista by true_jek_art! It is a gift for Piff. Reina seems like someone who do a great job at making coffee and lattes in a cafe away from the battlefield. A gentle smile from the experienced Reina should put anyone at ease as you sip on your warm beverage.",
+			date_str: "December 2022",
+			tags: [""],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/xLaqPLX.jpg"],
+			thumbnail: "https://i.imgur.com/UU0tkjF.png",
+			title: "Devoted Sex (furo_at)",
+			artist: "furo_at",
+			artist_url: "https://twitter.com/furo_at",
+			art_url: "https://twitter.com/ofuro_no_/status/1601138935609978883",
+			desc: "This is a commission of Valentine's Robin and Lucina having sex by furo_at! I envisioned this as a continuation of a <span class='series-link' index='96'>previous commission</span> where Lucina gives Robin a handjob. Afterwards, Lucina lifts up her dress so that Robin can fuck her and demonstrate his devotion to Lucina.",
+			date_str: "December 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/0IBUFi8.png", "https://i.imgur.com/mlxheaj.png", "https://i.imgur.com/8vyPZgv.jpg", "https://i.imgur.com/fzkwDTR.png", "https://i.imgur.com/M59yLEo.jpg", "https://i.imgur.com/zJDMYlO.jpg", "https://i.imgur.com/3lmNAst.jpg", "https://i.imgur.com/OUIA0H5.png", "https://i.imgur.com/8dOjLkd.jpg", "https://i.imgur.com/tunmFFU.jpg", "https://i.imgur.com/dFj9T9e.jpg", "https://i.imgur.com/Wl3AFq0.png", "https://i.imgur.com/daCEnC7.png", "https://i.imgur.com/KSgn40s.png", "https://i.imgur.com/edk2Q3X.jpg", "https://i.imgur.com/1qDCvxe.png", "https://i.imgur.com/Qwk4Hie.jpg", "https://i.imgur.com/Jo9VBXV.jpg"],
+			thumbnail: "https://i.imgur.com/fHXIyDI.png",
+			title: "Lucina's Christmas Present for Robin (ExaltedBrandAO3)",
+			artist: "ExaltedBrandAO3",
+			artist_url: "https://twitter.com/ExaltedBrandAO3",
+			art_url: "https://twitter.com/EebyAfterDeeby/status/1601356616326320128",
+			desc: "This is a commission of Robin thighfucking Lucina by ExaltedBrand! Lucina prepared herself as Robin's Christmas present and wrapped herself nicely with some ribbons. Robin reciprocated by giving Lucina a small gift of his own, but it looks like Lucina knows he has a lot more in store for her! A romantic and steamy holiday evening awaits this couple!",
+			date_str: "December 2022",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
