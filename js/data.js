@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -578,7 +578,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1563024693401366531' target='_blank'>Beach Volleyball Judith</a> (Gift request for Jud)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1571861166510723072' target='_blank'>Nephenee and Pancakes</a> (Gift request for labmemb3r)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1580876737285869570' target='_blank'>Halloween Lucina</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1592341458505564162' target='_blank'>The Alears Watch a 3D Movie</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1592341458505564162' target='_blank'>The Alears Watch a 3D Movie</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree (Gift request for HIERARCHYOFMEMES)</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -2847,6 +2848,42 @@ var data = {
 			artist_url: "https://twitter.com/ExaltedBrandAO3",
 			art_url: "https://twitter.com/EebyAfterDeeby/status/1601356616326320128",
 			desc: "This is a commission of Robin thighfucking Lucina by ExaltedBrand! Lucina prepared herself as Robin's Christmas present and wrapped herself nicely with some ribbons. Robin reciprocated by giving Lucina a small gift of his own, but it looks like Lucina knows he has a lot more in store for her! A romantic and steamy holiday evening awaits this couple!",
+			date_str: "December 2022",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/CRbfZgU.png", "https://i.imgur.com/iEETvYm.png"],
+			thumbnail: "https://i.imgur.com/PDHeChP.png",
+			title: "Hooters Lucina (fe135700)",
+			artist: "fe135700",
+			artist_url: "https://twitter.com/fe135700",
+			art_url: null,
+			desc: "This is a Hooters Lucina by fe135700! Lucina looks adorable! The artist's style is nice and clean, and Lucina smile is so cute! I love the bright colors and how they pop. The artist also made a black uniform and Christmas variant for fun, and it's an amazingly cute idea!",
+			date_str: "December 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/QTvo4zy.jpg"],
+			thumbnail: "https://i.imgur.com/NKoQ9Em.jpg",
+			title: "Hooters Lucina (thetommietomm)",
+			artist: "thetommietomm",
+			artist_url: "https://twitter.com/thetommietomm",
+			art_url: "https://twitter.com/tommiefkntomm/status/1605325156980871168",
+			desc: "This is a Hooters Lucina by thetommietomm! I really love the artist's style, and it's great to see them draw Lucina again! Lucina looks super pretty, and the pose is really nice! It's really nice to see Lucina sitting down and nice to see the warm colors around her. The art is wonderful!",
+			date_str: "December 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/TlPs6Bm.jpg", "https://i.imgur.com/8dujHRm.jpg", "https://i.imgur.com/nExSNL3.jpg", "https://i.imgur.com/MXofMBA.jpg"],
+			thumbnail: "https://i.imgur.com/zLplpVm.jpg",
+			title: "Dendra and Miriam Double Paizuri",
+			artist: "onlyt3x",
+			artist_url: "https://twitter.com/onlyt3x",
+			art_url: "https://twitter.com/onlyt3x/status/1603768042110042114",
+			desc: "This is a joint commission with Exalted, and the art was done by onlyt3x! Dendra and Miriam take care of a patient together in the nurse's office. Their soft pillowy breasts stroke the cock until it erupts. The artwork is amazing and wonderful, and it was great working with the artist who did a very nice job!",
 			date_str: "December 2022",
 			tags: ["nsfw"],
 			hidden: false
