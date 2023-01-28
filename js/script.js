@@ -183,7 +183,8 @@ function updateImageCountLabel() {
 function translateWord(word) {
 	var translations = {
 		hooters: "Hooters 🦉",
-		nsfw: "NSFW 🔞"
+		nsfw: "NSFW 🔞",
+		other: "Other 🃏"
 	};
 	if (word in translations) {
 		return translations[word];
@@ -203,6 +204,7 @@ function createTagsDropdown(tags) {
 	// By default, hide images with these tags
 	$(".hooters").hide();
 	$(".nsfw").hide();
+	$(".other").hide();
 
 	// Create the dropdown options
 	var tags_dropdown_HTML = "";

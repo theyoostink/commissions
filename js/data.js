@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg", "blob:https://imgur.com/78337d53-6ff8-49de-b1c2-c5fd18959958"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -579,7 +579,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1571861166510723072' target='_blank'>Nephenee and Pancakes</a> (Gift request for labmemb3r)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1580876737285869570' target='_blank'>Halloween Lucina</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1592341458505564162' target='_blank'>The Alears Watch a 3D Movie</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree (Gift request for HIERARCHYOFMEMES)</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree (Gift request for HIERARCHYOFMEMES)</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1742,7 +1743,7 @@ var data = {
 			title: "Resplendent Lucina (a_fjkw)",
 			artist: "a_fjkw",
 			artist_url: "https://twitter.com/a_fjkw",
-			art_url: null,
+			art_url: "https://www.instagram.com/p/CnKTdSxPfSA/",
 			desc: "This a commission of Resplendent Lucina by Akira Fujikawa (a_fjkw on Twitter) who is the artist for Celica, F!Celica, and Marisa in FEH as well as a number of Cipher cards. I really like the glowing left eye and the butterflies surrounding her. The light effects and her pose make her look really cool and pretty too! It's an amazingly gorgeous piece, and I'm glad I got the opportunity to commission Fujikawa!",
 			date_str: "May 2022",
 			tags: [""],
@@ -2033,8 +2034,8 @@ var data = {
 			art_url: null,
 			desc: "This is a commission of Igrene in a tennis outfit by true_jek_art! Igrene looks beautiful in this attire! The artist also put some Igrene and Hawkeye references in the outfit. It looks like Igrene is repping the Nabata tennis team and is ready to snipe some tennis balls down the court. This one comes with a red version and a white version of the outfit.",
 			date_str: "July 2022",
-			tags: [""],
-			hidden: true
+			tags: ["other"],
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/3F7rylc.png"],
@@ -2141,8 +2142,8 @@ var data = {
 			art_url: null,
 			desc: "This is a commission of summer Mitama waking up at the beach by true_jek_art! The swimsuit and the sunglasses are so nicely designed! Spending time watching the sunset with Mitama at the beach sounds really nice! This was a gift commission for tyle.",
 			date_str: "August 2022",
-			tags: [""],
-			hidden: true
+			tags: ["other"],
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/xkVRKml.jpg"],
@@ -2237,8 +2238,8 @@ var data = {
 			art_url: null,
 			desc: "This is a commission of Florina playing the harp by true_jek_art! When I think of Florina, the instrument that comes to mind is a harp since it produces a soft flowing sound. I really like all the character reference details on her accessories and ornaments. The feathers in her hair must be a reference to her pegasus Huey!",
 			date_str: "August 2022",
-			tags: [""],
-			hidden: true
+			tags: ["other"],
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/EpkPYGd.jpg", "https://i.imgur.com/8WEILLs.jpg"],
@@ -2657,8 +2658,8 @@ var data = {
 			art_url: "https://twitter.com/true_jek_art/status/1585345526265831424",
 			desc: "This a commission of Ophelia dressed as a witch by true_jek_art! This was a gift for Hayato and Jimm. Ophelia is ready for Halloween so she reclasses to a FE Fates Witch. I hope she has fun during this magical night!",
 			date_str: "October 2022",
-			tags: [""],
-			hidden: true
+			tags: ["other"],
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/Ze2qCHM.jpg", "https://i.imgur.com/1IksBNC.jpg"],
@@ -2806,7 +2807,7 @@ var data = {
 		},
 		{
 			src: ["https://i.imgur.com/tfB5EOJ.png", "https://i.imgur.com/CZGbtkJ.gif"],
-			thumbnail: "https://i.imgur.com/09CtMRW.png",
+			thumbnail: "https://i.imgur.com/fYbCjQs.png",
 			title: "Lucina Padoru (Yumizu)",
 			artist: "Yumizu",
 			artist_url: "https://twitter.com/Yumizu",
@@ -2825,8 +2826,8 @@ var data = {
 			art_url: null,
 			desc: "This is a commission of Reina as a barista by true_jek_art! It is a gift for Piff. Reina seems like someone who do a great job at making coffee and lattes in a cafe away from the battlefield. A gentle smile from the experienced Reina should put anyone at ease as you sip on your warm beverage.",
 			date_str: "December 2022",
-			tags: [""],
-			hidden: true
+			tags: ["other"],
+			hidden: false
 		},
 		{
 			src: ["https://i.imgur.com/xLaqPLX.jpg"],
@@ -2885,7 +2886,175 @@ var data = {
 			art_url: "https://twitter.com/onlyt3x/status/1603768042110042114",
 			desc: "This is a joint commission with Exalted, and the art was done by onlyt3x! Dendra and Miriam take care of a patient together in the nurse's office. Their soft pillowy breasts stroke the cock until it erupts. The artwork is amazing and wonderful, and it was great working with the artist who did a very nice job!",
 			date_str: "December 2022",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/7NucSgk.jpg"],
+			thumbnail: "https://i.imgur.com/kFHUib1.png",
+			title: "Hooters Lucina (gausebokashi)",
+			artist: "gausebokashi",
+			artist_url: "https://twitter.com/gausebokashi",
+			art_url: null,
+			desc: "This is a Hooters Lucina by gausebokashi! Lucina looks so pretty! The colors are amazing, and the detail in the food is great! There's a really nice brightness and warmth in this piece, and Lucina's smile is the best!",
+			date_str: "December 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/bNZgB5t.png"],
+			thumbnail: "https://i.imgur.com/LUtFtBp.png",
+			title: "Hooters Lucina (taku1122)",
+			artist: "taku1122",
+			artist_url: "https://twitter.com/taku1122",
+			art_url: null,
+			desc: "This is a Hooters Lucina by taku1122! Lucina looks so pretty and so cute! I love the big smile on her face! I really like this artist's style and choice of bright colors. The arm showing through the pitcher of beer is really cool too! The art is wonderful!",
+			date_str: "December 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/pFiEauW.jpg"],
+			thumbnail: "https://i.imgur.com/1kBeQme.jpg",
+			title: "Robin Baking Cookies (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: "https://twitter.com/true_jek_art/status/1609312943291744257",
+			desc: "This is a commission of F!Robin baking cookies by true_jek_art! This is a gift for scarlet-flowers. The artwork is amazing! I love the details and references in the cookies and in the background! It looks like the delicious cookies gathered a crowd of hungry visitors!",
+			date_str: "December 2022",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/C5dunsA.jpg", "https://i.imgur.com/UVykT8k.png"],
+			thumbnail: "https://i.imgur.com/aHmYepN.png",
+			title: "Great Lord Lucina Missionary Sex (takepopon)",
+			artist: "takepopon",
+			artist_url: "https://twitter.com/takepopon",
+			art_url: null,
+			desc: "This is a commission of Lucina in her Great Lord outfit by takepopon! To celebrate her promotion, Lucina has sex with her beloved in her Great Lord outfit. Lucina looks so cute and pretty! The artist did a great job on this wonderful artwork!",
+			date_str: "January 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/1DDhcxS.png", "https://i.imgur.com/tXrEj8x.png"],
+			thumbnail: "https://i.imgur.com/GPYQsFD.png",
+			title: "Hooters Lucina (R3dFiVe_artist)",
+			artist: "R3dFiVe_artist",
+			artist_url: "https://twitter.com/R3dFiVe_artist",
+			art_url: "https://twitter.com/R3dFiVe_artist/status/1611031069360267265",
+			desc: "This is a Hooters Lucina by R3dFiVe_artist! The artist decided to add the quote for fun, and it's a reference to <a href='https://www.youtube.com/watch?v=m4asEFiuvlE'>an old Hooters commercial</a>. I love the colors and the brightness of the piece. Lucina's confident look is really nice too! This is wonderful artwork!",
+			date_str: "January 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/P7mESOl.jpg"],
+			thumbnail: "https://i.imgur.com/E91nrKn.jpg",
+			title: "Hooters Lucina (arktoons)",
+			artist: "arktoons",
+			artist_url: "https://twitter.com/arktoons",
+			art_url: "https://twitter.com/arktoons/status/1612582661687758851",
+			desc: "This is a Hooters Lucina by arktoons! It's a Your Character Here piece, which came with three cute poses. Lucina looks super cute! Each of these poses is really fun, and Lucina looks great! Her smile is adorable, and I really like her confident poses. The artwork turned out great!",
+			date_str: "January 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/pWF3COt.jpg", "https://i.imgur.com/hlI54h4.jpg"],
+			thumbnail: "https://i.imgur.com/3DSh0GY.png",
+			title: "Hooters Lucina (_huusu_)",
+			artist: "_huusu_",
+			artist_url: "https://twitter.com/_huusu_",
+			art_url: "https://twitter.com/_huusu_/status/1614585814209404932",
+			desc: "This is a Hooters Lucina by _huusu_! Lucina is super cute and pretty! The colors are great, and the detail in the mugs are amazing! The artwork turned out wonderfully, and Lucina's smile is the best!",
+			date_str: "January 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/E2XOcBx.jpg"],
+			thumbnail: "https://i.imgur.com/LTKKpE4.png",
+			title: "Hooters Lucina (kutabire)",
+			artist: "kutabire",
+			artist_url: "https://twitter.com/kutabire",
+			art_url: null,
+			desc: "This is a Hooters Lucina by kutabire! Lucina is super cute in this artwork! I love the vibrant colors and the really cool background. Lucina's smile is adorable too! It turned out really well!",
+			date_str: "January 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/xsxFK8Y.jpg"],
+			thumbnail: "https://i.imgur.com/9kLUhZ4.png",
+			title: "Hooters Lucina (yashuring2)",
+			artist: "yashuring2",
+			artist_url: "https://twitter.com/yashuring2",
+			art_url: "https://twitter.com/yashuring2/status/1616207656615829504",
+			desc: "This is a Hooters Lucina by yashuring2! Lucina is really pretty in this! Her big smile is best! I like the big frothy mugs of beer and the cool spotty effect splashed across the piece. The artist did a great job!",
+			date_str: "January 2022",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/VlE0ryr.png"],
+			thumbnail: "https://i.imgur.com/jlaUJop.png",
+			title: "Hooters Lucina (LazzleDazzler)",
+			artist: "LazzleDazzler",
+			artist_url: "https://twitter.com/LazzleDazzler",
+			art_url: null,
+			desc: "This is a Hooters Lucina by LazzleDazzler! Lucina is super cute! I really like her cute flustered look and the food art as well! The coloring of her hair is really nicely done, and I like the shininess of it. The artist did a wonderful job!",
+			date_str: "January 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/vezGr8U.png"],
+			thumbnail: "https://i.imgur.com/kMeVMoX.png",
+			title: "Hooters Lucina (TheBakaretsu)",
+			artist: "TheBakaretsu",
+			artist_url: "https://twitter.com/TheBakaretsu",
+			art_url: "https://twitter.com/TheBakaretsu/status/1617961462638706695",
+			desc: "This is a Hooters Lucina by TheBakaretsu! I wanted to request a piece where Lucina was having a fun while holding mugs of beer, and the artist did a great job of capturing the excitement in Lucina's expression! I really like TheBakaretsu's work, and they did wonderfully on this one! The artwork is super cute!",
+			date_str: "January 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/s1sifxQ.jpg"],
+			thumbnail: "https://i.imgur.com/f0EVmm8.jpg",
+			title: "Miko Silque (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of Silque dressed in a traditional Japanese shrine maiden miko costume by true_jek_art! This was a gift for MisoSoup! I thought the idea of a priestess in another type of priestess clothing would be interesting to see, and true_jek_art did a great job!",
+			date_str: "January 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/qtJqmMs.jpg", "https://i.imgur.com/6bF2C33.jpg"],
+			thumbnail: "https://i.imgur.com/DYMKntS.jpg",
+			title: "Lucina Naizuri",
+			artist: "DirtyEro",
+			artist_url: "https://twitter.com/DirtyEro",
+			art_url: "https://twitter.com/DirtyEro/status/1618787326892838912",
+			desc: "This is a commission of Lucina giving Robin a titjob by DirtyEro! Lucina tries her best to give her beloved Robin a titjob using her small breasts. Robin loves it and covers her in cum. It looks like both of them aren't done yet as they get ready for a second round!",
+			date_str: "January 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: [""],
+			thumbnail: "",
+			title: "Hooters Lucina (putcherillust)",
+			artist: "putcherillust",
+			artist_url: "https://twitter.com/putcherillust",
+			art_url: null,
+			desc: "This is a Hooters Lucina by putcherillust! The artist draws abs really well, so I asked for Lucina's abs to be visible and toned. It turned out really well! Lucina is very pretty, and I think it makes sense that Lucina would have abs from the years of training. The artwork was wonderfully done!",
+			date_str: "January 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
