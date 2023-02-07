@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg", "blob:https://imgur.com/78337d53-6ff8-49de-b1c2-c5fd18959958"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg", "https://i.imgur.com/7nNwWPi.jpg", "https://i.imgur.com/NtJGc2z.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -579,8 +579,9 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1571861166510723072' target='_blank'>Nephenee and Pancakes</a> (Gift request for labmemb3r)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1580876737285869570' target='_blank'>Halloween Lucina</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1592341458505564162' target='_blank'>The Alears Watch a 3D Movie</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree (Gift request for HIERARCHYOFMEMES)</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree</a> (Gift request for HIERARCHYOFMEMES)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3046,15 +3047,63 @@ var data = {
 			hidden: false
 		},
 		{
-			src: [""],
-			thumbnail: "",
+			src: ["https://i.imgur.com/XD4QhZr.png"],
+			thumbnail: "https://i.imgur.com/lIIyHMi.png",
 			title: "Hooters Lucina (putcherillust)",
 			artist: "putcherillust",
 			artist_url: "https://twitter.com/putcherillust",
-			art_url: null,
+			art_url: "https://twitter.com/putcherillust/status/1620743522591854593",
 			desc: "This is a Hooters Lucina by putcherillust! The artist draws abs really well, so I asked for Lucina's abs to be visible and toned. It turned out really well! Lucina is very pretty, and I think it makes sense that Lucina would have abs from the years of training. The artwork was wonderfully done!",
 			date_str: "January 2023",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/BbMucJX.jpg"],
+			thumbnail: "https://i.imgur.com/f4MqfSe.png",
+			title: "Hooters Lucina (lucinansky_art)",
+			artist: "lucinansky_art",
+			artist_url: "https://twitter.com/lucinansky_art",
+			art_url: "https://twitter.com/lucinansky_art/status/1620322636852236288",
+			desc: "This is a Hooters Lucina by lucinansky_art! According to the artist, Lucina is fooled into thinking Hooters is a strip bar instead of a sports bar by some naughty customers. It's an interesting and fun interpretation of the standard concept!",
+			date_str: "January 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/CHm1mjL.jpg", "https://i.imgur.com/iMgGDue.jpg", "https://i.imgur.com/NbgwHEj.jpg", "https://i.imgur.com/AS4wbEq.jpg", "https://i.imgur.com/M8iAjY4.jpg", "https://i.imgur.com/sWp3e9K.jpg"],
+			thumbnail: "https://i.imgur.com/76NTGTP.jpg",
+			title: "Lucina and Anna Kissing Passionately (JosephwolfNSFW)",
+			artist: "JosephwolfNSFW",
+			artist_url: "https://twitter.com/JosephwolfNSFW",
+			art_url: null,
+			desc: "This is a joint commission with Impulse96 with the art by JosephwolfNSFW! This comes with six outfit variations total: regular, spring bunny, swimsuit, Valentine's, Hooters, and nude. Lucina does her best to work your tongue as Anna works Lucina's pussy. The two kiss passionately no matter the season or scenario!",
+			date_str: "February 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/3OU41jS.jpg"],
+			thumbnail: "https://i.imgur.com/dwgwoKL.jpg",
+			title: "Camilla and Lucina Wish You a Happy Lunar New Year 2023 (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://twitter.com/RedKite333",
+			art_url: "https://twitter.com/RedKite333/status/1622020091209728001",
+			desc: "This is a joint commission with Spider_Tamer with the art done by RedKite333! Camilla and Lucina don their qipaos and celebrate the 2023 Lunar New Year together. They wish you good fortune and health for the year! They look super pretty, and the artist did an amazing job with the outfits, the background, and the fun festive tone of this piece!",
+			date_str: "February 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/ovPfCTh.png", "https://i.imgur.com/SvhZwfi.png", "https://i.imgur.com/6bL9Pcu.png", "https://i.imgur.com/cOnD7Rm.png", "https://i.imgur.com/aaMTq46.png", "https://i.imgur.com/EwkNnVK.png", "https://i.imgur.com/Sh8esrm.png", "https://i.imgur.com/DEUAgc4.png"],
+			thumbnail: "https://i.imgur.com/td5rtyG.png",
+			title: "Resplendent Brave Lucina Sex (sirano65494554)",
+			artist: "sirano65494554",
+			artist_url: "https://twitter.com/sirano65494554",
+			art_url: "https://twitter.com/sirano65494554/status/1622253340473331712",
+			desc: "This is a commission of Resplendent Brave Lucina having sex by sirano65494554! Robin got turned on after seeing Lucina in her new Resplendent Brave outfit, so he picks her up and starts pounding. The couple lock lips as Robin cums deep inside. The art is awesome! There is also a nude version as well, and Lucina looks very sexy!",
+			date_str: "February 2023",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
