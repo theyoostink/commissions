@@ -2975,6 +2975,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://i.imgur.com/sxvMHJv.jpg", "https://i.imgur.com/CfeKmTl.jpg"],
+			thumbnail: "https://i.imgur.com/a87nPtH.png",
+			title: "Lucina's Nude Breakfast",
+			artist: "eva02marina0",
+			artist_url: "https://twitter.com/eva02marina0",
+			art_url: "https://twitter.com/eva02marina0/status/1626143296874778624",
+			desc: "This is a commission of Lucina eating breakfast in the nude by eva02marina0! Lucina sits down on an elegant sofa to enjoy a simple breakfast of toast and chocolate milk. She looks super pretty, and her yawn is super cute!",
+			date_str: "January 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://i.imgur.com/E2XOcBx.jpg"],
 			thumbnail: "https://i.imgur.com/LTKKpE4.png",
 			title: "Hooters Lucina (kutabire)",
@@ -3105,6 +3117,66 @@ var data = {
 			date_str: "February 2023",
 			tags: ["nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/fKN5Ka6.png"],
+			thumbnail: "https://i.imgur.com/k6nwB4V.png",
+			title: "Hooters Lucina Paizuri (maruto)",
+			artist: "maruto",
+			artist_url: "https://twitter.com/maruto",
+			art_url: null,
+			desc: "This is a commission of a paizuri from Hooters Lucina by maruto! While still wearing her work uniform, Lucina uses her breasts to give someone a tit fuck. The man cums in between her breasts covering her shirt, chest, and face with his semen. It looks like Lucina had a blast!",
+			date_str: "February 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/TenuHDL.jpg"],
+			thumbnail: "https://i.imgur.com/59nSBbm.png",
+			title: "Florina on Valentine's Day (chan_hone_pkpk)",
+			artist: "chan_hone_pkpk",
+			artist_url: "https://twitter.com/chan_hone_pkpk",
+			art_url: null,
+			desc: "This is a commission of Florina with art by chan_hone_pkpk. The gift was for fluger as part of a Secret Santa type of event. Florina made some homemade Valentine's Day chocolates and rushed over on pegasus to deliver them as soon as possible.",
+			date_str: "February 2023",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/oGGJt5R.jpg"],
+			thumbnail: "https://i.imgur.com/4Qtn7WX.jpg",
+			title: "Hooters Lucina (parupomo)",
+			artist: "parupomo",
+			artist_url: "https://twitter.com/parupomo",
+			art_url: "https://twitter.com/parupomo/status/1625842078864539653",
+			desc: "This is a Hooters Lucina by parupomo! Lucina looks so pretty and cute! When I saw the artist's previous Lucina artwork, I wanted to commission them for a Hooters Lucina, and it turned out great! I really like all the colors and motion conveyed in the art through the beer foam and chicken wing steam. They give the work a lively and dynamic feeling!",
+			date_str: "February 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Is5MDNW.jpg", "https://i.imgur.com/0AZYKr8.jpg"],
+			thumbnail: "https://i.imgur.com/t9XVBCq.jpg",
+			title: "Year of the Rabbit Lucina and Nina (ShiroFont)",
+			artist: "ShiroFont",
+			artist_url: "https://twitter.com/ShiroFont",
+			art_url: "https://twitter.com/ShiroFont/status/1626053867871019008",
+			desc: "This a joint commission artwork done by ShiroFont! To celebrate the Year of the Rabbit, Lucina and Nina both dress up in bunny suits. Both of them look so pretty, and the artist did an amazing job on all the details! You can also check the <a href='https://www.pixiv.net/artworks/105431503'>pixiv source</a> for the spicy variant.",
+			date_str: "February 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/sLl5Dbn.jpg", "https://i.imgur.com/M9KdyRq.jpg"],
+			thumbnail: "https://i.imgur.com/o5TgoRp.jpg",
+			title: "Office Lady Charlotte (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of office lady Charlotte by true_jek_art! This was a gift to Spy/Sera. The big white bow is super cute, and the name tag and lanyard is a really nice detail. The glasses variant also adds a bit of sophistication to Charlotte's look!",
+			date_str: "February 2023",
+			tags: ["other"],
+			hidden: true
 		},
 		{
 			src: [""],
