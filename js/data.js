@@ -1393,9 +1393,9 @@ var data = {
 		{
 			src: ["https://i.imgur.com/TNfTjbR.jpg", "https://i.imgur.com/1dKKLkp.jpg"],
 			thumbnail: "https://i.imgur.com/HkFPl5A.jpg",
-			title: "Hooters Lucina Thighjob (the_atko)",
+			title: "Hooters Lucina Thighjob (AtKOArt)",
 			artist: "the_atko",
-			artist_url: "https://twitter.com/the_atko",
+			artist_url: "https://twitter.com/AtKOArt",
 			art_url: null,
 			desc: "This is a commission of Hooters Lucina giving a thighjob by the_atko! Lucina uses her soft thighs and her hand to gently caress the penis. The man can't hold back from the tender strokes and ejaculates all over Lucina. I like the vibrancy of the piece and how you can tell how soft her thighs are. Lucina also looks so pretty and cute too!",
 			date_str: "April 2022",
@@ -3227,8 +3227,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: [""],
-			thumbnail: "",
+			src: ["https://i.imgur.com/6Wvad8O.png"],
+			thumbnail: "https://i.imgur.com/TtUkIro.png",
 			title: "Lucina and Mitama Scissoring (whitepakaillust)",
 			artist: "whitepakaillust",
 			artist_url: "https://twitter.com/whitepakaillust",
@@ -3236,6 +3236,42 @@ var data = {
 			desc: "This is a commission of Lucina and Mitama scissoring by whitepakaillust! Lucina and Mitama get to know each other very intimately and become sex friends. They experiment with each other's body and become even closer. The artwork was done very well, and they both look very cute and sexy!",
 			date_str: "February 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/8T4mYau.jpg", "https://i.imgur.com/8t8xAiK.jpg", "https://i.imgur.com/JBJ0QvS.jpg", "https://i.imgur.com/Jjh7e5c.jpg"],
+			thumbnail: "https://i.imgur.com/Ne5hhmC.png",
+			title: "Robin Emblem Engages with Lucina (kahun9893)",
+			artist: "kahun9893",
+			artist_url: "https://twitter.com/kahun9893",
+			art_url: null,
+			desc: "This is a commission of Robin emblem engaging with Lucina and then fucking her by kahun9893! Robin puts on Lucina's emblem ring, engages, and then fucks her in the pile drive position. Emblem Lucina loves it when Robin takes charge and cums inside her. The artist did an amazing job!",
+			date_str: "February 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/WQHmZn8.png"],
+			thumbnail: "https://i.imgur.com/m4U2uEt.png",
+			title: "Flight Attendant Lucina (faith0m)",
+			artist: "faith0m",
+			artist_url: "https://twitter.com/faith0m",
+			art_url: null,
+			desc: "This is a commission of Lucina as a flight attendant by faith0m! Lucina looks super pretty! I love faith0m's Lucina artwork, and they did a great job with the whole design. There are a lot of references in the details of the outfit and the suitcase. It turned out so well, and the artwork is amazing!",
+			date_str: "February 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/RNDTEPZ.png"],
+			thumbnail: "https://i.imgur.com/NlIGqPW.png",
+			title: "Hooters Lucina (kitune_n)",
+			artist: "kitune_n",
+			artist_url: "https://twitter.com/kitune_n",
+			art_url: null,
+			desc: "This is a Hooters Lucina by kitune_n! Lucina looks really pretty! I really like the lighting and the bubble effects. It's reminiscent of a mug of bubbly beer. It helps give the piece a really nice vibrancy. Also, Lucina's smile is the best!",
+			date_str: "March 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
