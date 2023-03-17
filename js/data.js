@@ -305,7 +305,7 @@ var data = {
 			thumbnail: "https://i.imgur.com/KbMnsNm.jpg",
 			title: "Hooters Lucina (joysjsj00)",
 			artist: "joysjsj00",
-			artist_url: "https://www.instagram.com/joysjsj00/",
+			artist_url: "https://twitter.com/joysjsj",
 			art_url: null,
 			desc: "This is a Hooters Lucina by Joy. This turned out really pretty and really cute! The artist was also great and very friendly. Lucina looks a little shy, but the pose shows confidence. And I really like how that's depicted.",
 			date_str: "August 2021",
@@ -553,7 +553,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg", "https://i.imgur.com/7nNwWPi.jpg", "https://i.imgur.com/NtJGc2z.jpg"],
+			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg", "https://i.imgur.com/7nNwWPi.jpg", "https://i.imgur.com/NtJGc2z.jpg", "https://i.imgur.com/NNKICzX.jpg"],
 			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
@@ -581,7 +581,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1592341458505564162' target='_blank'>The Alears Watch a 3D Movie</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree</a> (Gift request for HIERARCHYOFMEMES)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>
+			<a href='https://twitter.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3256,7 +3257,7 @@ var data = {
 			title: "Flight Attendant Lucina (faith0m)",
 			artist: "faith0m",
 			artist_url: "https://twitter.com/faith0m",
-			art_url: null,
+			art_url: "https://twitter.com/faith0m/status/1631835381019860994",
 			desc: "This is a commission of Lucina as a flight attendant by faith0m! Lucina looks super pretty! I love faith0m's Lucina artwork, and they did a great job with the whole design. There are a lot of references in the details of the outfit and the suitcase. It turned out so well, and the artwork is amazing!",
 			date_str: "February 2023",
 			tags: [""],
@@ -3264,7 +3265,7 @@ var data = {
 		},
 		{
 			src: ["https://i.imgur.com/RNDTEPZ.png"],
-			thumbnail: "https://i.imgur.com/NlIGqPW.png",
+			thumbnail: "https://i.imgur.com/tN0yv2E.png",
 			title: "Hooters Lucina (kitune_n)",
 			artist: "kitune_n",
 			artist_url: "https://twitter.com/kitune_n",
@@ -3273,6 +3274,102 @@ var data = {
 			date_str: "March 2023",
 			tags: ["hooters"],
 			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/6gu5X70.jpg"],
+			thumbnail: "https://i.imgur.com/5sQ4tt7.jpg",
+			title: "Hooters Lucina (ramyeonguksu)",
+			artist: "ramyeonguksu",
+			artist_url: "https://twitter.com/ramyeonguksu",
+			art_url: "https://twitter.com/ramyeonguksu/status/1633532185868382208",
+			desc: "This is a Hooters Lucina by ramyeonguksu! Lucina looks really pretty! The food looks tasty, and I really love the warm colors in this piece. I'm glad that the artist had a lot of fun working on the artwork. It turned out amazingly!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/6UAtZhr.jpg"],
+			thumbnail: "https://i.imgur.com/UyKdZnA.png",
+			title: "Resplendent Brave Lucina (a_fjkw)",
+			artist: "a_fjkw",
+			artist_url: "https://twitter.com/a_fjkw",
+			art_url: "https://twitter.com/a_fjkw/status/1633705250824806403",
+			desc: "This is a commission of Resplendent Brave Lucina by Akira Fujikawa! This is the second commission I got from Fujikawa with the first being Resplendent base Lucina. I really love the fiery and fierce tone of this piece. Lucina looks like she's ready to battle!",
+			date_str: "March 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/Howwrf4.jpg"],
+			thumbnail: "https://i.imgur.com/w7PIPgd.jpg",
+			title: "Hooters Lucina (sierra117renner)",
+			artist: "sierra117renner",
+			artist_url: "https://twitter.com/sierra117renner",
+			art_url: "https://twitter.com/sierra117renner/status/1633726670065524739",
+			desc: "This is a Hooters Lucina by sierra117renner! Lucina looks super pretty! I love the colors and the big frothy mugs of beer. The background is also really nice. The art was wonderfully done!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/8W1HZw8.png"],
+			thumbnail: "https://i.imgur.com/KiNkBbH.png",
+			title: "Hooters Lucina (shan0732)",
+			artist: "shan0732",
+			artist_url: "https://twitter.com/shan0732",
+			art_url: "https://twitter.com/shan0732/status/1633981974661722112",
+			desc: "This is a Hooters Lucina by shan0732! Lucina looks so cute! I really love the way the hair was drawn and colored. Lucina's smile is the best! The artist did an amazing job!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/fJsJ9z2.png"],
+			thumbnail: "https://i.imgur.com/cNG4MUo.png",
+			title: "Hooters Yuzu (AAAmagasA)",
+			artist: "AAAmagasA",
+			artist_url: "https://twitter.com/AAAmagasA",
+			art_url: null,
+			desc: "This is a commission of Hooters Yuzu by AAAmagasA! Yuzu is a character from the Fire Emblem Shadows of Valentia DLC. She was the 2023 April Fool's Day character for the Lucina Fan Club. Yuzu is trying her best, but she trips over a chair leg and tumbles over with two burgers in her hands. Oh no!",
+			date_str: "March 2023",
+			tags: ["hooters", "other"],
+			hidden: true
+		},
+		{
+			src: ["https://i.imgur.com/bzl0AOO.jpg", "https://i.imgur.com/Mi5YWB4.jpg"],
+			thumbnail: "https://i.imgur.com/3zmOTlj.png",
+			title: "Hooters Lucina (bhive003)",
+			artist: "bhive003",
+			artist_url: "https://twitter.com/bhive003",
+			art_url: "https://twitter.com/bhive003/status/1635275763707682824",
+			desc: "This is a Hooters Lucina by bhive003! I absolutely adore the colors and lighting and shading in this piece! Lucina looks super pretty and cute! Her smile is adorable, and the food looks great! It looks like Captain Falcon and Kirby are also enjoying their meal!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/lNs6HL1.png"],
+			thumbnail: "https://i.imgur.com/7Kp3ZZ8.png",
+			title: "Hooters Lucina (wwitchi_)",
+			artist: "wwitchi_",
+			artist_url: "https://twitter.com/wwitchi_",
+			art_url: null,
+			desc: "This is a Hooters Lucina by wwitchi_! She looks so pretty and cute! Her wink and smile are adorable, and I love the way the hair is drawn and colored! The artist did an amazing job on this piece!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://i.imgur.com/BoV8dq8.jpg"],
+			thumbnail: "https://i.imgur.com/2djispe.png",
+			title: "Lucina and Silque Celebrate a Birthday (chan_hone_pkpk)",
+			artist: "chan_hone_pkpk",
+			artist_url: "https://twitter.com/chan_hone_pkpk",
+			art_url: null,
+			desc: "This is a gift commission for Miso by chan_hone_pkpk! Lucina and Silque are both celebrating a birthday and have prepared a delicious-looking chocolate and strawberry cake! They both look so pretty and cute, and their smiles are the best!",
+			date_str: "March 2023",
+			tags: [""],
+			hidden: true
 		},
 		{
 			src: [""],
