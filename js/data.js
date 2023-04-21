@@ -1,8 +1,8 @@
 var data = {
 	images: [
 		{
-			src: ["https://i.imgur.com/XaeP0ZF.jpg"],
-			thumbnail: "https://i.imgur.com/eiaQ5bK.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076173021061192/2_-_XaeP0ZF.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604257088905216/2_-_eiaQ5bK.jpg",
 			title: "Lucina Spilled Some Yogurt",
 			artist: "Anonymous Artist",
 			artist_url: null,
@@ -13,8 +13,8 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/RPVOpBi.png"],
-			thumbnail: "https://i.imgur.com/H2WRcUR.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098604173261557761/2_-_em6weUX.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604257365733496/3_-_H2WRcUR.jpg",
 			title: "Hooters Lucina (Anonymous Artist)",
 			artist: "Anonymous Artist",
 			artist_url: null,
@@ -25,8 +25,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/etMkAct.png"],
-			thumbnail: "https://i.imgur.com/WL9zGCq.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098604173626450050/3_-_etMkAct.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604257600622642/4_-_WL9zGCq.jpg",
 			title: "Christmas Hooters Lucina (Anonymous Artist)",
 			artist: "Anonymous Artist",
 			artist_url: null,
@@ -37,8 +37,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ScrrpAv.jpg"],
-			thumbnail: "https://i.imgur.com/ktkABoP.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098604174079447122/4_-_Qkt1ebY.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604257806127234/5_-_ktkABoP.jpg",
 			title: "Hooters Lucina (VialNite)",
 			artist: "VialNite",
 			artist_url: "https://twitter.com/VialNite",
@@ -49,8 +49,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/nptagAl.jpg"],
-			thumbnail: "https://i.imgur.com/w4HPbrr.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098604174775689308/5_-_0Dw52lo.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604258124902482/6_-_w4HPbrr.jpg",
 			title: "Hooters Lucina (Vallurite)",
 			artist: "Vallurite",
 			artist_url: "https://twitter.com/Vallurite",
@@ -61,8 +61,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/c6WlxG6.png", "https://i.imgur.com/vMKoJ4z.png"],
-			thumbnail: "https://i.imgur.com/TOzgr8P.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098604175090274377/6_-_BT3vKTQ.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098604175497109585/7_-_vMKoJ4z.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604258376568902/7_-_TOzgr8P.jpg",
 			title: "Hooters Lucina (SonicHeroXD)",
 			artist: "SonicHeroXD",
 			artist_url: "https://twitter.com/SonicHeroXD",
@@ -73,8 +73,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/AkMNIvr.jpg"],
-			thumbnail: "https://i.imgur.com/l90cVfD.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098604175962685470/8_-_AkMNIvr.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098604256828870768/8_-_l90cVfD.jpg",
 			title: "Hooters Lucina (m1n0f2e1_)",
 			artist: "m1n0f2e1_",
 			artist_url: "https://twitter.com/m1n0f2e1_",
@@ -85,8 +85,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/UCipSh3.jpg", "https://i.imgur.com/wLaZUYk.png"],
-			thumbnail: "https://i.imgur.com/QWmbES4.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614337364578304/9_-_UCipSh3.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098614337750442065/10_-_wLaZUYk.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614428473229543/9_-_QWmbES4.jpg",
 			title: "Hooters Lucina (PPPMMMRRROOO)",
 			artist: "PPPMMMRRROOO",
 			artist_url: "https://twitter.com/PPPMMMRRROOO",
@@ -97,8 +97,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1swR4Cg.jpg"],
-			thumbnail: "https://i.imgur.com/rUjzNRE.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614338362814504/11_-_1swR4Cg.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614428838150174/10_-_rUjzNRE.jpg",
 			title: "Hooters Lucina (nekko_donburi)",
 			artist: "nekko_donburi",
 			artist_url: "https://twitter.com/nekko_donburi",
@@ -109,8 +109,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/mv7v0xR.jpg"],
-			thumbnail: "https://i.imgur.com/HwNTLdH.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614338840973404/12_-_mv7v0xR.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614429257576568/11_-_HwNTLdH.jpg",
 			title: "Lucina HYPE!!!! (Vallurite)",
 			artist: "Vallurite",
 			artist_url: "https://twitter.com/Vallurite",
@@ -121,8 +121,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lVHF8Bh.jpg"],
-			thumbnail: "https://i.imgur.com/ualTckk.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614339113594900/13_-_lVHF8Bh.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614429513416754/12_-_ualTckk.jpg",
 			title: "Hooters Lucina (Densho_Hiyoko)",
 			artist: "Densho_Hiyoko",
 			artist_url: "https://twitter.com/Densho_Hiyoko",
@@ -133,8 +133,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ccyatcl.jpg"],
-			thumbnail: "https://i.imgur.com/Mt00W76.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614339373649930/14_-_ccyatcl.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614429773479946/13_-_Mt00W76.jpg",
 			title: "Hooters Lucina (wawatiku)",
 			artist: "wawatiku",
 			artist_url: "https://twitter.com/wawatiku",
@@ -145,8 +145,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/CM2hePj.jpg"],
-			thumbnail: "https://i.imgur.com/x0nj0fL.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614339822432438/15_-_CM2hePj.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614430062882886/14_-_x0nj0fL.jpg",
 			title: "Hooters Lucina (AKN_646)",
 			artist: "AKN_646",
 			artist_url: "https://twitter.com/AKN_646",
@@ -157,8 +157,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/kTenxhH.jpg"],
-			thumbnail: "https://i.imgur.com/qyukxm0.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098614340208304198/16_-_kTenxhH.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098614430410997800/15_-_qyukxm0.jpg",
 			title: "Hooters Lucina (Ihsnet)",
 			artist: "Ihsnet",
 			artist_url: "https://twitter.com/Ihsnet",
@@ -169,8 +169,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/iQA108g.png"],
-			thumbnail: "https://i.imgur.com/JDwWXz8.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615204490793082/17_-_iQA108g.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615441410248744/16_-_JDwWXz8.jpg",
 			title: "Hooters Lucina (SMGold)",
 			artist: "SMGold",
 			artist_url: "https://twitter.com/SMGold_",
@@ -181,8 +181,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/jCdkav2.png"],
-			thumbnail: "https://i.imgur.com/Fwvi94d.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615204901822604/18_-_jCdkav2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615441657696307/17_-_Fwvi94d.jpg",
 			title: "Hooters Lucina (B_PearlWhite)",
 			artist: "B_PearlWhite",
 			artist_url: "https://twitter.com/B_PearlWhite",
@@ -193,8 +193,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/8WO5lvZ.png"],
-			thumbnail: "https://i.imgur.com/PIbWnGJ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615205262528542/19_-_8WO5lvZ.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615441951293470/18_-_PIbWnGJ.jpg",
 			title: "Hooters Lucina (frogbians)",
 			artist: "frogbians",
 			artist_url: "https://twitter.com/frogbiansVEVO",
@@ -205,8 +205,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/cVwQh9z.jpg"],
-			thumbnail: "https://i.imgur.com/cUaFeGL.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615206596333680/20_-_cVwQh9z.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615442215555143/19_-_cUaFeGL.jpg",
 			title: "Hooters Lucina (zaki_btw)",
 			artist: "zaki_btw",
 			artist_url: "https://twitter.com/zaki_btw",
@@ -217,8 +217,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/IdkEhPb.png"],
-			thumbnail: "https://i.imgur.com/UVAQhqV.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615206973808721/21_-_IdkEhPb.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615442521722960/20_-_UVAQhqV.jpg",
 			title: "Hooters Lucina (harunn2288)",
 			artist: "harunn2288",
 			artist_url: "https://twitter.com/harunn2288",
@@ -229,8 +229,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/on6FNHP.jpg", "https://i.imgur.com/MqbFNgs.jpg"],
-			thumbnail: "https://i.imgur.com/jH9IJ5E.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615207640698940/22_-_on6FNHP.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076173411143760/4_-_MqbFNgs.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615442756599880/21_-_jH9IJ5E.jpg",
 			title: "Hooter Lucina (kalruna)",
 			artist: "kalruna",
 			artist_url: "https://twitter.com/kalruna_art",
@@ -241,8 +241,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/PRhT6Tt.png"],
-			thumbnail: "https://i.imgur.com/fZqwoFj.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615208014008450/23_-_PRhT6Tt.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615443087970374/22_-_fZqwoFj.jpg",
 			title: "Hooters Lucina (BBK13zK)",
 			artist: "BBK13zK",
 			artist_url: "https://twitter.com/bbk13z",
@@ -253,8 +253,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/vMXEesI.jpg"],
-			thumbnail: "https://i.imgur.com/rcMOXEj.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098615208580227194/24_-_vMXEesI.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615443368972298/23_-_rcMOXEj.jpg",
 			title: "Hooters Lucina (Patdarux Dream)",
 			artist: "Patdarux Dream",
 			artist_url: "https://twitter.com/patdarux",
@@ -265,8 +265,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lMFDdBV.png"],
-			thumbnail: "https://i.imgur.com/YJ2KXWR.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800780271697942/25_-_lMFDdBV.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098615443620626493/24_-_YJ2KXWR.jpg",
 			title: "Hooters Lucina (azure_monarch)",
 			artist: "azure_monarch",
 			artist_url: "https://twitter.com/azure_monarch",
@@ -277,8 +277,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/tHCuhq4.jpg"],
-			thumbnail: "https://i.imgur.com/6uW38Cp.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800780997316748/26_-_tHCuhq4.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623106605650030/25_-_6uW38Cp.jpg",
 			title: "Lifeguard Lucina (GrimmelsDaThird)",
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
@@ -289,8 +289,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/sTeqn0d.jpg"],
-			thumbnail: "https://i.imgur.com/gBLQlwG.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800781353828432/27_-_sTeqn0d.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623106895061012/26_-_gBLQlwG.jpg",
 			title: "Hooters Lucina & Tomboy Outback Lucina (cluseller)",
 			artist: "cluseller",
 			artist_url: "https://twitter.com/cluseller",
@@ -301,8 +301,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/E38bzcp.png"],
-			thumbnail: "https://i.imgur.com/KbMnsNm.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800781869711390/28_-_E38bzcp.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623107280949248/27_-_KbMnsNm.jpg",
 			title: "Hooters Lucina (joysjsj00)",
 			artist: "joysjsj00",
 			artist_url: "https://twitter.com/joysjsj",
@@ -313,8 +313,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/nngQwJF.png"],
-			thumbnail: "https://i.imgur.com/ZbLlw54.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800782373048410/29_-_nngQwJF.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623107595505706/28_-_ZbLlw54.jpg",
 			title: "Hooters Lucina (deeKei)",
 			artist: "deeKei",
 			artist_url: "https://twitter.com/_deeKei",
@@ -325,8 +325,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/HqPH9Wr.jpg"],
-			thumbnail: "https://i.imgur.com/Nic6DtB.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076173675368539/5_-_HqPH9Wr.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623108027523243/29_-_Nic6DtB.jpg",
 			title: "Lucina Paizuri (Devilukez10)",
 			artist: "Devilukez10",
 			artist_url: "https://twitter.com/Devilukez10",
@@ -337,8 +337,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/OSYbVI2.png"],
-			thumbnail: "https://i.imgur.com/OsoD6Kc.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800782872166470/30_-_OSYbVI2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623108354691182/30_-_OsoD6Kc.jpg",
 			title: "Hooters Lucina (NaijMizuho)",
 			artist: "NaijMizuho",
 			artist_url: "https://twitter.com/SnippyAsianGuy",
@@ -349,8 +349,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/76KwElN.jpg"],
-			thumbnail: "https://i.imgur.com/1krLRAI.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800783283191978/31_-_76KwElN.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623108644085810/31_-_1krLRAI.jpg",
 			title: "Hooters Lucina (tsunsune)",
 			artist: "tsunsune",
 			artist_url: "https://twitter.com/tsunsune",
@@ -361,8 +361,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/0KRih0U.jpg"],
-			thumbnail: "https://i.imgur.com/ALgsgOo.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800783534866523/32_-_0KRih0U.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623108895756348/32_-_ALgsgOo.jpg",
 			title: "Hooters Lucina (RayDango)",
 			artist: "RayDango",
 			artist_url: "https://twitter.com/ray_dango",
@@ -373,8 +373,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Ir796bU.png"],
-			thumbnail: "https://i.imgur.com/xeRckC3.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800804808364072/33_-_Ir796bU.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623489327509575/33_-_xeRckC3.jpg",
 			title: "Hooters Lucina (graysheartart)",
 			artist: "graysheartart",
 			artist_url: "https://twitter.com/graysheartart",
@@ -385,8 +385,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/HwvGRJk.png"],
-			thumbnail: "https://i.imgur.com/Amhda50.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800805458497547/34_-_HwvGRJk.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623489625309225/34_-_Amhda50.jpg",
 			title: "Hooters Lucina (ArcEdo)",
 			artist: "ArcEdo",
 			artist_url: "https://twitter.com/Arc_Edo11",
@@ -397,8 +397,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ZXMy5az.png"],
-			thumbnail: "https://i.imgur.com/oRpXHei.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800805835980860/35_-_ZXMy5az.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623489847595100/35_-_oRpXHei.jpg",
 			title: "Hooters Lucina (John Caden)",
 			artist: "John Caden",
 			artist_url: "https://twitter.com/JohnCaden64",
@@ -409,8 +409,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Qzzp5Xa.jpg"],
-			thumbnail: "https://i.imgur.com/hFeuim5.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800806460936202/36_-_Qzzp5Xa.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623490313170985/36_-_hFeuim5.jpg",
 			title: "Hooters Lucina (eva02marina0)",
 			artist: "eva02marina0",
 			artist_url: "https://twitter.com/eva02marina0",
@@ -421,8 +421,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/kbpAZ1W.png"],
-			thumbnail: "https://i.imgur.com/PB9ZMhm.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800806821642260/37_-_kbpAZ1W.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623490686455908/37_-_PB9ZMhm.jpg",
 			title: "Hooters Lucina (OrenjiNoodle)",
 			artist: "OrenjiNoodle",
 			artist_url: "https://twitter.com/OrenjiNoodle",
@@ -433,8 +433,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/7ADHqIx.jpg"],
-			thumbnail: "https://i.imgur.com/hXiylRj.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800807459164210/38_-_7ADHqIx.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623491030396928/38_-_hXiylRj.jpg",
 			title: "Hooters Lucina (Seityr)",
 			artist: "Seityr",
 			artist_url: "https://twitter.com/Seityr_Art",
@@ -445,8 +445,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/G9QwHN2.jpg", "https://i.imgur.com/z6Ahcqy.jpg", "https://i.imgur.com/IxzHnO6.jpg", "https://i.imgur.com/D503m1I.jpg", "https://i.imgur.com/03JLEMK.jpg", "https://i.imgur.com/fd99dy8.jpg", "https://i.imgur.com/4YP001d.jpg", "https://i.imgur.com/UuJFJVF.jpg", "https://i.imgur.com/zb1LgAa.jpg", "https://i.imgur.com/qFN1Z8W.jpg", "https://i.imgur.com/hMhmw44.jpg", "https://i.imgur.com/nZ5n1rf.jpg", "https://i.imgur.com/BVDbGiJ.jpg"],
-			thumbnail: "https://i.imgur.com/V5qYbiz.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076174333878402/6_-_G9QwHN2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076174631686144/7_-_z6Ahcqy.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076174971408384/8_-_IxzHnO6.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076208530042960/9_-_D503m1I.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076208840429619/10_-_03JLEMK.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076209243062303/11_-_fd99dy8.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076209515704491/12_-_4YP001d.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076209784148029/13_-_UuJFJVF.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076210090311752/14_-_zb1LgAa.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076210350370846/15_-_qFN1Z8W.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076210643980299/16_-_hMhmw44.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076240595505285/17_-_nZ5n1rf.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076240863932496/18_-_BVDbGiJ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623491487567973/39_-_V5qYbiz.jpg",
 			title: "Sex with Summer Lucina (mazenda3378)",
 			artist: "mazenda3378",
 			artist_url: "https://twitter.com/mazenda3378",
@@ -457,8 +457,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/0rpziUl.png"],
-			thumbnail: "https://i.imgur.com/MyMvSSp.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800807786336368/39_-_0rpziUl.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623491823124610/40_-_MyMvSSp.jpg",
 			title: "Dumb_Lucina (eunnieverse)",
 			artist: "eunnieverse",
 			artist_url: "https://twitter.com/eunnieverse",
@@ -469,8 +469,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TV24SId.png"],
-			thumbnail: "https://i.imgur.com/Vvswb6P.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800808172208168/40_-_TV24SId.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623808287555724/41_-_Vvswb6P.jpg",
 			title: "Hooters Lucina (Ozkh)",
 			artist: "Ozkh",
 			artist_url: "https://twitter.com/Ozkh6",
@@ -481,8 +481,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/RGLrXJw.jpg"],
-			thumbnail: "https://i.imgur.com/9pVxmJw.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800842779414638/41_-_RGLrXJw.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623808547586128/42_-_9pVxmJw.jpg",
 			title: "Hooters Lucina (Desspie)",
 			artist: "Desspie",
 			artist_url: "https://twitter.com/Desspie",
@@ -493,8 +493,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/4vA0bMn.jpg", "https://i.imgur.com/4CI6pZm.jpg"],
-			thumbnail: "https://i.imgur.com/0CuoXj5.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076241136558121/19_-_4vA0bMn.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076241488891965/20_-_4CI6pZm.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623808816042075/43_-_0CuoXj5.jpg",
 			title: "Spooning Sex with Lucina (Devilukez10)",
 			artist: "Devilukez10",
 			artist_url: "https://twitter.com/Devilukez10",
@@ -505,8 +505,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/LoVkNFj.png"],
-			thumbnail: "https://i.imgur.com/K27SP5k.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800843052028034/42_-_LoVkNFj.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623809092862104/44_-_K27SP5k.jpg",
 			title: "Hooters Lucina (Mnejing30)",
 			artist: "Mnejing30",
 			artist_url: "https://twitter.com/Mnejing30",
@@ -517,8 +517,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/U4VbAkn.png"],
-			thumbnail: "https://i.imgur.com/vhxHSfq.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800843387584602/43_-_U4VbAkn.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623809399029770/45_-_vhxHSfq.jpg",
 			title: "Barista Lucina (iktk)",
 			artist: "iktk",
 			artist_url: "https://twitter.com/ika_tko",
@@ -529,8 +529,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/5Ha7ij1.png"],
-			thumbnail: "https://i.imgur.com/VqZWZT7.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800844071260260/44_-_5Ha7ij1.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623809638125608/46_-_VqZWZT7.jpg",
 			title: "Hooters Lucina (jumpaoki)",
 			artist: "jumpaoki",
 			artist_url: "https://twitter.com/jumpaoki",
@@ -541,8 +541,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ZNZoeE8.png", "https://i.imgur.com/9fFX6cU.png", "https://i.imgur.com/zALrQKW.png"],
-			thumbnail: "https://i.imgur.com/SyvgDGo.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076241866371212/21_-_ZNZoeE8.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076242432598036/22_-_9fFX6cU.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076244009660576/23_-_zALrQKW.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623809873002496/47_-_SyvgDGo.jpg",
 			title: "Hooters Lucina Blowjob (keiz_0120)",
 			artist: "keiz_0120",
 			artist_url: "https://twitter.com/keiz_0120",
@@ -553,8 +553,34 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TUXJzzV.png", "https://i.imgur.com/HItPorg.png", "https://i.imgur.com/dXxPkRo.png", "https://i.imgur.com/nezvR1x.png", "https://i.imgur.com/bibRc9a.png", "https://i.imgur.com/jaZXkaI.jpg", "https://i.imgur.com/LraH4m5.jpg", "https://i.imgur.com/XEocM0C.jpg", "https://i.imgur.com/Dkpd3US.jpg", "https://i.imgur.com/2AmjV8z.jpg", "https://i.imgur.com/U2GjGdq.jpg", "https://i.imgur.com/k95DOBL.jpg", "https://i.imgur.com/LNvDMEV.jpg", "https://i.imgur.com/7xj8fuK.jpg", "https://i.imgur.com/5uiYz5Q.jpg", "https://i.imgur.com/w4A60cM.jpg", "https://i.imgur.com/lJpeDW5.jpg", "https://i.imgur.com/vLdyRRc.jpg", "https://i.imgur.com/FByHm5K.jpg", "https://i.imgur.com/1kEFPrU.jpg", "https://i.imgur.com/3R1IemM.jpg", "https://i.imgur.com/7nNwWPi.jpg", "https://i.imgur.com/NtJGc2z.jpg", "https://i.imgur.com/NNKICzX.jpg"],
-			thumbnail: "https://i.imgur.com/KWUNEge.jpg",
+			src: [
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098800844511645756/45_-_TUXJzzV.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098800844788482088/46_-_HItPorg.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098800845715410954/48_-_dXxPkRo.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098800883057299496/51_-_nezvR1x.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823029653512293/59_-_bibRc9a.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823030119084093/60_-_jaZXkaI.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823030400090262/63_-_LraH4m5.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823030655950899/72_-_XEocM0C.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823030878253136/79_-_Dkpd3US.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823031117316207/86_-_2AmjV8z.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823031356399636/104_-_U2GjGdq.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823031616450620/123_-_k95DOBL.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823047588352131/147_-_LNvDMEV.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823047844220948/162_-_7xj8fuK.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823048074899588/174_-_5uiYz5Q.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823048313966674/185_-_w4A60cM.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823048540475392/192_-_lJpeDW5.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823048804708472/204_-_vLdyRRc.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823049047969802/223_-_FByHm5K.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823049320615987/234_-_1kEFPrU.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060146110484/247_-_3R1IemM.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060401950771/253_-_7nNwWPi.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060662001734/263_-_NtJGc2z.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060917862450/274_-_NNKICzX.jpg",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823061177897011/Untitled1103.png"
+				],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
 			artist: "Mnejing30",
 			artist_url: "https://twitter.com/Mnejing30",
@@ -582,14 +608,15 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1603571597750984704' target='_blank'>A Christmas Fir Tree</a> (Gift request for HIERARCHYOFMEMES)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>
-			<a href='https://twitter.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/rIxbFQY.jpg"],
-			thumbnail: "https://i.imgur.com/iOELR8p.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800845124030504/47_-_rIxbFQY.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655326787600464/49_-_iOELR8p.jpg",
 			title: "Hooters Lucina (1340Smile)",
 			artist: "1340Smile",
 			artist_url: "https://twitter.com/1340Smile",
@@ -600,8 +627,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/n3trlW6.jpg", "https://i.imgur.com/NQ1eElH.jpg", "https://i.imgur.com/LvKtpOF.jpg"],
-			thumbnail: "https://i.imgur.com/w18KILC.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076244563304498/24_-_n3trlW6.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076263148277940/25_-_NQ1eElH.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076263873871912/26_-_LvKtpOF.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655327181885553/50_-_w18KILC.jpg",
 			title: "Hooters Lucina Masturbating (mon_eree)",
 			artist: "mon_eree",
 			artist_url: "https://twitter.com/mon_eree",
@@ -612,8 +639,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oBVKLVk.jpg"],
-			thumbnail: "https://i.imgur.com/cOO0UA6.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800882285547570/49_-_oBVKLVk.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655327446110349/51_-_cOO0UA6.jpg",
 			title: "Hooters Lucina (Burnt_Green_Tea)",
 			artist: "Burnt_Green_Tea",
 			artist_url: "https://twitter.com/Burnt_Green_Tea",
@@ -624,8 +651,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/mbpcFyR.jpg"],
-			thumbnail: "https://i.imgur.com/L36oHkt.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800882713382942/50_-_mbpcFyR.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655327731339345/52_-_L36oHkt.jpg",
 			title: "Lucina Eating Pizza (picnicic)",
 			artist: "picnicic",
 			artist_url: "https://twitter.com/picnicic",
@@ -636,8 +663,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/U4DLmFn.jpg"],
-			thumbnail: "https://i.imgur.com/17Fo1Xt.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800883573211156/52_-_U4DLmFn.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655327920066771/53_-_17Fo1Xt.jpg",
 			title: "Oktoberfest Lucina (kh_kyo_hibiki / mattsun!)",
 			artist: "kh_kyo_hibiki / mattsun!",
 			artist_url: "https://twitter.com/kh_kyo_hibiki",
@@ -648,8 +675,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/4tmgTul.jpg"],
-			thumbnail: "https://i.imgur.com/LR307RQ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800883896176710/53_-_4tmgTul.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655328247218297/54_-_LR307RQ.jpg",
 			title: "\"At the Intersection of Despair and Hope\" ft. Exalt Morgan, Mo-Mo, and Lucina (AcrylicStroke)",
 			artist: "AcrylicStroke",
 			artist_url: "https://twitter.com/AcrylicStroke",
@@ -660,8 +687,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/KNwJGH2.jpg", "https://i.imgur.com/zRKiS9a.jpg"],
-			thumbnail: "https://i.imgur.com/obP7Q9P.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800884219121714/54_-_KNwJGH2.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098800884470792292/55_-_zRKiS9a.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655328733777961/55_-_obP7Q9P.jpg",
 			title: "Hooters Lucina (PomeloMelon1)",
 			artist: "PomeloMelon1",
 			artist_url: "https://twitter.com/PomeloMelon1",
@@ -672,8 +699,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/YWlmxn3.png"],
-			thumbnail: "https://i.imgur.com/ThKnL8L.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098800884714065930/56_-_YWlmxn3.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098655328972836864/56_-_ThKnL8L.jpg",
 			title: "Hooters Lucina (Paulygon2)",
 			artist: "Paulygon2",
 			artist_url: "https://twitter.com/Paulygon_2",
@@ -684,8 +711,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/8HL1XDQ.jpg"],
-			thumbnail: "https://i.imgur.com/VWRIXZG.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804874877091871/57_-_8HL1XDQ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656342283132928/57_-_VWRIXZG.jpg",
 			title: "Hooters Lucina (Xith)",
 			artist: "Xith",
 			artist_url: "https://twitter.com/x_Xith_x",
@@ -696,8 +723,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/KGlI6JP.jpg"],
-			thumbnail: "https://i.imgur.com/npUkYYz.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804875254562907/58_-_KGlI6JP.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656342568337539/58_-_npUkYYz.jpg",
 			title: "Hooters Lucina (KiritzuguArt)",
 			artist: "KiritzuguArt",
 			artist_url: "https://twitter.com/KiritzuguArt",
@@ -708,8 +735,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/qtCmZEX.png"],
-			thumbnail: "https://i.imgur.com/cyofeqL.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804875648843816/61_-_qtCmZEX.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656342870331442/59_-_cyofeqL.jpg",
 			title: "Hooters Lucina (tenchan_man)",
 			artist: "tenchan_man",
 			artist_url: "https://twitter.com/tenchan_man",
@@ -720,8 +747,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xnWMj9H.jpg"],
-			thumbnail: "https://i.imgur.com/mXulc2f.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804876298944524/62_-_xnWMj9H.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656343201677332/60_-_mXulc2f.jpg",
 			title: "Survey Corps Lucina (Saiykik)",
 			artist: "Saiykik",
 			artist_url: "https://twitter.com/Saiykik",
@@ -732,8 +759,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/82soMRT.jpg"],
-			thumbnail: "https://i.imgur.com/uWIJf1z.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804876894552074/64_-_82soMRT.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656343465922701/61_-_uWIJf1z.jpg",
 			title: "Hooters Lucina (Omiza_Zu)",
 			artist: "Omiza_Zu",
 			artist_url: "https://twitter.com/Omiza_Zu",
@@ -744,8 +771,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/XKHbmR2.jpg"],
-			thumbnail: "https://i.imgur.com/K959Pwz.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804877175554118/65_-_XKHbmR2.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656343721779282/62_-_K959Pwz.jpg",
 			title: "Hooters Lucina (fumaimpact)",
 			artist: "fumaimpact",
 			artist_url: "https://twitter.com/fumaimpact",
@@ -756,8 +783,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/soWssE1.png", "https://i.imgur.com/iV0Jcfh.png", "https://i.imgur.com/Aqla32K.png"],
-			thumbnail: "https://i.imgur.com/nSWSAdv.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804903050223677/68_-_soWssE1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076264570134578/27_-_iV0Jcfh.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076265409007617/28_-_Aqla32K.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656344086679695/63_-_nSWSAdv.jpg",
 			title: "Hooters Lucina (cryptidkani)",
 			artist: "cryptidkani",
 			artist_url: "https://twitter.com/cryptidkani",
@@ -768,8 +795,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/qMb395n.jpg"],
-			thumbnail: "https://i.imgur.com/KJ9z0aM.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804903868121139/69_-_qMb395n.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656344426422384/64_-_KJ9z0aM.jpg",
 			title: "Florist Lucina (purrlucii)",
 			artist: "purrlucii",
 			artist_url: "https://twitter.com/purrlucii",
@@ -780,8 +807,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/vGGHE2s.jpg", "https://i.imgur.com/giezXFo.jpg"],
-			thumbnail: "https://i.imgur.com/lgTNqjD.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076266025549975/29_-_vGGHE2s.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076266352713890/30_-_giezXFo.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656645715869767/65_-_lgTNqjD.jpg",
 			title: "Hooters Lucina 69 (Moursho)",
 			artist: "Moursho",
 			artist_url: "https://twitter.com/Moursho",
@@ -792,8 +819,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Jp36gBb.jpg", "https://i.imgur.com/BD8LsSf.jpg"],
-			thumbnail: "https://i.imgur.com/JVDRNry.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804877502726215/66_-_BD8LsSf.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098804877762764910/67_-_Jp36gBb.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656646059786290/66_-_JVDRNry.jpg",
 			title: "Hooters Lucina (RadicalsLab)",
 			artist: "RadicalsLab",
 			artist_url: "https://twitter.com/RadicalsLab",
@@ -804,8 +831,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/qpRCwxh.png"],
-			thumbnail: "https://i.imgur.com/EBOVPpc.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804904136552489/70_-_qpRCwxh.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656646483431554/67_-_EBOVPpc.jpg",
 			title: "Hooters Lucina (Jeureza/Aequorine)",
 			artist: "Jeureza (Aequorine)",
 			artist_url: "https://twitter.com/Aequorine",
@@ -816,8 +843,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/NfEAbwi.jpg"],
-			thumbnail: "https://i.imgur.com/ceTdddd.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804904841191464/71_-_NfEAbwi.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656646818971659/68_-_ceTdddd.jpg",
 			title: "Hooters Lucina (Kiora06)",
 			artist: "Kiora06",
 			artist_url: "https://twitter.com/Kiora06",
@@ -828,8 +855,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/5gKM7aw.png", "https://i.imgur.com/OEw06tK.png"],
-			thumbnail: "https://i.imgur.com/5fRE4oF.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804905206104215/73_-_5gKM7aw.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098804905801691146/74_-_OEw06tK.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656647053856828/69_-_5fRE4oF.jpg",
 			title: "Tea Party with Lissa and Lucina (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
@@ -840,8 +867,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/nwc1Cov.png"],
-			thumbnail: "https://i.imgur.com/f4Y0FL6.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804906107871324/75_-_nwc1Cov.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656647339065374/70_-_f4Y0FL6.jpg",
 			title: "Hooters Lucina (sakuuremi)",
 			artist: "sakuuremi",
 			artist_url: "https://twitter.com/sakuuremi",
@@ -852,8 +879,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/05N0fAD.png"],
-			thumbnail: "https://i.imgur.com/EGImJBv.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804906435035206/76_-_05N0fAD.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656647628476466/71_-_EGImJBv.jpg",
 			title: "Hooters Lucina (LambOic029)",
 			artist: "LambOic029",
 			artist_url: "https://twitter.com/LambOic029",
@@ -864,8 +891,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/DMP6LTO.jpg"],
-			thumbnail: "https://i.imgur.com/gKayKoO.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804929549844641/77_-_DMP6LTO.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656648031125645/72_-_gKayKoO.jpg",
 			title: "Lucina in a Hurry (cremanata_art)",
 			artist: "cremanata_art",
 			artist_url: "https://twitter.com/cremanata_art",
@@ -876,8 +903,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/tZJespf.jpg"],
-			thumbnail: "https://i.imgur.com/n9zH8Mu.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804929805684766/78_-_tZJespf.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656938805448774/73_-_n9zH8Mu.jpg",
 			title: "Lucina Drinking Chocolate Milk (AkaiRiot)",
 			artist: "AkaiRiot",
 			artist_url: "https://twitter.com/AkaiRiot",
@@ -888,8 +915,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/KtLfcyn.jpg", "https://i.imgur.com/Xpnb80h.jpg", "https://i.imgur.com/Iwa188D.jpg", "https://i.imgur.com/FJ142ct.jpg", "https://i.imgur.com/8sqA9HX.jpg", "https://i.imgur.com/qrICDSY.jpg", "https://i.imgur.com/VGYikAW.jpg", "https://i.imgur.com/j6DdFyh.jpg"],
-			thumbnail: "https://i.imgur.com/XLdTpDZ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099076266646306997/31_-_KtLfcyn.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099076266981859431/32_-_Xpnb80h.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078035082326016/33_-_Iwa188D.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078035447226389/34_-_FJ142ct.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078035782774784/35_-_8sqA9HX.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078036055400608/36_-_qrICDSY.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078036319645839/37_-_VGYikAW.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078036801986692/38_-_j6DdFyh.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656939073871922/74_-_XLdTpDZ.jpg",
 			title: "Modern Lucina Sex (amezooooon)",
 			artist: "amezooooon",
 			artist_url: "https://twitter.com/amezooooon",
@@ -900,8 +927,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/kdXAcNU.jpg", "https://i.imgur.com/1EFSqGO.jpg", "https://i.imgur.com/5umtrDx.jpg", "https://i.imgur.com/5rkUgd1.jpg", "https://i.imgur.com/L8DA8kn.jpg", "https://i.imgur.com/t1zw6nZ.jpg"],
-			thumbnail: "https://i.imgur.com/zBYpqyg.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099078037171089479/39_-_kdXAcNU.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078037452099666/40_-_1EFSqGO.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078060101337088/41_-_5umtrDx.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078060508201030/42_-_5rkUgd1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078061074415747/43_-_L8DA8kn.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078061703577651/44_-_t1zw6nZ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656939296174080/75_-_zBYpqyg.jpg",
 			title: "Lucina and Robin Choose Sex over the Strategy Meeting (OathCradle)",
 			artist: "OathCradle",
 			artist_url: "https://twitter.com/OathCradle",
@@ -912,8 +939,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/vXbLRaU.jpg"],
-			thumbnail: "https://i.imgur.com/QtVQT1d.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804930061549638/80_-_vXbLRaU.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656939552022598/76_-_QtVQT1d.jpg",
 			title: "Hooters Lucina (Evomanaphy)",
 			artist: "Evomanaphy",
 			artist_url: "https://twitter.com/Evomanaphy",
@@ -924,8 +951,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/s3Htiev.jpg", "https://i.imgur.com/n5Z8h8x.jpg", "https://i.imgur.com/M8EQ1Mf.jpg", "https://i.imgur.com/vaCo2yB.jpg", "https://i.imgur.com/oUaQXz3.jpg"],
-			thumbnail: "https://i.imgur.com/0meqoL3.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099078062383046776/45_-_s3Htiev.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078063234482184/46_-_M8EQ1Mf.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078064455041034/47_-_n5Z8h8x.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078065004486707/48_-_vaCo2yB.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078087553077398/49_-_oUaQXz3.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656939782713364/77_-_0meqoL3.jpg",
 			title: "Hooters Lucina Sex (Saikunn)",
 			artist: "Saikunn",
 			artist_url: "https://twitter.com/saikunn_nsfw",
@@ -936,8 +963,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/bZYoR4e.png"],
-			thumbnail: "https://i.imgur.com/GHo4MQ5.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804930422247546/81_-_bZYoR4e.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656940046962698/78_-_GHo4MQ5.jpg",
 			title: "Hooters Lucina (cleruuuuu)",
 			artist: "cleruuuuu",
 			artist_url: "https://twitter.com/cleruuuuu",
@@ -948,8 +975,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/rG7TLkJ.jpg"],
-			thumbnail: "https://i.imgur.com/TMAinop.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804930908782653/82_-_rG7TLkJ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656940344750221/79_-_TMAinop.jpg",
 			title: "Hooters Lucina (huro_at)",
 			artist: "huro_at",
 			artist_url: "https://twitter.com/huro_at",
@@ -960,8 +987,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/gzRRr6G.png"],
-			thumbnail: "https://i.imgur.com/SxyTMZk.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804931240149055/83_-_gzRRr6G.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098656940592222299/80_-_SxyTMZk.jpg",
 			title: "Hooters Lucina (twt_zet)",
 			artist: "twt_zet",
 			artist_url: "https://twitter.com/twt_zet",
@@ -972,8 +999,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1JXf8GC.png"],
-			thumbnail: "https://i.imgur.com/6j4gicf.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804931869282324/84_-_1JXf8GC.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657369958916256/81_-_6j4gicf.jpg",
 			title: "Hooters Lucina (Anonymous Artist)",
 			artist: "Anonymous Artist",
 			artist_url: null,
@@ -984,8 +1011,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Fk16WsF.png", "https://i.imgur.com/yxti6Tt.png"],
-			thumbnail: "https://i.imgur.com/pHdAgvb.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098804932733304892/85_-_Fk16WsF.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078088052179044/50_-_yxti6Tt.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657370181206198/82_-_pHdAgvb.jpg",
 			title: "Hooters Lucina (Kaos_ArtGX)",
 			artist: "Kaos_ArtGX",
 			artist_url: "https://twitter.com/Kaos_ArtGX",
@@ -996,8 +1023,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/JuihDua.png"],
-			thumbnail: "https://i.imgur.com/rfqJvKW.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805010583781546/87_-_JuihDua.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657370516754493/83_-_rfqJvKW.jpg",
 			title: "Hooters Lucina (ScruffyTurtles)",
 			artist: "ScruffyTurtles",
 			artist_url: "https://twitter.com/ScruffyTurtles",
@@ -1008,8 +1035,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/6qtdLsk.jpg", "https://i.imgur.com/rbOb8wP.jpg"],
-			thumbnail: "https://i.imgur.com/tC14YbA.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805010915139695/88_-_6qtdLsk.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098805011414269962/89_-_rbOb8wP.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657370739056822/84_-_tC14YbA.jpg",
 			title: "Saving Up for Brave Chrom (shugo)",
 			artist: "shugo",
 			artist_url: "https://twitter.com/hiomaika",
@@ -1020,8 +1047,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/HTDmChl.png", "https://i.imgur.com/KCNYAOm.jpg", "https://i.imgur.com/QpnBuek.jpg", "https://i.imgur.com/3EQ73I8.jpg"],
-			thumbnail: "https://i.imgur.com/RT6LsCF.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099078088492585010/51_-_HTDmChl.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078089142718515/52_-_KCNYAOm.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078089406939368/53_-_QpnBuek.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078089738293268/54_-_3EQ73I8.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657370978123907/85_-_RT6LsCF.jpg",
 			title: "Lucina is Your Valentine's Day Gift (keiz_0120)",
 			artist: "keiz_0120",
 			artist_url: "https://twitter.com/keiz_0120",
@@ -1032,8 +1059,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/HF3kN6p.jpg"],
-			thumbnail: "https://i.imgur.com/zL0NfRQ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805011707854899/90_-_HF3kN6p.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657371204620451/86_-_zL0NfRQ.jpg",
 			title: "Hooters Lucina (SEBU_illust)",
 			artist: "SEBU_illust",
 			artist_url: "https://twitter.com/sebu_illust",
@@ -1044,8 +1071,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/CGnOA7N.png"],
-			thumbnail: "https://i.imgur.com/E8H2AuM.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805012227964978/91_-_CGnOA7N.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657371464671242/87_-_E8H2AuM.jpg",
 			title: "Hooters Lucina (Hayato_Stuff)",
 			artist: "Hayato_Stuff",
 			artist_url: "https://twitter.com/Hayato_Stuff",
@@ -1056,8 +1083,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/USerhWJ.jpg"],
-			thumbnail: "https://i.imgur.com/FvNEhen.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805012777402428/92_-_USerhWJ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657371733098536/88_-_FvNEhen.jpg",
 			title: "Little Lucina and Aunt Lissa Reading Together (kakiko228)",
 			artist: "kakiko228",
 			artist_url: "https://twitter.com/kakiko228",
@@ -1068,8 +1095,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/GrtSlNr.gif", "https://i.imgur.com/06Dy7Xj.gif", "https://i.imgur.com/XpuBvRI.gif"],
-			thumbnail: "https://i.imgur.com/kxCQ1wQ.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805048768725123/96_-_GrtSlNr.gif", "https://cdn.discordapp.com/attachments/1098603479058108416/1098805049171382384/97_-_06Dy7Xj.gif", "https://cdn.discordapp.com/attachments/1098603479058108416/1098805049582419988/98_-_XpuBvRI.gif"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657677602721792/89_-_kxCQ1wQ.png",
 			title: "Lucina Helltaker Animation (atelier951)",
 			artist: "atelier951",
 			artist_url: "https://twitter.com/atelier951",
@@ -1080,8 +1107,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/L44SDht.jpg"],
-			thumbnail: "https://i.imgur.com/jZxMoFG.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805049989288026/99_-_L44SDht.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657677833425016/90_-_jZxMoFG.jpg",
 			title: "Hooters Lucina (atma909)",
 			artist: "atma909",
 			artist_url: "https://twitter.com/atma909",
@@ -1092,8 +1119,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/H0tUX2Q.jpg", "https://i.imgur.com/3KTEz9B.jpg", "https://i.imgur.com/u20NqnU.jpg", "https://i.imgur.com/oOtCG6F.jpg", "https://i.imgur.com/mmQRswy.jpg", "https://i.imgur.com/k2ILZE2.jpg", "https://i.imgur.com/xOMA1pL.jpg", "https://i.imgur.com/7uDCoZn.jpg", "https://i.imgur.com/UGnKJyu.jpg", "https://i.imgur.com/rypVdBC.jpg", "https://i.imgur.com/RQCGF1q.jpg", "https://i.imgur.com/5oCPUlJ.jpg", "https://i.imgur.com/3FptX9C.jpg", "https://i.imgur.com/5Lbl7iO.jpg", "https://i.imgur.com/9knD8y4.jpg"],
-			thumbnail: "https://i.imgur.com/fsoGxY5.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099078090015133716/55_-_H0tUX2Q.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078090296131615/56_-_3KTEz9B.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078103147495424/57_-_u20NqnU.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078103407546498/58_-_oOtCG6F.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078103634026546/59_-_mmQRswy.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078103906664498/60_-_k2ILZE2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078104141549710/61_-_xOMA1pL.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078104472887427/62_-_7uDCoZn.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078104766496848/63_-_UGnKJyu.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099078105047519334/64_-_rypVdBC.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079155485790228/65_-_RQCGF1q.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079155850690631/66_-_5oCPUlJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079156223987902/67_-_3FptX9C.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079156580487248/68_-_5Lbl7iO.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079156895072276/69_-_9knD8y4.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657678122815569/91_-_fsoGxY5.jpg",
 			title: "Lucina and Robin Getting Cozy (ExaltedBrandAO3)",
 			artist: "ExaltedBrandAO3",
 			artist_url: "https://twitter.com/ExaltedBrandAO3",
@@ -1104,8 +1131,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/by3XNu1.jpg"],
-			thumbnail: "https://i.imgur.com/GBmmNnQ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805050291261460/100_-_by3XNu1.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657678504513607/92_-_GBmmNnQ.jpg",
 			title: "Hooters Lucina (IRIA_splash)",
 			artist: "IRIA_splash",
 			artist_url: "https://twitter.com/IRIA_splash",
@@ -1116,8 +1143,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/SEwdqp7.jpg"],
-			thumbnail: "https://i.imgur.com/xNXuBES.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805051646017637/101_-_SEwdqp7.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657678793904248/93_-_xNXuBES.jpg",
 			title: "Lucina Celebrating Aunt Lissa's Birthday (Min_Jeungi)",
 			artist: "Min_Jeungi",
 			artist_url: "https://twitter.com/Min_Jeungi",
@@ -1128,8 +1155,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/g2TeIIE.png"],
-			thumbnail: "https://i.imgur.com/3C2RTjL.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099079157784268850/70_-_g2TeIIE.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657679255293952/94_-_3C2RTjL.jpg",
 			title: "Lucina and Robin Getting Intimate (Ebinkuu)",
 			artist: "Ebinkuu",
 			artist_url: "https://www.pixiv.net/users/78716022",
@@ -1140,8 +1167,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/dZmzBl4.jpg"],
-			thumbnail: "https://i.imgur.com/Ze3J1So.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098805052119978116/102_-_dZmzBl4.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657679548891166/95_-_Ze3J1So.jpg",
 			title: "Lucina and Lissa: Valentine's Flower Girls (Yog09_)",
 			artist: "Yog09_",
 			artist_url: "https://twitter.com/Yog09_",
@@ -1152,8 +1179,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/vnosdK9.jpg"],
-			thumbnail: "https://i.imgur.com/8cFaaAE.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811095336104026/103_-_vnosdK9.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657679884423361/96_-_8cFaaAE.jpg",
 			title: "Lucina's Nuptial Future (adricarraART)",
 			artist: "adricarraART",
 			artist_url: "https://twitter.com/adricarraART",
@@ -1164,8 +1191,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/IsSX3pb.png", "https://i.imgur.com/qQoaqyB.png", "https://i.imgur.com/ddcA1vQ.png", "https://i.imgur.com/QvT3Wba.png", "https://i.imgur.com/SCi7rfe.png", "https://i.imgur.com/uNP1qbZ.png", "https://i.imgur.com/Li9oHnm.png", "https://i.imgur.com/neO7gq3.png", "https://i.imgur.com/kK3CHmY.png", "https://i.imgur.com/ZPxR1Nj.png"],
-			thumbnail: "https://i.imgur.com/lgP18MM.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099079158325317772/71_-_IsSX3pb.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079158925115512/72_-_qQoaqyB.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079180097953892/73_-_ddcA1vQ.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079180844535878/74_-_QvT3Wba.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079181393985639/75_-_SCi7rfe.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079182065082398/76_-_uNP1qbZ.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079182547423415/77_-_Li9oHnm.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079183289811075/78_-_neO7gq3.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079183965102200/79_-_kK3CHmY.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079184736849970/80_-_ZPxR1Nj.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657961833926737/97_-_lgP18MM.jpg",
 			title: "Red Bikini Lucina Having Sex (ikki222)",
 			artist: "ikki222",
 			artist_url: "https://twitter.com/ikki222",
@@ -1176,8 +1203,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/mu9Upwc.png", "https://i.imgur.com/958d59k.png", "https://i.imgur.com/YWyVHbZ.png"],
-			thumbnail: "https://i.imgur.com/1eC01Kx.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099079196543815851/81_-_mu9Upwc.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079196866785423/82_-_958d59k.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079197256859768/83_-_YWyVHbZ.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657962098163851/98_-_1eC01Kx.jpg",
 			title: "Lucina Shows Robin Her Devotion (panna44)",
 			artist: "panna44",
 			artist_url: "https://twitter.com/panna44",
@@ -1188,8 +1215,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Svg9Q6x.jpg", "https://i.imgur.com/hzBimEA.jpg", "https://i.imgur.com/If9aGRq.jpg", "https://i.imgur.com/T3qX0qw.jpg", "https://i.imgur.com/EacK1uM.jpg", "https://i.imgur.com/Fb5i4ml.jpg", "https://i.imgur.com/TtwqlBV.jpg", "https://i.imgur.com/kCb11fm.jpg", "https://i.imgur.com/obDn4CL.jpg", "https://i.imgur.com/f1Juoup.jpg"],
-			thumbnail: "https://i.imgur.com/QwmuIzl.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811095617130557/105_-_Svg9Q6x.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811095982026772/106_-_hzBimEA.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811096225304596/107_-_If9aGRq.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811096510505030/108_-_T3qX0qw.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811096791527465/109_-_EacK1uM.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811097089331310/110_-_Fb5i4ml.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811097814933605/111_-_TtwqlBV.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811128743727144/112_-_kCb11fm.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811129062498435/113_-_obDn4CL.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811129372872734/114_-_f1Juoup.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657962333048934/99_-_QwmuIzl.jpg",
 			title: "Hooters Lucina (ExaltedBrandAO3)",
 			artist: "ExaltedBrandAO3",
 			artist_url: "https://twitter.com/ExaltedBrandAO3",
@@ -1200,8 +1227,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xzXI9er.jpg"],
-			thumbnail: "https://i.imgur.com/0tkPZLf.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811129653895239/115_-_xzXI9er.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657962559537252/100_-_0tkPZLf.jpg",
 			title: "Hooters Lucina (Icoochu)",
 			artist: "Icoochu",
 			artist_url: "https://twitter.com/Icoochu",
@@ -1212,8 +1239,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WneRJ9Y.jpg"],
-			thumbnail: "https://i.imgur.com/6wuB1QI.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811129918140467/116_-_WneRJ9Y.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657962916073572/101_-_6wuB1QI.jpg",
 			title: "Hope: Lucina and Triandra (nyxview)",
 			artist: "nyxview",
 			artist_url: "https://twitter.com/nyxview",
@@ -1224,8 +1251,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ud2gRM6.jpg", "https://i.imgur.com/XRlguFJ.jpg", "https://i.imgur.com/RDMMEK2.jpg", "https://i.imgur.com/4YJcSWG.jpg", "https://i.imgur.com/xGFbJsF.jpg", "https://i.imgur.com/5sEyoPX.jpg", "https://i.imgur.com/gXMxMGy.jpg", "https://i.imgur.com/oxeVex8.jpg"],
-			thumbnail: "https://i.imgur.com/w6PphLp.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099079197646925854/84_-_ud2gRM6.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079198112497724/85_-_XRlguFJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079198489972746/86_-_RDMMEK2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079198833918103/87_-_4YJcSWG.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079199244947626/88_-_xGFbJsF.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079227497787482/89_-_5sEyoPX.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079227791384676/90_-_gXMxMGy.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079228068200468/91_-_oxeVex8.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657963452928041/102_-_w6PphLp.jpg",
 			title: "Exalt Lucina Footjob (askask20112)",
 			artist: "askask20112",
 			artist_url: "https://twitter.com/askask20112",
@@ -1236,8 +1263,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/tickGD4.jpg", "https://i.imgur.com/H9nZsPW.jpg"],
-			thumbnail: "https://i.imgur.com/WJRdcNC.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811130194956328/117_-_tickGD4.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811130694082620/118_-_H9nZsPW.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657963801071666/103_-_WJRdcNC.jpg",
 			title: "Hooters Lucina (Kshatriya_666_)",
 			artist: "Kshatriya_666_",
 			artist_url: "https://twitter.com/Kshatriya_666_",
@@ -1248,8 +1275,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/0mRGaFf.png"],
-			thumbnail: "https://i.imgur.com/P5DLmJ1.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811131000270990/119_-_0mRGaFf.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098657964061102080/104_-_P5DLmJ1.jpg",
 			title: "Hooters Lucina (terebozu92)",
 			artist: "terebozu92",
 			artist_url: "https://twitter.com/terebozu92",
@@ -1260,8 +1287,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Hdh96PD.jpg"],
-			thumbnail: "https://i.imgur.com/xsORUTQ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811159609618525/120_-_Hdh96PD.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658297889960006/106_-_xsORUTQ.jpg",
 			title: "Hooters Lucina (sajittari)",
 			artist: "sajittari",
 			artist_url: "https://twitter.com/sajittari",
@@ -1272,8 +1299,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/kiDUf2y.png"],
-			thumbnail: "https://i.imgur.com/Lxtztdt.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811159970316428/121_-_kiDUf2y.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658298124832798/107_-_Lxtztdt.jpg",
 			title: "Walhart Goes to Hooters ft. Pheros and Lucina (Anonymous Artist)",
 			artist: "Anonymous Artist",
 			artist_url: null,
@@ -1284,8 +1311,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/mSqS6jX.jpg"],
-			thumbnail: "https://i.imgur.com/DifhpIO.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811160616255672/122_-_mSqS6jX.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658298376487042/108_-_DifhpIO.jpg",
 			title: "Hooters Lucina (navigavi)",
 			artist: "navigavi",
 			artist_url: "https://twitter.com/navigavi",
@@ -1296,8 +1323,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/QYZ0AFm.png", "https://i.imgur.com/YfV6HJR.png", "https://i.imgur.com/UZOmwOs.png", "https://i.imgur.com/OAl20Vm.png", "https://i.imgur.com/rLzZqEz.png", "https://i.imgur.com/d7lfHge.png"],
-			thumbnail: "https://i.imgur.com/RmnX3h1.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099079228407951370/92_-_QYZ0AFm.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079229062258698/93_-_YfV6HJR.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079229762711572/94_-_UZOmwOs.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079230467350649/95_-_OAl20Vm.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099079231306215554/96_-_rLzZqEz.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080230158745620/97_-_d7lfHge.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658298632351846/109_-_RmnX3h1.jpg",
 			title: "Bunny Lucina's Nursing Handjob (blade_ride)",
 			artist: "blade_ride",
 			artist_url: "https://twitter.com/blade_ride",
@@ -1308,8 +1335,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Al25QTn.jpg"],
-			thumbnail: "https://i.imgur.com/WCyOGwB.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811161102778500/124_-_Al25QTn.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658298850447400/110_-_WCyOGwB.jpg",
 			title: "Hooters Lucina (etchimune)",
 			artist: "etchimune",
 			artist_url: "https://twitter.com/etchimune",
@@ -1320,8 +1347,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/COaEpjZ.jpg"],
-			thumbnail: "https://i.imgur.com/r4kvxLn.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811161832603768/125_-_COaEpjZ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658299060170823/111_-_r4kvxLn.jpg",
 			title: "Morgan's Feast ft. Lucina (Mari48240422)",
 			artist: "Mari48240422",
 			artist_url: "https://twitter.com/Mari48240422",
@@ -1332,8 +1359,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/3iuEubD.jpg", "https://i.imgur.com/qryM4oy.png"],
-			thumbnail: "https://i.imgur.com/VcQAYkC.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811162327527596/126_-_3iuEubD.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080230951456789/98_-_qryM4oy.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658299320209519/112_-_VcQAYkC.jpg",
 			title: "Zero Suit Florina, Lissa, Lucina, and Mitama (jarckius_art)",
 			artist: "jarckius_art",
 			artist_url: "https://twitter.com/jarckius_art",
@@ -1344,8 +1371,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/7j7RDq2.jpg", "https://i.imgur.com/71BE3iw.jpg", "https://i.imgur.com/Y6IMk0D.jpg", "https://i.imgur.com/bIHjbb5.jpg"],
-			thumbnail: "https://i.imgur.com/XucF4Ku.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080231861637212/99_-_7j7RDq2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080232205553724/100_-_71BE3iw.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080232553697280/101_-_Y6IMk0D.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080232847282206/102_-_bIHjbb5.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658723234324480/113_-_XucF4Ku.jpg",
 			title: "Lucina's Onsen Mishap (oic_oco)",
 			artist: "oic_oco",
 			artist_url: "https://twitter.com/oic_oco",
@@ -1356,8 +1383,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/edf8YrR.jpg", "https://i.imgur.com/DfSNUfR.jpg", "https://i.imgur.com/GEvup5L.jpg", "https://i.imgur.com/jGKeupR.jpg", "https://i.imgur.com/MYWdmKP.png", "https://i.imgur.com/x2VmMsX.jpg", "https://i.imgur.com/izq6t18.jpg", "https://i.imgur.com/5ex1KFE.jpg", "https://i.imgur.com/u9JQTKY.jpg", "https://i.imgur.com/7v4Gi91.jpg", "https://i.imgur.com/scWiUKo.jpg", "https://i.imgur.com/tWeyAk6.jpg"],
-			thumbnail: "https://i.imgur.com/LUqVcgo.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080233358999623/103_-_edf8YrR.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080233950400542/104_-_DfSNUfR.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080254087233616/105_-_GEvup5L.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080254653468702/106_-_jGKeupR.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080255228100778/107_-_MYWdmKP.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080255865622608/108_-_x2VmMsX.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080256339574875/109_-_izq6t18.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080256796770466/110_-_5ex1KFE.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080257350406255/111_-_u9JQTKY.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080257832751134/112_-_7v4Gi91.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080278653288489/113_-_scWiUKo.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080279215312947/114_-_tWeyAk6.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658723850883092/114_-_LUqVcgo.jpg",
 			title: "Plegian Dancer Lucina Sex (Lainart1)",
 			artist: "Lainart1",
 			artist_url: "https://twitter.com/Lainart1",
@@ -1368,8 +1395,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/B3slUbx.png"],
-			thumbnail: "https://i.imgur.com/hGa5kcy.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811162759544994/127_-_B3slUbx.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658724224172102/115_-_hGa5kcy.jpg",
 			title: "Hooters Lucina (peach11_01)",
 			artist: "peach11_01",
 			artist_url: "https://twitter.com/peach11_01",
@@ -1380,8 +1407,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/jVqPVvt.jpg"],
-			thumbnail: "https://i.imgur.com/ZSjpUF8.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811167369085019/128_-_jVqPVvt.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658724496810014/116_-_ZSjpUF8.jpg",
 			title: "Hooters Lucina (daruo_0)",
 			artist: "daruo_0",
 			artist_url: "https://twitter.com/daruo_0",
@@ -1392,8 +1419,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TNfTjbR.jpg", "https://i.imgur.com/1dKKLkp.jpg"],
-			thumbnail: "https://i.imgur.com/HkFPl5A.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080279789944992/115_-_TNfTjbR.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080280096124948/116_-_1dKKLkp.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658724723298344/117_-_HkFPl5A.jpg",
 			title: "Hooters Lucina Thighjob (AtKOArt)",
 			artist: "the_atko",
 			artist_url: "https://twitter.com/AtKOArt",
@@ -1404,8 +1431,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lMLYWtt.jpg"],
-			thumbnail: "https://i.imgur.com/f9NrQdV.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811199749095546/129_-_lMLYWtt.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658724962377879/118_-_f9NrQdV.jpg",
 			title: "Hooters Lucina (toho10min)",
 			artist: "toho10min",
 			artist_url: "https://twitter.com/toho10min",
@@ -1416,9 +1443,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/zsTHCn6.jpg"],
-			thumbnail: "https://i.imgur.com/3qlvl8b.jpg",
-			title: "Tomboy Tavern",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811200084656208/130_-_zsTHCn6.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658725276942547/119_-_3qlvl8b.jpg",
+			title: "Tomboy Tavern (aquiadok)",
 			artist: "aquiadok",
 			artist_url: "https://twitter.com/aquiadok",
 			art_url: "https://twitter.com/aquiadok/status/1519711699997233153",
@@ -1428,8 +1455,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/zw7Y6xv.jpg", "https://i.imgur.com/a7CN1qC.jpg", "https://i.imgur.com/G2CXf7P.jpg", "https://i.imgur.com/J5JbOXz.jpg"],
-			thumbnail: "https://i.imgur.com/lzzSkMu.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811200374046800/131_-_zw7Y6xv.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811200579580035/132_-_a7CN1qC.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811200894156850/133_-_G2CXf7P.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098811201154199612/134_-_J5JbOXz.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658725646049440/120_-_lzzSkMu.jpg",
 			title: "Hooters Lucina (Meziosaur)",
 			artist: "Meziosaur",
 			artist_url: "https://twitter.com/meziosaur",
@@ -1440,8 +1467,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/XqZ4ZXI.jpg", "https://i.imgur.com/IpLBSOU.jpg"],
-			thumbnail: "https://i.imgur.com/v2PIxeK.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080280456839258/117_-_XqZ4ZXI.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080281098563594/118_-_IpLBSOU.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659993277968514/121_-_v2PIxeK.jpg",
 			title: "Armor Break Lucina Prone Boned (OXXO)",
 			artist: "OXXO",
 			artist_url: "https://www.pixiv.net/users/2650009",
@@ -1452,8 +1479,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/jQuRPDb.jpg", "https://i.imgur.com/uHCjNU8.jpg", "https://i.imgur.com/YlPjPVI.jpg", "https://i.imgur.com/SIvYpLO.jpg"],
-			thumbnail: "https://i.imgur.com/J8H8Q62.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080281564135515/119_-_jQuRPDb.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080281924841493/120_-_uHCjNU8.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080298299392020/121_-_YlPjPVI.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080298613981184/122_-_SIvYpLO.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659993609326612/122_-_J8H8Q62.jpg",
 			title: "Masked Marth's Kisses (PomeloMelon1)",
 			artist: "PomeloMelon1",
 			artist_url: "https://twitter.com/PomeloMelon1",
@@ -1464,8 +1491,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/w71JltY.jpg", "https://i.imgur.com/jlZbPfd.jpg"],
-			thumbnail: "https://i.imgur.com/UFCVevs.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080298978869279/123_-_w71JltY.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080299314430082/124_-_jlZbPfd.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659993986797668/123_-_UFCVevs.jpg",
 			title: "Lissa's Warp Goes Wrong (shugo)",
 			artist: "shugo",
 			artist_url: null,
@@ -1476,8 +1503,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/abxLXuH.gif", "https://i.imgur.com/wauea2A.gif", "https://i.imgur.com/poX128O.gif"],
-			thumbnail: "https://i.imgur.com/WJXRWyi.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080299754823730/125_-_abxLXuH.gif", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080300342018088/126_-_wauea2A.gif", "https://cdn.discordapp.com/attachments/1098603525455482910/1099080300904071198/127_-_poX128O.gif"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659994326544394/124_-_WJXRWyi.png",
 			title: "Lucina's Animated Paizuri (momia_hair)",
 			artist: "momia_hair",
 			artist_url: "https://twitter.com/momia_hair",
@@ -1488,8 +1515,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/14nwxOx.jpg"],
-			thumbnail: "https://i.imgur.com/37Zwvjr.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811201384890438/135_-_14nwxOx.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659994641125527/125_-_37Zwvjr.jpg",
 			title: "Hooters Lucina (Chiru)",
 			artist: "Chiru",
 			artist_url: null,
@@ -1500,8 +1527,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/6b7ZqXp.jpg", "https://i.imgur.com/qRdgvzn.jpg", "https://i.imgur.com/plzpBE0.jpg", "https://i.imgur.com/bDir5Ji.jpg", "https://i.imgur.com/qHRQ8AP.jpg", "https://i.imgur.com/lfbUG8O.jpg", "https://i.imgur.com/VKqE0BV.jpg", "https://i.imgur.com/ao00C1r.jpg"],
-			thumbnail: "https://i.imgur.com/dDeWvWk.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099080301449314344/128_-_6b7ZqXp.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081485245481063/129_-_qRdgvzn.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081485627175013/130_-_plzpBE0.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081485945946182/131_-_bDir5Ji.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081486327615650/132_-_qHRQ8AP.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081486994505859/133_-_lfbUG8O.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081487476854954/134_-_VKqE0BV.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081487908864066/135_-_ao00C1r.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659994896961566/126_-_dDeWvWk.jpg",
 			title: "Hooters Lucina Sex (Chiru)",
 			artist: "Chiru",
 			artist_url: null,
@@ -1512,8 +1539,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/dHvMNVu.jpg"],
-			thumbnail: "https://i.imgur.com/1H9rGKN.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081488194089031/136_-_dHvMNVu.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659995119267930/127_-_1H9rGKN.jpg",
 			title: "Lucina Masturbating (Chiru)",
 			artist: "Chiru",
 			artist_url: null,
@@ -1524,8 +1551,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/tNPrZGX.png", "https://i.imgur.com/vpKMwjC.png"],
-			thumbnail: "https://i.imgur.com/YOVWPDm.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081504006606868/137_-_tNPrZGX.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081504526704720/138_-_vpKMwjC.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098659995366740038/128_-_YOVWPDm.jpg",
 			title: "Male Swimsuit Challenge Group (Atramada1)",
 			artist: "Atramada1",
 			artist_url: "https://twitter.com/Atramada1",
@@ -1536,8 +1563,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/qsaaSIW.png"],
-			thumbnail: "https://i.imgur.com/ZwxxE8C.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098811201707835452/136_-_qsaaSIW.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660316134527016/129_-_ZwxxE8C.jpg",
 			title: "Robcina Family Yotsubato Pose (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
@@ -1548,8 +1575,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/q7KQjwx.jpg"],
-			thumbnail: "https://i.imgur.com/T15RKpl.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813848481439904/137_-_q7KQjwx.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660316356816926/130_-_T15RKpl.jpg",
 			title: "Hooters Lucina (ray_ryuusaki)",
 			artist: "ray_ryuusaki",
 			artist_url: "https://twitter.com/ray_ryuusaki",
@@ -1560,20 +1587,20 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oOnvbR3.jpg", "https://i.imgur.com/OacTaRC.jpg"],
-			thumbnail: "https://i.imgur.com/bfTfRRC.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813848758276096/138_-_oOnvbR3.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098813849081221231/139_-_OacTaRC.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660316591702078/131_-_bfTfRRC.jpg",
 			title: "Maid Lucina (c022m)",
 			artist: "c022m",
 			artist_url: "https://twitter.com/c022m",
-			art_url: "https://skeb.jp/@c022m/works/23",
+			art_url: "https://twitter.com/0cm0cu/status/1571401982975549442",
 			desc: "This is a commission of Maid Lucina by c022m! The adorable maid Lucina imbues love into your order of omurice. The maid cafe also includes an array of snacks, treats, and tea as well. She's a little embarrassed but still hopes you enjoy your meal! Happy Maid Day!",
 			date_str: "May 2022",
 			tags: [""],
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/uVJvxLA.png"],
-			thumbnail: "https://i.imgur.com/GfnmPe7.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813849530015764/140_-_uVJvxLA.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660316788838500/132_-_GfnmPe7.jpg",
 			title: "Hooters Lucina and Lissa (yuda_nf)",
 			artist: "yuda_nf",
 			artist_url: "https://twitter.com/yuda_nf",
@@ -1584,8 +1611,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/tPukrw4.png"],
-			thumbnail: "https://i.imgur.com/0y5mTdd.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813850092064808/141_-_tPukrw4.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660316985962558/133_-_0y5mTdd.jpg",
 			title: "Hooters Lucina (snow20200)",
 			artist: "snow20200",
 			artist_url: "https://twitter.com/snow20200",
@@ -1596,8 +1623,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/EPZrBwm.jpg", "https://i.imgur.com/AECdv5z.jpg", "https://i.imgur.com/YxU5eZw.jpg"],
-			thumbnail: "https://i.imgur.com/NQwGMIf.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813850754748426/142_-_EPZrBwm.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098813851274846338/143_-_AECdv5z.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098813851706855515/144_-_YxU5eZw.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660317233430579/134_-_NQwGMIf.jpg",
 			title: "Hooters Lucina (in2naps)",
 			artist: "in2naps",
 			artist_url: "https://twitter.com/in2naps",
@@ -1608,8 +1635,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oAHbbWm.jpg"],
-			thumbnail: "https://i.imgur.com/5lmvwMw.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813875362738340/145_-_oAHbbWm.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660317455732856/135_-_5lmvwMw.jpg",
 			title: "Lucina: Future Fondness (t_ippers)",
 			artist: "t_ippers",
 			artist_url: "https://twitter.com/t_ippers",
@@ -1620,8 +1647,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/IcShcBO.png", "https://i.imgur.com/8i7YvFe.png", "https://i.imgur.com/ol58h4v.jpg"],
-			thumbnail: "https://i.imgur.com/RVzf1TR.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081505084551361/139_-_IcShcBO.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081505927598150/140_-_8i7YvFe.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081506330255441/141_-_ol58h4v.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660317678022718/136_-_RVzf1TR.jpg",
 			title: "Hooters Lucina Cowgirl (ukimukai)",
 			artist: "ukimukai",
 			artist_url: "https://twitter.com/ukimukai",
@@ -1632,8 +1659,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/gfjMYcO.jpg"],
-			thumbnail: "https://i.imgur.com/C1VEcLv.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813875719245884/146_-_gfjMYcO.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660583219417251/137_-_C1VEcLv.jpg",
 			title: "Hooters Lucina (Hakuramen)",
 			artist: "Hakuramen",
 			artist_url: "https://twitter.com/Hakuramen",
@@ -1644,8 +1671,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Tbry1r3.png"],
-			thumbnail: "https://i.imgur.com/4noeFLA.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813876033826836/148_-_Tbry1r3.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660583504617552/138_-_4noeFLA.jpg",
 			title: "Lucina Chibi (Meqqey)",
 			artist: "Meqqey",
 			artist_url: "https://twitter.com/Meqqey",
@@ -1656,8 +1683,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/EAXiVA3.png"],
-			thumbnail: "https://i.imgur.com/WzgKbjp.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081506607083600/142_-_EAXiVA3.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660583764656188/139_-_WzgKbjp.jpg",
 			title: "Lucina Taking a Bath (AKN_646)",
 			artist: "AKN_646",
 			artist_url: "https://twitter.com/AKN_646",
@@ -1668,8 +1695,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1OeT54o.jpg"],
-			thumbnail: "https://i.imgur.com/DGwGDkx.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813876520357949/149_-_1OeT54o.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660584012128326/140_-_DGwGDkx.jpg",
 			title: "Hooters Lucina (_Yuxine)",
 			artist: "_Yuxine",
 			artist_url: "https://twitter.com/_Yuxine",
@@ -1680,8 +1707,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/9l6SE3U.jpg"],
-			thumbnail: "https://i.imgur.com/c4eucXy.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813876839133235/150_-_9l6SE3U.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660584259584000/141_-_c4eucXy.jpg",
 			title: "Hooters Lucina (kokuzou593)",
 			artist: "kokuzou593",
 			artist_url: "https://twitter.com/kokuzou593",
@@ -1692,8 +1719,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ShsF1YB.jpg"],
-			thumbnail: "https://i.imgur.com/drxfIsx.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813877434712164/151_-_ShsF1YB.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660584519651419/142_-_drxfIsx.jpg",
 			title: "Hooters Lucina (JaxArtDump)",
 			artist: "JaxArtDump",
 			artist_url: "https://twitter.com/JaxArtDump",
@@ -1704,8 +1731,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/DbwBtq9.jpg", "https://i.imgur.com/ZgkadtP.jpg"],
-			thumbnail: "https://i.imgur.com/FfRxBk7.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813878302945290/152_-_DbwBtq9.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098813878709780590/153_-_ZgkadtP.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660584737742848/143_-_FfRxBk7.jpg",
 			title: "Lucina at the Beach (eva02marina0)",
 			artist: "eva02marina0",
 			artist_url: "https://twitter.com/eva02marina0",
@@ -1716,8 +1743,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/N4LgifX.png"],
-			thumbnail: "https://i.imgur.com/nFZQ6ay.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813895407312987/154_-_N4LgifX.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660585064890508/144_-_nFZQ6ay.jpg",
 			title: "Hooters Lucina (voyager_bihai)",
 			artist: "voyager_bihai",
 			artist_url: "https://twitter.com/voyager_bihai",
@@ -1728,8 +1755,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/hhTXC1f.png"],
-			thumbnail: "https://i.imgur.com/35mcc58.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813895919009892/155_-_hhTXC1f.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660881539268688/145_-_35mcc58.jpg",
 			title: "Hooters Lucina (TristorCM)",
 			artist: "TristorCM",
 			artist_url: "https://twitter.com/TristorCM",
@@ -1740,8 +1767,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/PhoLuqk.jpg"],
-			thumbnail: "https://i.imgur.com/CGfqXmW.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813896158097518/156_-_PhoLuqk.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660881870631014/146_-_CGfqXmW.jpg",
 			title: "Resplendent Lucina (a_fjkw)",
 			artist: "a_fjkw",
 			artist_url: "https://twitter.com/a_fjkw",
@@ -1752,8 +1779,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Yg4ezly.jpg", "https://i.imgur.com/LtA6jkC.jpg"],
-			thumbnail: "https://i.imgur.com/sOpfpxZ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813896653021194/157_-_Yg4ezly.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098813896967585832/158_-_LtA6jkC.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660882139058176/147_-_sOpfpxZ.jpg",
 			title: "Hooters Lucina (FadingzZ)",
 			artist: "FadingzZ",
 			artist_url: "https://twitter.com/FadingzZ",
@@ -1764,8 +1791,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/LLevxvg.jpg"],
-			thumbnail: "https://i.imgur.com/s0A30cI.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813897298948148/159_-_LLevxvg.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660882344575096/148_-_s0A30cI.jpg",
 			title: "Hooters Lucina (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -1776,8 +1803,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/jMLDJ1A.png"],
-			thumbnail: "https://i.imgur.com/427mLgX.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813897953255485/160_-_jMLDJ1A.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660882596245615/149_-_427mLgX.jpg",
 			title: "Hooters Lucina (siwasunookina)",
 			artist: "siwasunookina",
 			artist_url: "https://twitter.com/siwasunookina",
@@ -1788,8 +1815,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xk1ztYp.jpg"],
-			thumbnail: "https://i.imgur.com/QI5EoAr.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813898360094761/161_-_xk1ztYp.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660882885644308/150_-_QI5EoAr.jpg",
 			title: "Hooters Lucina (crazzeffect)",
 			artist: "crazzeffect",
 			artist_url: "https://twitter.com/crazzeffect",
@@ -1800,8 +1827,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WEdaUbt.jpg"],
-			thumbnail: "https://i.imgur.com/FtZWCvq.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813930714955817/163_-_WEdaUbt.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660883225391194/151_-_FtZWCvq.jpg",
 			title: "Hooters Lucina (yamagiwajustin)",
 			artist: "yamagiwajustin",
 			artist_url: "https://twitter.com/yamagiwajustin",
@@ -1812,8 +1839,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/hslpe8x.png"],
-			thumbnail: "https://i.imgur.com/DHK5Mim.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813930949853245/164_-_hslpe8x.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098660883506401341/152_-_DHK5Mim.jpg",
 			title: "Hooters Lucina (springexalt)",
 			artist: "springexalt",
 			artist_url: "https://twitter.com/springexalt",
@@ -1824,8 +1851,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/H99e7tI.jpg"],
-			thumbnail: "https://i.imgur.com/m9eTyQR.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813931251826719/165_-_H99e7tI.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661157897785434/153_-_m9eTyQR.jpg",
 			title: "Beach Party (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
@@ -1836,8 +1863,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1Qqj22y.jpg"],
-			thumbnail: "https://i.imgur.com/Tcu6Bdg.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813931599970314/166_-_1Qqj22y.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661158111690852/154_-_Tcu6Bdg.jpg",
 			title: "Hooters Lucina (collateralds & Usanekorin)",
 			artist: "collateralds & Usanekorin",
 			artist_url: "https://twitter.com/Usanekorin",
@@ -1848,8 +1875,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/cS30vx7.jpg", "https://i.imgur.com/ZFIKZtm.jpg"],
-			thumbnail: "https://i.imgur.com/SwjOibz.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081507483684914/143_-_cS30vx7.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081507810848848/144_-_ZFIKZtm.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661158342373517/155_-_SwjOibz.jpg",
 			title: "Lucina x Masked Marth Poolside Strap-On Sex (zero_0a)",
 			artist: "zero_0a",
 			artist_url: "https://twitter.com/zero_0a",
@@ -1860,8 +1887,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/qkCVIRv.jpg"],
-			thumbnail: "https://i.imgur.com/7AUOfPu.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813932006801500/167_-_qkCVIRv.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661158539513856/156_-_7AUOfPu.jpg",
 			title: "Hooters Lucina (KatakuMusou)",
 			artist: "KatakuMusou",
 			artist_url: "https://twitter.com/KatakuMusou",
@@ -1872,8 +1899,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Hzch9uL.jpg"],
-			thumbnail: "https://i.imgur.com/NGbk2Zo.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813932287836191/168_-_Hzch9uL.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661158724059166/157_-_NGbk2Zo.jpg",
 			title: "Spring Lucina (CM_Lynarc)",
 			artist: "CM_Lynarc",
 			artist_url: "https://twitter.com/CM_Lynarc",
@@ -1884,8 +1911,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/RqJKg1A.jpg"],
-			thumbnail: "https://i.imgur.com/aDjFfKb.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813932921159700/169_-_RqJKg1A.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661158925381744/158_-_aDjFfKb.jpg",
 			title: "Hooters Lucina, Miriel, and Nina (RitDelba)",
 			artist: "RitDelba",
 			artist_url: "https://twitter.com/RitDelba",
@@ -1896,8 +1923,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/yej65bb.jpg", "https://i.imgur.com/NpEduDX.png"],
-			thumbnail: "https://i.imgur.com/bFbVKZz.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098813933223157780/170_-_yej65bb.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815076699475988/171_-_NpEduDX.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661159143493742/159_-_bFbVKZz.png",
 			title: "Hooters Lucina (abihokuyuumore)",
 			artist: "abihokuyuumore",
 			artist_url: "https://twitter.com/abihokuyuumore",
@@ -1908,8 +1935,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/v2cO2jV.png"],
-			thumbnail: "https://i.imgur.com/p8gRlcJ.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815077160857651/172_-_v2cO2jV.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661159390953502/160_-_p8gRlcJ.png",
 			title: "Hooters Lucina (mikoko1)",
 			artist: "mikoko1",
 			artist_url: "https://twitter.com/mikoko1",
@@ -1920,8 +1947,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Ug2XSdu.jpg", "https://i.imgur.com/IkFvtYV.jpg", "https://i.imgur.com/4px33mv.jpg", "https://i.imgur.com/5TFEDk3.jpg"],
-			thumbnail: "https://i.imgur.com/DjvLQQe.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081525535965194/145_-_Ug2XSdu.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081525796020344/146_-_IkFvtYV.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081526081245334/147_-_4px33mv.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081526324494447/148_-_5TFEDk3.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661933701414992/161_-_DjvLQQe.png",
 			title: "Lucina's Tent Sex (Arc_Edo11)",
 			artist: "Arc_Edo11",
 			artist_url: "https://twitter.com/Arc_Edo11",
@@ -1932,8 +1959,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WPxAaDp.jpg"],
-			thumbnail: "https://i.imgur.com/5jocFs3.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815077748068522/173_-_WPxAaDp.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661933953064980/162_-_5jocFs3.jpg",
 			title: "Hooters Lucina (mitsuchiis)",
 			artist: "mitsuchiis",
 			artist_url: "https://twitter.com/mitsuchiis",
@@ -1944,8 +1971,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/kHfHtlH.png", "https://i.imgur.com/sKeKanI.png", "https://i.imgur.com/GU65UIH.png", "https://i.imgur.com/T9nBQbE.png"],
-			thumbnail: "https://i.imgur.com/gZhjnGw.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081526655852616/149_-_kHfHtlH.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081527305982052/150_-_sKeKanI.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081527930912808/151_-_GU65UIH.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081528396488844/152_-_T9nBQbE.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661934187954306/163_-_gZhjnGw.png",
 			title: "Lucina and Robin Try for a Baby (Amemachi2A16)",
 			artist: "Amemachi2A16",
 			artist_url: "https://twitter.com/Amemachi2A16",
@@ -1956,8 +1983,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1SZZK7D.jpg"],
-			thumbnail: "https://i.imgur.com/7lXSM2a.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815078024876052/175_-_1SZZK7D.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661934422831315/164_-_7lXSM2a.jpg",
 			title: "Hooters Lucina (hood_x_art)",
 			artist: "hood_x_art",
 			artist_url: "https://twitter.com/hood_x_art",
@@ -1968,8 +1995,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/3BIsNcA.jpg"],
-			thumbnail: "https://i.imgur.com/k88nrnB.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815078242988143/176_-_3BIsNcA.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661934724816976/165_-_k88nrnB.jpg",
 			title: "Hooters Lucina (DeebyFeeby)",
 			artist: "DeebyFeeby",
 			artist_url: "https://twitter.com/DeebyFeeby",
@@ -1980,8 +2007,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/LKirb3x.jpg"],
-			thumbnail: "https://i.imgur.com/h6MSYsx.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815078532403230/177_-_LKirb3x.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661934972289124/166_-_h6MSYsx.jpg",
 			title: "Hooters Lucina (_TheVitus)",
 			artist: "_TheVitus",
 			artist_url: "https://twitter.com/_TheVitus",
@@ -1992,8 +2019,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/o6NxArO.jpg"],
-			thumbnail: "https://i.imgur.com/tXGYpBa.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815078859542528/178_-_o6NxArO.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661935223943168/167_-_tXGYpBa.png",
 			title: "Hooters Lucina (eposhim)",
 			artist: "eposhim",
 			artist_url: "https://twitter.com/eposhim",
@@ -2004,8 +2031,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/8EsYnQh.png", "https://i.imgur.com/gvGmTXx.png", "https://i.imgur.com/Gb9hOaA.png", "https://i.imgur.com/y8sSqcA.png"],
-			thumbnail: "https://i.imgur.com/nkvMBgD.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081580997263481/153_-_8EsYnQh.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081581597036634/154_-_gvGmTXx.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081582238777344/155_-_Gb9hOaA.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081582813384724/156_-_y8sSqcA.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098661935555289148/168_-_nkvMBgD.png",
 			title: "Lucina and Robin Getting Passionate (Ebinkuu)",
 			artist: "Ebinkuu",
 			artist_url: "https://www.pixiv.net/users/78716022",
@@ -2016,8 +2043,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/5j99ycg.png"],
-			thumbnail: "https://i.imgur.com/oSMX2hO.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081583417376788/157_-_5j99ycg.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662008783651008/169_-_oSMX2hO.png",
 			title: "Lucina and Lissa Take a Bath Together (ArtSHEOps)",
 			artist: "ArtSHEOps",
 			artist_url: "https://twitter.com/ArtSHEOps",
@@ -2028,8 +2055,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Wy2YMRb.jpg", "https://i.imgur.com/LUTxP77.jpg"],
-			thumbnail: "https://i.imgur.com/LI1e8xj.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815079169929266/179_-_Wy2YMRb.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815099990462574/180_-_LUTxP77.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662008997556264/170_-_LI1e8xj.jpg",
 			title: "Tennis Igrene (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -2040,8 +2067,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/3F7rylc.png"],
-			thumbnail: "https://i.imgur.com/9VCPFva.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815100758003833/181_-_3F7rylc.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662009228251176/171_-_9VCPFva.png",
 			title: "Carhop Lucina (stupjam)",
 			artist: "stupjam",
 			artist_url: "https://twitter.com/stupjam",
@@ -2052,8 +2079,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/mexni0Q.png"],
-			thumbnail: "https://i.imgur.com/AFJfaf9.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815103022927912/182_-_mexni0Q.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662009442156604/172_-_AFJfaf9.png",
 			title: "Hooters Lucina and Kagero (chascoby_art)",
 			artist: "chascoby_art",
 			artist_url: "https://twitter.com/chascoby_art",
@@ -2064,8 +2091,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/wj0pJnY.jpg"],
-			thumbnail: "https://i.imgur.com/7wzoJSj.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815103677243482/183_-_wj0pJnY.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662009681227887/173_-_7wzoJSj.png",
 			title: "Lucina at the Summer Festival (vanekaiiri)",
 			artist: "vanekaiiri",
 			artist_url: "https://twitter.com/vanekaiiri",
@@ -2076,8 +2103,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/dBayht7.png"],
-			thumbnail: "https://i.imgur.com/oPyONjP.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815103996022834/184_-_dBayht7.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662009895145483/174_-_oPyONjP.png",
 			title: "Hooters Lucina (FNNinry)",
 			artist: "FNNinry",
 			artist_url: "https://twitter.com/FNNinry",
@@ -2088,8 +2115,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/wNhzKc8.jpg", "https://i.imgur.com/AQiYt9j.jpg", "https://i.imgur.com/nBHotKJ.jpg", "https://i.imgur.com/Bkx7sRN.jpg", "https://i.imgur.com/3KJyVf0.jpg", "https://i.imgur.com/28ZkVOJ.jpg", "https://i.imgur.com/O6eTJ3g.jpg", "https://i.imgur.com/BuPkVDO.jpg", "https://i.imgur.com/vbEaCtI.jpg", "https://i.imgur.com/YEjmCMu.jpg", "https://i.imgur.com/yHooZ65.jpg", "https://i.imgur.com/HkBDIvR.jpg"],
-			thumbnail: "https://i.imgur.com/6ZIWJH2.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081584059097088/158_-_wNhzKc8.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081584356888708/159_-_AQiYt9j.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081584675668008/160_-_nBHotKJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083263424872568/168_-_yHooZ65.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083263747829842/161_-_Bkx7sRN.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264041418872/162_-_3KJyVf0.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264376975380/163_-_28ZkVOJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264670564484/164_-_O6eTJ3g.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264955793478/165_-_BuPkVDO.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083265295527986/166_-_vbEaCtI.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083265622671470/167_-_YEjmCMu.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083295033131008/169_-_HkBDIvR.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662010125828217/175_-_6ZIWJH2.png",
 			title: "Lucina's Post-Workout Blowjob (amandakenny0730)",
 			artist: "amandakenny0730",
 			artist_url: "https://twitter.com/amandakenny0730",
@@ -2100,8 +2127,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/fKwBI05.png"],
-			thumbnail: "https://i.imgur.com/ALZJ4oF.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083295448375307/170_-_fKwBI05.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662010369093722/176_-_ALZJ4oF.png",
 			title: "Hooters Lucina Undressing (mitarashikousei)",
 			artist: "mitarashikousei",
 			artist_url: "https://twitter.com/mitarashikousei",
@@ -2112,8 +2139,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/JSSuKLJ.jpg"],
-			thumbnail: "https://i.imgur.com/Lf5lMJk.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083296048152767/171_-_JSSuKLJ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662026965942332/177_-_Lf5lMJk.png",
 			title: "Nude Lucina Brushing Her Hair (annihilator_102)",
 			artist: "annihilator_102",
 			artist_url: "https://twitter.com/annihilator_102",
@@ -2124,8 +2151,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/UU5xtPH.jpg"],
-			thumbnail: "https://i.imgur.com/QY8orLd.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083296463392778/172_-_UU5xtPH.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662027238588516/178_-_QY8orLd.png",
 			title: "Lucina Sex on the Beach (fun)",
 			artist: "fun",
 			artist_url: "https://twitter.com/nutim4n",
@@ -2136,8 +2163,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1lScwxx.jpg"],
-			thumbnail: "https://i.imgur.com/lJboZs3.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815104390271066/186_-_1lScwxx.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662027456688208/179_-_lJboZs3.jpg",
 			title: "Summer Mitama (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -2148,8 +2175,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xkVRKml.jpg"],
-			thumbnail: "https://i.imgur.com/Z5wtmHN.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815105006850078/187_-_xkVRKml.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662027733500035/180_-_Z5wtmHN.png",
 			title: "Hooters Lucina (IRISLI0224)",
 			artist: "IRISLI0224",
 			artist_url: "https://twitter.com/IRISLI0224",
@@ -2160,20 +2187,20 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/dZuf3LP.gif"],
-			thumbnail: "https://i.imgur.com/8RvXw3m.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083298040447096/174_-_dZuf3LP.gif"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662027943231529/181_-_8RvXw3m.jpg",
 			title: "Lucina's and Robin's Lust Awakened (OppaiHobby)",
 			artist: "OppaiHobby",
 			artist_url: "https://twitter.com/OppaiHobby",
 			art_url: "https://twitter.com/OppaiHobby/status/1557868543550672896",
-			desc: "This is an animation commission by OppaiHobby! Robin and Lucina head to a remote part of the castle to have sex. Their lust overtakes them, and Robin pounds Lucina until he cums inside. It was a great opportunity to work with OppaiHobby on this commission! For the video with sound and voice acting, click <a href='https://i.imgur.com/aEaXqKF.mp4' target='_blank'>here</a>.",
+			desc: "This is an animation commission by OppaiHobby! Robin and Lucina head to a remote part of the castle to have sex. Their lust overtakes them, and Robin pounds Lucina until he cums inside. It was a great opportunity to work with OppaiHobby on this commission! For the video with sound and voice acting, click <a href='https://cdn.discordapp.com/attachments/1098603525455482910/1099083296723443732/173_-_aEaXqKF.mp4' target='_blank'>here</a> to download.",
 			date_str: "August 2022",
 			tags: ["nsfw"],
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WWC7K6y.png"],
-			thumbnail: "https://i.imgur.com/pXlh87f.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815105493372978/188_-_WWC7K6y.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662028169719938/182_-_pXlh87f.png",
 			title: "Hooters Lucina (PoeChan_Chan)",
 			artist: "PoeChan_Chan",
 			artist_url: "https://twitter.com/PoeChan_Chan",
@@ -2184,8 +2211,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/VTT6R36.jpg"],
-			thumbnail: "https://i.imgur.com/ZkdO5ed.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083298443104306/175_-_VTT6R36.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662028366839918/183_-_ZkdO5ed.jpg",
 			title: "Hooters Lucina's Mishap (ore_gin)",
 			artist: "ore_gin",
 			artist_url: "https://twitter.com/ore_gin",
@@ -2196,8 +2223,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/yR3ogYP.jpg"],
-			thumbnail: "https://i.imgur.com/MzxPLdQ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815128553656432/189_-_yR3ogYP.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662028559794236/184_-_MzxPLdQ.jpg",
 			title: "Hooters Lucina (FraudulentTaco)",
 			artist: "FraudulentTaco",
 			artist_url: "https://twitter.com/FraudulentTaco",
@@ -2208,8 +2235,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/sv2wbFT.png"],
-			thumbnail: "https://i.imgur.com/p73PUKs.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815129157648425/190_-_sv2wbFT.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662807479799828/185_-_p73PUKs.png",
 			title: "Hooters Lucina (jarckius_art)",
 			artist: "jarckius_art",
 			artist_url: "https://twitter.com/jarckius_art",
@@ -2220,8 +2247,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/FZlSNvw.png"],
-			thumbnail: "https://i.imgur.com/aJ74qms.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815129975525416/191_-_FZlSNvw.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662807739830282/186_-_aJ74qms.png",
 			title: "Hooters Lucina (Vienartz)",
 			artist: "Vienartz",
 			artist_url: "https://twitter.com/Vienartz",
@@ -2232,9 +2259,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/e1RZmRU.jpg"],
-			thumbnail: "https://i.imgur.com/6e4i8Af.jpg",
-			title: "Florina Playing the Harp",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815130378190848/193_-_e1RZmRU.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662807941152909/187_-_6e4i8Af.jpg",
+			title: "Florina Playing the Harp (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
 			art_url: null,
@@ -2244,8 +2271,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/EpkPYGd.jpg", "https://i.imgur.com/8WEILLs.jpg"],
-			thumbnail: "https://i.imgur.com/B8fMjAd.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815130936025098/194_-_EpkPYGd.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815131238010880/195_-_8WEILLs.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662808217997312/188_-_B8fMjAd.png",
 			title: "Hooters Lucina (SirKnightbot)",
 			artist: "SirKnightbot",
 			artist_url: "https://twitter.com/SirKnightbot",
@@ -2256,8 +2283,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/qmr7s8F.png", "https://i.imgur.com/8pXLLB6.png"],
-			thumbnail: "https://i.imgur.com/F0LqTOB.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815131674230784/196_-_qmr7s8F.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815132747960350/197_-_8pXLLB6.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662808498999387/189_-_F0LqTOB.png",
 			title: "Hooters Lucina (kou_hiyoyo)",
 			artist: "kou_hiyoyo",
 			artist_url: "https://twitter.com/kou_hiyoyo",
@@ -2268,8 +2295,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ays54zu.png"],
-			thumbnail: "https://i.imgur.com/teK3IT7.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815150296924281/198_-_ays54zu.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662808792616960/190_-_teK3IT7.png",
 			title: "Hooters Lucina (oyatsu_0)",
 			artist: "oyatsu_0",
 			artist_url: "https://twitter.com/oyatsu_0",
@@ -2280,8 +2307,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ZiB9PmO.jpg", "https://i.imgur.com/90rEcAh.jpg", "https://i.imgur.com/lDZ3xX4.jpg", "https://i.imgur.com/y46EUvO.jpg", "https://i.imgur.com/dWHCjix.jpg"],
-			thumbnail: "https://i.imgur.com/zyDSKEJ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815150947061840/199_-_ZiB9PmO.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815151253225594/200_-_90rEcAh.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815151525871616/201_-_lDZ3xX4.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083298719932446/176_-_y46EUvO.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098815151827865610/202_-_dWHCjix.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662809123950632/191_-_zyDSKEJ.jpg",
 			title: "Hooters Lucina (minaqueenu)",
 			artist: "minaqueenu",
 			artist_url: "https://twitter.com/minaqueenu",
@@ -2292,8 +2319,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WCwbjns.jpg", "https://i.imgur.com/LWUwCHg.jpg", "https://i.imgur.com/6v3hOGr.jpg"],
-			thumbnail: "https://i.imgur.com/FXIh80A.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083321788608622/177_-_WCwbjns.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083322396778516/178_-_LWUwCHg.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083322807832576/179_-_6v3hOGr.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662809409159169/192_-_FXIh80A.jpg",
 			title: "Robcina Mutual Masturbation at the Summer Festival (Burnt_Green_Tea)",
 			artist: "Burnt_Green_Tea",
 			artist_url: "https://twitter.com/Burnt_Green_Tea",
@@ -2304,8 +2331,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/THJfzeZ.jpg"],
-			thumbnail: "https://i.imgur.com/AQRJmgx.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815152209526804/203_-_THJfzeZ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662835086696468/193_-_AQRJmgx.png",
 			title: "Hooters Lucina (yamaP_mako)",
 			artist: "yamaP_mako",
 			artist_url: "https://twitter.com/yamaP_mako",
@@ -2316,8 +2343,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lyhp0zK.png"],
-			thumbnail: "https://i.imgur.com/Mjl8Y7K.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083323147558983/180_-_lyhp0zK.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662835384484021/194_-_Mjl8Y7K.png",
 			title: "Nude Lucina Brushing Her Teeth (LambOic029)",
 			artist: "LambOic029",
 			artist_url: "https://twitter.com/LambOic029",
@@ -2328,8 +2355,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/f4jKUaB.jpg", "https://i.imgur.com/ualqHi6.jpg"],
-			thumbnail: "https://i.imgur.com/FyoTs0n.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083323667656834/181_-_f4jKUaB.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084816026185738/223_-_ualqHi6.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662835820712036/195_-_FyoTs0n.jpg",
 			title: "Lucina's and Robin's Beach Vacation (omiG_spot)",
 			artist: "omiG_spot",
 			artist_url: "https://twitter.com/omiG_spot",
@@ -2340,8 +2367,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oTI8RSs.jpg", "https://i.imgur.com/J8Rg5bh.jpg", "https://i.imgur.com/lxHAPdo.jpg", "https://i.imgur.com/xiSogH6.jpg", "https://i.imgur.com/bmTUsAx.jpg", "https://i.imgur.com/pGQlOjX.jpg", "https://i.imgur.com/pNb6qyh.jpg", "https://i.imgur.com/4KL6mej.jpg", "https://i.imgur.com/1ijR6sN.jpg", "https://i.imgur.com/6wE3Hi3.jpg", "https://i.imgur.com/PhTEgnF.jpg", "https://i.imgur.com/AVBhTvu.jpg"],
-			thumbnail: "https://i.imgur.com/CAnmjIU.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099083324145803364/182_-_oTI8RSs.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083324737212537/183_-_J8Rg5bh.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083325295042600/184_-_lxHAPdo.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083351031292005/185_-_xiSogH6.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083351303929987/186_-_bmTUsAx.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083351559766156/187_-_pGQlOjX.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083351891124264/188_-_pNb6qyh.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083352155373578/189_-_4KL6mej.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083352398647447/190_-_1ijR6sN.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083353128443955/191_-_6wE3Hi3.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083353447219271/192_-_PhTEgnF.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084742843961404/193_-_AVBhTvu.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662836131078214/196_-_CAnmjIU.png",
 			title: "Lucina and Caeda Strap-On Sex (Bellfonts)",
 			artist: "Bellfonts",
 			artist_url: "https://twitter.com/Bellfonts",
@@ -2352,8 +2379,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/5q3MR1X.jpg"],
-			thumbnail: "https://i.imgur.com/y2g3fVx.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815152679305266/205_-_5q3MR1X.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662836521160827/197_-_y2g3fVx.jpg",
 			title: "Hooters Lucina (tukiwani)",
 			artist: "tukiwani",
 			artist_url: "https://twitter.com/tukiwani",
@@ -2364,8 +2391,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/NBulNBu.jpg"],
-			thumbnail: "https://i.imgur.com/sgKmgWo.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815152977104967/206_-_NBulNBu.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662837078990868/198_-_sgKmgWo.png",
 			title: "Ring Fit Lucina (kobi420art)",
 			artist: "kobi420art",
 			artist_url: "https://twitter.com/kobi420art",
@@ -2376,8 +2403,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/aBIQxKw.jpg", "https://i.imgur.com/NrAr5JO.png"],
-			thumbnail: "https://i.imgur.com/Ne6gnce.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816426170650685/207_-_aBIQxKw.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098816426577510450/208_-_NrAr5JO.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662837431304252/199_-_Ne6gnce.png",
 			title: "Lucina Quits Hooters (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
@@ -2388,8 +2415,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/m9ylyp7.png"],
-			thumbnail: "https://i.imgur.com/ZKh4B5k.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816427139551334/209_-_m9ylyp7.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662837884297256/200_-_ZKh4B5k.png",
 			title: "Hooters Lucina and Alear (AAAmagasA)",
 			artist: "AAAmagasA",
 			artist_url: "https://twitter.com/AAAmagasA",
@@ -2400,8 +2427,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/8DCp1ZF.png"],
-			thumbnail: "https://i.imgur.com/fdIwoWJ.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816427684794418/210_-_8DCp1ZF.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670541126238278/201_-_fdIwoWJ.png",
 			title: "Hooters Lucina (sixtybuzzer)",
 			artist: "sixtybuzzer",
 			artist_url: "https://twitter.com/sixtybuzzer",
@@ -2412,8 +2439,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oOj2GU3.jpg"],
-			thumbnail: "https://i.imgur.com/r4GK32y.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816428024545370/211_-_oOj2GU3.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670541327569017/202_-_r4GK32y.png",
 			title: "Sailor Moon Lucina & Tuxedo Mask Masked Marth (SilverCandyGum)",
 			artist: "SilverCandyGum",
 			artist_url: "https://twitter.com/SilverCandyGum",
@@ -2424,8 +2451,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/rUvSLwf.jpg", "https://i.imgur.com/bTYOQbR.jpg", "https://i.imgur.com/k9wW7IK.jpg", "https://i.imgur.com/jdX6Uug.jpg"],
-			thumbnail: "https://i.imgur.com/5mUH5kX.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084743150157925/194_-_rUvSLwf.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084743489888266/195_-_bTYOQbR.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084743754125446/196_-_k9wW7IK.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084744039350455/197_-_jdX6Uug.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670542590050304/206_-_5mUH5kX.jpg",
 			title: "Hooters Lucina Handjob (DeepSpaceNSFW)",
 			artist: "DeepSpaceNSFW",
 			artist_url: "https://twitter.com/DeepSpaceNSFW",
@@ -2436,8 +2463,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/NIzjAFo.jpg"],
-			thumbnail: "https://i.imgur.com/MKoRMht.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816428322328707/212_-_NIzjAFo.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670541730238605/203_-_MKoRMht.png",
 			title: "Hooters Lucina (Delvy_17)",
 			artist: "Delvy_17",
 			artist_url: "https://twitter.com/Delvy_17",
@@ -2448,8 +2475,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/CODOAXb.png"],
-			thumbnail: "https://i.imgur.com/ylNi2Is.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084744383275120/198_-_CODOAXb.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670541994459176/204_-_ylNi2Is.png",
 			title: "Bunny Lucina Hopping on a Dick (dannex009)",
 			artist: "dannex009",
 			artist_url: "https://twitter.com/dannex009",
@@ -2460,8 +2487,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/NHeoL0P.jpg"],
-			thumbnail: "https://i.imgur.com/7DwRCwz.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084744970473552/199_-_NHeoL0P.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670542330024066/205_-_7DwRCwz.png",
 			title: "Hooters Lucina Anal Sex (Glazen)",
 			artist: "Glazen",
 			artist_url: "https://twitter.com/RealGlazen",
@@ -2472,8 +2499,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/zhPfGyo.png"],
-			thumbnail: "https://i.imgur.com/N59sk7d.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816428607553536/213_-_zhPfGyo.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670542808158258/207_-_N59sk7d.png",
 			title: "Hooters Lucina (Kagato007SFW)",
 			artist: "Kagato007SFW",
 			artist_url: "https://twitter.com/Kagato007SFW",
@@ -2484,8 +2511,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/jNWRb5j.png"],
-			thumbnail: "https://i.imgur.com/JgzIJla.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816429295423538/214_-_jNWRb5j.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670543022084317/208_-_JgzIJla.png",
 			title: "Hooters Lucina (thrananaart)",
 			artist: "thrananaart",
 			artist_url: "https://twitter.com/thrananaart",
@@ -2496,8 +2523,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/JEgwQmG.png"],
-			thumbnail: "https://i.imgur.com/yGzaLU7.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816449537130587/215_-_JEgwQmG.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670699062755338/258_-_yGzaLU7.png",
 			title: "Rooftop Night Party (zuko_yoshi)",
 			artist: "zuko_yoshi",
 			artist_url: "https://twitter.com/zuko_yoshi",
@@ -2508,8 +2535,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oPQKqcF.png", "https://i.imgur.com/FYpMcxe.png", "https://i.imgur.com/KQvItKF.png", "https://i.imgur.com/SUyX75e.png", "https://i.imgur.com/70rl20M.png", "https://i.imgur.com/lTBKrZ3.png", "https://i.imgur.com/D4xOJ3x.png", "https://i.imgur.com/6c20IIu.png", "https://i.imgur.com/tZw2KnI.png", "https://i.imgur.com/29UzEIU.png", "https://i.imgur.com/Gbdjodc.png", "https://i.imgur.com/tk2FsbE.png"],
-			thumbnail: "https://i.imgur.com/fwwHXVB.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084745293447189/200_-_oPQKqcF.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084761416347699/201_-_FYpMcxe.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084761965793380/202_-_KQvItKF.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084762326499409/203_-_SUyX75e.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084762699804782/204_-_70rl20M.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084763974865066/205_-_lTBKrZ3.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084764515938465/206_-_D4xOJ3x.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084765040218122/207_-_6c20IIu.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084765392535652/208_-_tZw2KnI.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084787756580986/209_-_29UzEIU.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084788360552448/210_-_Gbdjodc.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084788796752032/211_-_tk2FsbE.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670569341321376/209_-_fwwHXVB.png",
 			title: "Hooters Lucina Standing Sex (SSenkoku)",
 			artist: "SSenkoku",
 			artist_url: "https://twitter.com/SSenkoku",
@@ -2520,8 +2547,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/eTf7t2Q.jpg"],
-			thumbnail: "https://i.imgur.com/DTVwzqT.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816450057211944/216_-_eTf7t2Q.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670569689452575/210_-_DTVwzqT.jpg",
 			title: "Hooters Lucina (CM_Lynarc)",
 			artist: "CM_Lynarc",
 			artist_url: "https://twitter.com/CM_Lynarc",
@@ -2532,8 +2559,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/5Dqgroc.jpg"],
-			thumbnail: "https://i.imgur.com/4hj606F.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816450552152074/217_-_5Dqgroc.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670569957904414/211_-_4hj606F.png",
 			title: "Morgan Goes Trick-or-treating with Her Mom (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
@@ -2544,8 +2571,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/pqmRJz5.png"],
-			thumbnail: "https://i.imgur.com/FVv6YTt.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816450870911039/218_-_pqmRJz5.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670570381508719/212_-_FVv6YTt.png",
 			title: "Hooters Lucina (BeeeeeN_213)",
 			artist: "BeeeeeN_213",
 			artist_url: "https://twitter.com/BeeeeeN_213",
@@ -2556,8 +2583,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/QCotiXn.png", "https://i.imgur.com/xB18HQO.png", "https://i.imgur.com/2V4Mf7h.png"],
-			thumbnail: "https://i.imgur.com/7Ppwrs7.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816451403595987/219_-_QCotiXn.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098816451692990494/220_-_xB18HQO.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098816451961438288/221_-_2V4Mf7h.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670570838708304/214_-_7Ppwrs7.png",
 			title: "Hooters Lucina (FehGodly)",
 			artist: "FehGodly",
 			artist_url: "https://twitter.com/FehGodly",
@@ -2568,8 +2595,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ARKfXM7.png"],
-			thumbnail: "https://i.imgur.com/hkaRQyT.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084789367185428/212_-_ARKfXM7.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670570599616592/213_-_hkaRQyT.png",
 			title: "Hooters Lucina Covered in Sauce (lewdanator69)",
 			artist: "Willanator93",
 			artist_url: "https://twitter.com/Willanator93",
@@ -2580,8 +2607,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/UEAf4i8.jpg"],
-			thumbnail: "https://i.imgur.com/cyA6sQp.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816452242448384/222_-_UEAf4i8.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670571065180230/215_-_cyA6sQp.png",
 			title: "Hooters Lucina (Rinku_Bny)",
 			artist: "Rinku_Bny",
 			artist_url: "https://twitter.com/Rinku_Bny",
@@ -2592,8 +2619,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/E4z54VZ.png"],
-			thumbnail: "https://i.imgur.com/Uivur06.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084790034071716/213_-_E4z54VZ.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670571279093791/216_-_Uivur06.png",
 			title: "Robcina After Sex (kenshinx187)",
 			artist: "kenshinx187",
 			artist_url: "https://twitter.com/kenshinx187",
@@ -2604,8 +2631,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WLyx97k.jpg", "https://i.imgur.com/LpDlrRj.jpg", "https://i.imgur.com/2SG5okI.jpg"],
-			thumbnail: "https://i.imgur.com/o2mleLP.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816475554398318/224_-_WLyx97k.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098816476137410590/225_-_LpDlrRj.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084790847783063/214_-_2SG5okI.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670589998268446/217_-_o2mleLP.png",
 			title: "Lucina's Morning Yoga Session (IRIA_splash)",
 			artist: "IRIA_splash",
 			artist_url: "https://twitter.com/IRIA_splash",
@@ -2616,8 +2643,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/GXKbKJm.jpg", "https://i.imgur.com/lyszHT1.jpg"],
-			thumbnail: "https://i.imgur.com/B9nhHKz.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084791602749570/215_-_GXKbKJm.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084792135434260/216_-_lyszHT1.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670590203801730/218_-_B9nhHKz.png",
 			title: "Summer Masked Marth Eaten Out (runicrow)",
 			artist: "runicrow",
 			artist_url: "https://twitter.com/runicrow",
@@ -2628,8 +2655,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/2c2RW3C.jpg", "https://i.imgur.com/KCs5Jem.png"],
-			thumbnail: "https://i.imgur.com/IaMCrla.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816476619751466/226_-_2c2RW3C.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098816477253095434/227_-_KCs5Jem.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670590421909555/219_-_IaMCrla.jpg",
 			title: "Hooters Lucina (AlaskasTomatoez)",
 			artist: "AlaskasTomatoez",
 			artist_url: "https://www.pixiv.net/users/31225492",
@@ -2640,8 +2667,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xgPwRrB.jpg"],
-			thumbnail: "https://i.imgur.com/zPkvSkE.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816477777379338/228_-_xgPwRrB.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670590619025499/220_-_zPkvSkE.jpg",
 			title: "Hooters Lucina (N_ah_N)",
 			artist: "N_ah_N",
 			artist_url: "https://twitter.com/N_ah_N",
@@ -2652,8 +2679,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/THhZEic.jpg"],
-			thumbnail: "https://i.imgur.com/9O6fHzI.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816478125510746/229_-_THhZEic.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670590820364488/221_-_9O6fHzI.jpg",
 			title: "Witch Ophelia (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -2664,8 +2691,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Ze2qCHM.jpg", "https://i.imgur.com/1IksBNC.jpg"],
-			thumbnail: "https://i.imgur.com/pO9EHDu.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084813773840494/217_-_Ze2qCHM.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084814210052116/218_-_1IksBNC.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670591126552636/222_-_pO9EHDu.png",
 			title: "Hooters Lucina Masturbating (SAZ_LaughMaker)",
 			artist: "SAZ_LaughMaker",
 			artist_url: "https://twitter.com/SAZ_LaughMaker",
@@ -2676,9 +2703,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ElsWdvb.jpg"],
-			thumbnail: "https://i.imgur.com/OZC0GLP.jpg",
-			title: "Lucina's Wedding Sex",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084814553976893/219_-_ElsWdvb.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670591327862834/223_-_OZC0GLP.jpg",
+			title: "Lucina's Wedding Sex (myj)",
 			artist: "myj",
 			artist_url: "https://www.pixiv.net/users/85457996",
 			art_url: "https://www.pixiv.net/artworks/102389478",
@@ -2688,8 +2715,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/j45lbvy.jpg"],
-			thumbnail: "https://i.imgur.com/ts0eM8v.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816478666571776/230_-_j45lbvy.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670591558561994/224_-_ts0eM8v.jpg",
 			title: "Hooters Lucina (Aegis_Asu)",
 			artist: "Aegis_Asu",
 			artist_url: "https://twitter.com/Aegis_Asu",
@@ -2700,8 +2727,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/NaK2XNy.png"],
-			thumbnail: "https://i.imgur.com/YKk32Ca.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816478918234193/231_-_NaK2XNy.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670609875087380/226_-_YKk32Ca.png",
 			title: "Hooters Lucina (norinori6424)",
 			artist: "norinori6424",
 			artist_url: "https://twitter.com/norinori6424",
@@ -2712,8 +2739,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lwlsPdR.jpg", "https://i.imgur.com/i54C9Jn.jpg"],
-			thumbnail: "https://i.imgur.com/d8llYKv.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084814923079780/220_-_lwlsPdR.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084815229259786/221_-_i54C9Jn.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670609661169736/225_-_d8llYKv.png",
 			title: "Resplendent Armpit Fuck (bbk13z)",
 			artist: "bbk13z",
 			artist_url: "https://twitter.com/bbk13z",
@@ -2724,8 +2751,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/u0aZex7.jpg"],
-			thumbnail: "https://i.imgur.com/ejoMVrw.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816499029921832/232_-_u0aZex7.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670610114170952/227_-_ejoMVrw.png",
 			title: "Bartender Lucina (LiaLiar1)",
 			artist: "LiaLiar1",
 			artist_url: "https://twitter.com/LiaLiar1",
@@ -2736,20 +2763,20 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/yc4WjCF.png"],
-			thumbnail: "https://i.imgur.com/g5ik6UW.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816499340296223/233_-_yc4WjCF.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670610428727406/228_-_g5ik6UW.png",
 			title: "Lucina Drinking Chocolate Milk (tomioka2)",
 			artist: "tomioka2",
 			artist_url: "https://twitter.com/tomioka2",
 			art_url: "https://www.pixiv.net/artworks/102671590",
-			desc: "This is a commission of Lucina drinking chocolate milk by Tomioka Jiro who drew Spring Lucina in FEH! I'm super glad to have had to the opportunity to commission them for this idea since I love their artwork. Lucina looks super cute! I hope she is enjoying her chocolatey beverage!",
+			desc: "This is a commission of Lucina drinking chocolate milk by Tomioka Jiro who drew Spring Lucina in FEH! I'm super glad to have had the opportunity to commission them for this idea since I love their artwork. Lucina looks super cute! I hope she is enjoying her chocolatey beverage!",
 			date_str: "November 2022",
 			tags: [""],
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/3Eikka4.jpg", "https://i.imgur.com/bP6Obgb.jpg"],
-			thumbnail: "https://i.imgur.com/haJdAmS.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816500078489620/235_-_3Eikka4.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098816500334350396/236_-_bP6Obgb.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670610902691961/229_-_haJdAmS.jpg",
 			title: "Hooters Lucina (GrimmelsDaThird)",
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
@@ -2760,8 +2787,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/99ToX0X.jpg", "https://i.imgur.com/PoJl2wo.jpg"],
-			thumbnail: "https://i.imgur.com/PxfYTGu.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816501047377950/237_-_99ToX0X.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099084815652888706/222_-_PoJl2wo.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670611225645106/230_-_PxfYTGu.jpg",
 			title: "Lucina and Clair Swap Outfits (Rynn_art)",
 			artist: "Rynn_art",
 			artist_url: "https://twitter.com/Rynn_art",
@@ -2772,8 +2799,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/GzdZlYw.jpg"],
-			thumbnail: "https://i.imgur.com/quhLcby.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816501408084009/238_-_GzdZlYw.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670611569586276/231_-_quhLcby.jpg",
 			title: "Lucina and Kronya Swap Outfits (Ihsnet)",
 			artist: "Ihsnet",
 			artist_url: "https://twitter.com/Ihsnet",
@@ -2784,8 +2811,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/San8spD.jpg"],
-			thumbnail: "https://i.imgur.com/9dUBITH.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816501697499166/239_-_San8spD.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670611812864041/232_-_9dUBITH.jpg",
 			title: "Hooters Lucina (ErominArt)",
 			artist: "ErominArt",
 			artist_url: "https://twitter.com/ErominArt",
@@ -2796,8 +2823,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/PvuggPQ.jpg"],
-			thumbnail: "https://i.imgur.com/6I1ekos.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098816501986902176/240_-_PvuggPQ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670638383763567/233_-_6I1ekos.jpg",
 			title: "A Christmas with Lucina and Flayn (shan0732)",
 			artist: "shan0732",
 			artist_url: "https://twitter.com/shan0732",
@@ -2808,8 +2835,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/tfB5EOJ.png", "https://i.imgur.com/CZGbtkJ.gif"],
-			thumbnail: "https://i.imgur.com/fYbCjQs.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820856148406282/241_-_tfB5EOJ.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098820856400052234/242_-_CZGbtkJ.gif"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670658688401508/246_-_fYbCjQs.png",
 			title: "Lucina Padoru (Yumizu)",
 			artist: "Yumizu",
 			artist_url: "https://twitter.com/Yumizu",
@@ -2820,8 +2847,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Rhuv6BE.jpg"],
-			thumbnail: "https://i.imgur.com/X3EQPKo.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820856857235556/243_-_Rhuv6BE.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670638627041390/234_-_X3EQPKo.jpg",
 			title: "Barista Reina",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -2832,8 +2859,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xLaqPLX.jpg"],
-			thumbnail: "https://i.imgur.com/UU0tkjF.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099084816353333279/224_-_xLaqPLX.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670638870306959/235_-_UU0tkjF.png",
 			title: "Devoted Sex (furo_at)",
 			artist: "furo_at",
 			artist_url: "https://twitter.com/furo_at",
@@ -2844,8 +2871,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/0IBUFi8.png", "https://i.imgur.com/mlxheaj.png", "https://i.imgur.com/8vyPZgv.jpg", "https://i.imgur.com/fzkwDTR.png", "https://i.imgur.com/M59yLEo.jpg", "https://i.imgur.com/zJDMYlO.jpg", "https://i.imgur.com/3lmNAst.jpg", "https://i.imgur.com/OUIA0H5.png", "https://i.imgur.com/8dOjLkd.jpg", "https://i.imgur.com/tunmFFU.jpg", "https://i.imgur.com/dFj9T9e.jpg", "https://i.imgur.com/Wl3AFq0.png", "https://i.imgur.com/daCEnC7.png", "https://i.imgur.com/KSgn40s.png", "https://i.imgur.com/edk2Q3X.jpg", "https://i.imgur.com/1qDCvxe.png", "https://i.imgur.com/Qwk4Hie.jpg", "https://i.imgur.com/Jo9VBXV.jpg"],
-			thumbnail: "https://i.imgur.com/fHXIyDI.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086747016642660/225_-_0IBUFi8.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086747549311036/226_-_mlxheaj.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086748149104732/227_-_8vyPZgv.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086748501418095/228_-_fzkwDTR.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086749059272745/229_-_M59yLEo.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086749357064222/230_-_zJDMYlO.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086749659045919/231_-_3lmNAst.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086750145593364/232_-_OUIA0H5.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086767262535800/233_-_8dOjLkd.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086767518400614/234_-_tunmFFU.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086767908454500/235_-_dFj9T9e.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086768277557338/236_-_Wl3AFq0.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086769988845608/237_-_daCEnC7.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086770550866062/238_-_KSgn40s.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086771091935333/239_-_edk2Q3X.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086771465240697/240_-_1qDCvxe.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086787684614174/241_-_Qwk4Hie.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086788003385344/242_-_Jo9VBXV.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670639239409805/236_-_fHXIyDI.png",
 			title: "Lucina's Christmas Present for Robin (ExaltedBrandAO3)",
 			artist: "ExaltedBrandAO3",
 			artist_url: "https://twitter.com/ExaltedBrandAO3",
@@ -2856,8 +2883,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/CRbfZgU.png", "https://i.imgur.com/iEETvYm.png"],
-			thumbnail: "https://i.imgur.com/PDHeChP.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820857469612044/244_-_CRbfZgU.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098820858098745494/245_-_iEETvYm.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670639562366996/237_-_PDHeChP.png",
 			title: "Hooters Lucina (fe135700)",
 			artist: "fe135700",
 			artist_url: "https://twitter.com/fe135700",
@@ -2868,8 +2895,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/QTvo4zy.jpg"],
-			thumbnail: "https://i.imgur.com/NKoQ9Em.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820860720189511/246_-_QTvo4zy.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670639889526885/238_-_NKoQ9Em.jpg",
 			title: "Hooters Lucina (thetommietomm)",
 			artist: "thetommietomm",
 			artist_url: "https://twitter.com/thetommietomm",
@@ -2880,9 +2907,9 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TlPs6Bm.jpg", "https://i.imgur.com/8dujHRm.jpg", "https://i.imgur.com/nExSNL3.jpg", "https://i.imgur.com/MXofMBA.jpg"],
-			thumbnail: "https://i.imgur.com/zLplpVm.jpg",
-			title: "Dendra and Miriam Double Paizuri",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086788326330478/243_-_TlPs6Bm.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086788716417066/244_-_8dujHRm.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086789005807716/245_-_nExSNL3.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086789429444708/246_-_MXofMBA.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670640157958214/239_-_zLplpVm.jpg",
+			title: "Dendra and Miriam Double Paizuri (onlyt3x)",
 			artist: "onlyt3x",
 			artist_url: "https://twitter.com/onlyt3x",
 			art_url: "https://twitter.com/onlyt3x/status/1603768042110042114",
@@ -2892,8 +2919,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/7NucSgk.jpg"],
-			thumbnail: "https://i.imgur.com/kFHUib1.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820861114462308/248_-_7NucSgk.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670640371875901/240_-_kFHUib1.png",
 			title: "Hooters Lucina (gausebokashi)",
 			artist: "gausebokashi",
 			artist_url: "https://twitter.com/gausebokashi",
@@ -2904,8 +2931,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/bNZgB5t.png"],
-			thumbnail: "https://i.imgur.com/LUtFtBp.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820861483548753/249_-_bNZgB5t.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670657266528337/241_-_LUtFtBp.png",
 			title: "Hooters Lucina (taku1122)",
 			artist: "taku1122",
 			artist_url: "https://twitter.com/taku1122",
@@ -2916,8 +2943,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/pFiEauW.jpg"],
-			thumbnail: "https://i.imgur.com/1kBeQme.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820879212871750/250_-_pFiEauW.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670657497202688/242_-_1kBeQme.jpg",
 			title: "Robin Baking Cookies (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -2928,8 +2955,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/C5dunsA.jpg", "https://i.imgur.com/UVykT8k.png"],
-			thumbnail: "https://i.imgur.com/aHmYepN.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086789710467122/247_-_C5dunsA.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086790058590289/248_-_UVykT8k.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670657719517324/243_-_aHmYepN.png",
 			title: "Great Lord Lucina Missionary Sex (takepopon)",
 			artist: "takepopon",
 			artist_url: "https://twitter.com/takepopon",
@@ -2940,8 +2967,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/1DDhcxS.png", "https://i.imgur.com/tXrEj8x.png"],
-			thumbnail: "https://i.imgur.com/GPYQsFD.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820879644893274/251_-_1DDhcxS.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098820879976255539/252_-_tXrEj8x.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670657941811300/244_-_GPYQsFD.png",
 			title: "Hooters Lucina (R3dFiVe_artist)",
 			artist: "R3dFiVe_artist",
 			artist_url: "https://twitter.com/R3dFiVe_artist",
@@ -2952,8 +2979,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/P7mESOl.jpg"],
-			thumbnail: "https://i.imgur.com/E91nrKn.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820880320168046/254_-_P7mESOl.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670658466087033/245_-_E91nrKn.jpg",
 			title: "Hooters Lucina (arktoons)",
 			artist: "arktoons",
 			artist_url: "https://twitter.com/arktoons",
@@ -2964,8 +2991,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/pWF3COt.jpg", "https://i.imgur.com/hlI54h4.jpg"],
-			thumbnail: "https://i.imgur.com/3DSh0GY.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820880542474250/255_-_pWF3COt.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098820880861233203/256_-_hlI54h4.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098658297508266068/105_-_3DSh0GY.png",
 			title: "Hooters Lucina (_huusu_)",
 			artist: "_huusu_",
 			artist_url: "https://twitter.com/_huusu_",
@@ -2976,8 +3003,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/sxvMHJv.jpg", "https://i.imgur.com/CfeKmTl.jpg"],
-			thumbnail: "https://i.imgur.com/a87nPtH.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086807007760536/249_-_sxvMHJv.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086807288774656/250_-_CfeKmTl.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670700769837118/264_-_a87nPtH.png",
 			title: "Lucina's Nude Breakfast",
 			artist: "eva02marina0",
 			artist_url: "https://twitter.com/eva02marina0",
@@ -2988,8 +3015,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/E2XOcBx.jpg"],
-			thumbnail: "https://i.imgur.com/LTKKpE4.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820881146454070/257_-_E2XOcBx.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670658910695506/247_-_LTKKpE4.png",
 			title: "Hooters Lucina (kutabire)",
 			artist: "kutabire",
 			artist_url: "https://twitter.com/kutabire",
@@ -3000,8 +3027,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xsxFK8Y.jpg"],
-			thumbnail: "https://i.imgur.com/9kLUhZ4.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820881519759410/258_-_xsxFK8Y.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670659149758565/248_-_9kLUhZ4.png",
 			title: "Hooters Lucina (yashuring2)",
 			artist: "yashuring2",
 			artist_url: "https://twitter.com/yashuring2",
@@ -3012,8 +3039,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/VlE0ryr.png"],
-			thumbnail: "https://i.imgur.com/jlaUJop.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820905158840331/259_-_VlE0ryr.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670678259019776/249_-_jlaUJop.png",
 			title: "Hooters Lucina (LazzleDazzler)",
 			artist: "LazzleDazzler",
 			artist_url: "https://twitter.com/LazzleDazzler",
@@ -3024,8 +3051,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/vezGr8U.png"],
-			thumbnail: "https://i.imgur.com/kMeVMoX.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820905662173235/260_-_vezGr8U.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670678506471434/250_-_kMeVMoX.png",
 			title: "Hooters Lucina (TheBakaretsu)",
 			artist: "TheBakaretsu",
 			artist_url: "https://twitter.com/TheBakaretsu",
@@ -3036,8 +3063,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/s1sifxQ.jpg"],
-			thumbnail: "https://i.imgur.com/f0EVmm8.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820906169667674/261_-_s1sifxQ.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670678753939546/251_-_f0EVmm8.jpg",
 			title: "Miko Silque (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -3048,8 +3075,8 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/qtJqmMs.jpg", "https://i.imgur.com/6bF2C33.jpg"],
-			thumbnail: "https://i.imgur.com/DYMKntS.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086807586578542/251_-_qtJqmMs.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086808001810492/252_-_6bF2C33.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670679378898984/252_-_DYMKntS.jpg",
 			title: "Lucina Naizuri",
 			artist: "DirtyEro",
 			artist_url: "https://twitter.com/DirtyEro",
@@ -3060,8 +3087,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/XD4QhZr.png"],
-			thumbnail: "https://i.imgur.com/lIIyHMi.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820906727522395/262_-_XD4QhZr.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670680213565450/254_-_lIIyHMi.png",
 			title: "Hooters Lucina (putcherillust)",
 			artist: "putcherillust",
 			artist_url: "https://twitter.com/putcherillust",
@@ -3072,8 +3099,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/BbMucJX.jpg"],
-			thumbnail: "https://i.imgur.com/f4MqfSe.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086808282824744/253_-_BbMucJX.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670679940927518/253_-_f4MqfSe.png",
 			title: "Hooters Lucina (lucinansky_art)",
 			artist: "lucinansky_art",
 			artist_url: "https://twitter.com/lucinansky_art",
@@ -3084,8 +3111,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/CHm1mjL.jpg", "https://i.imgur.com/iMgGDue.jpg", "https://i.imgur.com/NbgwHEj.jpg", "https://i.imgur.com/AS4wbEq.jpg", "https://i.imgur.com/M8iAjY4.jpg", "https://i.imgur.com/sWp3e9K.jpg"],
-			thumbnail: "https://i.imgur.com/76NTGTP.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086808521908266/254_-_CHm1mjL.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086808752590939/255_-_iMgGDue.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099086808966496367/256_-_NbgwHEj.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087830657024070/257_-_AS4wbEq.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087830896103485/258_-_M8iAjY4.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087831160332388/259_-_sWp3e9K.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670680683315291/255_-_76NTGTP.jpg",
 			title: "Lucina and Anna Kissing Passionately (JosephwolfNSFW)",
 			artist: "JosephwolfNSFW",
 			artist_url: "https://twitter.com/JosephwolfNSFW",
@@ -3096,8 +3123,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/3OU41jS.jpg"],
-			thumbnail: "https://i.imgur.com/dwgwoKL.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820907335684166/264_-_3OU41jS.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670680968532079/256_-_dwgwoKL.jpg",
 			title: "Camilla and Lucina Wish You a Happy Lunar New Year 2023 (RedKite333)",
 			artist: "RedKite333",
 			artist_url: "https://twitter.com/RedKite333",
@@ -3108,8 +3135,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ovPfCTh.png", "https://i.imgur.com/SvhZwfi.png", "https://i.imgur.com/6bL9Pcu.png", "https://i.imgur.com/cOnD7Rm.png", "https://i.imgur.com/aaMTq46.png", "https://i.imgur.com/EwkNnVK.png", "https://i.imgur.com/Sh8esrm.png", "https://i.imgur.com/DEUAgc4.png"],
-			thumbnail: "https://i.imgur.com/td5rtyG.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087831458136134/260_-_ovPfCTh.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087832204726342/261_-_SvhZwfi.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087832884191405/262_-_6bL9Pcu.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087833450430565/263_-_cOnD7Rm.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087834025054288/264_-_aaMTq46.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087860348497980/265_-_EwkNnVK.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087861451595786/266_-_Sh8esrm.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087862089134140/267_-_DEUAgc4.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670698777554974/257_-_td5rtyG.png",
 			title: "Resplendent Brave Lucina Sex (sirano65494554)",
 			artist: "sirano65494554",
 			artist_url: "https://twitter.com/sirano65494554",
@@ -3120,8 +3147,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/fKN5Ka6.png"],
-			thumbnail: "https://i.imgur.com/k6nwB4V.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087862642790521/268_-_fKN5Ka6.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670699599638528/260_-_k6nwB4V.png",
 			title: "Hooters Lucina Paizuri (maruto)",
 			artist: "maruto",
 			artist_url: "https://twitter.com/maruto",
@@ -3132,8 +3159,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/TenuHDL.jpg"],
-			thumbnail: "https://i.imgur.com/59nSBbm.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820907633496064/265_-_TenuHDL.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670699339583618/259_-_59nSBbm.png",
 			title: "Florina on Valentine's Day (chan_hone_pkpk)",
 			artist: "chan_hone_pkpk",
 			artist_url: "https://twitter.com/chan_hone_pkpk",
@@ -3144,8 +3171,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/oGGJt5R.jpg"],
-			thumbnail: "https://i.imgur.com/4Qtn7WX.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820908115824770/266_-_oGGJt5R.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670699779981392/261_-_4Qtn7WX.jpg",
 			title: "Hooters Lucina (parupomo)",
 			artist: "parupomo",
 			artist_url: "https://twitter.com/parupomo",
@@ -3156,8 +3183,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Is5MDNW.jpg", "https://i.imgur.com/0AZYKr8.jpg"],
-			thumbnail: "https://i.imgur.com/t9XVBCq.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087863452278865/269_-_Is5MDNW.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087863783632967/270_-_0AZYKr8.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670700086177964/262_-_t9XVBCq.jpg",
 			title: "Year of the Rabbit Lucina and Nina (ShiroFont)",
 			artist: "ShiroFont",
 			artist_url: "https://twitter.com/ShiroFont",
@@ -3168,8 +3195,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/sLl5Dbn.jpg", "https://i.imgur.com/M9KdyRq.jpg"],
-			thumbnail: "https://i.imgur.com/o5TgoRp.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820908841455656/267_-_sLl5Dbn.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098820924905631834/268_-_M9KdyRq.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670700367188110/263_-_o5TgoRp.jpg",
 			title: "Office Lady Charlotte (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -3180,8 +3207,8 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/iR1h9rS.png"],
-			thumbnail: "https://i.imgur.com/9dQEuIg.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087864140156928/271_-_iR1h9rS.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670746433224836/265_-_9dQEuIg.png",
 			title: "Lucina Having Sex (NEETlewds)",
 			artist: "NEETlewds",
 			artist_url: "https://twitter.com/NEETlewds",
@@ -3192,8 +3219,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/xtYjroy.jpg"],
-			thumbnail: "https://i.imgur.com/R3E5WUc.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820925518004295/269_-_xtYjroy.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670746689085490/266_-_R3E5WUc.png",
 			title: "Hooters Fartooth (Chiro_roo)",
 			artist: "Chiro_roo",
 			artist_url: "https://twitter.com/Chiro_roo",
@@ -3204,8 +3231,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/W0BFOTb.png"],
-			thumbnail: "https://i.imgur.com/mNxSUcV.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820925819985970/270_-_W0BFOTb.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670746953318531/267_-_mNxSUcV.png",
 			title: "Hooters Lucina (kuzunue)",
 			artist: "kuzunue",
 			artist_url: "https://twitter.com/kuzunue",
@@ -3216,8 +3243,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/YO8MOl0.png"],
-			thumbnail: "https://i.imgur.com/Pl8Zl8t.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820926612713542/271_-_YO8MOl0.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670747301453844/268_-_Pl8Zl8t.png",
 			title: "Hooters Lucina (excaliblader)",
 			artist: "excaliblader",
 			artist_url: "https://twitter.com/excaliblader",
@@ -3228,8 +3255,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/6Wvad8O.png"],
-			thumbnail: "https://i.imgur.com/TtUkIro.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087864576352256/272_-_6Wvad8O.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670747653767228/269_-_TtUkIro.png",
 			title: "Lucina and Mitama Scissoring (whitepakaillust)",
 			artist: "whitepakaillust",
 			artist_url: "https://twitter.com/whitepakaillust",
@@ -3240,8 +3267,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/8T4mYau.jpg", "https://i.imgur.com/8t8xAiK.jpg", "https://i.imgur.com/JBJ0QvS.jpg", "https://i.imgur.com/Jjh7e5c.jpg"],
-			thumbnail: "https://i.imgur.com/Ne5hhmC.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087881252913222/273_-_8T4mYau.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087881936572596/274_-_8t8xAiK.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087882465063013/275_-_JBJ0QvS.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087882909663292/276_-_Jjh7e5c.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670747918020699/270_-_Ne5hhmC.png",
 			title: "Robin Emblem Engages with Lucina (kahun9893)",
 			artist: "kahun9893",
 			artist_url: "https://twitter.com/kahun9893",
@@ -3252,8 +3279,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/WQHmZn8.png"],
-			thumbnail: "https://i.imgur.com/m4U2uEt.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820927313166376/272_-_WQHmZn8.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670748190638110/271_-_m4U2uEt.png",
 			title: "Flight Attendant Lucina (faith0m)",
 			artist: "faith0m",
 			artist_url: "https://twitter.com/faith0m",
@@ -3264,8 +3291,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/RNDTEPZ.png"],
-			thumbnail: "https://i.imgur.com/tN0yv2E.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820927657091204/273_-_RNDTEPZ.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670748438114466/272_-_tN0yv2E.png",
 			title: "Hooters Lucina (kitune_n)",
 			artist: "kitune_n",
 			artist_url: "https://twitter.com/kitune_n",
@@ -3276,8 +3303,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/6gu5X70.jpg"],
-			thumbnail: "https://i.imgur.com/5sQ4tt7.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820927971668009/275_-_6gu5X70.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670772714745907/273_-_5sQ4tt7.jpg",
 			title: "Hooters Lucina (ramyeonguksu)",
 			artist: "ramyeonguksu",
 			artist_url: "https://twitter.com/ramyeonguksu",
@@ -3288,8 +3315,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/6UAtZhr.jpg"],
-			thumbnail: "https://i.imgur.com/UyKdZnA.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098820928282050620/276_-_6UAtZhr.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670772924465353/274_-_UyKdZnA.png",
 			title: "Resplendent Brave Lucina (a_fjkw)",
 			artist: "a_fjkw",
 			artist_url: "https://twitter.com/a_fjkw",
@@ -3300,8 +3327,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/Howwrf4.jpg"],
-			thumbnail: "https://i.imgur.com/w7PIPgd.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822029416878170/277_-_Howwrf4.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670773142573056/275_-_w7PIPgd.jpg",
 			title: "Hooters Lucina (sierra117renner)",
 			artist: "sierra117renner",
 			artist_url: "https://twitter.com/sierra117renner",
@@ -3312,8 +3339,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/8W1HZw8.png"],
-			thumbnail: "https://i.imgur.com/KiNkBbH.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822029748215839/278_-_8W1HZw8.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670773381640252/276_-_KiNkBbH.png",
 			title: "Hooters Lucina (shan0732)",
 			artist: "shan0732",
 			artist_url: "https://twitter.com/shan0732",
@@ -3324,8 +3351,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/fJsJ9z2.png"],
-			thumbnail: "https://i.imgur.com/cNG4MUo.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822030436073542/279_-_fJsJ9z2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670773574582282/277_-_cNG4MUo.png",
 			title: "Hooters Yuzu (AAAmagasA)",
 			artist: "AAAmagasA",
 			artist_url: "https://twitter.com/AAAmagasA",
@@ -3336,8 +3363,8 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/bzl0AOO.jpg", "https://i.imgur.com/Mi5YWB4.jpg"],
-			thumbnail: "https://i.imgur.com/3zmOTlj.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822030964576367/280_-_bzl0AOO.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098822031203639366/281_-_Mi5YWB4.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670773792673822/278_-_3zmOTlj.png",
 			title: "Hooters Lucina (bhive003)",
 			artist: "bhive003",
 			artist_url: "https://twitter.com/bhive003",
@@ -3348,8 +3375,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lNs6HL1.png"],
-			thumbnail: "https://i.imgur.com/7Kp3ZZ8.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822031522398218/282_-_lNs6HL1.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670774035951777/279_-_7Kp3ZZ8.png",
 			title: "Hooters Lucina (wwitchi_)",
 			artist: "wwitchi_",
 			artist_url: "https://twitter.com/wwitchi_",
@@ -3360,8 +3387,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/BoV8dq8.jpg"],
-			thumbnail: "https://i.imgur.com/2djispe.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822031816020089/283_-_BoV8dq8.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670774421831710/280_-_2djispe.png",
 			title: "Lucina and Silque Celebrate a Birthday (chan_hone_pkpk)",
 			artist: "chan_hone_pkpk",
 			artist_url: "https://twitter.com/chan_hone_pkpk",
@@ -3372,8 +3399,8 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/uD5AJEL.jpg", "https://i.imgur.com/8FquyyP.jpg"],
-			thumbnail: "https://i.imgur.com/hujy9Da.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087883199057990/277_-_uD5AJEL.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087883459113030/278_-_8FquyyP.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670797029117972/281_-_hujy9Da.png",
 			title: "Hooters Lucina Masturbating (TheoryIV)",
 			artist: "TheoryIV",
 			artist_url: "https://twitter.com/TheoryIV",
@@ -3384,8 +3411,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/gsvDSXr.jpg"],
-			thumbnail: "https://i.imgur.com/svyK0fQ.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822032172523621/284_-_gsvDSXr.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670797251420392/282_-_svyK0fQ.jpg",
 			title: "College Lysithea (true_jek_art)",
 			artist: "true_jek_art",
 			artist_url: "https://twitter.com/true_jek_art",
@@ -3396,20 +3423,20 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/UMqxyGX.jpg"],
-			thumbnail: "https://i.imgur.com/sn4nuC0.png",
-			title: "Lucina and Silque Celebrate a Birthday (chan_hone_pkpk)",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822056470134854/285_-_UMqxyGX.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670797456949248/283_-_sn4nuC0.png",
+			title: "Lucina and Silque Celebrate a Birthday (kikoma_illust)",
 			artist: "kikoma_illust",
 			artist_url: "https://twitter.com/kikoma_illust",
 			art_url: null,
-			desc: "This is a gift commission for Miso by chan_hone_pkpk! Lucina and Silque are both celebrating a birthday and have prepared a delicious-looking chocolate cake! They both look so pretty and cute, and their smiles are the best!",
+			desc: "This is a gift commission for Miso by kikoma_illust! Lucina and Silque are both celebrating a birthday and have prepared a delicious-looking chocolate cake! They both look so pretty and cute, and their smiles are the best!",
 			date_str: "March 2023",
 			tags: [""],
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/h6HlM5S.png", "https://i.imgur.com/c3fHMgZ.png"],
-			thumbnail: "https://i.imgur.com/7TgYbJv.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087883777884201/279_-_h6HlM5S.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087884105027674/280_-_c3fHMgZ.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670797700206683/284_-_7TgYbJv.png",
 			title: "Reverse Bunnysuit Lucina and Aversa (kuroti1000)",
 			artist: "kuroti1000",
 			artist_url: "https://twitter.com/kuroti1000",
@@ -3420,20 +3447,20 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/MGb9FHj.png"],
-			thumbnail: "https://i.imgur.com/vux18zM.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822056897945662/286_-_MGb9FHj.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670797926703227/285_-_vux18zM.png",
 			title: "Lucina Sipping Chocolate Milk (GrimmelsDaThird)",
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
-			art_url: null,
+			art_url: "https://twitter.com/grimmelsdathird/status/1643342312913924096",
 			desc: "This is a commission of Lucina sipping chocolate milk by GrimmelsDaThird! Lucina looks so cute when she's enjoying a nice glass of chocolate milk! It looks like she's also humming a tune because she's so happy. Her smile is adorable and the best!",
 			date_str: "March 2023",
 			tags: [""],
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/auyyjFT.png", "https://i.imgur.com/3iKB6sw.png", "https://i.imgur.com/5UY5Put.png", "https://i.imgur.com/jobwumt.png", "https://i.imgur.com/jx5e3fv.png", "https://i.imgur.com/FJX4AGy.png"],
-			thumbnail: "https://i.imgur.com/WqrXWLq.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087915142873119/281_-_auyyjFT.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087918112444497/282_-_3iKB6sw.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087918829682748/283_-_5UY5Put.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087919509143622/284_-_jobwumt.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087919995699281/285_-_jx5e3fv.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087920461254736/286_-_FJX4AGy.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670798136426526/286_-_WqrXWLq.png",
 			title: "Twin Peaks Lucina and Hooters Micaiah (jarckius_art)",
 			artist: "jarckius_art",
 			artist_url: "https://twitter.com/jarckius_art",
@@ -3444,8 +3471,8 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://i.imgur.com/YaGDFux.jpg"],
-			thumbnail: "https://i.imgur.com/Cguzobr.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822057439006730/287_-_YaGDFux.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670798379683870/287_-_Cguzobr.jpg",
 			title: "Hooters Lucina (daniaeru)",
 			artist: "daniaeru",
 			artist_url: "https://twitter.com/daniaeru",
@@ -3456,8 +3483,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/kP3rxvl.jpg"],
-			thumbnail: "https://i.imgur.com/y5o9WSG.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822057703260170/288_-_kP3rxvl.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670798568431706/288_-_y5o9WSG.jpg",
 			title: "Hooters Lucina (serafineart1001)",
 			artist: "serafineart1001",
 			artist_url: "https://twitter.com/serafineart1001",
@@ -3468,20 +3495,20 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/6sBdrrD.jpg"],
-			thumbnail: "https://i.imgur.com/WqmL2e9.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822057971687474/289_-_6sBdrrD.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670822702456882/289_-_WqmL2e9.jpg",
 			title: "Hooters Lucina (SPYKEEE1945)",
 			artist: "SPYKEEE1945",
 			artist_url: "https://twitter.com/SPYKEEE1945",
-			art_url: null,
+			art_url: "https://twitter.com/SPYKEEE1945/status/1644792387296989184",
 			desc: "This is a Hooters Lucina by SPYKEEE1945! Lucina is super pretty in this! The detail and coloring and lighting are all done so amazingly well! The food and beer look delicious, and the big window in the back looks really cool! The artist did a wonderful job on this!",
 			date_str: "March 2023",
 			tags: ["hooters"],
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/lUtXVld.jpg"],
-			thumbnail: "https://i.imgur.com/saL7yiT.jpg",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822058571468850/290_-_lUtXVld.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670823050580089/290_-_saL7yiT.jpg",
 			title: "Lucina Sipping Chocolate Milk (KrazehKai)",
 			artist: "KrazehKai",
 			artist_url: "https://twitter.com/KrazehKai",
@@ -3492,8 +3519,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/ayjCoKH.png"],
-			thumbnail: "https://i.imgur.com/TgkvJh5.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822059221598260/291_-_ayjCoKH.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670823306436668/291_-_TgkvJh5.png",
 			title: "Hooters Lucina (112Namu)",
 			artist: "112Namu",
 			artist_url: "https://twitter.com/112Namu",
@@ -3504,15 +3531,123 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://i.imgur.com/arUuQi0.png", "https://i.imgur.com/5pskg41.png"],
-			thumbnail: "https://i.imgur.com/SlLMMOP.png",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087921019093002/287_-_arUuQi0.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087921996369990/288_-_5pskg41.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670823662960810/292_-_SlLMMOP.png",
 			title: "Hooters Edelgard (Sauvignon1729)",
 			artist: "Sauvignon1729",
 			artist_url: "https://twitter.com/Sauvignon1729",
-			art_url: null,
+			art_url: "https://www.pixiv.net/artworks/106733945",
 			desc: "This is a commission of Hooters Edelgard by Sauvignon1729! This was a birthday gift for Exalted who really likes Edelgard! I really love the vibrant colors and Edelgard's cute smile! Her side ponytail is such a great hairstyle with this outfit!",
 			date_str: "March 2023",
 			tags: ["hooters", "nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822059716517978/292_-_1HpvE2d.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670823855882360/293_-_AmIOQ7x.png",
+			title: "Hooters Lucina (369369369rrr)",
+			artist: "369369369rrr",
+			artist_url: "https://twitter.com/369369369rrr",
+			art_url: "https://twitter.com/369369369rrr/status/1641092143346520065",
+			desc: "This is a Hooters Lucina by 369369369rrr! Lucina looks so cute and pretty! The beer and chicken wings look delicious, and I love all the warm colors! The whole piece gives off a really nice cozy vibe. Lucina's smile is the best!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822084114792510/293_-_4Rl3dqh.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670824086585474/294_-_m0uN7nS.png",
+			title: "Hooters Lucina (4m700kg)",
+			artist: "4m700kg",
+			artist_url: "https://twitter.com/4m700kg",
+			art_url: "https://twitter.com/4m700kg/status/1641835389269995520",
+			desc: "This is a Hooters Lucina by 4m700kg! Lucina looks really pretty! The artist's version of the outfit looks really cool and refreshing! It's like a summer version of the uniform. I like the way they drew and colored Lucina's hair. Her pose also seems dynamic and energetic!",
+			date_str: "March 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822084777496716/294_-_fm4dL6J.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098822085054316584/295_-_meS6sur.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098822085310156831/296_-_GIUFsKp.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670824304672878/295_-_jkEPVgh.png",
+			title: "Hooters Lucina (tak0baka)",
+			artist: "tak0baka",
+			artist_url: "https://twitter.com/tak0baka",
+			art_url: "https://twitter.com/tak0baka/status/1642452782291763200",
+			desc: "This is a Hooters Lucina by tak0baka! Lucina looks super pretty! The artist did an amazing job on this whole piece! The big mug of beer and big plate of chicken wings look delicious, and Lucina's smile is adorable! I'm glad to hear that the artist had a lot of fun working on this!",
+			date_str: "April 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087922571002000/289_-_XQeqak4.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670824556339240/296_-_TNAKsa5.png",
+			title: "Robcina Standing Sex (incognigoat)",
+			artist: "incognigoat",
+			artist_url: "https://twitter.com/incognigoat",
+			art_url: "https://twitter.com/incognigoat/status/1643726595646173185",
+			desc: "This is a commission of Robin and Lucina having sex by incognigoat! After undressing, the couple immediately begin making love before they reach the bed. Robin starts off with fucking Lucina while clutching her chest and giving her a deep kiss. They look like they're enjoying themselves!",
+			date_str: "April 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822085645717524/297_-_6iuVFJR.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670836539474000/297_-_oAD8KCa.png",
+			title: "Hooters Lucina (logknn)",
+			artist: "logknn",
+			artist_url: "https://twitter.com/logknn",
+			art_url: null,
+			desc: "This is a Hooters Lucina by logknn! Lucina looks super pretty and cute! I love her expression and pose. The way the artist drew and colored her hair was really well done. The background and colors are really nice and warm too. The artwork is wonderful and amazing!",
+			date_str: "April 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822086295830558/298_-_WMF2Y4K.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670836765954068/298_-_9T43dL5.png",
+			title: "Hooters Lucina (cloverlimit)",
+			artist: "cloverlimit",
+			artist_url: "https://twitter.com/cloverlimit",
+			art_url: "https://twitter.com/cloverlimit/status/1645475184185610241",
+			desc: "This is a Hooters Lucina by cloverlimit! Lucina looks really pretty and cute! I really like the pose and the scenario of this piece. It's like a snapshot of her busy work shift. I'm glad to hear that the artist had a lot of fun working on this! It turned out really great!",
+			date_str: "April 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822086836899972/299_-_pPmNYk4.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1098822087646396486/300_-_euZw24v.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670836988260422/299_-_X8tuHac.png",
+			title: "Lucina and Morgan Having Lunch (RitDelba)",
+			artist: "RitDelba",
+			artist_url: "https://twitter.com/RitDelba",
+			art_url: "https://twitter.com/RitDelba/status/1646210478295728156",
+			desc: "This is a joint commission with Exalted by RitDelba! Lucina and her daughter Morgan are having a happy meal together! It looks like Morgan is loving it! So much so that she doesn't realize she's made a mess, and Lucina is there to help clean up. The Grima toy is also broken. I wonder if that was on purpose.",
+			date_str: "April 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822088162283530/301_-_oxznYdR.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670836312977499/300_-_rDBDRGx.jpg",
+			title: "Biker Larcei (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of biker Larcei by true_jek_art! The gift is for Mr. TalkingDinosaur who loves Larcei! Larcei seems like someone who would enjoy motorbiking and riding fast vehicles. I love all the little references and details that the artists includes as always!",
+			date_str: "April 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099089422894514276/comic3.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099089423301365771/comic4.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099089421644615690/comic1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099089422265356438/comic2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1099089779011878942/comic1_11zon.png",
+			title: "Robin and Lucina Try \"Plegian Sex\" (Ebinkuu)",
+			artist: "Ebinkuu",
+			artist_url: "https://www.pixiv.net/users/78716022",
+			art_url: "https://www.pixiv.net/artworks/106911114",
+			desc: "This is a mini-comic commission of Robin and Lucina having by Ebinkuu! Robin and Lucina try out \"Plegian Sex\" which is based on \"Polynesian Sex\". It is something Robin has heard about on his recent visit to Plegia, and it supposedly enhances the sensations of lovemaking. However, it requires a few days of preparation during which masturbating and orgasming are not allowed. On the first day, no touching is allowed, so Robin and Lucina strip down and stare at each other's nude body for one hour. On the second day, hugging and kissing are allowed, so Robin and Lucina kiss and press their sweaty bodies against each other. On the third day, sensitive areas excluding the genitals can be touched, so Robin and Lucina caress each other and play with each other's erogenous zones. On the fourth day, all restrictions are lifted and the couple is allowed to have sex. Due to all their pent up sexual frustration building up the past few days, Robin and Lucina have a long and explosive sex marathon session that continues on to the fifth day.",
+			date_str: "April 2023",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
