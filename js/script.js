@@ -200,11 +200,6 @@ function createTagsDropdown(tags) {
 	tags.delete("");
 
 	tags_to_show = {};
-	
-	// By default, hide images with these tags
-	$(".hooters").hide();
-	$(".nsfw").hide();
-	$(".other").hide();
 
 	// Create the dropdown options
 	var tags_dropdown_HTML = "";
@@ -213,6 +208,11 @@ function createTagsDropdown(tags) {
 		tags_to_show[value] = false;
 	});
 	$("#tags-dropdown").html(tags_dropdown_HTML);
+
+	// By default, hide images with tags
+	for (var tag in tags_to_show) {
+		$("."+tag).hide();
+	}
 
 	// When a checkbox is checked/unchecked in the dropdown menu...
 	$(".checkbox-menu").on("change", "input[type='checkbox']", function() {
@@ -274,14 +274,14 @@ function backButtonHideModal() {
 	});
 	$("div.modal").on("hidden.bs.modal", function() {
 		var hash = this.id;
-			history.replaceState("", document.title, window.location.pathname);
-		});
-		// when close button clicked simulate back
-		$("div.modal button.close").on("click", function(){
-			window.history.back();
-		})
-		// when esc pressed when modal open simulate back
-		$("div.modal").keyup(function(e) {
+		history.replaceState("", document.title, window.location.pathname);
+	});
+	// when close button clicked simulate back
+	$("div.modal button.close").on("click", function(){
+		window.history.back();
+	})
+	// when esc pressed when modal open simulate back
+	$("div.modal").keyup(function(e) {
 		if (e.keyCode == 27){
 			window.history.back();
 		}
