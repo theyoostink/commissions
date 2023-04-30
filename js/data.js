@@ -3656,7 +3656,7 @@ var data = {
 			title: "Hooters Lucina (sugarbell_art)",
 			artist: "sugarbell_art",
 			artist_url: "https://twitter.com/sugarbell_art",
-			art_url: null,
+			art_url: "https://twitter.com/sugarbell_art/status/1652462307472035842",
 			desc: "This is a Hooters Lucina by sugarbell_art! Lucina looks so cute! I absolutely love all the vibrant colors and how bright the artwork is. Her smile is also gorgeous and adorable! The food art looks great too! I really like how the artist draws Lucina, so I'm glad to have had the opportunity to commmission them!",
 			date_str: "April 2023",
 			tags: ["hooters", "nsfw"],
@@ -3668,10 +3668,22 @@ var data = {
 			title: "Lucina Blowjob Animation (kumanosuke1999)",
 			artist: "kumanosuke1999",
 			artist_url: "https://twitter.com/kumanosuke1999",
-			art_url: "https://skeb.jp/@kumanosuke1999/works/20",
+			art_url: "https://twitter.com/kumanosuke1999/status/1651530414291578882",
 			desc: "This is an animation commission of Lucina giving a blowjob by kumanosuke1999! Lucina gets down on her knees and slides the penis of her beloved down her throat. She pleasures the dick while looking up lovingly until it coats her face with cum. She did a great job! For the video with sound and voice acting, click <a href='https://cdn.discordapp.com/attachments/1098603525455482910/1100993202472878090/1298675-1.mp4' target='_blank'>here</a> to download.",
 			date_str: "April 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1101638590108274789/final.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1101638755963650068/final_11zon.png",
+			title: "Race Queens Lucina and Severa (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://twitter.com/RedKite333",
+			art_url: "https://twitter.com/RedKite333/status/1651447303067287552",
+			desc: "This is a joint commission I did with DKRF with the art by RedKite333! Lucina and Severa dressed as race queens hit the track to promote their team. They both look so pretty! I really love their outfits, and the artist did a great job as always! It was great to collab with DKRF on this as well, and we hope to collab on some more Lucina and Severa commissions.",
+			date_str: "April 2023",
+			tags: [""],
 			hidden: false
 		},
 		{
