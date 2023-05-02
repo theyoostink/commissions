@@ -2115,7 +2115,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081584059097088/158_-_wNhzKc8.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081584356888708/159_-_AQiYt9j.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081584675668008/160_-_nBHotKJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083263424872568/168_-_yHooZ65.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083263747829842/161_-_Bkx7sRN.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264041418872/162_-_3KJyVf0.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264376975380/163_-_28ZkVOJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264670564484/164_-_O6eTJ3g.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264955793478/165_-_BuPkVDO.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083265295527986/166_-_vbEaCtI.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083265622671470/167_-_YEjmCMu.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083295033131008/169_-_HkBDIvR.jpg"],
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099081584059097088/158_-_wNhzKc8.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081584356888708/159_-_AQiYt9j.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099081584675668008/160_-_nBHotKJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083263747829842/161_-_Bkx7sRN.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264041418872/162_-_3KJyVf0.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264376975380/163_-_28ZkVOJ.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264670564484/164_-_O6eTJ3g.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083264955793478/165_-_BuPkVDO.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083265295527986/166_-_vbEaCtI.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083265622671470/167_-_YEjmCMu.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083263424872568/168_-_yHooZ65.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099083295033131008/169_-_HkBDIvR.jpg"],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662010125828217/175_-_6ZIWJH2.png",
 			title: "Lucina's Post-Workout Blowjob (amandakenny0730)",
 			artist: "amandakenny0730",
@@ -3663,8 +3663,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.discordapp.com/attachments/1098603578861559839/1100996793480785931/1298675-1.png"],
-			thumbnail: "https://cdn.discordapp.com/attachments/1098603525455482910/1100996732764028938/1298675-1.gif",
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1100996732764028938/1298675-1.gif"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1100996793480785931/1298675-1.png",
 			title: "Lucina Blowjob Animation (kumanosuke1999)",
 			artist: "kumanosuke1999",
 			artist_url: "https://twitter.com/kumanosuke1999",
@@ -3684,6 +3684,30 @@ var data = {
 			desc: "This is a joint commission I did with DKRF with the art by RedKite333! Lucina and Severa dressed as race queens hit the track to promote their team. They both look so pretty! I really love their outfits, and the artist did a great job as always! It was great to collab with DKRF on this as well, and we hope to collab on some more Lucina and Severa commissions.",
 			date_str: "April 2023",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1102681172984729721/1294092-1.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1102681467206782977/1294092-1_11zon.png",
+			title: "Hooters Lucina (deliTAKO_sun)",
+			artist: "deliTAKO_sun",
+			artist_url: "https://twitter.com/deliTAKO_sun",
+			art_url: null,
+			desc: "This is a Hooters Lucina by deliTAKO_sun! Lucina looks so cute! I love her adorable wink and huge smile! The colors are so nice and vibrant. The artwork is wonderful, and a happy Lucina is the best!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1102681284091842571/ffff.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1102681467437457428/ffff_11zon.png",
+			title: "Lucina's Alone Time (PomeloMelon1)",
+			artist: "PomeloMelon1",
+			artist_url: "https://twitter.com/PomeloMelon1",
+			art_url: null,
+			desc: "This is a commission of Lucina masturbating by PomeloMelon1! When Lucina is alone, she borrows Robin's cloak and sinks her fingers into her pussy. Thoughts and smells of her beloved Robin fill her mind as she pleasures herself. The artist did a wonderful job on this piece! I love Lucina's expression!",
+			date_str: "May 2023",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
