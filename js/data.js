@@ -3711,6 +3711,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1103883958296522844/1406053-1.output_11zon.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1103884013720059914/1406053-1.output_11zon_11zon.png",
+			title: "Hooters Lucina (akin999)",
+			artist: "akin999",
+			artist_url: "https://twitter.com/akin999",
+			art_url: null,
+			desc: "This is a Hooters Lucina by akin999! Lucina looks really pretty! I love her confidence and the warm colors in this piece. The food looks great, and her smile is awesome! I really love the artist's Lucina art, so I'm glad that they were able to draw this!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1105173004863942726/1332817-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1105173435908374559/1332817-1.output_11zon.png",
+			title: "Hooters Lucina (voyager_bihai)",
+			artist: "voyager_bihai",
+			artist_url: "https://twitter.com/voyager_bihai",
+			art_url: null,
+			desc: "This is a joint commission with TheAshenJedi with the art by voyager_bihai! TheAshenJedi is known for their Jedi Ingrid commissions, so we decided to collab by doing an outfit swap: Jedi Lucina and Hooters Ingrid! This turned out amazingly! The effects, background, and lighting are great, and they both look super cool and pretty!",
+			date_str: "May 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
