@@ -1977,7 +1977,7 @@ var data = {
 			artist: "Amemachi2A16",
 			artist_url: "https://twitter.com/Amemachi2A16",
 			art_url: null,
-			desc: "This is a commission of Lucina and Robin trying for a baby by Amemachi2A16! Lucina tells Robin she's ready and wants to try for a baby. Energized by her wish, Robin pumps cum into his wife during their lust-filled sex session. They cuddle afterwards hoping that Lucina's wish comes true.",
+			desc: "This is a commission of Lucina and Robin trying for a baby by Amemachi2A16! Lucina tells Robin she's ready and wants to try for a baby. Energized by her wish, Robin pumps cum into his wife during their lust-filled sex session. They cuddle afterwards hoping that Lucina's wish comes true. The sequel to this comic is <span class='series-link' index='309'>here</span>.",
 			date_str: "July 2022",
 			tags: ["nsfw"],
 			hidden: false
@@ -3732,6 +3732,42 @@ var data = {
 			desc: "This is a joint commission with TheAshenJedi with the art by voyager_bihai! TheAshenJedi is known for their Jedi Ingrid commissions, so we decided to collab by doing an outfit swap: Jedi Lucina and Hooters Ingrid! This turned out amazingly! The effects, background, and lighting are great, and they both look super cool and pretty!",
 			date_str: "May 2023",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1107489088610770964/lucina.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1107489216159555685/lucina_11zon.png",
+			title: "Hooters Lucina (oreocorio)",
+			artist: "oreocorio (Toast)",
+			artist_url: "https://twitter.com/oreocorio",
+			art_url: "https://twitter.com/oreocorio/status/1657800689421254657",
+			desc: "This is a Hooters Lucina by oreocorio (Toast)! Lucina looks super cute and pretty! I love her smile and all the bright colors in the piece. The star background is also really cute. The artist did a great job on this wonderful artwork!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1107808617559765043/1322486-2.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1107809057298980915/1322486-2.output_11zon.png",
+			title: "Hooters Lucina (commushows)",
+			artist: "commushows",
+			artist_url: "https://twitter.com/commushows",
+			art_url: null,
+			desc: "This is a Hooters Lucina by commushows! Lucina looks so pretty and so cute! I really love commushows's style, so I'm glad I got the opportunity to commission them. The colors are so nice and bright, and Lucina's smile is adorable! The big mugs of frothy beery look delicious too! The artwork is wonderfully done!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1107808797197619310/1357474-1.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1107808797990322237/1357474-2.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1107808798653030440/1357474-3.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1107808853682294854/robcina1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1107808854290485309/robcina2.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1107808855032872980/robcina3.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1107809057571614782/1357474-1.output_11zon.png",
+			title: "Lucina and Robin Try for a Baby Again (Amemachi2A16)",
+			artist: "Amemachi2A16",
+			artist_url: "https://twitter.com/Amemachi2A16",
+			art_url: null,
+			desc: "This is a commission of Lucina and Robin trying for a baby again by Amemachi2A16! It's a sequel to <span class='series-link' index='160'>my previous comic commission</span>. Robin didn't succeed in impregnating Lucina, so the couple decide to try again. Robin is determined to get Lucina pregnant, and Lucina is looking forward to starting a family with her husband. They have sex until they're exhausted. It seems like they were successful this time!",
+			date_str: "May 2023",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
