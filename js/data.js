@@ -578,7 +578,8 @@ var data = {
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060401950771/253_-_7nNwWPi.jpg",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060662001734/263_-_NtJGc2z.jpg",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060917862450/274_-_NNKICzX.jpg",
-				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823061177897011/Untitled1103.png"
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823061177897011/Untitled1103.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1109283946384076951/Untitled1139_20230519111328.png"
 				],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -609,7 +610,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>
+			<a href='https://twitter.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3768,6 +3770,90 @@ var data = {
 			desc: "This is a commission of Lucina and Robin trying for a baby again by Amemachi2A16! It's a sequel to <span class='series-link' index='160'>my previous comic commission</span>. Robin didn't succeed in impregnating Lucina, so the couple decide to try again. Robin is determined to get Lucina pregnant, and Lucina is looking forward to starting a family with her husband. They have sex until they're exhausted. It seems like they were successful this time!",
 			date_str: "May 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1108906319353753730/ahe1u6vxta0b1.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1108906469337874432/ahe1u6vxta0b1_11zon.jpg",
+			title: "Palla Portrait (Meziosaur)",
+			artist: "Meziosaur",
+			artist_url: "https://twitter.com/meziosaur",
+			art_url: "https://twitter.com/meziosaur/status/1658653375339036672",
+			desc: "This is a commmission of a Palla portrait by Meziosaur! It's also a joint commission with labmemb3r since we both love Palla! I really love how Meziosaur drew Palla in this: elegant, dignified, and beautiful. Palla is amazingly pretty!",
+			date_str: "May 2023",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1108906319836106762/Fir_Volleyball.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1108906469035888680/Fir_Volleyball_11zon.jpg",
+			title: "Volleyball Fir",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of volleyball Fir by true_jek_art! It's a gift for HIERARCHYOFMEMES who loves Fir! I feel like someone who is active like Fir would like playing volleyball. The artist did a great job adding in references to the game in the outfit and also on the ball. It turned out great!",
+			date_str: "May 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1109187265973993492/Lucina_Hooters_-_Theyoostink.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1109187282977689600/Lucina_Hooters_-_Theyoostink_11zon.png",
+			title: "Hooters Lucina (DamoBelmont)",
+			artist: "DamoBelmont",
+			artist_url: "https://twitter.com/DamoBelmont",
+			art_url: "https://twitter.com/DamoBelmont/status/1659604835694526474",
+			desc: "This is a Hooters Lucina by DamoBelmont! Lucina looks really pretty! I really like the colors and lighting. They give the art nice vibrancy and contrast. Lucina also has her pinky out which is a nice detail. Lucina's smile is the best!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1109316578782216263/Lucina_Hotters.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1109317686359490641/Lucina_Hotters_11zon.png",
+			title: "Hooters Lucina (oppaiserothicc)",
+			artist: "oppaiserothicc",
+			artist_url: "https://twitter.com/oppaiserothicc",
+			art_url: "https://twitter.com/oppaiserothicc/status/1660098418633584640",
+			desc: "This is a Hooters Lucina from oppaiserothicc! The outfit is based on some very old vintage Hooters pinup outfits. Lucina looks super pretty and also super sexy! The outfit gives a really nice refreshing summer feel, and Lucina looks amazingly in it! The artist did a wonderful job on this, and I love the creativity!",
+			date_str: "May 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1109316681253261403/1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316682985517056/2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316685795688468/3.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316687922200617/4.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316690086461450/5.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316732801257552/1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316734676107395/2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316736475467847/3.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1109317339750613152/1_11zon.jpg",
+			title: "Hooters Lucina (Tofuubearart)",
+			artist: "Tofuubearart",
+			artist_url: "https://twitter.com/Tofuubearart",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Tofuubearart! Lucina looks so cute! I love her confident pose and expression! The frothy beer looks tasty, and Lucina's smile is the best! I love the artist's past artwork of Lucina, so I'm glad I got the opportunity to commission them!",
+			date_str: "May 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1110554637670547510/1388102-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1110555165100081202/1388102-1.output_11zon.png",
+			title: "Hooters Lucina (TOTOTOTO_TK)",
+			artist: "TOTOTOTO_TK",
+			artist_url: "https://twitter.com/TOTOTOTO_TK",
+			art_url: null,
+			desc: "This is a Hooters Lucina by TOTOTOTO_TK! Lucina looks so cute and pretty! I love the artist's artwork of Lucina, so I'm glad I got the opportunity to commission them. I love the Mark of the Exalt on the shirt and the butterfly on the shorts. Lucina's smile is also the best!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1109316537854218270/final_smaller_lmao.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1109317339507331173/final_smaller_lmao_11zon.png",
+			title: "Hooters Lucina (chocojax)",
+			artist: "chocojax",
+			artist_url: "https://twitter.com/chocojax",
+			art_url: "https://twitter.com/chocojax/status/1661069482528497664",
+			desc: "This is a Hooters Lucina by chocojax! Lucina looks so cute and pretty! I really love the colors and how dynamic the art is. You can really sense the movement in the piece in the sloshing beer and jumping chicken wings! Lucina's smile is also adorable! It was really great to watch chocojax work on the commission on stream as well!",
+			date_str: "May 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
