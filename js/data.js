@@ -2201,7 +2201,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815105493372978/188_-_WWC7K6y.png"],
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098815105493372978/188_-_WWC7K6y.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1113227228751347782/hoohah.png"],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098662028169719938/182_-_pXlh87f.png",
 			title: "Hooters Lucina (PoeChan_Chan)",
 			artist: "PoeChan_Chan",
@@ -2209,7 +2209,7 @@ var data = {
 			art_url: null,
 			desc: "This is a Hooters Lucina by PoeChan_Chan! Lucina looks so pretty and cute! Her smile is so wonderful, and that mug of beer looks really tasty and refreshing! The little detail of the nails painted orange is really nice too!",
 			date_str: "August 2022",
-			tags: ["hooters"],
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
@@ -3706,7 +3706,7 @@ var data = {
 			title: "Lucina's Alone Time (PomeloMelon1)",
 			artist: "PomeloMelon1",
 			artist_url: "https://twitter.com/PomeloMelon1",
-			art_url: null,
+			art_url: "https://twitter.com/PomeloMelon1/status/1661770975711571978",
 			desc: "This is a commission of Lucina masturbating by PomeloMelon1! When Lucina is alone, she borrows Robin's cloak and sinks her fingers into her pussy. Thoughts and smells of her beloved Robin fill her mind as she pleasures herself. The artist did a wonderful job on this piece! I love Lucina's expression!",
 			date_str: "May 2023",
 			tags: ["nsfw"],
@@ -3754,7 +3754,7 @@ var data = {
 			title: "Hooters Lucina (commushows)",
 			artist: "commushows",
 			artist_url: "https://twitter.com/commushows",
-			art_url: null,
+			art_url: "https://twitter.com/commushows/status/1661129880799510529",
 			desc: "This is a Hooters Lucina by commushows! Lucina looks so pretty and so cute! I really love commushows's style, so I'm glad I got the opportunity to commission them. The colors are so nice and bright, and Lucina's smile is adorable! The big mugs of frothy beery look delicious too! The artwork is wonderfully done!",
 			date_str: "May 2023",
 			tags: ["hooters"],
@@ -3821,18 +3821,6 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1109316681253261403/1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316682985517056/2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316685795688468/3.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316687922200617/4.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316690086461450/5.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316732801257552/1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316734676107395/2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316736475467847/3.jpg"],
-			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1109317339750613152/1_11zon.jpg",
-			title: "Hooters Lucina (Tofuubearart)",
-			artist: "Tofuubearart",
-			artist_url: "https://twitter.com/Tofuubearart",
-			art_url: null,
-			desc: "This is a Hooters Lucina by Tofuubearart! Lucina looks so cute! I love her confident pose and expression! The frothy beer looks tasty, and Lucina's smile is the best! I love the artist's past artwork of Lucina, so I'm glad I got the opportunity to commission them!",
-			date_str: "May 2023",
-			tags: ["hooters", "nsfw"],
-			hidden: true
-		},
-		{
 			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1110554637670547510/1388102-1.output.png"],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1110555165100081202/1388102-1.output_11zon.png",
 			title: "Hooters Lucina (TOTOTOTO_TK)",
@@ -3855,6 +3843,42 @@ var data = {
 			date_str: "May 2023",
 			tags: ["hooters"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1112774416745627698/Hooters_Lucina.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1112775418257342524/Hooters_Lucina_11zon.png",
+			title: "Hooters Lucina (tamafries)",
+			artist: "tamafries",
+			artist_url: "https://twitter.com/tamafries",
+			art_url: "https://twitter.com/tamafries/status/1662279163724828672",
+			desc: "This is a Hooters Lucina by tamafries! Lucina looks super pretty! I absolutely adore the background work and the references! The Exalt sneakers are a really nice touch too! It was great watching the artist work on the piece on streams, and it was great working with them too. There's a lot of creativity in this!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1112774418494656662/YSLowQuality-Lucina.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1112775418509017088/YSLowQuality-Lucina_11zon.jpg",
+			title: "Hooters Lucina (breikka)",
+			artist: "breikka",
+			artist_url: "https://twitter.com/breikka",
+			art_url: null,
+			desc: "This is a Hooters Lucina by breikka! Lucina looks so pretty! I really love how her hair is drawn and colored. The beer and chicken look tasty too! The artist did a great job on this wonderful piece!",
+			date_str: "May 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1109316681253261403/1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316682985517056/2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316685795688468/3.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316687922200617/4.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316690086461450/5.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316732801257552/1.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316734676107395/2.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1109316736475467847/3.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1109317339750613152/1_11zon.jpg",
+			title: "Hooters Lucina (Tofuubearart)",
+			artist: "Tofuubearart",
+			artist_url: "https://twitter.com/Tofuubearart",
+			art_url: "https://twitter.com/Tofuubearart/status/1662971679696461825",
+			desc: "This is a Hooters Lucina by Tofuubearart! Lucina looks so cute! I love her confident pose and expression! The frothy beer looks tasty, and Lucina's smile is the best! I love the artist's past artwork of Lucina, so I'm glad I got the opportunity to commission them!",
+			date_str: "May 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: true
 		},
 		{
 			src: [""],
