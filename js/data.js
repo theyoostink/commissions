@@ -3881,6 +3881,54 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1114019754672398436/mercedespatreon.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1114019792475660368/mercedespatreon_11zon.png",
+			title: "Summer Mercedes (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: "https://twitter.com/grimmelsdathird/status/1664417635738742784",
+			desc: "This is a commission of Mercedes in her summer outfit eating her parfait by GrimmelsDaThird! It looks like she spilled a little of her treat on her teat. I hope that cold dessert helps beat the heat!",
+			date_str: "May 2023",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1116895249214754836/lucinaf.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1114362453208346634/R6DFhjqu_11zon.jpg",
+			title: "Hooters Lucina (rojen_P)",
+			artist: "rojen_P",
+			artist_url: "https://twitter.com/rojen_P",
+			art_url: null,
+			desc: "This is a Hooters Lucina by rojen_P! Lucina looks so cute! The artist did a great job with the colors and the food. I really love the way Lucina's hair is drawn too! The artwork is wonderfully done!",
+			date_str: "June 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1115781034219405349/1252016-1.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1115781071393525872/1252016-1_11zon.png",
+			title: "Hooters Lucina (empe0317)",
+			artist: "empe0317",
+			artist_url: "https://twitter.com/empe0317",
+			art_url: null,
+			desc: "This is a Hooters Lucina by empe0317! The artist is a great art style, and I love their Lucina artwork. I'm glad that I had the opportunity to commission them! Lucina looks really pretty, and all the colors are so nice and vibrant!",
+			date_str: "June 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://media.discordapp.net/attachments/1098603525455482910/1116895031471648779/1457463-1.output.png", "https://media.discordapp.net/attachments/1098603525455482910/1116895035250724925/1457463-2.output.png", "https://media.discordapp.net/attachments/1098603525455482910/1116895037414965340/1457463-3.output.png", "https://media.discordapp.net/attachments/1098603525455482910/1116895038341918751/1457463-4.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1116895168407294112/1457463-1.output_11zon.png",
+			title: "Grabbing Summer Lucina (amezooooon)",
+			artist: "amezooooon",
+			artist_url: "https://twitter.com/amezooooon",
+			art_url: "https://twitter.com/amezooooon/status/1667326999248121856",
+			desc: "This is a commission of Summer Lucina by amezooooon! The artist did an amazing job for my previous commission with modern Lucina, so I knew they would especially be the right artist for this breast-focused idea! At the beach, Lucina sits on top of Robin who grabs a double handful of her breasts. She tries to enjoy her popsicle but it keeps dripping. She removes her swimsuit top as Robin continues fondling her. Lucina ends up spilling a lot of the melted popsicle on her chest while Robin ends up shooting his cum upward as well. It looks like Lucina is still a little hungry!",
+			date_str: "June 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
