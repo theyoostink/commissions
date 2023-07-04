@@ -579,7 +579,8 @@ var data = {
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060662001734/263_-_NtJGc2z.jpg",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060917862450/274_-_NNKICzX.jpg",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823061177897011/Untitled1103.png",
-				"https://cdn.discordapp.com/attachments/1098603479058108416/1109283946384076951/Untitled1139_20230519111328.png"
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1109283946384076951/Untitled1139_20230519111328.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1119265807269118063/Untitled1166_20230616093920.png"
 				],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -611,7 +612,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>
 			<a href='https://twitter.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>
-			<a href='https://twitter.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>`,
+			<a href='https://twitter.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>
+			<a href='https://twitter.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3101,7 +3103,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086808282824744/253_-_BbMucJX.jpg"],
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099086808282824744/253_-_BbMucJX.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1125604291755909282/1153508-1.output.jpg"],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670679940927518/253_-_f4MqfSe.png",
 			title: "Hooters Lucina (lucinansky_art)",
 			artist: "lucinansky_art",
@@ -3362,7 +3364,7 @@ var data = {
 			desc: "This is a commission of Hooters Yuzu by AAAmagasA! Yuzu is a character from the Fire Emblem Shadows of Valentia DLC. She was the 2023 April Fool's Day character for the Lucina Fan Club. Yuzu is trying her best, but she trips over a chair leg and tumbles over with two burgers in her hands. Oh no!",
 			date_str: "March 2023",
 			tags: ["hooters", "other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1098822030964576367/280_-_bzl0AOO.jpg", "https://cdn.discordapp.com/attachments/1098603479058108416/1098822031203639366/281_-_Mi5YWB4.jpg"],
@@ -3910,7 +3912,7 @@ var data = {
 			title: "Hooters Lucina (empe0317)",
 			artist: "empe0317",
 			artist_url: "https://twitter.com/empe0317",
-			art_url: null,
+			art_url: "https://www.pixiv.net/en/artworks/108975875",
 			desc: "This is a Hooters Lucina by empe0317! The artist is a great art style, and I love their Lucina artwork. I'm glad that I had the opportunity to commission them! Lucina looks really pretty, and all the colors are so nice and vibrant!",
 			date_str: "June 2023",
 			tags: ["hooters"],
@@ -3926,6 +3928,90 @@ var data = {
 			desc: "This is a commission of Summer Lucina by amezooooon! The artist did an amazing job for my previous commission with modern Lucina, so I knew they would especially be the right artist for this breast-focused idea! At the beach, Lucina sits on top of Robin who grabs a double handful of her breasts. She tries to enjoy her popsicle but it keeps dripping. She removes her swimsuit top as Robin continues fondling her. Lucina ends up spilling a lot of the melted popsicle on her chest while Robin ends up shooting his cum upward as well. It looks like Lucina is still a little hungry!",
 			date_str: "June 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1118377396328988692/MariannePolo.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1118377479032283166/MariannePolo_11zon.jpg",
+			title: "Polo Marianne",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of polo Marianne by true_jek_art! It's a gift for SixtyBuzzer who loves Marianne! I tried to think of an equestrian sport that Marianne might be good at, and polo came to mind. Marianne looks great in the outfit, and I'm sure she's going to have a lot of fun playing polo with Dorte too!",
+			date_str: "June 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1119338048103137401/1431441-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1119338237123633172/1431441-1.output_11zon.png",
+			title: "The Wedding Between a Princess and Her Prince (shikilostman)",
+			artist: "shikilostman",
+			artist_url: "https://twitter.com/shikilostman",
+			art_url: null,
+			desc: "This is a commission of Robin's and Lucina's wedding day by shikilostman! When M!Robin's groom alt was revealed in FEH, I immediately sent out a commission request of him and Lucina in her bride dress. The artist did an amazing job on this! I love the petal effects and also the fact that Robin is holding Lucina in a princess carry. It's like a scene from a fairy tale, and I absolutely adore this wonderful artwork!",
+			date_str: "June 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1120177140206424105/1483147-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1120177269692960788/1483147-1.output_11zon.png",
+			title: "Hooters Lucina (haska100001)",
+			artist: "haska100001",
+			artist_url: "https://twitter.com/haska100001",
+			art_url: null,
+			desc: "This is a Hooters Lucina by haska100001! Lucina looks so pretty and cute! I love the gigantic mugs of beer. Lucina's Strength stat must be tremendous! Her big smile is adorable! A smiling Lucina is the best!",
+			date_str: "June 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1121937562047610911/lucinapatreon.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1121937580229926962/lucinapatreon_11zon.png",
+			title: "Lucina in Her Underwear (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: "https://twitter.com/grimmelsdalewd/status/1672409493513318400",
+			desc: "This is a commission of Lucina in her underwear by GrimmelsDaThird! The underwear's design is based on the gray Calvin Klein underwear set. She looks super cute in them!",
+			date_str: "June 2023",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1123447694250217603/GALA_PROJECT_FUSIONS_A.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1123447856041304184/GALA_PROJECT_FUSIONS_A_11zon.png",
+			title: "Gala Group Commission (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://twitter.com/RedKite333",
+			art_url: "https://twitter.com/RedKite333/status/1673679186136014849",
+			desc: "This is a large group commission based on the Met Gala by RedKite333! There are bunch of Fire Emblem characters and also King from King of Fighters. They're all dressed up for the event, and some even showed up as couples. My character is Lucina in a very pretty blue and gold dress. I think the elegance of the dress fits her really well, and the tiara is also from her Exalt dress. It turned out amazingly!",
+			date_str: "June 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1123779374316015706/1398490-1.gif", "https://cdn.discordapp.com/attachments/1098603525455482910/1123779374773186651/1398490-2.gif", "https://cdn.discordapp.com/attachments/1098603525455482910/1123779375242952725/1398490-3.gif", "https://cdn.discordapp.com/attachments/1098603525455482910/1123779375691739156/1398490-4.gif"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1123779511218081792/1398490-1.output.png",
+			title: "Fucking Lucina From Behind (momia_hair)",
+			artist: "momia_hair",
+			artist_url: "https://twitter.com/momia_hair",
+			art_url: "https://twitter.com/momia_hair/status/1673955623652986881",
+			desc: "This is a commission of Lucina being fucked from behind by momia_hair! This animation depicts Lucina having sex with a man until he cums inside her. There's also an alternate version of a buttjob that leads to the man cumming on Lucina's ass. The artist did a great job, and Lucina looks super cute!",
+			date_str: "June 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1125549502963662848/twitter.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1125549762863714344/twitter.png",
+			title: "Hooters Lucina (Glacoe776)",
+			artist: "Glacoe776",
+			artist_url: "https://twitter.com/Glacoe776",
+			art_url: "https://twitter.com/Glacoe776/status/1675950195782086669",
+			desc: "This is a Hooters Lucina by Glacoe776! Lucina looks so pretty and cute! I love her big smile and also the slight blush on her cheeks. The mugs of beer look delicious, and the shading was done amazingly well!",
+			date_str: "July 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
