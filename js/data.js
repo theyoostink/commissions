@@ -4015,6 +4015,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1127015909203128330/f1.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1127015910058770532/f2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1127016037762740284/f1_11zon.png",
+			title: "Hooters Lucina and Marianne (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://twitter.com/RedKite333",
+			art_url: "https://twitter.com/RedKite333/status/1677449030417408000",
+			desc: "This is a joint commission with SixtyBuzzer with the art done by RedKite333! Marianne joins the Hooters crew, and on her first day, she gets some encouragement from a long-time employee: Lucina! Both Marianne and Lucina look so cute and pretty, and the artist did a great job!",
+			date_str: "July 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1128866324630736958/lucinapatreonjuly2023.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1128866501332566016/lucinapatreonjuly2023_11zon.png",
+			title: "Lucina Getting Ready (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: "https://twitter.com/GrimmelsDaLewd/status/1678960264031657984",
+			desc: "This is a commission of Lucina getting ready for night of sex with the art done by GrimmelsDaThird! I really love her smug and seductive expression. The opened oversized shirt revealing her body while still hiding some of it is really nice! I also like the small Brand of the Exalt on the condom. I requested it since I thought it would be a fun detail.",
+			date_str: "July 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1128866297543929996/July23Comms_theyoostink.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1128866501085114368/July23Comms_theyoostink_11zon.jpg",
+			title: "Hooters Lucina (Gzeidraws)",
+			artist: "Gzeidraws",
+			artist_url: "https://twitter.com/Gzeidraws",
+			art_url: "https://twitter.com/Gzeidraws/status/1679124458320044035",
+			desc: "This is a Hooters Lucina by Gzeidraws! Lucina looks so cute! I absolutely adore the references to her original outfit that were included in this! The belt, the tunic, and the boots are reminiscent of the Lucina outfit we all know and love. I also love the Feh motif in the background as well! The artist did an amazing and wonderful job!",
+			date_str: "July 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
