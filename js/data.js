@@ -580,7 +580,8 @@ var data = {
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823060917862450/274_-_NNKICzX.jpg",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823061177897011/Untitled1103.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1109283946384076951/Untitled1139_20230519111328.png",
-				"https://cdn.discordapp.com/attachments/1098603479058108416/1119265807269118063/Untitled1166_20230616093920.png"
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1119265807269118063/Untitled1166_20230616093920.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1129811653232439416/Untitled1198_20230714130015.png"
 				],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -613,7 +614,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>
-			<a href='https://twitter.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>`,
+			<a href='https://twitter.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3976,7 +3978,7 @@ var data = {
 			desc: "This is a commission of Lucina in her underwear by GrimmelsDaThird! The underwear's design is based on the gray Calvin Klein underwear set. She looks super cute in them!",
 			date_str: "June 2023",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1123447694250217603/GALA_PROJECT_FUSIONS_A.png"],
@@ -4048,6 +4050,18 @@ var data = {
 			desc: "This is a Hooters Lucina by Gzeidraws! Lucina looks so cute! I absolutely adore the references to her original outfit that were included in this! The belt, the tunic, and the boots are reminiscent of the Lucina outfit we all know and love. I also love the Feh motif in the background as well! The artist did an amazing and wonderful job!",
 			date_str: "July 2023",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1129811799957573632/1538849-1.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1129811800456691733/1538849-2.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1129811800800632963/1538849-3.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1129812233711538227/1538849-1.output_11zon.png",
+			title: "Hooters Lucina During and After Her Shift (nyemadras)",
+			artist: "nyemadras",
+			artist_url: "https://twitter.com/nyemadras",
+			art_url: null,
+			desc: "This is a Hooters Lucina by nyemadras! It depicts what she does during and after her shift. Lucina looks so cute and pretty! She works hard during her shift, and I love the artist's use of colors! After her shift, Lucina goes home and makes love with her husband to destress. She looks so cute and sexy!",
+			date_str: "July 2023",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
