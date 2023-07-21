@@ -4065,6 +4065,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1131693521846423562/9SVldUoY.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1131693718215348375/9SVldUoY_11zon.png",
+			title: "Hooters Lucina (Magdalenus27)",
+			artist: "Magdalenus27",
+			artist_url: "https://twitter.com/Magdalenus27",
+			art_url: "https://twitter.com/Magdalenus27/status/1682106709542678528",
+			desc: "This is a Hooters Lucina by Magdalenus27! Lucina looks so pretty! I love colors and the shading work. The background art was done very well! Lucina's smile is adorable and the best!",
+			date_str: "July 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1131996958454714408/FINAL.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1131997132224737350/FINAL_11zon.png",
+			title: "Hooters Lucina (deilan12art)",
+			artist: "deilan12art",
+			artist_url: "https://twitter.com/deilan12art",
+			art_url: "https://twitter.com/deilan12art/status/1682143569845403649",
+			desc: "This is a Hooters Lucina by deilan12art! Lucina looks super pretty! I love all the colors and the gradient in hair! Her confident pose and big smile are awesome, and Lucina looks great in the artist's style!",
+			date_str: "July 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1131996959708823572/hooters_lucina.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1131997132476391666/hooters_lucina_11zon.jpg",
+			title: "Hooters Lucina (flamingopunch)",
+			artist: "flamingopunch",
+			artist_url: "https://twitter.com/flamingopunch",
+			art_url: "https://twitter.com/flamingopunch/status/1682455714617348106",
+			desc: "This is a Hooters Lucina by flamingopunch! Lucina looks so cute! The shading work is amazing, and her hair looks gorgeous! The food looks good too! As always, Lucina's big smile is the best!",
+			date_str: "July 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
