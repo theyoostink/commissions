@@ -4101,6 +4101,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1132431893153972354/Lethe_Burger.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1132432025148735549/Lethe_Burger_11zon.jpg",
+			title: "Lethe Eating a Burger (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of Lethe eating a burger by true_jek_art! This is a gift for Nilla who did some art of Hooters Lucina eating a burger, so I wanted to return the favor by getting artwork of Lethe eating a cat-shaped burger! It turned out really nice, and the colors are gorgeous!",
+			date_str: "July 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1133569513955283024/1549103-3.output.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1133569514462777435/1549103-2.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1133569711095939186/1549103-3.output_11zon.png",
+			title: "Saori Lucina (shuvalun8)",
+			artist: "shuvalun8",
+			artist_url: "https://twitter.com/shuvalun8",
+			art_url: null,
+			desc: "This is a commission of Lucina wearing the clothes of Saori from Blue Archive with the art by shuvalun8! I don't know much about Blue Archive, but I thought Saori's design was cool and would fit Lucina when I first saw her. So, I decided to request artwork of Lucina wearing Saori's clothes with a special Exalt halo as a personal touch. It turned out really well, and Lucina is very pretty!",
+			date_str: "July 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1134559138848964780/1457469-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1134559376108159047/1457469-1.output_11zon.png",
+			title: "Hooters Lucina (moyashi_mou2)",
+			artist: "moyashi_mou2",
+			artist_url: "https://twitter.com/moyashi_mou2",
+			art_url: null,
+			desc: "This is a Hooters Lucina by moyashi_mou2! Lucina looks so pretty! I love all the colors, the background, and the details included in this piece. The artist did a wonderful job! I love this type of artwork where it's like a snapshot of her work shift. It's amazing!",
+			date_str: "July 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1134559165570887750/1570692-1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1134559166371995759/1570692-2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1134559376468889610/1570692-1_11zon.png",
+			title: "Lucina's Wardrobe Malfunction (h_nyoro)",
+			artist: "h_nyoro",
+			artist_url: "https://twitter.com/h_nyoro",
+			art_url: "https://www.pixiv.net/artworks/110320125",
+			desc: "This is a commission of Lucina's wardrobe malfunction by h_nyoro! While Lucina picks some flowers, she notices her dress straps were a little loose. She's glad that no one was around to see her exposed breasts and quickly adjusts her dress.",
+			date_str: "July 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
