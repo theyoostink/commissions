@@ -4118,7 +4118,7 @@ var data = {
 			title: "Saori Lucina (shuvalun8)",
 			artist: "shuvalun8",
 			artist_url: "https://twitter.com/shuvalun8",
-			art_url: null,
+			art_url: "https://twitter.com/shuvalun8/status/1685943352074850304",
 			desc: "This is a commission of Lucina wearing the clothes of Saori from Blue Archive with the art by shuvalun8! I don't know much about Blue Archive, but I thought Saori's design was cool and would fit Lucina when I first saw her. So, I decided to request artwork of Lucina wearing Saori's clothes with a special Exalt halo as a personal touch. It turned out really well, and Lucina is very pretty!",
 			date_str: "July 2023",
 			tags: [""],
@@ -4146,6 +4146,54 @@ var data = {
 			desc: "This is a commission of Lucina's wardrobe malfunction by h_nyoro! While Lucina picks some flowers, she notices her dress straps were a little loose. She's glad that no one was around to see her exposed breasts and quickly adjusts her dress.",
 			date_str: "July 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1137164849781157898/Hooters_Lucina_Kobeni_Dance_FULL.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1137165050000441415/Hooters_Lucina_Kobeni_Dance_FULL_11zon.png",
+			title: "Hooters Lucina (YusiVishnu)",
+			artist: "YusiVishnu",
+			artist_url: "https://twitter.com/YusiVishnu",
+			art_url: "https://twitter.com/YusiVishnu/status/1686729745726414848",
+			desc: "This is a Hooters Lucina by YusiVishnu! It's based on the panel from Chainsaw Man where Kobeni is playing DDR. This one is called Hoob Hoob Revolution, and Lucina busts out the dance moves! Lucina looks so cute and pretty when she's happily dancing her heart out. Her smiles are adorable! This was a really fun idea, and the artist did an amazing job on the piece!",
+			date_str: "August 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1140092969412739072/Lucina_FMorgan_Final_Grey.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1140093101847871498/Lucina_FMorgan_Final_Grey_11zon.png",
+			title: "Lucina Shares Chocolate Milk with Morgan (JadesnapArt)",
+			artist: "JadesnapArt",
+			artist_url: "https://twitter.com/JadesnapArt",
+			art_url: "https://twitter.com/JadesnapArt/status/1690030371357007873",
+			desc: "This is a commission of Lucina sharing chocolate milk with her daughter Morgan! The art is by JadesnapArt! I've commissioned several artwork of Lucina drinking chocolate milk, but I thought it would be nice for her to share some with her daughter. It look like Morgan really likes it! I hope this mother and daughter pair will bond over their shared enjoyment of chocolate milk, because they're epic!",
+			date_str: "August 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1140353294208868392/Summer_Lillith.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1140353400815485068/Summer_Lillith_11zon.jpg",
+			title: "Summer Lilith",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of summer Lilith by true_jek_art! This was a gift for Antogames who loves Lilith from Fire Emblem Fates. Since Lilith has a red, white, and blue color scheme, I wanted her to enjoy a red, white, and blue popsicle. The sunset in the background looks great, and she looks very cute!",
+			date_str: "August 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1140353294871572651/1538837-2.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1140353401075544154/1538837-2.output_11zon.png",
+			title: "Hooters Lucina (rourou_ill)",
+			artist: "rourou_ill",
+			artist_url: "https://twitter.com/rourou_ill",
+			art_url: null,
+			desc: "This is a Hooters Lucina by rourou_ill! Lucina looks so cute and pretty! The big mugs of beer look refreshing, and I really like the shiny tiara. Her smile is adorable! A smiling Lucina is the best!",
+			date_str: "August 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
