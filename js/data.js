@@ -4197,6 +4197,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1142830319741964449/hooters_lucina_def.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1142830442823819324/hooters_lucina_def_11zon.jpg",
+			title: "Hooters Lucina (Nico_squitter)",
+			artist: "Nico_squitter",
+			artist_url: "https://twitter.com/Nico_squitter",
+			art_url: "https://twitter.com/Nico_squitter/status/1693208079465115839",
+			desc: "This is a Hooters Lucina by Nico_squitter! I love the outfit design for this since it references here original outfit with the belt and cuffs! Lucina's smile is also adorable, and the chibi Lucina is super cute! I really like the artist's Ike artwork, so I'm glad I was able to commission them!",
+			date_str: "August 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1144050425448890538/1618116-1.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1144050557720473681/1618116-1_11zon.png",
+			title: "Hooters (Aizumi_0701)",
+			artist: "Aizumi_0701",
+			artist_url: "https://twitter.com/Aizumi_0701",
+			art_url: "https://twitter.com/Aizumi_0701/status/1693867559916052694",
+			desc: "This is a Hooters Lucina by Aizumi_0701! Lucina is so pretty! I really like the point-of-view perspective of the piece. It makes it look like Lucina is bringing over a mug of beer for the viewer. Lucina's gentle smile is the best!",
+			date_str: "August 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1144050475524702258/1570468-2.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1144050475868618762/1570468-3.output.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1144050476334203002/1570468-4.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1144050476707479652/1570468-5.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1144050557439459429/1570468-2.output_11zon.png",
+			title: "Hooters Lucina (r51633060)",
+			artist: "r51633060",
+			artist_url: "https://twitter.com/r51633060",
+			art_url: "https://twitter.com/r51633060/status/1694384792501125451",
+			desc: "This is a Hooters Lucina by r51633060! After working a long shift, Lucina sits at the bar for a drink to unwind. Lucina is so cute, and her smile is adorable! My friend also wanted to see a version of Lucina wearing only her leggings, so I requested a variation for it.",
+			date_str: "August 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
