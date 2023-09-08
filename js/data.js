@@ -4233,6 +4233,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1149717846063054960/5_Luci_1_Rob_C1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1149717847061319700/5_Luci_1_Rob_B1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1149717847807889478/5_Luci_1_Rob_A2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1149718053869867038/5_Luci_1_Rob_C1_11zon.png",
+			title: "Five Lucinas Surrounding Robin (YusiVishnu)",
+			artist: "YusiVishnu",
+			artist_url: "https://twitter.com/YusiVishnu",
+			art_url: "https://twitter.com/YusiVishnu/status/1696131152606826809",
+			desc: "This is a joint commission I did with goo, and the art is done by YusiVishnu! It's a take on the meme of five men surrounding Piper Perri, but instead it is five Lucinas surrounding Robin. Robin has a few vials of vitality potions to make sure he has the stamina to fuck insatiable Lucinas. There are multiple variants as well, and they're all wonderful! Robin is a lucky man!",
+			date_str: "August 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1147349204889509909/pallapatreonaugust2023.png"],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1147349230197952512/pallapatreonaugust2023_11zon.png",
 			title: "Bunny Palla and a Carrot (GrimmelsDaThird)",
@@ -4264,6 +4276,18 @@ var data = {
 			artist_url: "https://twitter.com/takaneru_FE",
 			art_url: "https://twitter.com/takaneru_FE/status/1698690823486124099",
 			desc: "This is a Hooters Lucina by takaneru_FE! Lucina looks so cute! I love the artist's and all the bright colors! Lucina's flustered expression is also adorable!",
+			date_str: "September 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1149481456717021184/Lucina_Hooters_01_big.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1149481564716154900/Lucina_Hooters_01_small_11zon.png",
+			title: "Hooters Lucina (CanadianAniGuy)",
+			artist: "CanadianAniGuy",
+			artist_url: "https://twitter.com/CanadianAniGuy",
+			art_url: "https://twitter.com/CanadianAniGuy/status/1699915659357102557",
+			desc: "This is a Hooters Lucina by CanadianAniGuy! Lucina looks so cute and pretty! I really love her adorable expression and smile! The bright and warm colors in the background are really nice too!",
 			date_str: "September 2023",
 			tags: ["hooters"],
 			hidden: false
