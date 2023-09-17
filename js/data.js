@@ -4250,10 +4250,10 @@ var data = {
 			title: "Bunny Palla and a Carrot (GrimmelsDaThird)",
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
-			art_url: null,
+			art_url: "https://twitter.com/GrimmelsDaLewd/status/1701367935623958560",
 			desc: "This is a commission of bunny Palla and a carrot by GrimmelsDaThird! Palla is in a horny mood, so she whips out her tits and teases a carrot between her breasts. She's inviting you to a springtime mating session!",
 			date_str: "August 2023",
-			tags: ["nsfw"],
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -4312,6 +4312,42 @@ var data = {
 			artist_url: "https://twitter.com/tori_art07",
 			art_url: "https://twitter.com/tori_art07/status/1700798050288173096",
 			desc: "This is a Hooters Lucina by tori_art07! Lucina looks super pretty! I really like the artist's style. Lucina looks cute when she waves with a smile! The artist did an amazing job!",
+			date_str: "September 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1150922742590349352/hooters_lucina_comm.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1150922849905803294/hooters_lucina_comm_11zon.png",
+			title: "Hooters Lucina (Iaurencin)",
+			artist: "Iaurencin",
+			artist_url: "https://twitter.com/Iaurencin",
+			art_url: "https://twitter.com/Iaurencin/status/1701984078508314643",
+			desc: "This is a Hooters Lucina by Laurencin! Lucina looks super pretty! I love the ponytail and also the shy expression! Laurencin's art style is so awesome, so I'm glad to see Hooters Lucina in their style. The warm tone of the piece is really nice, and the artwork was done wonderfully!",
+			date_str: "September 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1151652487703576606/1631738-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1151652519383146616/1631738-1.output_11zon.png",
+			title: "Hooters Ambriel (AAAmagasA)",
+			artist: "AAAmagasA",
+			artist_url: "https://twitter.com/AAAmagasA",
+			art_url: null,
+			desc: "This is a commission of Hooters Ambriel by AAAmagasA! It was a birthday gift for my friend tyle, and Ambriel is his OC. She looks adorable! I love her wink and smile!",
+			date_str: "September 2023",
+			tags: ["hooters", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1152793935467516015/1667752-2.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1152794174995832953/1667752-2.output_11zon.png",
+			title: "Hooters Lucina (ibushi_king)",
+			artist: "ibushi_king",
+			artist_url: "https://twitter.com/ibushi_king",
+			art_url: "https://twitter.com/ibushi_king/status/1703038528001597680",
+			desc: "This is a Hooters Lucina by ibushi_king! Lucina looks so cute! I love the artist's style, and they did a great job! I love the sparkle background and also Lucina big smile! The artwork is so wonderful!",
 			date_str: "September 2023",
 			tags: ["hooters"],
 			hidden: false
