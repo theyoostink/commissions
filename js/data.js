@@ -4353,6 +4353,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1153530577824260146/c58_Lucina.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1153530936315617363/c58_Lucina_11zon.png",
+			title: "Hooters Lucina (_pplord)",
+			artist: "_pplord",
+			artist_url: "https://twitter.com/_pplord",
+			art_url: "https://twitter.com/_pplord/status/1703392550823108765",
+			desc: "This is a Hooters Lucina by _pplord! Lucina looks super pretty! The artist did a great job with the design of the outfit and the background work! Lucina's angry expression and pout are cute! The artist did an amazing and wonderful job on the artwork!",
+			date_str: "September 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1153530735152603246/Lucina_Pillow_Security_No_edit.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1153530735639146587/Lucina_Pillow_Security.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1153530936584044554/Lucina_Pillow_Security_No_edit_11zon.png",
+			title: "Hooters Lucina Sex (SINccubi)",
+			artist: "SINccubi",
+			artist_url: "https://twitter.com/SINccubi",
+			art_url: "https://twitter.com/SINccubi/status/1703854712817115174",
+			desc: "This is a commission of Hooters Lucina having sex with Robin by SINccubi! After coming home from work, Lucina settles down by having a quickie with her husband Robin. They get really into, and Lucina tightly hugs a pillow when Robins fills her up!",
+			date_str: "September 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1154497008992788600/1570352-1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1154497009634525255/1570352-2.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1154497010368532610/1570352-3.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1154497012209819698/1570352-4.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1154497012968996894/1570352-5.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1154497584979779614/1570352-1_11zon.png",
+			title: "Hooters Lucina (pandami7)",
+			artist: "pandami7",
+			artist_url: "https://twitter.com/pandami7",
+			art_url: "https://twitter.com/pandami7/status/1704795467752849632",
+			desc: "This is a Hooters Lucina by pandami7! Lucina looks so pretty and sexy! The outfit is based on the Hooters PSD underwear, and Lucina looks great in it! The artist did a wonderful job of making Lucina look super sexy!",
+			date_str: "September 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1154497562896765009/the_based_cringe_comm_of_All_Time_1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1154497563626586252/the_based_cringe_comm_of_All_Time_2.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1154497564297662474/the_based_cringe_comm_of_All_Time_3.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1154497585227255858/the_based_cringe_comm_of_All_Time_1_11zon.png",
+			title: "Lucina Needs Some Help (LoptoArt)",
+			artist: "LoptoArt",
+			artist_url: "https://twitter.com/LoptoArt",
+			art_url: "https://twitter.com/LoptoArt/status/1704629094045094113",
+			desc: "This is a commission of Lucina getting stuck in a wall by LoptoArt! It's based on the fact that Lucina often breaks holes in walls while she trains. This time, Lucina falls through the hole in the wall and gets stuck. Robin happens to pass by, and Lucina requests some help. Lucina's voice is muffled through the wall, so Robin misunderstands and ends up fucking Lucina in the ass. It seems like she really enjoyed it, but the misunderstandings continue prompting Robin to start up another round.",
+			date_str: "September 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
