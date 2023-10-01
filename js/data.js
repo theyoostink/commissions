@@ -581,7 +581,8 @@ var data = {
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1098823061177897011/Untitled1103.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1109283946384076951/Untitled1139_20230519111328.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1119265807269118063/Untitled1166_20230616093920.png",
-				"https://cdn.discordapp.com/attachments/1098603479058108416/1129811653232439416/Untitled1198_20230714130015.png"
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1129811653232439416/Untitled1198_20230714130015.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1156022028353147002/patreonSFW092523PallaMinerva.png"
 				],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -615,7 +616,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>
+			<a href='https://twitter.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -2366,7 +2368,7 @@ var data = {
 			title: "Lucina's and Robin's Beach Vacation (omiG_spot)",
 			artist: "omiG_spot",
 			artist_url: "https://twitter.com/omiG_spot",
-			art_url: "https://twitter.com/omiG_spot/status/1569267357024935936",
+			art_url: "https://twitter.com/omiG_spot/status/1600993850700402689",
 			desc: "This is a comic of Lucina and Robin going on a beach vacation by omiG_spot! It's wonderfully done! Lucina looks super sexy and is enjoying making love with Robin at the beach. They indulge in two full days of sex from morning to night. It seems like their lust overtakes them and clouds their judgment, and the couple suffers from sunburns after having outdoor sex for hours. When Lucina and Robin return from their trip, Lissa gives them a scolding and relunctantly heals them. Will they learn their lesson?",
 			date_str: "September 2022 & December 2022",
 			tags: ["nsfw"],
@@ -3402,7 +3404,7 @@ var data = {
 			desc: "This is a gift commission for Miso by chan_hone_pkpk! Lucina and Silque are both celebrating a birthday and have prepared a delicious-looking chocolate and strawberry cake! They both look so pretty and cute, and their smiles are the best!",
 			date_str: "March 2023",
 			tags: [""],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087883199057990/277_-_uD5AJEL.jpg", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087883459113030/278_-_8FquyyP.jpg"],
@@ -3438,7 +3440,7 @@ var data = {
 			desc: "This is a gift commission for Miso by kikoma_illust! Lucina and Silque are both celebrating a birthday and have prepared a delicious-looking chocolate cake! They both look so pretty and cute, and their smiles are the best!",
 			date_str: "March 2023",
 			tags: [""],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1099087883777884201/279_-_h6HlM5S.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1099087884105027674/280_-_c3fHMgZ.png"],
@@ -3849,6 +3851,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1157689747876085761/yoostinkcomm.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1157690266984120381/yoostinkcomm_11zon.png",
+			title: "Lucina Needs Your Help (FLYTRAPXX)",
+			artist: "FLYTRAPXX",
+			artist_url: "https://twitter.com/FLYTRAPXX",
+			art_url: null,
+			desc: "This is a commission Lucina at the beach by FLYTRAPXX! Lucina needs your help with applying sunscreen on her back. I hope she has a lot of fun at the beach! The artist did a great job with the artwork, and Lucina look really pretty!",
+			date_str: "May 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1112774416745627698/Hooters_Lucina.png"],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1112775418257342524/Hooters_Lucina_11zon.png",
 			title: "Hooters Lucina (tamafries)",
@@ -3882,7 +3896,7 @@ var data = {
 			desc: "This is a Hooters Lucina by Tofuubearart! Lucina looks so cute! I love her confident pose and expression! The frothy beer looks tasty, and Lucina's smile is the best! I love the artist's past artwork of Lucina, so I'm glad I got the opportunity to commission them!",
 			date_str: "May 2023",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1114019754672398436/mercedespatreon.png"],
@@ -4398,6 +4412,54 @@ var data = {
 			desc: "This is a commission of Lucina getting stuck in a wall by LoptoArt! It's based on the fact that Lucina often breaks holes in walls while she trains. This time, Lucina falls through the hole in the wall and gets stuck. Robin happens to pass by, and Lucina requests some help. Lucina's voice is muffled through the wall, so Robin misunderstands and ends up fucking Lucina in the ass. It seems like she really enjoyed it, but the misunderstandings continue prompting Robin to start up another round.",
 			date_str: "September 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1154578816128274482/final.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1154579118856355890/final_11zon.png",
+			title: "Hooters Lucina (LesuArt)",
+			artist: "LesuArt",
+			artist_url: "https://twitter.com/LesuArt",
+			art_url: "https://twitter.com/LesuArt/status/1704967323847680011",
+			desc: "This is a Hooters Lucina by LesuArt! Lucina is so cute and pretty! I really love the pose and her adorable smile! Lucina looks great, and the artist did an amazing job on this!",
+			date_str: "September 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1154578817340424202/Skater_Clarisse.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1154579119116398662/Skater_Clarisse_11zon.jpg",
+			title: "Skater Clarisse",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of skater Clarisse by true_jek_art! It's a gift for Bronze Felix whose favorite character is Clarisse from Fire Emblem! Clarisse looks really pretty, and the casual skater outfit looks great on her!",
+			date_str: "September 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1154945663973462026/LucinaWhite.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1154945780784832623/LucinaWhite_11zon.png",
+			title: "Hooters Lucina (SpiffyDC)",
+			artist: "SpiffyDC",
+			artist_url: "https://twitter.com/SpiffyDC",
+			art_url: "https://twitter.com/SpiffyDC/status/1705315620508545403",
+			desc: "This is a Hooters Lucina by SpiffyDC! Lucina looks so cute! I love the pose of her leaning forward as she offers you some mugs of beer! Her gentle smile is adorable too!",
+			date_str: "September 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1157724109896155136/lucinapatreonseptember2023.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1157724228917919764/lucinapatreonseptember2023_11zon.png",
+			title: "Lucina with a Short Skirt and Long Jacket (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina wearing a short skirt and a long jacket by GrimmelsDaThird! It's based on the song Short Skirt / Long Jacket by Cake. Lucina looks great with the right allocations and looks fast, thorough, and sharp as a tack!",
+			date_str: "September 2023",
+			tags: [""],
 			hidden: false
 		},
 		{
