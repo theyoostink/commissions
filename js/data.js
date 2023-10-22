@@ -582,7 +582,8 @@ var data = {
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1109283946384076951/Untitled1139_20230519111328.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1119265807269118063/Untitled1166_20230616093920.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1129811653232439416/Untitled1198_20230714130015.png",
-				"https://cdn.discordapp.com/attachments/1098603479058108416/1156022028353147002/patreonSFW092523PallaMinerva.png"
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1156022028353147002/patreonSFW092523PallaMinerva.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1165076257155854396/patreonSFW231020AdiosMarth.png"
 				],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -617,7 +618,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>
-			<a href='https://twitter.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>`,
+			<a href='https://twitter.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>
+			<a href='https://twitter.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3339,7 +3341,7 @@ var data = {
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098670773142573056/275_-_w7PIPgd.jpg",
 			title: "Hooters Lucina (sierra117renner)",
 			artist: "sierra117renner",
-			artist_url: "https://twitter.com/sierra117renner",
+			artist_url: "https://twitter.com/byhengg",
 			art_url: "https://twitter.com/sierra117renner/status/1633726670065524739",
 			desc: "This is a Hooters Lucina by sierra117renner! Lucina looks super pretty! I love the colors and the big frothy mugs of beer. The background is also really nice. The art was wonderfully done!",
 			date_str: "March 2023",
@@ -4456,9 +4458,21 @@ var data = {
 			title: "Lucina with a Short Skirt and Long Jacket (GrimmelsDaThird)",
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
-			art_url: null,
+			art_url: "https://twitter.com/GrimmelsDaThird/status/1708613535381819482",
 			desc: "This is a commission of Lucina wearing a short skirt and a long jacket by GrimmelsDaThird! It's based on the song Short Skirt / Long Jacket by Cake. Lucina looks great with the right allocations and looks fast, thorough, and sharp as a tack!",
 			date_str: "September 2023",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1165064622970245191/final.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1165064666834288680/final_11zon.png",
+			title: "Lucina and Mitama Drinking Together (hiomaika)",
+			artist: "hiomaika",
+			artist_url: "https://twitter.com/hiomaika",
+			art_url: "https://twitter.com/hiomaika/status/1713902615975678015",
+			desc: "This is a joint commission with my friend tyle with the art by hiomaika! Mitama is enjoying a glass of strawberry milk, and Lucina is enjoying a glass of chocolate milk. The sweet beverages are delicious! Both Mitama and Lucina look super cute, and the artist did a wonderful job!",
+			date_str: "October 2023",
 			tags: [""],
 			hidden: false
 		},
