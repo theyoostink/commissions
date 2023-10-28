@@ -4477,6 +4477,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1167849085492015165/1708415-1.output.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1167849101560385586/1708415-1.output_11zon.png",
+			title: "Robcina Ryokan Sex (i_n_u)",
+			artist: "i_n_u",
+			artist_url: "https://twitter.com/i_n_u",
+			art_url: null,
+			desc: "This is a commission of Lucina and Robin after having sex by i_n_u (inu/AERODOG). Lucina and Robin take a couple's trip to a ryokan, and things get steamy late in the night. After sex, Lucina cleans up Robin's cock with her mouth, but it looks like Robin's not done yet!",
+			date_str: "October 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
