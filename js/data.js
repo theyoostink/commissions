@@ -4489,6 +4489,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1169087126290309120/patreonoctober2023manuela.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1169087210646159502/patreonoctober2023manuela_11zon.png",
+			title: "Manuela as Yor Briar (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Manuela dressed as Yor Briar by GrimmelsDaThird! This is a gift for JLoTheCholo who loves both Manuela and Yor. I thought this outfit plus the wine fit Manuela well, and it turned out great!",
+			date_str: "October 2023",
+			tags: ["other"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
