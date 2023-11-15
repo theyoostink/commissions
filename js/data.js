@@ -583,7 +583,8 @@ var data = {
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1119265807269118063/Untitled1166_20230616093920.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1129811653232439416/Untitled1198_20230714130015.png",
 				"https://cdn.discordapp.com/attachments/1098603479058108416/1156022028353147002/patreonSFW092523PallaMinerva.png",
-				"https://cdn.discordapp.com/attachments/1098603479058108416/1165076257155854396/patreonSFW231020AdiosMarth.png"
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1165076257155854396/patreonSFW231020AdiosMarth.png",
+				"https://cdn.discordapp.com/attachments/1098603479058108416/1173778513799684167/kofi4s231113WatermelonThighCrushEffie.png"
 				],
 			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1098623810166587442/48_-_KWUNEge.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -619,7 +620,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>
-			<a href='https://twitter.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>`,
+			<a href='https://twitter.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>
+			<a href='https://twitter.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -4498,6 +4500,66 @@ var data = {
 			desc: "This is a commission of Manuela dressed as Yor Briar by GrimmelsDaThird! This is a gift for JLoTheCholo who loves both Manuela and Yor. I thought this outfit plus the wine fit Manuela well, and it turned out great!",
 			date_str: "October 2023",
 			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1171294779527663698/Hooters_Lucina_TomorrowsJoker2023-11.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1171294803678470174/Hooters_Lucina_TomorrowsJoker2023-11_11zon.jpg",
+			title: "Hooters Lucina (TomorrowsJoker)",
+			artist: "TomorrowsJoker",
+			artist_url: "https://twitter.com/TomorrowsJoker",
+			art_url: "https://twitter.com/TomorrowsJoker/status/1721721885455733013",
+			desc: "This is a Hooters Lucina by TomorrowsJoker! Lucina looks so pretty! The food looks delicious, and the light effects are super cool! The pose is dynamic and strong. It looks like a special artwork from FEH! The artist did a wonderful job on it!",
+			date_str: "November 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1173064133759995954/cm-39.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1173064134829547560/cm-39cum.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1173064135815204935/cm-39cum2.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1173064279302344845/cm-39_11zon.png",
+			title: "Falchion Blowjob (Rs40Uchiha)",
+			artist: "Rs40Uchiha",
+			artist_url: "https://twitter.com/Rs40Uchiha",
+			art_url: "https://twitter.com/Rs40Uchiha/status/1723002848688935328",
+			desc: "This is a commission of Lucina giving Robin a blowjob through the Falchion by Rs40Uchiha! I thought the hole in the Falchion near the hilt was an interesting design choice, so I wanted to commission something with that as the subject. Luckily, the Falchion should magically become dull when in Robin's hands!",
+			date_str: "November 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1173811028044296222/Hooters_comm_white.png", "https://cdn.discordapp.com/attachments/1098603479058108416/1173811029097074778/Hooters_comm_png.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1173811350926004315/Hooters_comm_white_11zon.png",
+			title: "Hooters Lucina (JackBoo_)",
+			artist: "JackBoo_",
+			artist_url: "https://twitter.com/JackBoo_",
+			art_url: "",
+			desc: "This is a Hooters Lucina by JackBoo_! Lucina looks super pretty! I really love the unique five-point perspective of the artwork. The movement of the beer foam also makes the piece feel dynamic, and the broken flooring is really creative. As always, Lucina's big smile is the best! The artist did a truly amazing job on this artwork!",
+			date_str: "November 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603525455482910/1173811095467737159/final1.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1173811096138817586/final2.png", "https://cdn.discordapp.com/attachments/1098603525455482910/1173811094901489725/final.jpg"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1173811361470496851/final1_11zon.png",
+			title: "Lucina Gives Her Husband a Peek (eili_enie)",
+			artist: "eili_enie",
+			artist_url: "https://twitter.com/eili_enie",
+			art_url: "",
+			desc: "This is a commission of Lucina in her wedding dress by eili_enie! The alt includes a version of her showing off her breasts to give her husband a peek of what's to come later in the night. Lucina looks beautiful in her dress, and her smile is so pretty! The artist did a great job!",
+			date_str: "November 2023",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.discordapp.com/attachments/1098603479058108416/1174143663983562772/Yoostink_COMM.png"],
+			thumbnail: "https://cdn.discordapp.com/attachments/1098603578861559839/1174143750549803118/Yoostink_COMM_11zon.png",
+			title: "Hooters Lucina and Clarisse (lewillust)",
+			artist: "lewillust",
+			artist_url: "https://twitter.com/lewillust",
+			art_url: "This is a joint commission with my friend who loves Clarisses of Hooters Lucina and Clarisse by lewillust! Clarisse is a new hire and isn't quite used to the uniform yet. Lucina as a longtime employee gives her some encouragement! Both of them look super pretty and cute! Clarisse's flustered expression and Lucina's big smile are the best! The artist did a great job!",
+			desc: "This is a ",
+			date_str: "November 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
