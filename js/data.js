@@ -4587,7 +4587,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/3yrgcwkdj54.jpg"],
+			src: ["https://cdn.imgchest.com/files/6yxkcmdxqk7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcx3qxv7.jpg",
 			title: "Hooters Lucina (RodLanghi)",
 			artist: "RodLanghi",
@@ -4621,6 +4621,42 @@ var data = {
 			date_str: "November 2023",
 			tags: ["other"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcp6kv3y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcgnmqw7.png",
+			title: "Hooters Lucina (talesshinja)",
+			artist: "talesshinja",
+			artist_url: "https://twitter.com/talesshinja",
+			art_url: "https://twitter.com/talesshinja/status/1728758892929380815",
+			desc: "This is a Hooters Lucina by talesshinja! Lucina looks really pretty! I love the ponytail and also the expression on her face! It looks like she's really busy, and the artist did a great job on the colors and the background work!",
+			date_str: "November 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4necj2olp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcknlwb4.png",
+			title: "Hooters Lucina (hsinhsincookie)",
+			artist: "hsinhsincookie",
+			artist_url: "https://twitter.com/hsinhsincookie",
+			art_url: "https://twitter.com/hsinhsincookie/status/1729114351813169443",
+			desc: "This is a Hooters by HSIN! Lucina looks super pretty! The colors are amazing and vibrant, and the food and beer look great! Her wink showing off the Brand of the Exalt is also a great detail! The artist did a wonderful job!",
+			date_str: "November 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcrmz3x4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46ac59v3b7.png",
+			title: "Lucina After Her Bath (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina after her bath by GrimmelsDaThird! After her bath, Lucina dries herself off with a towel. She looks really cute and pretty!",
+			date_str: "November 2023",
+			tags: ["nsfw"],
+			hidden: false
 		},
 		{
 			src: [""],
