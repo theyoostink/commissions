@@ -584,7 +584,8 @@ var data = {
 				"https://cdn.imgchest.com/files/d7ogcq8zk6y.png",
 				"https://cdn.imgchest.com/files/w7pjc8xjdd7.png",
 				"https://cdn.imgchest.com/files/l7lxcwgbrv7.png",
-				"https://cdn.imgchest.com/files/myd5cxz2g24.png"
+				"https://cdn.imgchest.com/files/myd5cxz2g24.png",
+				"https://cdn.imgchest.com/files/6yxkcmgeev7.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -621,7 +622,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>
-			<a href='https://twitter.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>`,
+			<a href='https://twitter.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3046,7 +3048,7 @@ var data = {
 			artist_url: "https://twitter.com/yashuring2",
 			art_url: "https://twitter.com/yashuring2/status/1616207656615829504",
 			desc: "This is a Hooters Lucina by yashuring2! Lucina is really pretty in this! Her big smile is best! I like the big frothy mugs of beer and the cool spotty effect splashed across the piece. The artist did a great job!",
-			date_str: "January 2022",
+			date_str: "January 2023",
 			tags: ["hooters"],
 			hidden: false
 		},
@@ -3411,7 +3413,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["hhttps://cdn.imgchest.com/files/b49zcpg8p6y.jpg", "https://cdn.imgchest.com/files/l4necjw6jk4.jpg"],
+			src: ["https://cdn.imgchest.com/files/b49zcpg8p6y.jpg", "https://cdn.imgchest.com/files/l4necjw6jk4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/pyvdcezxrey.png",
 			title: "Hooters Lucina Masturbating (TheoryIV)",
 			artist: "TheoryIV",
@@ -3583,8 +3585,8 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/k739cobzpr7.png",
 			title: "Hooters Lucina (tak0baka)",
 			artist: "tak0baka",
-			artist_url: "https://twitter.com/tak0baka",
-			art_url: "https://twitter.com/tak0baka/status/1642452782291763200",
+			artist_url: "https://twitter.com/tak0no2",
+			art_url: "https://twitter.com/tak0no2/status/1732615181644234824",
 			desc: "This is a Hooters Lucina by tak0baka! Lucina looks super pretty! The artist did an amazing job on this whole piece! The big mug of beer and big plate of chicken wings look delicious, and Lucina's smile is adorable! I'm glad to hear that the artist had a lot of fun working on this!",
 			date_str: "April 2023",
 			tags: ["hooters"],
@@ -4544,7 +4546,7 @@ var data = {
 			title: "Lucina Gives Her Husband a Peek (eili_enie)",
 			artist: "eili_enie",
 			artist_url: "https://twitter.com/eili_enie",
-			art_url: null,
+			art_url: "https://twitter.com/eili_enie/status/1731768512425656326",
 			desc: "This is a commission of Lucina in her wedding dress by eili_enie! The alt includes a version of her showing off her breasts to give her husband a peek of what's to come later in the night. Lucina looks beautiful in her dress, and her smile is so pretty! The artist did a great job!",
 			date_str: "November 2023",
 			tags: ["nsfw"],
@@ -4652,10 +4654,82 @@ var data = {
 			title: "Lucina After Her Bath (GrimmelsDaThird)",
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
-			art_url: null,
+			art_url: "https://twitter.com/GrimmelsDaLewd/status/1730753651860529456",
 			desc: "This is a commission of Lucina after her bath by GrimmelsDaThird! After her bath, Lucina dries herself off with a towel. She looks really cute and pretty!",
 			date_str: "November 2023",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6cgwdgny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739corvop7.png",
+			title: "Hooters Lucina (aiueOKOSO)",
+			artist: "aiueOKOSO",
+			artist_url: "https://twitter.com/aiueOKOSO",
+			art_url: null,
+			desc: "This is a Hooters Lucina by aiueOKOSO! Lucina looks really pretty! I love the colors in this! It has a really nice warm tone. The background and food are also drawn really well! The tied up shirt is also a great touch!",
+			date_str: "December 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcn9ngn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46ac9l9kk7.png",
+			title: "Hooters Lucina (K_shinomra)",
+			artist: "K_shinomra",
+			artist_url: "https://twitter.com/K_shinomra",
+			art_url: null,
+			desc: "This is a Hooters Lucina by K_shinomra! Lucina looks very pretty and cute! I love all the bright colors and Feh jumping into the foreground! It's always nice to see Feh on the logo!",
+			date_str: "December 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc98e8r7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwc8vrvx7.png",
+			title: "Year of the Dragon Corrin (shikilostman)",
+			artist: "shikilostman",
+			artist_url: "https://twitter.com/shikilostman",
+			art_url: null,
+			desc: "This is a commission of Corrin in a kimono by shikilostman! It's a gift for Seityr as part of a gift exchange. Since 2024 is the Year of the Dragon, I thought Corrin in a New Year's kimono holding a figuring of her dragon form would be really fitting! The artist did a wonderful job on the design of the kimono and the overall artwork. Corrin looks very pretty! I hope Seityr is pleased with the gift!",
+			date_str: "December 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cop8ko4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6cp5aery.jpg",
+			title: "Golfer Noire (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of Noire as a golfer by true_jek_art! This was a gift for Mifi, Wario Booty Hole, and DustDustDust who are all fans of Noire. I thought the idea of Noire as an archer and sharpshooter fit well with the idea of a golfer who can hit accurately. Her usual headband also reminded me of a golf visor. Noire looks really cute, and I'm glad to hear that the recipients really liked their gifts!",
+			date_str: "December 2023",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739c8w2pm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cl69xd4.png",
+			title: "Hooters Lucina Footjob (NOKISITA_22)",
+			artist: "NOKISITA_22",
+			artist_url: "https://twitter.com/NOKISITA_22",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina giving a footjob by NOKISITA_22! I saw a footjob artwork that looked interesting since the man was grabbing the ankles to ejaculate, so I decided to get one with Hooters Lucina. It turned out great, and Lucina looks really pretty and sexy! The man must have enjoyed it a lot since he came all over Lucina's butt and shorts!",
+			date_str: "December 2023",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcmjdzj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cmr6a97.png",
+			title: "Hooters Lucina (3amsoda)",
+			artist: "3amsoda",
+			artist_url: "https://twitter.com/3amsoda",
+			art_url: "https://twitter.com/3amsoda/status/1740102641609519332",
+			desc: "This is a Hooters Lucina by 3amsoda! I really like the artist's style and their artwork, so I jumped at the chance to commission them when they opened up on VGen. This was my first VGen commission, and it turned out great! Lucina looks pretty, and I love her confident pose and expression! The Anna logo on the shirt is also a great detail!",
+			date_str: "December 2023",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
