@@ -4733,6 +4733,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/p7bwc828687.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcm6mx64.png",
+			title: "Hooters Lucina (mariezone_)",
+			artist: "mariezone_",
+			artist_url: "https://twitter.com/mariezone_",
+			art_url: "",
+			desc: "This is a Hooters Lucina by mariezone_! Lucina looks super cute and pretty! I love the artist's style, and I also really like the tied up shirt! The big sweat drop and falling chicking wing are such cute details! The colors are also so nice and vibrant! The artwork was wonderfully done!",
+			date_str: "December 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc9k9n57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9c8v8k24.png",
+			title: "Christmas Fae (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Christmas Fae by GrimmelsDaThird! It's a thank you gift for RawrCanDraw who doodled Hooters Lucina and hosted Gartic Phone game nights over the last couple of years. Fae looks adorable when she's holding her big gift box that's almost as tall as her!",
+			date_str: "December 2023",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc92eqe7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5como5a4.jpg",
+			title: "Hooters Lucina (alboeire)",
+			artist: "alboeire",
+			artist_url: "https://twitter.com/alboeire",
+			art_url: "https://twitter.com/alboeire/status/1742242984039424241",
+			desc: "This is a Hooters Lucina by alboeire! Lucina looks so pretty! I love the way her hair is drawn and colored! The flying chicken wings and splashing beer foam look great and make the artwork seem dynamic! The artist also did a wonderful job on the background and included coworker Naga and customers Severa and Noire! It's amazing work!",
+			date_str: "December 2023",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
