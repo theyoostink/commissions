@@ -585,7 +585,8 @@ var data = {
 				"https://cdn.imgchest.com/files/w7pjc8xjdd7.png",
 				"https://cdn.imgchest.com/files/l7lxcwgbrv7.png",
 				"https://cdn.imgchest.com/files/myd5cxz2g24.png",
-				"https://cdn.imgchest.com/files/6yxkcmgeev7.png"
+				"https://cdn.imgchest.com/files/6yxkcmgeev7.png",
+				"https://cdn.imgchest.com/files/b49zc65qm3y.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -623,7 +624,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -1085,13 +1087,13 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/e4gdclvz2g4.png"],
+			src: ["https://cdn.imgchest.com/files/e4gdclvz2g4.png", "https://cdn.imgchest.com/files/my2pczqxnw7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necjw6xz4.jpg",
 			title: "Hooters Lucina (Hayato_Stuff)",
 			artist: "Hayato_Stuff",
 			artist_url: "https://twitter.com/Hayato_Stuff",
 			art_url: "https://twitter.com/Hayato_Stuff/status/1501634564044689408",
-			desc: "This is a Hooters Lucina by Hayato_Stuff! She's very cute and pretty! I love her expression - it's very fun, and the rendering of the hair is really nice! It turned out amazingly!",
+			desc: "This is a Hooters Lucina by Hayato_Stuff! She's very cute and pretty! I love her expression - it's very fun, and the rendering of the hair is really nice! It turned out amazingly! Hayato also did a <a href='https://twitter.com/Hayato_Stuff/status/1744585319532659118'>redraw</a> two years later for fun as well.",
 			date_str: "February 2022",
 			tags: ["hooters"],
 			hidden: false
@@ -3701,6 +3703,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7kzcgrwp57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcvlaxa4.png",
+			title: "Lucina is Her Birthday Cake (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina as her own birthday cake by GrimmelsDaThird! Lucina is decorated with cream and strawberries as her own birthday cake. It's a feast for the eyes! She looks so cute!",
+			date_str: "April 2023",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/d7ogcq8zv6y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcpenkwy.png",
 			title: "Hooters Lucina (deliTAKO_sun)",
@@ -4574,7 +4588,7 @@ var data = {
 			desc: "This is a Hooters Lucina by ChihunHentai! Lucina looks super pretty! I was glad to learn that the artist and I share a love for Lucina! The artist did a great job on the colors and the background and the shading and the overall rendering of the piece! The alt versions are also really nice! I also like the detail of the beer foam running down her arm! The artwork is gorgeous!",
 			date_str: "November 2023",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cxz2ak4.jpeg"],
@@ -4738,7 +4752,7 @@ var data = {
 			title: "Hooters Lucina (mariezone_)",
 			artist: "mariezone_",
 			artist_url: "https://twitter.com/mariezone_",
-			art_url: "",
+			art_url: "https://twitter.com/mariezone_/status/1743390183133724962",
 			desc: "This is a Hooters Lucina by mariezone_! Lucina looks super cute and pretty! I love the artist's style, and I also really like the tied up shirt! The big sweat drop and falling chicking wing are such cute details! The colors are also so nice and vibrant! The artwork was wonderfully done!",
 			date_str: "December 2023",
 			tags: ["hooters"],
@@ -4766,6 +4780,30 @@ var data = {
 			desc: "This is a Hooters Lucina by alboeire! Lucina looks so pretty! I love the way her hair is drawn and colored! The flying chicken wings and splashing beer foam look great and make the artwork seem dynamic! The artist also did a wonderful job on the background and included coworker Naga and customers Severa and Noire! It's amazing work!",
 			date_str: "December 2023",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcwgl53y.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/l4neckwr3p4.png",
+			title: "Hooters Lucina (sethkiell)",
+			artist: "sethkiell",
+			artist_url: "https://twitter.com/sethkiell",
+			art_url: null,
+			desc: "This is a Hooters Lucina by sethkiell! Lucina looks super pretty! I really love the artist's style and also Lucina's expression! There are a lot of nice warm colors which give the piece a cozy tone. The artist did an amazing job!",
+			date_str: "January 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xcdgxkk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcgkadq4.png",
+			title: "Don't Look, Morgan! (Densho_Hiyoko)",
+			artist: "Densho_Hiyoko",
+			artist_url: "https://twitter.com/Densho_Hiyoko",
+			art_url: "https://twitter.com/Densho_Hiyoko/status/1748326610514960580",
+			desc: "This is a commission mother and daughter Lucina and Morgan by Densho_Hiyoko! I've been a fan of the artist's cute Lucina chibi artwork for years. Lucina is trying to cover Morgan's eyes from seeing something embarassing. I wonder what it is!",
+			date_str: "January 2024",
+			tags: [""],
 			hidden: false
 		},
 		{
