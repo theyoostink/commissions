@@ -19,7 +19,7 @@ $(document).ready(function() {
 		setUpGallery(images, tags, true);
 
 		// Show only the images that need to be shown (filtering by tags)
-		showImagesByTags();
+		showImagesThatMatch();
 	});
 
 	// Handle closing the modal when the back button is clicked
@@ -239,7 +239,12 @@ function createTagsDropdown(tags) {
 		}
 
 		// Show only the images that need to be shown (filtering by tags)
-		showImagesByTags();
+		showImagesThatMatch();
+	});
+
+	$("#search-bar").on("change keydown paste input", function() {
+		// When the search bar is updated, update the filters
+		showImagesThatMatch();
 	});
 }
 
@@ -288,8 +293,11 @@ function backButtonHideModal() {
 	});
 }
 
-// Filters images by tags using 'AND' logic. The image must have exactly the tags that are specified by the filter to be shown.
-function showImagesByTags() {
+// Filters images by tags and search using 'AND' logic.
+// The image must have exactly the tags that are specified by the filter
+// AND
+// The image must also have the search term in one of the fields to be shown.
+function showImagesThatMatch() {
 	// Get the visible tags in string form
 	var visible_tags = [];
 	for (var tag_key in tags_to_show) {
@@ -303,8 +311,22 @@ function showImagesByTags() {
 	var images = data.images;
 	for (var i = 0; i < images.length; i++) {
 		var tags_str = images[i].tags.sort().toString();
+		var search_str = document.getElementById("search-bar").value;
 		if (visible_tags_str == tags_str) {
-			$("#img"+i).show();
+			if (search_str == "") {
+				$("#img"+i).show();
+			}
+			else {
+				// The search bar is not empty, so check the data fields for matches
+				if (images[i].title.toLowerCase().includes(search_str)
+					|| images[i].desc.toLowerCase().includes(search_str)
+					|| images[i].artist.toLowerCase().includes(search_str)) {
+					$("#img"+i).show();
+				}
+				else {
+					$("#img"+i).hide();
+				}
+			}
 		}
 		else {
 			$("#img"+i).hide();

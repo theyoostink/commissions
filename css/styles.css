@@ -157,6 +157,11 @@ a:hover, a:active {
 	background-color: #b8b8ff;
 }
 
+#search-bar {
+	margin-bottom: 10px;
+	border-radius: 0.25rem;
+}
+
 #dropdownMenuLink {
 	color: #fff;
 	background-color: #666a80;
