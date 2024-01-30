@@ -1993,7 +1993,7 @@ var data = {
 			artist: "Amemachi2A16",
 			artist_url: "https://twitter.com/Amemachi2A16",
 			art_url: null,
-			desc: "This is a commission of Lucina and Robin trying for a baby by Amemachi2A16! Lucina tells Robin she's ready and wants to try for a baby. Energized by her wish, Robin pumps cum into his wife during their lust-filled sex session. They cuddle afterwards hoping that Lucina's wish comes true. The sequel to this comic is <span class='series-link' index='309'>here</span>.",
+			desc: "This is a commission of Lucina and Robin trying for a baby by Amemachi2A16! Lucina tells Robin she's ready and wants to try for a baby. Energized by her wish, Robin pumps cum into his wife during their lust-filled sex session. They cuddle afterwards hoping that Lucina's wish comes true. The sequel to this comic is <span class='series-link' index='310'>here</span>.",
 			date_str: "July 2022",
 			tags: ["nsfw"],
 			hidden: false
@@ -3793,7 +3793,7 @@ var data = {
 			artist: "Amemachi2A16",
 			artist_url: "https://twitter.com/Amemachi2A16",
 			art_url: null,
-			desc: "This is a commission of Lucina and Robin trying for a baby again by Amemachi2A16! It's a sequel to <span class='series-link' index='160'>my previous comic commission</span>. Robin didn't succeed in impregnating Lucina, so the couple decide to try again. Robin is determined to get Lucina pregnant, and Lucina is looking forward to starting a family with her husband. They have sex until they're exhausted. It seems like they were successful this time!",
+			desc: "This is a commission of Lucina and Robin trying for a baby again by Amemachi2A16! Robin didn't succeed in impregnating Lucina, so the couple decide to try again. Robin is determined to get Lucina pregnant, and Lucina is looking forward to starting a family with her husband. They have sex until they're exhausted. It seems like they were successful this time! The sequel to this comic is <span class='series-link' index='396'>here</span>.",
 			date_str: "May 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -4788,7 +4788,7 @@ var data = {
 			title: "Hooters Lucina (sethkiell)",
 			artist: "sethkiell",
 			artist_url: "https://twitter.com/sethkiell",
-			art_url: null,
+			art_url: "https://twitter.com/sethkiell/status/1749565556888637719",
 			desc: "This is a Hooters Lucina by sethkiell! Lucina looks super pretty! I really love the artist's style and also Lucina's expression! There are a lot of nice warm colors which give the piece a cozy tone. The artist did an amazing job!",
 			date_str: "January 2024",
 			tags: ["hooters"],
@@ -4804,6 +4804,42 @@ var data = {
 			desc: "This is a commission mother and daughter Lucina and Morgan by Densho_Hiyoko! I've been a fan of the artist's cute Lucina chibi artwork for years. Lucina is trying to cover Morgan's eyes from seeing something embarassing. I wonder what it is!",
 			date_str: "January 2024",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc52ald7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc56l26y.png",
+			title: "Lucina Shares Some Milk (g-eb)",
+			artist: "g-eb",
+			artist_url: "https://twitter.com/MightyKow",
+			art_url: "https://picarto.tv/gebdraws/gallery/default/65b4c85bd6fabe73a70da3e2",
+			desc: "This is a sketch request from a stream raffle by g-eb! Lucina decides to share some of her breast milk and pours some into a mug. She looks really cute and pretty!",
+			date_str: "January 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6clkg23y.png", "https://cdn.imgchest.com/files/j7kzc56gbm7.png", "https://cdn.imgchest.com/files/g4z9cognvb7.png", "https://cdn.imgchest.com/files/pyq9cgjpkb4.png", "https://cdn.imgchest.com/files/p7bwcxm8d57.png", "https://cdn.imgchest.com/files/j7mmcvblav7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcvbl9n7.png",
+			title: "Lucina and Robin Have Some Fun (Amemachi2A16)",
+			artist: "Amemachi2A16",
+			artist_url: "https://twitter.com/Amemachi2A16",
+			art_url: null,
+			desc: "This is a comic commission by Amemachi2A16! After Lucina successfully gives birth to a healthy baby Morgan, she asks her husband for a favor. It's been several months since they have had sex, so Lucina wants to have sex not for proceation but for pleasure. Robin enthusiastically obliges and makes sure to please his wife. However, Lucina's moans are a bit too loud, and the couple risk waking up their baby. The first part of the trilogy is <span class='series-link' index='160'>here</span>.",
+			date_str: "January 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcnvwa37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcgqwnz4.png",
+			title: "Hooters Lucina (GenM_7)",
+			artist: "GenM_7",
+			artist_url: "https://twitter.com/GenM_7",
+			art_url: "https://twitter.com/GenM_7/status/1752394453745361236",
+			desc: "This is a Hooters Lucina by GenM_7! Lucina looks so pretty! I love the artist's Camilla artwork, so I wanted to commission them for a Lucina. Her smile is really cute, and I love the way the hair is colored and rendered! The artist did an amazing job!",
+			date_str: "January 2024",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
