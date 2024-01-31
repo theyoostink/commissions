@@ -3484,7 +3484,7 @@ var data = {
 			desc: "This is a joint commission with a friend of Twin Peaks Lucina and Hooters Micaiah by Jarckius! My friend commission Twin Peaks Micaiah, so we decided to do a fun joint commission concept of an outfit swap. Now Lucina is working at Twin Peaks, and Micaiah is working at Hooters! It turned out amazingly! I love their big smiles! They look so cute and pretty! There are also bunny suit versions as well!",
 			date_str: "March 2023",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7mmclwx5a7.jpg"],
@@ -3948,7 +3948,7 @@ var data = {
 			title: "Hooters Lucina (empe0317)",
 			artist: "empe0317",
 			artist_url: "https://twitter.com/empe0317",
-			art_url: "https://www.pixiv.net/en/artworks/108975875",
+			art_url: "https://twitter.com/empe0317/status/1752527128841924689",
 			desc: "This is a Hooters Lucina by empe0317! The artist is a great art style, and I love their Lucina artwork. I'm glad that I had the opportunity to commission them! Lucina looks really pretty, and all the colors are so nice and vibrant!",
 			date_str: "June 2023",
 			tags: ["hooters"],
@@ -4840,6 +4840,18 @@ var data = {
 			desc: "This is a Hooters Lucina by GenM_7! Lucina looks so pretty! I love the artist's Camilla artwork, so I wanted to commission them for a Lucina. Her smile is really cute, and I love the way the hair is colored and rendered! The artist did an amazing job!",
 			date_str: "January 2024",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cgjmr94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcna8da4.png",
+			title: "Lucina Spills Cum (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina spilling cum from her mouth by GrimmelsDaThird! Lucina gets a mouthful of cum while out on a mission. She ends up spilling some, and it pools into her hands. She'll need to get cleaned up quickly to continue her mission.",
+			date_str: "January 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{

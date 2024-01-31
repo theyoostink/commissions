@@ -311,7 +311,7 @@ function showImagesThatMatch() {
 	var images = data.images;
 	for (var i = 0; i < images.length; i++) {
 		var tags_str = images[i].tags.sort().toString();
-		var search_str = document.getElementById("search-bar").value;
+		var search_str = document.getElementById("search-bar").value.toLowerCase();
 		if (visible_tags_str == tags_str) {
 			if (search_str == "") {
 				$("#img"+i).show();
