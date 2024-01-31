@@ -160,6 +160,7 @@ a:hover, a:active {
 #search-bar {
 	margin-bottom: 10px;
 	border-radius: 0.25rem;
+	font-weight: 900;
 }
 
 #dropdownMenuLink {
