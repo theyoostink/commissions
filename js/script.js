@@ -24,6 +24,12 @@ $(document).ready(function() {
 
 	// Handle closing the modal when the back button is clicked
 	backButtonHideModal();
+
+	// If the URL has a hash, then open that image based on the hash index
+	if (window.location.hash) {
+		var hash_index = window.location.hash.substring(1);
+		$("#img"+hash_index).click();
+	}
 });
 
 // Create the gallery image modal description section
@@ -54,6 +60,22 @@ function getModalDescText(image) {
 	text += "<br/><strong>Description:</strong><br/>" + image.desc + "<br/>";
 
 	text += "<br/>[" + image.date_str + "]<br/>";
+
+	if (image.tags.length == 0) {
+		text += "<br/><strong>No tags</strong><br/>";
+	}
+	else if (image.tags.length == 1 && image.tags[0] == "") {
+		text += "<br/><strong>No tags</strong><br/>";
+	}
+	else {
+		text += "<br/><strong>Tags:</strong> "
+		for (var i = 0; i < image.tags.length; i += 1) {
+			text += translateWord(image.tags[i])
+			if (i < image.tags.length - 1) {
+				text += " + "
+			}
+		}
+	}
 
 	return text;
 }
@@ -104,7 +126,7 @@ function setUpGallery(images, tags, shuffleOrder) {
 		if (image.hidden) {
 			tags_class += " hidden-image"
 		}
-		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img'><img src='"+image.thumbnail+"' alt='"+image.alt+"' id='img"+index+"' index='"+index+"' class='"+tags_class+"'></a>";
+		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img' index='"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' id='img"+index+"' index='"+index+"' class='"+tags_class+"'></a>";
 	}
 	$("#gallery").html(gallery_html);
 
@@ -267,9 +289,10 @@ function enableImageSeriesLinks() {
 // When a modal is opened, the URL is updated so that when the back button is clicked, the modal is closed.
 function backButtonHideModal() {
 	// https://stackoverflow.com/questions/40314576/bootstrap-3-close-modal-when-pushing-browser-back-button
-	$("div.modal").on("show.bs.modal", function() {
+	$("div.modal").on("show.bs.modal", function(e) {
 		var modal = this;
-		var hash = modal.id;
+		var index = +($($(e.relatedTarget)[0]).attr("index"));
+		var hash = index
 		window.location.hash = hash;
 		window.onhashchange = function() {
 			if (!location.hash){

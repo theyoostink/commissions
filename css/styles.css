@@ -250,6 +250,9 @@ a:hover, a:active {
 	.sidebar-item {
 		float: left;
 	}
+	.sidebar-item:not(:last-child) {
+		margin-right: 4px;
+	}
 	.img-carousel-responsive {
 		width: 100%;
 		margin: auto;
@@ -301,6 +304,12 @@ a:hover, a:active {
 	}
 	.sidebar-item {
 		float: left;
+	}
+	.sidebar-item:not(:last-child) {
+		margin-right: 10px;
+	}
+	.sidebar-item:not(:last-child) {
+		margin-right: 10px;
 	}
 	.sidebar-item-container {
 		display: flex;
