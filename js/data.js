@@ -586,7 +586,8 @@ var data = {
 				"https://cdn.imgchest.com/files/l7lxcwgbrv7.png",
 				"https://cdn.imgchest.com/files/myd5cxz2g24.png",
 				"https://cdn.imgchest.com/files/6yxkcmgeev7.png",
-				"https://cdn.imgchest.com/files/b49zc65qm3y.png"
+				"https://cdn.imgchest.com/files/b49zc65qm3y.png",
+				"https://cdn.imgchest.com/files/w7pjcrm6mj7.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -625,7 +626,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>
 			<a href='https://twitter.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
