@@ -587,7 +587,8 @@ var data = {
 				"https://cdn.imgchest.com/files/myd5cxz2g24.png",
 				"https://cdn.imgchest.com/files/6yxkcmgeev7.png",
 				"https://cdn.imgchest.com/files/b49zc65qm3y.png",
-				"https://cdn.imgchest.com/files/w7pjcrm6mj7.png"
+				"https://cdn.imgchest.com/files/w7pjcrm6mj7.png",
+				"https://cdn.imgchest.com/files/345xcwamlv7.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -627,7 +628,8 @@ var data = {
 			<a href='https://twitter.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5020,6 +5022,42 @@ var data = {
 			artist_url: "https://twitter.com/zero_0a",
 			art_url: null,
 			desc: "This is a commission of evil Emblem Lucina having sex by zero_0a! Evil Emblem Lucina hungers for sex, so she finds a willing partner. Then, she dominates him in the amazon position and fucks him until he cums inside her. What a lucky man!",
+			date_str: "March 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46aceqbbn7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcrkor37.jpg",
+			title: "Hooters Lucina (Primogenitor34)",
+			artist: "Primogenitor34",
+			artist_url: "https://twitter.com/Primogenitor34",
+			art_url: "https://twitter.com/Primogenitor34/status/1764339293709901930",
+			desc: "This is a Hooters Lucina by Primogenitor34! Lucina looks so pretty! I love all the little details and references the artist added to the piece from the Falchion earring to the butterly tattoo! They did such a wonderful job on the piece!",
+			date_str: "March 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdc9vjjj4.png", "https://cdn.imgchest.com/files/myd5clerrg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc9vj9m4.png",
+			title: "Hooters Lucina (Katsunei)",
+			artist: "Katsunei",
+			artist_url: "https://twitter.com/Katsunei",
+			art_url: "https://twitter.com/Katsunei/status/1764430455875465707",
+			desc: "This is a Hooters Lucina by Katsunei! Lucina looks super pretty! I really love the artist's past Lucina artwork, so I'm glad I got the opportunity to commission them! Lucina's smile is the best!",
+			date_str: "March 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmc89rrd7.png", "https://cdn.imgchest.com/files/k739cmx66a7.png", "https://cdn.imgchest.com/files/wye3c32ddm4.png", "https://cdn.imgchest.com/files/my8xc8nkkd4.png", "https://cdn.imgchest.com/files/345xcwv98a7.png", "https://cdn.imgchest.com/files/84apco53v54.png", "https://cdn.imgchest.com/files/k46aceqbgn7.png", "https://cdn.imgchest.com/files/p7bwcokd2v7.png", "https://cdn.imgchest.com/files/pyq9cn3evv4.png", "https://cdn.imgchest.com/files/e4gdcrxpmz4.png", "https://cdn.imgchest.com/files/my8xc8nkqd4.png", "https://cdn.imgchest.com/files/345xcwv9qa7.png", "https://cdn.imgchest.com/files/84apco53w54.png", "https://cdn.imgchest.com/files/k46aceqb3n7.png", "https://cdn.imgchest.com/files/pyvdcowdgry.png", "https://cdn.imgchest.com/files/6yxkcozgkx7.png", "https://cdn.imgchest.com/files/b49zco2b9gy.png", "https://cdn.imgchest.com/files/l4necv8mnb4.png", "https://cdn.imgchest.com/files/p7bwcokdev7.png", "https://cdn.imgchest.com/files/w7pjcoqwd97.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cn3eng4.png",
+			title: "Rearmed Lucina Riding (Rman3108608360)",
+			artist: "Rman3108608360",
+			artist_url: "https://twitter.com/Rman3108608360",
+			art_url: "https://www.pixiv.net/artworks/116623349",
+			desc: "This is a commission of Rearmed Lucina having sex by Rman3108608360! When Rearmed Lucina was revealed, there were a lot of jokes about her leotard and also about how it can be used as easy access to her vagina. Lucina gets promoted to a cavalry unit, so she needs some training on how to ride. She puts her outfit's advantage to use and gets fucked until the man cums inside her.",
 			date_str: "March 2024",
 			tags: ["nsfw"],
 			hidden: false
