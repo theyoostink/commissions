@@ -292,6 +292,10 @@ function backButtonHideModal() {
 	$("div.modal").on("show.bs.modal", function(e) {
 		var modal = this;
 		var index = +($($(e.relatedTarget)[0]).attr("index"));
+		// Handle the case when the About Me modal is opened where its index is -1
+		if (index == -1) {
+			index = "AboutMe"
+		}
 		var hash = index
 		window.location.hash = hash;
 		window.onhashchange = function() {
