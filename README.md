@@ -33,6 +33,8 @@ An explanation of the `data.js` object fields:
 - `tags`: A list of strings for the tags attached to this image. This dictates the tags that will show up in the Filter as well as how it will be displayed when tags are selected in the Filter.
 - `hidden`: A boolean for whether or not you want this post to be visible. This overrides the tag Filter display rule.
 
+## Features
+
 Regarding tags:
 
 - Tags should be lowercase (and are also case-sensitive)
