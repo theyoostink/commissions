@@ -7,9 +7,9 @@ var data = {
 			artist: "Anonymous Artist",
 			artist_url: null,
 			art_url: null,
-			desc: "Artist did not wish to be named or identified. An inside joke between the artist and myself. It's just yogurt.",
+			desc: "Artist did not wish to be named or identified. An inside joke between the artist and myself. It's just yogurt. This is a placeholder entry which will remain hidden but helps dictate the tag order in the Filter dropdown.",
 			date_str: "May 2017",
-			tags: [""],
+			tags: ["hooters", "nsfw", "other"],
 			hidden: true
 		},
 		{
