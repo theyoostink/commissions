@@ -5063,6 +5063,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/w7pjcoxrwv7.png", "https://cdn.imgchest.com/files/d7ogcn8dk2y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcr9low7.png",
+			title: "Hooters Shade (r51633060)",
+			artist: "r51633060",
+			artist_url: "https://twitter.com/r51633060",
+			art_url: "https://twitter.com/r51633060/status/1764742600106619277",
+			desc: "This is a commission of Hooters Shade by r51633060! This is part of the Lucina Fan Club's annual April Fool's Day joke for 2024 where the server switched to a Shade Fan Club for the day. Shade looks great in the black Hooters uniform! She looks very pretty!",
+			date_str: "March 2024",
+			tags: ["hooters", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxc2gldb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cn5m254.png",
+			title: "Hooters Lucina and Panette (dhokidoki)",
+			artist: "dhokidoki",
+			artist_url: "https://twitter.com/dhokidoki",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina and Panette by dhokidoki! It was a joint commission with a friend whose favorite character from Engage is Panette. I really like how they are wearing both versions of the Hooters uniform: the classic white and orange uniform and the black uniform. They look really pretty, and their smiles are adorable! Lucina looks especially great with those abs too!",
+			date_str: "March 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k46acekren7.png", "https://cdn.imgchest.com/files/6yxkcoreox7.png", "https://cdn.imgchest.com/files/b49zcowjogy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzc356327.png",
+			title: "Hooters Lucina (whimsycottt)",
+			artist: "whimsycottt",
+			artist_url: "https://twitter.com/whimsycottt",
+			art_url: null,
+			desc: "This is a Hooters Lucina by whimsycottt! Lucina looks super cute! I really love the artist's style, so I'm glad I got the opportunity to commission them. The Feh on the shirt is adorable as well as Lucina's big smile! The ponytail alt is also really cute too!",
+			date_str: "March 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
