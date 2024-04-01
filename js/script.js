@@ -123,10 +123,7 @@ function setUpGallery(images, tags, shuffleOrder) {
 			tags.add(image.tags[t]);
 		}
 		// If image is hidden, then don't show it
-		if (image.hidden) {
-			tags_class += " hidden-image"
-		}
-		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img' index='"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' id='img"+index+"' index='"+index+"' class='"+tags_class+"'></a>";
+		gallery_html += "<a data-bs-toggle='modal' data-bs-target='#imageModal' class='gallery-img"+((image.hidden) ? " hidden-image" : "") +"' index='"+index+"' id='img"+index+"'><img src='"+image.thumbnail+"' alt='"+image.alt+"' index='"+index+"' class='"+tags_class+"'></a>";
 	}
 	$("#gallery").html(gallery_html);
 
@@ -190,6 +187,7 @@ function setUpGallery(images, tags, shuffleOrder) {
 			$("#imageModalDesc").html(getModalDescText(images[index]));
 			enableImageSeriesLinks();
 			//enableTooltips();
+			$("#imageModal").modal("show", $(this));
 		});
 	}
 	updateImageCountLabel();
@@ -233,7 +231,7 @@ function createTagsDropdown(tags) {
 
 	// By default, hide images with tags
 	for (var tag in tags_to_show) {
-		$("."+tag).hide();
+		$("."+tag).parent().hide();
 	}
 
 	// When a checkbox is checked/unchecked in the dropdown menu...
@@ -336,9 +334,9 @@ function showImagesThatMatch() {
 
 	// Then compare it with the tags of each image. If they match, then show. Otherwise, hide.
 	var images = data.images;
+	var search_str = document.getElementById("search-bar").value.toLowerCase();
 	for (var i = 0; i < images.length; i++) {
 		var tags_str = images[i].tags.sort().toString();
-		var search_str = document.getElementById("search-bar").value.toLowerCase();
 		if (visible_tags_str == tags_str) {
 			if (search_str == "") {
 				$("#img"+i).show();

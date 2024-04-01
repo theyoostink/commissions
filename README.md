@@ -6,6 +6,11 @@ This is a webpage for my art commissions. Check it out! [https://theyoostink.git
 
 For any questions about the gallery site or how to use the template, contact Yoostink.
 
+I can also provide support for customized functionality like a danbooru-style tag selection feature instead of a filter, one-and-done age verification prompt, default display based on tag combinations, a mode for showing all entries, etc.
+
+Sites that use my template:
+- https://talkingdinosaur.github.io/commissions/
+
 ## Customization
 
 I made this website from scratch, but I designed the code so that it can be used as a template by anyone who wants to copy it and customize it to make it their own. You just need some working knowledge of HTML, CSS, and JavaScript along with Bootstrap and jQuery. And obviously, you'll need knowledge of git and GitHub since you're already here. Once all of the setup is done, you just need to alter the JSON file to add entries.
@@ -29,7 +34,7 @@ An explanation of the `data.js` object fields:
 - `title`: A string for the title which will be displayed at the top of the modal.
 - `artist`: A string for the artist's name.
 - `artist_url`: A string for the artist's social media page URL. I usually use the artist's Twitter or pixiv for this field.
-- `art_url`: A string for the URL of the public post of the artwork. If there is not public post, then you can set this to `null`.
+- `art_url`: A string for the URL of the public post of the artwork. If there is no public post, then you can set this to `null`.
 - `desc`: A string for the description.
 - `date_str`: A string for the date. I usually use the month and year.
 - `tags`: A list of strings for the tags attached to this image. This dictates the tags that will show up in the Filter as well as how it will be displayed when tags are selected in the Filter.

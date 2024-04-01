@@ -4073,7 +4073,7 @@ var data = {
 			artist: "GrimmelsDaThird",
 			artist_url: "https://twitter.com/GrimmelsDaThird",
 			art_url: "https://twitter.com/GrimmelsDaLewd/status/1678960264031657984",
-			desc: "This is a commission of Lucina getting ready for night of sex with the art done by GrimmelsDaThird! I really love her smug and seductive expression. The opened oversized shirt revealing her body while still hiding some of it is really nice! I also like the small Brand of the Exalt on the condom. I requested it since I thought it would be a fun detail.",
+			desc: "This is a commission of Lucina getting ready for night of sex with the art done by GrimmelsDaThird! I really love her smug and seductive expression. The opened oversized shirt revealing her body while still hiding some of it is really nice! I also like the small Brand of the Exalt on the condom. I requested it since I thought it would be a fun detail. It also has a <span class='series-link' index='423'>sequel commission</span>.",
 			date_str: "July 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -5096,6 +5096,66 @@ var data = {
 			desc: "This is a Hooters Lucina by whimsycottt! Lucina looks super cute! I really love the artist's style, so I'm glad I got the opportunity to commission them. The Feh on the shirt is adorable as well as Lucina's big smile! The ponytail alt is also really cute too!",
 			date_str: "March 2024",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xcwq2q57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cmgjgj7.png",
+			title: "Hooters Lucina (Doiparuni)",
+			artist: "Doiparuni",
+			artist_url: "https://twitter.com/Doiparuni",
+			art_url: "https://twitter.com/Doiparuni/status/1769778219765444867",
+			desc: "This is a Hooters Lucina by Doiparuni! Lucina looks so cute, and her smile is the best! I really like the way her hair is drawn and colored! The lighting and tied-up shirt are also really nice, and the artist did a wonderful job!",
+			date_str: "March 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcoeppg7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcoaja94.jpg",
+			title: "Florist Micaiah (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: "https://twitter.com/true_jek_art/status/1770178434947494077",
+			desc: "This is a commission of florist Micaiah by true_jek_art! It's a gift commission for Eldritch Leaf who loves Micaiah! Micaiah looks very pretty while holding the flowers whose colors match those of her hair and Yune's feathers. Yune also looks cute too!",
+			date_str: "March 2024",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkco5z8p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zcor2d2y.png",
+			title: "Hooters Lucina (minorudonguri)",
+			artist: "minorudonguri",
+			artist_url: "https://twitter.com/minorudonguri",
+			art_url: "https://twitter.com/minorudonguri/status/1770639899919798288",
+			desc: "This is a Hooters Lucina by minorudonguri! Lucina looks so pretty! The huge portions of food and drink are what dreams are made of along with Lucina's adorable smile! I love all the bright colors, warm colors, and lighting effects! The artist did an amazing job!",
+			date_str: "March 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcz2rkny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkc2z5n97.png",
+			title: "Hooters Lucina (0cm0cu)",
+			artist: "0cm0cu", //art_0cm0cu
+			artist_url: "https://twitter.com/0cm0cu",
+			art_url: null,
+			desc: "This is a Hooters Lucina by 0cm0cu! Lucina looks so pretty! I love the brightness of the piece and all of the light effects and shininess! Lucina's gentle smile is the best! The artist did a wonderful job!",
+			date_str: "March 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739c3edk67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cbr5g84.png",
+			title: "Lucina After Sex (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina after sex by GrimmelsDaThird! It's a sequel to a <span class='series-link' index='333'>previous commission</span>. After her partner fills the condom, Lucina playfully lets it hang from her mouth. It looks like she enjoyed having sex!",
+			date_str: "March 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
