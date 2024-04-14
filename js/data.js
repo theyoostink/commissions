@@ -588,7 +588,8 @@ var data = {
 				"https://cdn.imgchest.com/files/6yxkcmgeev7.png",
 				"https://cdn.imgchest.com/files/b49zc65qm3y.png",
 				"https://cdn.imgchest.com/files/w7pjcrm6mj7.png",
-				"https://cdn.imgchest.com/files/345xcwamlv7.png"
+				"https://cdn.imgchest.com/files/345xcwamlv7.png",
+				"https://cdn.imgchest.com/files/wye3cbjp5j4.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -629,7 +630,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3623,13 +3625,13 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/6yxkcmj32o7.png"],
+			src: ["https://cdn.imgchest.com/files/6yxkcmj32o7.png", "https://cdn.imgchest.com/files/pyvdc6ebj9y.png"],
 			thumbnail: "https://cdn.imgchest.com/files/e4gdclw39d4.png",
 			title: "Hooters Lucina (cloverlimit)",
 			artist: "cloverlimit",
 			artist_url: "https://twitter.com/cloverlimit",
 			art_url: "https://twitter.com/cloverlimit/status/1645475184185610241",
-			desc: "This is a Hooters Lucina by cloverlimit! Lucina looks really pretty and cute! I really like the pose and the scenario of this piece. It's like a snapshot of her busy work shift. I'm glad to hear that the artist had a lot of fun working on this! It turned out really great!",
+			desc: "This is a Hooters Lucina by cloverlimit! Lucina looks really pretty and cute! I really like the pose and the scenario of this piece. It's like a snapshot of her busy work shift. I'm glad to hear that the artist had a lot of fun working on this! It turned out really great! The artist also did an update on the commission a year later <a href='https://twitter.com/cloverlimit/status/1776294226000814207'>here</a>.",
 			date_str: "April 2023",
 			tags: ["hooters"],
 			hidden: false
@@ -5156,6 +5158,66 @@ var data = {
 			desc: "This is a commission of Lucina after sex by GrimmelsDaThird! It's a sequel to a <span class='series-link' index='333'>previous commission</span>. After her partner fills the condom, Lucina playfully lets it hang from her mouth. It looks like she enjoyed having sex!",
 			date_str: "March 2024",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdcbwenw4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9c65lgb4.jpg",
+			title: "Lucina and Morgan Eat Chicago Deep Dish Pizza (sumustard)",
+			artist: "sumustard",
+			artist_url: "https://twitter.com/sumustard",
+			art_url: "https://twitter.com/sumustard/status/1775613651702964417",
+			desc: "This is a joint commission with Exalted of Lucina and Morgan eating Chicago deep dish pizza by sumustard! This scene is a recreation of my meeting with Exalted last year when we ate pizza in Chicago. Lucina lifts up a slice of pizza for her daughter Morgan to take a photo. Morgan hungrily eyes the slice using her new phone that Lucina bought for her. Lucina is such a doting mother! The artist did a wonderful job on this piece! Lucina looks super pretty, and Morgan looks super cute!",
+			date_str: "April 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcbqgm34.png", "https://cdn.imgchest.com/files/k46acz8k6g7.png", "https://cdn.imgchest.com/files/pyvdc6zvlgy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cbwakl4.png",
+			title: "Hooters Lucina (mu_tu_bu)",
+			artist: "mu_tu_bu",
+			artist_url: "https://twitter.com/mu_tu_bu",
+			art_url: "https://twitter.com/mu_tu_bu/status/1775839732196614486",
+			desc: "This is a Hooters Lucina by mu_tu_bu! Lucina looks so pretty! I love the bright colors in this piece and how her hair was drawn! It gives the artwork a lot of energy! Lucina's smile is adorable too!",
+			date_str: "April 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkc2vrlw7.gif", "https://cdn.imgchest.com/files/l4nec5bk3x4.gif", "https://cdn.imgchest.com/files/p7bwcb3xrm7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cdjo2o7.png",
+			title: "Lucina Walking (CrimboComboArt)",
+			artist: "CrimboComboArt",
+			artist_url: "https://twitter.com/CrimboComboArt",
+			art_url: "https://twitter.com/CrimboComboArt/status/1775961540736237691",
+			desc: "This is an animation commission of Lucina by CrimboComboArt! I really love the walking chibis by the artist, so I'm glad I had the opportunity to commission them. There's one of Lucina in her normal outfit and another one of her in her Hooters outfit. Lucina's smile is adorable! I love the way she struts too!",
+			date_str: "April 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkc2mj5j7.jpg", "https://cdn.imgchest.com/files/l4nec5jwxj4.jpg", "https://cdn.imgchest.com/files/d7ogcvq8edy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9c6p5x24.jpg",
+			title: "Lucina and Kagero in Track Outfits (Rynn_art)",
+			artist: "Rynn_96",
+			artist_url: "https://twitter.com/Rynn_96",
+			art_url: "https://twitter.com/Rynn_96/status/1776281323973619818",
+			desc: "This is a joint commission with Andy420blazeit by Rynn_96! Lucina and Kagero don track outfits and go out for a run. They then take a break after working up a sweat. The outfits are based on Blue Archive track outfits. The artist did a wonderful job on the artwork, and I'm glad to have done a joint commission with Andy the Kagero fan!",
+			date_str: "April 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/g4z9cdzmrp7.jpg", "https://cdn.imgchest.com/files/my8xcp598a4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/345xce2nwv7.jpg",
+			title: "Hooters Lucina (jerrydurd)",
+			artist: "jerrydurd",
+			artist_url: "https://twitter.com/jerrydurd",
+			art_url: null,
+			desc: "This is a Hooters Lucina by jerrydurd! Lucina looks so pretty! In this scene, Lucina trips and falls over her untied shoelaces. As a result, she ends up spilling beer all over her uniform. I really like the idea that the artist came up with! I also really like the artist's One Piece art, so I'm glad I had the opportunity to commission them! They did a wonderful job on this artwork!",
+			date_str: "April 2024",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
