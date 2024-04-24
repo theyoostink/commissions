@@ -5221,6 +5221,78 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/j7mmc52v8k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k739c3a9mr7.png",
+			title: "Hooters Lucina (ho47810)",
+			artist: "ho47810",
+			artist_url: "https://twitter.com/ho47810",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ho47810! Lucina looks so cute! The background is stunningly cool, and those big mugs of beer looks tasty! The white outline around Lucina is also really nice, and Lucina's big smile is the best! The artist did a great job!",
+			date_str: "April 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcblxbo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e4gdcnk5nd4.png",
+			title: "You are Hooters Lucina's #1 Customer (DeebyFeeby)",
+			artist: "DeebyFeeby",
+			artist_url: "https://twitter.com/DeebyFeeby",
+			art_url: null,
+			desc: "This is another Hooters Lucina by DeebyFeeby! Lucina is super cute! It's a reference to the Nerthuz art in the official FEH comic where she's holding two fans with \"I'm your #1 fan\" on them. This one has Hooters Lucina holding up a message \"You're my #1 customer\" instead. Lucina is grateful for your continued patronage!",
+			date_str: "April 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdc6lqvry.png", "https://cdn.imgchest.com/files/l4nec53rkb4.png", "https://cdn.imgchest.com/files/j7kzcnrl527.png", "https://cdn.imgchest.com/files/pyq9c6rqgv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xceo5da7.png",
+			title: "Lucina with Robin and Grima (OppaiHobby)",
+			artist: "OppaiHobby",
+			artist_url: "https://twitter.com/OppaiHobby",
+			art_url: "https://twitter.com/OppaiHobby/status/1780345735403254127",
+			desc: "This is a joint commission with goo by OppaiHobby! Things get a little spicy in Askr between Lucina, Robin, and Grima. As Grima gently kisses and caresses Lucina, Robin gets busy eating out Lucina. The two men work together to bring the woman they both love to ecstasy.",
+			date_str: "April 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkcgn82n7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/84apc3zab94.jpg",
+			title: "Hooters Lucina (g-eb)",
+			artist: "g-eb",
+			artist_url: "https://twitter.com/MightyKow",
+			art_url: "https://twitter.com/MightyKow/status/1782439737414000960",
+			desc: "This is a Hooters Lucina by g-eb (MightyKow on Twitter)! I've been a fan of g-eb's work for a long time, so I'm glad to have gotten the opportunity to commission her. As always, her artwork is amazingly done! Lucina looks so pretty! The way Lucina's hair is drawn is wonderful, and the food looks great too! Lucina's gentle smile is adorable! It's the best!",
+			date_str: "April 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcbadzky.png", "https://cdn.imgchest.com/files/p7bwcd95b37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyvdcdrm6ay.png",
+			title: "Chocolate or Lucina? (SINccubi)",
+			artist: "SINccubi",
+			artist_url: "https://twitter.com/SINccubi",
+			art_url: "https://twitter.com/SINccubi/status/1782848298338144548",
+			desc: "This is a commission of Lucina and Robin by SINccubi! Robin comes home early to a view of Lucina making chocolate in a naked apron. It looks like his wife was more irresistible than the chocolate, and Robin dives right in. The chocolate might have to wait as Lucina gets eaten out by Robin!",
+			date_str: "April 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcbad8jy.png", "https://cdn.imgchest.com/files/p7bwcd95nr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xckxodk4.png",
+			title: "Hooters Lucina Gives Robin a Hand (TimboCactus)",
+			artist: "TimboCactus",
+			artist_url: "https://twitter.com/TimboCactus",
+			art_url: "",
+			desc: "This is a commission of Hooters Lucina giving Robin a handjob by TimboCactus! Lucina asks Robin to strip down in the middle of the restaurant and starts giving him a handjob during her shift. Lucina makes sure to have a nice tight grip on both Robin's dick and his thigh as she works his cock until he shoots his cum all over the table and floor! It seems like the other employees and customers don't mind the antics of the couple.",
+			date_str: "April 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
