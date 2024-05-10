@@ -589,7 +589,8 @@ var data = {
 				"https://cdn.imgchest.com/files/b49zc65qm3y.png",
 				"https://cdn.imgchest.com/files/w7pjcrm6mj7.png",
 				"https://cdn.imgchest.com/files/345xcwamlv7.png",
-				"https://cdn.imgchest.com/files/wye3cbjp5j4.png"
+				"https://cdn.imgchest.com/files/wye3cbjp5j4.png",
+				"https://cdn.imgchest.com/files/g4z9cw8w337.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -631,7 +632,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>
+			<a href='https://twitter.com/Mnejing30/status/1783277079334924634' target='_blank'>Lucina Catches You in 4K</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5259,11 +5261,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkcgn82n7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/84apc3zab94.jpg",
-			title: "Hooters Lucina (g-eb)",
+			title: "Hooters Lucina (ge-b)",
 			artist: "g-eb",
 			artist_url: "https://twitter.com/MightyKow",
 			art_url: "https://twitter.com/MightyKow/status/1782439737414000960",
-			desc: "This is a Hooters Lucina by g-eb (MightyKow on Twitter)! I've been a fan of g-eb's work for a long time, so I'm glad to have gotten the opportunity to commission her. As always, her artwork is amazingly done! Lucina looks so pretty! The way Lucina's hair is drawn is wonderful, and the food looks great too! Lucina's gentle smile is adorable! It's the best!",
+			desc: "This is a Hooters Lucina by ge-b (MightyKow on Twitter)! I've been a fan of g-eb's work for a long time, so I'm glad to have gotten the opportunity to commission her. As always, her artwork is amazingly done! Lucina looks so pretty! The way Lucina's hair is drawn is wonderful, and the food looks great too! Lucina's gentle smile is adorable! It's the best!",
 			date_str: "April 2024",
 			tags: ["hooters"],
 			hidden: false
@@ -5286,10 +5288,82 @@ var data = {
 			title: "Hooters Lucina Gives Robin a Hand (TimboCactus)",
 			artist: "TimboCactus",
 			artist_url: "https://twitter.com/TimboCactus",
-			art_url: "",
+			art_url: "https://twitter.com/TimboCactus/status/1783227989133566051",
 			desc: "This is a commission of Hooters Lucina giving Robin a handjob by TimboCactus! Lucina asks Robin to strip down in the middle of the restaurant and starts giving him a handjob during her shift. Lucina makes sure to have a nice tight grip on both Robin's dick and his thigh as she works his cock until he shoots his cum all over the table and floor! It seems like the other employees and customers don't mind the antics of the couple.",
 			date_str: "April 2024",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcr8w6o7.jpg", "https://cdn.imgchest.com/files/k739c6mnjp7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6cvom3ny.jpg",
+			title: "Hooters Lucina and Clarisse (OppaiHobby)",
+			artist: "OppaiHobby",
+			artist_url: "https://twitter.com/OppaiHobby",
+			art_url: "https://twitter.com/OppaiHobby/status/1783932189253529984",
+			desc: "This is a joint commission with Bronze Felix by OppaiHobby! Lucina and Clarisse share a work shift again, and Lucina does her best to show Clarisse the ropes. Clarisse still isn't used to her work environment and attire, so she's a bit flustered. Both of them are very pretty!",
+			date_str: "April 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgczokjn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9cwx8zj7.png",
+			title: "Nami Doing a Split (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a gift commission for my friend Piff by GrimmelsDaThird! Nami is one of Piff's favorite One Piece characters, so I wanted to get him a gift of Nami in her Egghead outfit (the current arc at the time of commissioning this). She does a split on the ground and asks you to pay up for the view!",
+			date_str: "April 2024",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apc335ob4.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/345xc99vww7.jpeg",
+			title: "Ancient Queen Lucina (Bikini_Boody)",
+			artist: "Bikini_Boody",
+			artist_url: "https://twitter.com/Bikini_Boody",
+			art_url: "https://twitter.com/Bikini_Boody/status/1785750836057907620",
+			desc: "This is a commission of Lucina as an ancient queen by Bikini_Boody! Naga accidentally sends Lucina too far back in time to the ancient times of Archanea. Lucina then somehow ends up becoming the Ancient Archanea Queen. The artwork was beautifully done by Bikini_Boody! Lucina seated on her throne looks so pretty and regal!",
+			date_str: "April 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcrdl637.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7w6cvag3ay.png",
+			title: "Hooters Lucina (Betabetamaru_77)",
+			artist: "Betabetamaru_77",
+			artist_url: "https://twitter.com/Betabetamaru_77",
+			art_url: "https://twitter.com/Betabetamaru_77/status/1787129462867571194",
+			desc: "This is a Hooters Lucina by Betabetamaru_77! Lucina looks super cute! I really like the artist's style, and they did a great job on drawing Lucina and her big awesome smile! I also appreciate the tied up shirt as well!",
+			date_str: "May 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739c62ojj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3cd9jqz4.png",
+			title: "Hooters Lucina (yuurururun)",
+			artist: "yuurururun",
+			artist_url: "https://twitter.com/yuurururun",
+			art_url: "https://twitter.com/yuurururun/status/1787487766856753350",
+			desc: "This is a Hooters Lucina by yuurururun! Lucina looks so pretty! I love the way her hair is drawn and also the way the beer is drawn. The beer looks tasty! She looks like a real pro balancing a tray of mugs of beer in each hand!",
+			date_str: "May 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5crwj9b4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgczqgbz4.png",
+			title: "Lucina and Kagero at Garreg Mach (mzrz555)",
+			artist: "mzrz555",
+			artist_url: "https://twitter.com/mzrz555",
+			art_url: null,
+			desc: "This is a joint commission with Andy420blazeit by mzrz555! In an alternate universe, Kagero and Lucina are both students at Garreg Mach, and they take a stroll through the garden. It looks like they're having a great conversation! Both of them are super pretty!",
+			date_str: "May 2024",
+			tags: [""],
 			hidden: false
 		},
 		{
