@@ -5360,10 +5360,46 @@ var data = {
 			title: "Lucina and Kagero at Garreg Mach (mzrz555)",
 			artist: "mzrz555",
 			artist_url: "https://twitter.com/mzrz555",
-			art_url: null,
+			art_url: "https://twitter.com/mzrz555/status/1789244414877212709",
 			desc: "This is a joint commission with Andy420blazeit by mzrz555! In an alternate universe, Kagero and Lucina are both students at Garreg Mach, and they take a stroll through the garden. It looks like they're having a great conversation! Both of them are super pretty!",
 			date_str: "May 2024",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcblbvqy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcg3gqw7.jpg",
+			title: "Baker Ingrid",
+			artist: "true_jek_art",
+			artist_url: "https://twitter.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for AshenJedi who loves Ingrid by true_jek_art! AshenJedi likes to commission Ingrid with a large \"cake\" often, and Ingrid likes to eat. So, I decided on an idea of Ingrid as a baker making a large cake! Ingrid looks so pretty, and the artist did a wonderful job on this!",
+			date_str: "May 2024",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pc5ppr57.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjckaaoo7.jpg",
+			title: "Hooters Lucina (JulianLynnnn)",
+			artist: "JulianLynnnn",
+			artist_url: "https://twitter.com/JulianLynnnn",
+			art_url: null,
+			desc: "This is a Hooters Lucina by JulianLynnnn! Lucina looks so cute! I really like the artist's style, and I love the way Lucina's hair was drawn and colored! Lucina's smile is the best!",
+			date_str: "May 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzcxvv3b7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogcxllnvy.png",
+			title: "Lucina and Robin are Sometimes Like This and Also Like That (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://twitter.com/decoxart",
+			art_url: "https://twitter.com/decoxart/status/1791197472809005452",
+			desc: "This is a take on the meme format with Lucina and Robin by decoxart! Robin and Lucina likes to hug gently during the day, but they fuck roughly at night. They're such a cute and loving couple! The artist did a wonderful job!",
+			date_str: "May 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
