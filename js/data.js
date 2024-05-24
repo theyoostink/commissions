@@ -4541,11 +4541,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgcwkezx4.png", "https://cdn.imgchest.com/files/l7lxcwgodp7.png", "https://cdn.imgchest.com/files/84jdcrwqjk4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcpenpvy.png",
-			title: "Falchion Blowjob (Rs40Uchiha)",
-			artist: "Rs40Uchiha",
-			artist_url: "https://twitter.com/Rs40Uchiha",
-			art_url: "https://twitter.com/Rs40Uchiha/status/1723002848688935328",
-			desc: "This is a commission of Lucina giving Robin a blowjob through the Falchion by Rs40Uchiha! I thought the hole in the Falchion near the hilt was an interesting design choice, so I wanted to commission something with that as the subject. Luckily, the Falchion should magically become dull when in Robin's hands!",
+			title: "Falchion Blowjob (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://twitter.com/decoxart",
+			art_url: "https://twitter.com/decoxart/status/1723002848688935328",
+			desc: "This is a commission of Lucina giving Robin a blowjob through the Falchion by decoxart! I thought the hole in the Falchion near the hilt was an interesting design choice, so I wanted to commission something with that as the subject. Luckily, the Falchion should magically become dull when in Robin's hands!",
 			date_str: "November 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -4901,11 +4901,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/wye3c6xd3l4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l7lxcl9d2a7.png",
-			title: "Lucina and Robin After Sex (Rs40Uchiha)",
-			artist: "Rs40Uchiha",
-			artist_url: "https://twitter.com/Rs40Uchiha",
+			title: "Lucina and Robin After Sex (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://twitter.com/decoxart",
 			art_url: "https://bsky.app/profile/nandaway.bsky.social/post/3kkscd56ryv2j",
-			desc: "This is a commission of Lucina and Robin after sex by Rs40Uchiha! It's a reference to the guy tired after sex meme. After a long night of lots of fucking and kissing, Robin tires out. Lucina captures the moment of victory with lots of cum leaking out of her.",
+			desc: "This is a commission of Lucina and Robin after sex by decoxart! It's a reference to the guy tired after sex meme. After a long night of lots of fucking and kissing, Robin tires out. Lucina captures the moment of victory with lots of cum leaking out of her.",
 			date_str: "February 2024",
 			tags: ["nsfw"],
 			hidden: false
@@ -5400,6 +5400,18 @@ var data = {
 			desc: "This is a take on the meme format with Lucina and Robin by decoxart! Robin and Lucina likes to hug gently during the day, but they fuck roughly at night. They're such a cute and loving couple! The artist did a wonderful job!",
 			date_str: "May 2024",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l4neclk6dl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwc2xn5e7.png",
+			title: "Lucina and Marianne in Dresses (LeoQuezadilla)",
+			artist: "LeoQuezadilla",
+			artist_url: "https://twitter.com/LeoQuezadilla",
+			art_url: "https://twitter.com/LeoQuezadilla/status/1792311723585872200",
+			desc: "This is a joint commission with SixtyBuzzer by LeoQuezadilla! Lucina and Marianne both don some fancy new dresses to attend a gala. They're both so pretty!",
+			date_str: "May 2024",
+			tags: [""],
 			hidden: false
 		},
 		{
