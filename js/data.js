@@ -5384,7 +5384,7 @@ var data = {
 			title: "Hooters Lucina (JulianLynnnn)",
 			artist: "JulianLynnnn",
 			artist_url: "https://twitter.com/JulianLynnnn",
-			art_url: null,
+			art_url: "https://twitter.com/JulianLynnnn/status/1795132644037968174",
 			desc: "This is a Hooters Lucina by JulianLynnnn! Lucina looks so cute! I really like the artist's style, and I love the way Lucina's hair was drawn and colored! Lucina's smile is the best!",
 			date_str: "May 2024",
 			tags: ["hooters"],
@@ -5412,6 +5412,18 @@ var data = {
 			desc: "This is a joint commission with SixtyBuzzer by LeoQuezadilla! Lucina and Marianne both don some fancy new dresses to attend a gala. They're both so pretty!",
 			date_str: "May 2024",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogcx6x39y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdc6e6qv4.png",
+			title: "Toying with Lucina (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://twitter.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina being toyed with by GrimmelsDaThird! Someone strapped and inserted a vibrator into Lucina's pussy after ripping open her leggings. Lucina walked around all day with the vibrator inside her, hoping to not be discovered. Every now and then, she will lift her skirt to show off her secret. The expression on her face is super cute!",
+			date_str: "May 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
