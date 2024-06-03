@@ -590,7 +590,8 @@ var data = {
 				"https://cdn.imgchest.com/files/w7pjcrm6mj7.png",
 				"https://cdn.imgchest.com/files/345xcwamlv7.png",
 				"https://cdn.imgchest.com/files/wye3cbjp5j4.png",
-				"https://cdn.imgchest.com/files/g4z9cw8w337.png"
+				"https://cdn.imgchest.com/files/g4z9cw8w337.png",
+				"https://cdn.imgchest.com/files/pyq9c2zqpg4.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -633,7 +634,8 @@ var data = {
 			<a href='https://twitter.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>
 			<a href='https://twitter.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>
-			<a href='https://twitter.com/Mnejing30/status/1783277079334924634' target='_blank'>Lucina Catches You in 4K</a><br/>`,
+			<a href='https://twitter.com/Mnejing30/status/1783277079334924634' target='_blank'>Lucina Catches You in 4K</a><br/>
+			<a href='https://x.com/Mnejing30/status/1796395841823129691' target='_blank'>Emmeryn Has a Parachute</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5424,6 +5426,30 @@ var data = {
 			desc: "This is a commission of Lucina being toyed with by GrimmelsDaThird! Someone strapped and inserted a vibrator into Lucina's pussy after ripping open her leggings. Lucina walked around all day with the vibrator inside her, hoping to not be discovered. Every now and then, she will lift her skirt to show off her secret. The expression on her face is super cute!",
 			date_str: "May 2024",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgca8dwo4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmc3zxl57.jpg",
+			title: "Butler Male Grima (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: "https://x.com/true_jek_art/status/1796995133876871261",
+			desc: "This is a gift commission of male Grima as a butler for Evomanaphy by true_jek_art! Evomanaphy is a big fan of male Grima, so I wanted to get a commission of him as a dapper butler pouring a cup of tea. He looks really cool! I love all the little details throughout his outfit as well as the really awesome wings on his back. I'm glad to hear that Evomanaphy really enjoyed the gift!",
+			date_str: "June 2024",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cgk2xp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cgpro67.jpg",
+			title: "Hooters Lucina (sumustard)",
+			artist: "sumustard",
+			artist_url: "https://x.com/sumustard",
+			art_url: "https://x.com/sumustard/status/1797057930493047088",
+			desc: "This is a Hooters Lucina by sumustard! I really loved the commission sumustard did for my previous joint commissions, so I hopped on to the queue when they reopened. Lucina looks super pretty and super cute! I love everything about this artwork! Her shy expression is adorable, the sloshing beer looks tasty, and all the warm colors are very cozy! This is such a wonderful piece, and the artist did an amazing job! I'm glad to hear that they enjoyed working on it!",
+			date_str: "June 2024",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
