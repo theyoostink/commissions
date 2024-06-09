@@ -5453,6 +5453,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/e4gdcoevmn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zc9xgvjy.png",
+			title: "Hooters Lucina (soba_rkgk)",
+			artist: "soba_rkgk",
+			artist_url: "https://x.com/soba_rkgk",
+			art_url: null,
+			desc: "This is a Hooters Lucina by soba_rkgk! Lucina is so pretty! I really love the artist's works and style, so I'm glad I got the opportunity to commission them. They did a wonderful job! Lucina's smile is awesome!",
+			date_str: "June 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my8xc2mlqk4.png", "https://cdn.imgchest.com/files/345xcq3k887.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necnawld4.png",
+			title: "Hooters Lucina Blowjob (vehn___)",
+			artist: "vehn___",
+			artist_url: "https://x.com/vehn___",
+			art_url: "https://x.com/vehn___/status/1798843277975945529",
+			desc: "This is a commission of Hooters Lucina giving Robin a blowjob by vehn___! Right before her shift, Lucina brings Robin over to a corner of the restaurant to give him a quick blowjob. She uses her mouth and hand to expertly draw out his cum. The artist did a wonderful job on this piece, and I really love it!",
+			date_str: "June 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
