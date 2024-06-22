@@ -5477,6 +5477,78 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/my2pcd5olz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogcwxkdqy.png",
+			title: "Hooters Lucina (labebebe_lee)",
+			artist: "labebebe_lee",
+			artist_url: "https://x.com/labebebe_lee",
+			art_url: null,
+			desc: "This is a Hooters Lucina by labebebe_lee! Lucina is super cute! I love her big adorable smile and the frothy mugs of beer! I really love the artist's work and style, so I'm glad I had the opportunity to commission them!",
+			date_str: "June 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcrxdll7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzcwxb2g7.png",
+			title: "Hooters Lucina (haerge23)",
+			artist: "haerge23",
+			artist_url: "https://x.com/haerge23",
+			art_url: null,
+			desc: "This is a Hooters Lucina by haerge23! Lucina looks so pretty! Her wink and smile are the best! The artist did such a wonderful job! I love all the bright colors, sparkle effects, and the purple hair highlights too!",
+			date_str: "June 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogcw26eey.png", "https://cdn.imgchest.com/files/j7kzcw6kz67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/wye3c8eqe64.png",
+			title: "Hooters Lucina (ceroCCB)",
+			artist: "ceroCCB",
+			artist_url: "https://x.com/ceroCCB",
+			art_url: "https://x.com/ceroCCB/status/1803202444627005939",
+			desc: "This is a Hooters Lucina by ceroCCB! Lucina looks so pretty! I love the ponytail and the tied up shirt! Her expression and a look into her busy shift are so nice! The artist did an amazing job, and I'm glad I had the opportunity to commission them.",
+			date_str: "June 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcaqjqn4.png", "https://cdn.imgchest.com/files/l7lxcrv5ve7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/g4z9ckgzgx7.png",
+			title: "Gossip (ebinkuu)",
+			artist: "ebinkuu",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://www.pixiv.net/artworks/119418478",
+			desc: "This is a Robcina comic commission by ebinkuu! Two ladies of Ylissean nobility notice Lucina and Robin dancing at the royal ball and share with each other the rumors they have heard. They believe Princess Lucina and Sir Robin are an innocent couple from a fairy tale, but they couldn't be further from the truth. The couple has been having raunchy and rough sex every night, allowing their lust to overtake them and fuck until morning.",
+			date_str: "June 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcrb5ze7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cg2ao54.png",
+			title: "Hooters Lucina (skeptycally)",
+			artist: "skeptycally",
+			artist_url: "https://x.com/skeptycally",
+			art_url: "https://x.com/skeptycally/status/1804334230362788305",
+			desc: "This is a Hooters Lucina by skeptycally! Lucina looks so cute, and I love her pouty expression! I've been a fan of this artist for a long time, so I'm glad I got the opportunity to commission them. They did a wonderful job! It's great to see Lucina in their style again!",
+			date_str: "June 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84jdc3pemg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcadjvn4.png",
+			title: "Hooters Lucina (ClovisXVII)",
+			artist: "ClovisXVII",
+			artist_url: "https://x.com/ClovisXVII",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ClovisXVII! Lucina looks super pretty! I love the changes the artist made to the normal outfit, especially that little belt around her thigh! It's a really cool interpretation of the concept, and they did a wonderful job! I also really like how the background resembles a wrinkled up piece of paper!",
+			date_str: "June 2024",
+			tags: ["hooters"],
+			hidden: true
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
