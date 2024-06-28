@@ -4618,7 +4618,7 @@ var data = {
 			title: "Hooters Lucina (RodLanghi)",
 			artist: "RodLanghi",
 			artist_url: "https://x.com/RodLanghi",
-			art_url: null,
+			art_url: "https://x.com/rodlanghi/status/1805653892060852503",
 			desc: "This is a Hooters Lucina by RodLanghi! Lucina looks so pretty! I really like the artist's many artwork of Lucina, so I'm glad to have had the opportunity to commission them! Lucina confident pose and expression are really nice! The food look great, and Lucina's smile is so awesome as always!",
 			date_str: "November 2023",
 			tags: ["hooters"],
@@ -5547,6 +5547,18 @@ var data = {
 			date_str: "June 2024",
 			tags: ["hooters"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdckr88gy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/6yxkcwnddw7.jpg",
+			title: "Lucina Emotes (EightyEightIDN)",
+			artist: "EightyEightIDN",
+			artist_url: "https://x.com/EightyEightIDN",
+			art_url: null,
+			desc: "These are batches of emotes by EightyEightIDN! They were commissioned for use in the Lucina Fan Club Discord server! They are adorable!",
+			date_str: "June 2024",
+			tags: [""],
+			hidden: false
 		},
 		{
 			src: [""],
