@@ -5549,7 +5549,7 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/pyvdckr88gy.jpg"],
+			src: ["https://cdn.imgchest.com/files/pyvdckr88gy.jpg", "https://cdn.imgchest.com/files/j7mmc6b5pk7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcwnddw7.jpg",
 			title: "Lucina Emotes (EightyEightIDN)",
 			artist: "EightyEightIDN",
@@ -5618,6 +5618,42 @@ var data = {
 			desc: "This is a joint commission with Andy420blazeit by mzrz555! Lucina and Kagero are gyarus in an alternate universe, and they pose for a selfie. It looks like their school life is going well and like they are having fun! Both of them are very pretty!",
 			date_str: "July 2024",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogc65wk6y.png", "https://cdn.imgchest.com/files/j7kzck5wbj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjc25dwd7.png",
+			title: "Hooters Lucina Lapdance (liversaki)",
+			artist: "liversaki",
+			artist_url: "https://x.com/liversaki",
+			art_url: "https://x.com/liversaki/status/1808870472509239793",
+			desc: "This is a commission of Hooters Lucina giving Robin a lapdance by liversaki! It looks like Robin got a deep tan over the summer, and Lucina gives him a nice lapdance! She grinds her ass over his crotch as he gets more and more erect. Robin is one lucky man!",
+			date_str: "July 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxc5v6857.png", "https://cdn.imgchest.com/files/84jdceab5l4.png", "https://cdn.imgchest.com/files/pyq9clj69x4.png", "https://cdn.imgchest.com/files/3yrgcjq6224.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzck6nqx7.png",
+			title: "Hooters Lucina (kairunoburogu)",
+			artist: "kairunoburogu",
+			artist_url: "https://x.com/kairunoburogu",
+			art_url: "https://x.com/kairunoburogu/status/1810312894351106176",
+			desc: "This is a Hooters Lucina by kairunoburogu! Lucina looks really cute! I love the artist's style, and they did such a wonderful job! The way Lucina's hair, the beer, and her clothes were drawn and rendered is awesome! I really like how it turned out!",
+			date_str: "July 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cawb6w4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcem6vd7.jpg",
+			title: "Summer Tharja (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: "https://x.com/true_jek_art/status/1811128259062681652",
+			desc: "This is a summer Tharja commission by true_jek_art! It is a gift for Hayato_Stuff for drawing Hooters fanart and doing a redraw of my commission. Tharja looks very pretty, and the ice cream cones look delicious!",
+			date_str: "July 2024",
+			tags: ["other"],
 			hidden: false
 		},
 		{
