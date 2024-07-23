@@ -591,7 +591,8 @@ var data = {
 				"https://cdn.imgchest.com/files/345xcwamlv7.png",
 				"https://cdn.imgchest.com/files/wye3cbjp5j4.png",
 				"https://cdn.imgchest.com/files/g4z9cw8w337.png",
-				"https://cdn.imgchest.com/files/pyq9c2zqpg4.png"
+				"https://cdn.imgchest.com/files/pyq9c2zqpg4.png",
+				"https://cdn.imgchest.com/files/j7mmcdaemk7.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -635,7 +636,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>
 			<a href='https://x.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>
 			<a href='https://x.com/Mnejing30/status/1783277079334924634' target='_blank'>Lucina Catches You in 4K</a><br/>
-			<a href='https://x.com/Mnejing30/status/1796395841823129691' target='_blank'>Emmeryn Has a Parachute</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1796395841823129691' target='_blank'>Emmeryn Has a Parachute</a><br/>
+			<a href='https://x.com/Mnejing30/status/1814096563930886255' target='_blank'>Breast Augmentation Surgery</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5654,6 +5656,30 @@ var data = {
 			desc: "This is a summer Tharja commission by true_jek_art! It is a gift for Hayato_Stuff for drawing Hooters fanart and doing a redraw of my commission. Tharja looks very pretty, and the ice cream cones look delicious!",
 			date_str: "July 2024",
 			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cad5mj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9clokv84.png",
+			title: "Saori and Mika Using a Haniwa (murabitoufu)",
+			artist: "murabitoufu",
+			artist_url: "https://x.com/murabitoufu",
+			art_url: null,
+			desc: "This is a commission of Saori and Mika by murabitoufu! A few years after the events of Blue Archive's Volume 3, Saori and Mika meet by chance somewhere in Kivotos. They no longer harbor ill will against each other and decide to reconcile through an act of lust. With nothing but a crystal haniwa in hand, the two have sex until forgiveness is achieved with an orgasmic seal.",
+			date_str: "July 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739c2zd8r7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcpxeg24.png",
+			title: "Hooters Lucina (erikiri_)",
+			artist: "erikiri_",
+			artist_url: "https://x.com/erikiri_",
+			art_url: null,
+			desc: "This is a Hooters Lucina by erikiri_! Lucina looks so cute! Her headband, outfit, and smile are all adorable! I love this artist's past Lucina artwork, so I'm really glad I got the opportunity to commission them!",
+			date_str: "July 2024",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
