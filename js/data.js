@@ -1183,7 +1183,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/3yrgcwkd254.png"],
+			src: ["https://cdn.imgchest.com/files/3yrgcpp3pa4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cxzdnj4.jpg",
 			title: "Lucina and Robin Getting Intimate (Ebinkuu)",
 			artist: "Ebinkuu",
@@ -2059,7 +2059,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/6yxkcmj39l7.png", "https://cdn.imgchest.com/files/b49zcpgl8ly.png", "https://cdn.imgchest.com/files/l4necjwr664.png", "https://cdn.imgchest.com/files/p7bwcvgn667.png"],
+			src: ["https://cdn.imgchest.com/files/6yxkcmj39l7.png", "https://cdn.imgchest.com/files/b49zcpgl8ly.png"],
 			thumbnail: "https://cdn.imgchest.com/files/b49zcpg8lky.png",
 			title: "Lucina and Robin Getting Passionate (Ebinkuu)",
 			artist: "Ebinkuu",
@@ -3667,7 +3667,7 @@ var data = {
 			hidden: true
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/w7w6cgmxgwy.png", "https://cdn.imgchest.com/files/wye3cjp5j54.png", "https://cdn.imgchest.com/files/g4z9cn8lmq7.png", "https://cdn.imgchest.com/files/e4gdclva8x4.png"],
+			src: ["https://cdn.imgchest.com/files/g4z9cn8lmq7.png", "https://cdn.imgchest.com/files/e4gdclva8x4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apckq9ld4.png",
 			title: "Robin and Lucina Try \"Plegian Sex\" (Ebinkuu)",
 			artist: "Ebinkuu",
@@ -3960,7 +3960,7 @@ var data = {
 			title: "Hooters Lucina (empe0317)",
 			artist: "empe0317",
 			artist_url: "https://x.com/empe0317",
-			art_url: "https://x.com/empe0317/status/1752527128841924689",
+			art_url: "https://x.com/empe0317/status/1819494444779163877",
 			desc: "This is a Hooters Lucina by empe0317! The artist is a great art style, and I love their Lucina artwork. I'm glad that I had the opportunity to commission them! Lucina looks really pretty, and all the colors are so nice and vibrant!",
 			date_str: "June 2023",
 			tags: ["hooters"],
@@ -5028,7 +5028,7 @@ var data = {
 			title: "Evil Emblem Lucina Wants Sex (zero_0a)",
 			artist: "zero_0a",
 			artist_url: "https://x.com/zero_0a",
-			art_url: null,
+			art_url: "https://x.com/zero_0a/status/1815588275362594830",
 			desc: "This is a commission of evil Emblem Lucina having sex by zero_0a! Evil Emblem Lucina hungers for sex, so she finds a willing partner. Then, she dominates him in the amazon position and fucks him until he cums inside her. What a lucky man!",
 			date_str: "March 2024",
 			tags: ["nsfw"],
@@ -5676,10 +5676,58 @@ var data = {
 			title: "Hooters Lucina (erikiri_)",
 			artist: "erikiri_",
 			artist_url: "https://x.com/erikiri_",
-			art_url: null,
+			art_url: "https://x.com/erikiri_/status/1818775630386995289",
 			desc: "This is a Hooters Lucina by erikiri_! Lucina looks so cute! Her headband, outfit, and smile are all adorable! I love this artist's past Lucina artwork, so I'm really glad I got the opportunity to commission them!",
 			date_str: "July 2024",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzcjog237.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogcmqjddy.jpg",
+			title: "Summer Kronya (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: "https://x.com/true_jek_art/status/1816914269579161802",
+			desc: "This is a summer Kronya by true_jek_art! It's a gift for MythicJunkRare who loves Kronya! Kronya looks so pretty in her swimsuit! I love how her color scheme matches those of the summer sunset too!",
+			date_str: "July 2024",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7w6carebby.png", "https://cdn.imgchest.com/files/wye3c9bxrx4.png", "https://cdn.imgchest.com/files/k739c23pex7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogcmvlb6y.png",
+			title: "Hooters Lucina (inariyasanchi)",
+			artist: "inariyasanchi",
+			artist_url: "https://x.com/inariyasanchi",
+			art_url: null,
+			desc: "This is a Hooters Lucina by inariyasanchi! Lucina looks super pretty! I love her gentle smile and her playful pose! I especially love the way the hair was drawn, colored, and rendered! The artist did a wonderful job on this piece!",
+			date_str: "July 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/w7pjc3d69z7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necpn52z4.png",
+			title: "Lifeguard Lucina Cooling Down (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina as a lifeguard cooling down by GrimmelsDaThird! It's a follow up illustration to <span class='series-link' index='23'>this one</span> from a few years ago. In that one, Lucina used water to cool down. Now, Lucina is stripping to cool down even more. I love the tan lines, and Lucina looks so cute and sexy!",
+			date_str: "August 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pcgd6n97.png", "https://cdn.imgchest.com/files/l7lxcqr6zj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwczeb8k7.png",
+			title: "Robin Lends Marth His Dick (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/decoxart/status/1819886304970297848",
+			desc: "This is a commission of Robin and Masked Marth by decoxart! Robin discovers Marth's secret of actually being a woman in disguise while catching her stripping down at a hot spring. Robin teases Marth by saying that her disguise isn't complete without a man's penis, so he decides to lend him his dick. With Robin's hard dick in between her thighs, Marth is able to imitate jerking off until cumming in her hands. After this event, Marth and Robin part ways until they reunite much later in the story.",
+			date_str: "August 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
