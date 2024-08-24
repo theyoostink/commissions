@@ -5707,6 +5707,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/l7lxcq69pv7.png", "https://cdn.imgchest.com/files/84jdclbgv54.png", "https://cdn.imgchest.com/files/pyq9cw6z3r4.png", "https://cdn.imgchest.com/files/myd5c8bke24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/p7bwczb9k27.png",
+			title: "Robcina in Bed (SMGold)",
+			artist: "SMGold_",
+			artist_url: "https://x.com/SMGold_",
+			art_url: "https://x.com/SMPlatinum_/status/1820505049463968081",
+			desc: "This is a commission of Lucina and Robin in bed by SMGold! Lucina and Robin climb into bed after a long day, but it looks like they have just enough energy to make love! Robin gets on top of Lucina and fucks her until he fills her up. The Robcina couple are such a loving duo! I'm glad to hear that the artist had a lot of fun working on this piece too!",
+			date_str: "July 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/w7pjc3d69z7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/l4necpn52z4.png",
 			title: "Lifeguard Lucina Cooling Down (GrimmelsDaThird)",
@@ -5714,7 +5726,7 @@ var data = {
 			artist_url: "https://x.com/GrimmelsDaThird",
 			art_url: null,
 			desc: "This is a commission of Lucina as a lifeguard cooling down by GrimmelsDaThird! It's a follow up illustration to <span class='series-link' index='23'>this one</span> from a few years ago. In that one, Lucina used water to cool down. Now, Lucina is stripping to cool down even more. I love the tan lines, and Lucina looks so cute and sexy!",
-			date_str: "August 2024",
+			date_str: "July 2024",
 			tags: ["nsfw"],
 			hidden: false
 		},
@@ -5728,6 +5740,30 @@ var data = {
 			desc: "This is a commission of Robin and Masked Marth by decoxart! Robin discovers Marth's secret of actually being a woman in disguise while catching her stripping down at a hot spring. Robin teases Marth by saying that her disguise isn't complete without a man's penis, so he decides to lend him his dick. With Robin's hard dick in between her thighs, Marth is able to imitate jerking off until cumming in her hands. After this event, Marth and Robin part ways until they reunite much later in the story.",
 			date_str: "August 2024",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739c2vddd7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcdpeex7.png",
+			title: "Hooters After Hours with Robcina (emilyblend34)",
+			artist: "emilyblend34",
+			artist_url: "https://x.com/emilyblend34",
+			art_url: "",
+			desc: "This is an animation commission by emilyblend34! Lucina and Robin stick around at Hooter after hours and get a little frisky. After some cuddling and kissing, Robin bends Lucina over on a table and fucks her. He doesn't last long because of the excitement of having sex semi-publicly, but it looks like both of them had a good time. They decide to continue back home. You can watch the higher quality video of it <a href='https://cdn.imgchest.com/files/g4z9c62qqe7.mp4'>here</a>.",
+			date_str: "August 2024",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/345xcldwpx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84apcjgoqm4.png",
+			title: "Family Beach Trip (Leitz_ACaroline)",
+			artist: "Leitz_ACaroline",
+			artist_url: "https://x.com/Leitz_ACaroline",
+			art_url: "https://x.com/Leitz_ACaroline/status/1825566014391923070",
+			desc: "This is a joint comic commission with Exalted by Leitz_ACaroline! The Robcina family head to the beach and decide to build a sand castle together. Morgan's grandiose yet naive plan is foiled by a wave that crashes into the sand castle. Robin devises a new plan to build a moat and a wall to prevent the water from reaching the tower. Robin and Lucina work to protect the tower as Morgan builds it up - all seven impressive stories of her envisioned castle!",
+			date_str: "August 2024",
+			tags: [""],
 			hidden: false
 		},
 		{
