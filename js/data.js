@@ -5767,6 +5767,42 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/p7bwclp3ap7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcl2p6d7.png",
+			title: "Brave Marianne (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: "https://x.com/GrimmelsDaLewd/status/1827880898710368398",
+			desc: "This is a commission of Brave Marianne by GrimmelsDaThird! It is a gift for arktoons who drew a bunch of Hooters fanart and loves Marianne! After Marianne dances sexily for her beloved, she gets bent over a table and fucked hard. Her beloved ends up filling up both of her holes and glazes her ass and legs too.",
+			date_str: "August 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcr3emvy.png", "https://cdn.imgchest.com/files/l4necxqbgn4.png", "https://cdn.imgchest.com/files/w7pjcv2bz37.png", "https://cdn.imgchest.com/files/d7ogce6rgey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acjp8ne7.png",
+			title: "Hooters Lucina (FishineArt)",
+			artist: "FishineArt",
+			artist_url: "https://x.com/FishineArt",
+			art_url: "",
+			desc: "This is Hooters Lucina by FishineArt! Lucina looks super pretty! I love the artist's art and doujins, so I'm really glad I got the opportunity to commission them! I love Lucina's smile and confident pose! The artist did such an amazing job, and I really appreciated that they did a version with wings and another with beer!",
+			date_str: "August 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwclrarw7.jpg", "https://cdn.imgchest.com/files/w7pjcvezeo7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zcr5m56y.jpg",
+			title: "Last Night with Summer Saori (Rynn_96)",
+			artist: "Rynn_96",
+			artist_url: "https://x.com/Rynn_96",
+			art_url: "https://x.com/Rynn_96/status/1829430464010231945",
+			desc: "This is a commission of Summer Saori by Rynn_96! After having hot sex with Sensei last night, Saori approaches Sensei to request an encore. She's looking forward to a repeat performance after her music show later that night. How will Sensei respond?",
+			date_str: "August 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
