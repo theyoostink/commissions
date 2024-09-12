@@ -592,7 +592,8 @@ var data = {
 				"https://cdn.imgchest.com/files/wye3cbjp5j4.png",
 				"https://cdn.imgchest.com/files/g4z9cw8w337.png",
 				"https://cdn.imgchest.com/files/pyq9c2zqpg4.png",
-				"https://cdn.imgchest.com/files/j7mmcdaemk7.png"
+				"https://cdn.imgchest.com/files/j7mmcdaemk7.png",
+				"https://cdn.imgchest.com/files/345xcbzz537.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -637,7 +638,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>
 			<a href='https://x.com/Mnejing30/status/1783277079334924634' target='_blank'>Lucina Catches You in 4K</a><br/>
 			<a href='https://x.com/Mnejing30/status/1796395841823129691' target='_blank'>Emmeryn Has a Parachute</a><br/>
-			<a href='https://x.com/Mnejing30/status/1814096563930886255' target='_blank'>Breast Augmentation Surgery</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1814096563930886255' target='_blank'>Breast Augmentation Surgery</a><br/>
+			<a href='https://x.com/Mnejing30/status/1831095324078981243' target='_blank'>Summer Olivia Jamming</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -4165,7 +4167,7 @@ var data = {
 			artist: "shuvalun8",
 			artist_url: "https://x.com/shuvalun8",
 			art_url: "https://x.com/shuvalun8/status/1685943352074850304",
-			desc: "This is a commission of Lucina wearing the clothes of Saori from Blue Archive with the art by shuvalun8! I don't know much about Blue Archive, but I thought Saori's design was cool and would fit Lucina when I first saw her. So, I decided to request artwork of Lucina wearing Saori's clothes with a special Exalt halo as a personal touch. It turned out really well, and Lucina is very pretty!",
+			desc: "This is a commission of Lucina wearing the clothes of Saori from Blue Archive with the art by shuvalun8! I commissioned this back before I even started playing Blue Archive, but I thought Saori's design was cool and would fit Lucina when I first saw her. So, I decided to request artwork of Lucina wearing Saori's clothes with a special Exalt halo as a personal touch. It turned out really well, and Lucina is very pretty!",
 			date_str: "July 2023",
 			tags: [""],
 			hidden: false
@@ -5801,6 +5803,66 @@ var data = {
 			date_str: "August 2024",
 			tags: ["nsfw", "other"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdcj2bozy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necx6wvk4.png",
+			title: "Hooters Lucina (shanabi0610)",
+			artist: "shanabi0610",
+			artist_url: "https://x.com/shanabi0610",
+			art_url: null,
+			desc: "This is a Hooters Lucina by shanabi0610! Lucina looks so cute and pretty! The wings and beer look delicious, and I love the background work as well! Lucina's gentle welcoming smile is also adorable! The artists did such a wonderful job!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6yxkc59jom7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zcr8go6y.png",
+			title: "Robcina Family Hike (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1830264504166580414",
+			desc: "This is a commission of the Robcina family on an autumn hike by RedKite333! Robin, Lucina, and Morgan don their autumn clothes and go out for a walk on a popular Ylissean hiking trail. The bundle of energy that is Morgan is having a blast as she asks her parents to pick her up and swing her forward over and over. Even though they went out for a walk, it was Robin's and Lucina's arms that were sore in the end...",
+			date_str: "September 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7kzc68ga87.png", "https://cdn.imgchest.com/files/myd5cw3o3m4.gif", "https://cdn.imgchest.com/files/myd5cw3oej4.png", "https://cdn.imgchest.com/files/j7mmcbgmg67.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc2pjbly.png",
+			title: "Hooters Lucina (carefreejules15)",
+			artist: "carefreejules15",
+			artist_url: "https://x.com/carefreejules15",
+			art_url: null,
+			desc: "This is a Hooters Lucina Nendoroid 3D render by carefreejules15! Lucina looks so cute! Hooters Lucina looks so great in 3D too! Lucina's smile is adorable as always, and you can view it from any angle now! The artists did such a wonderful job on this, and I'm super glad I got the opportunity to commission them!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cw9rvo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/j7mmcbqrkj7.png",
+			title: "Hooters Lucina (ImMisterPlow)",
+			artist: "ImMisterPlow",
+			artist_url: "https://x.com/ImMisterPlow",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ImMisterPlow! Lucina is so pretty! I love her confident pose and amazing smile! The way her hair flows is really nice too! The artist did such a nice job on this piece, and I'm glad I got the opportunity to commission them.",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9cjn5rm4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/j7kzc63er97.jpg",
+			title: "Yukata Rhea (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of Rhea in a yukata by true_jek_art! This was a gift for Cosmic who loves Rhea! The Archbishop Rhea joins the late-summer festivities and dons an elegant yukata! She enjoys a candied apple as she walks from stall to stall greeting the people of Fodlan throughout the night!",
+			date_str: "September 2024",
+			tags: ["other"],
+			hidden: true
 		},
 		{
 			src: [""],
