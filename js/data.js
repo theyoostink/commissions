@@ -5865,6 +5865,42 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/wye3ce5rzp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/k739cqdeap7.jpg",
+			title: "Poofy Jacket Hooters Lucina (Meziosaur)",
+			artist: "Meziosaur",
+			artist_url: "https://x.com/meziosaur",
+			art_url: "https://x.com/meziosaur/status/1836571120956227619",
+			desc: "This is a Poofy Jacket Hooters Lucina by Meziosaur! I commissioned Meziosaur again to include Lucina as part of his poofy jacket series. We decided on a Hooters theme for the outfit and color scheme too! Lucina is so pretty! I love her confident pose and her big smile! The logo is also a callback to the original Hooters Lucina artwork commission by Mezio!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxc8amxq7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5c65vm64.jpg",
+			title: "Hooters Lucina (Achromaru)",
+			artist: "Achromaru",
+			artist_url: "https://x.com/Achromaru",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Achromaru! Lucina looks so pretty! I love all the vibrant colors and the way the artist rendered the whole piece! Lucina's hair looks great, and her big smile is the best as always! I'm glad I got the opportunity to commission this artist!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pcvqw5e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9c9krvj4.png",
+			title: "Hooters Lucina (yancadoodles)",
+			artist: "yancadoodles",
+			artist_url: "https://x.com/yancadoodles",
+			art_url: "https://x.com/yancadoodles/status/1837213679944650957",
+			desc: "This is a Hooters Lucina by yancadoodles! Lucina looks so pretty! I love her ponytail and her wink! The way she struts forward with a big smile is the best! The tied up shirt is also a nice detail! The artist did a wonderful job on this artwork!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
