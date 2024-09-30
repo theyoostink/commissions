@@ -4129,7 +4129,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/p7bwcv36go7.png",
 			title: "Hooters Lucina (deilan12art)",
 			artist: "deilan12art",
-			artist_url: "https://x.com/deilan12art",
+			artist_url: "https://x.com/RoncoStar_Art",
 			art_url: "https://x.com/deilan12art/status/1682143569845403649",
 			desc: "This is a Hooters Lucina by deilan12art! Lucina looks super pretty! I love all the colors and the gradient in hair! Her confident pose and big smile are awesome, and Lucina looks great in the artist's style!",
 			date_str: "July 2023",
@@ -5081,7 +5081,7 @@ var data = {
 			art_url: "https://x.com/r51633060/status/1764742600106619277",
 			desc: "This is a commission of Hooters Shade by r51633060! This is part of the Lucina Fan Club's annual April Fool's Day joke for 2024 where the server switched to a Shade Fan Club for the day. Shade looks great in the black Hooters uniform! She looks very pretty!",
 			date_str: "March 2024",
-			tags: ["hooters", "other"],
+			tags: ["hooters", "other", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5823,7 +5823,7 @@ var data = {
 			artist: "RedKite333",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1830264504166580414",
-			desc: "This is a commission of the Robcina family on an autumn hike by RedKite333! Robin, Lucina, and Morgan don their autumn clothes and go out for a walk on a popular Ylissean hiking trail. The bundle of energy that is Morgan is having a blast as she asks her parents to pick her up and swing her forward over and over. Even though they went out for a walk, it was Robin's and Lucina's arms that were sore in the end...",
+			desc: "This is a commission of the Robcina family on an autumn hike by RedKite333! Robin, Lucina, and Morgan don their autumn clothes and go out for a walk on a popular Ylissean hiking trail. The bundle of energy that is Morgan is having a blast as she asks her parents to pick her up and swing her forward over and over. Even though they went out hiking, it was Robin's and Lucina's arms that were sore in the end...",
 			date_str: "September 2024",
 			tags: [""],
 			hidden: false
@@ -5882,7 +5882,7 @@ var data = {
 			title: "Hooters Lucina (Achromaru)",
 			artist: "Achromaru",
 			artist_url: "https://x.com/Achromaru",
-			art_url: null,
+			art_url: "https://x.com/AchroNaru91/status/1838609340909130204",
 			desc: "This is a Hooters Lucina by Achromaru! Lucina looks so pretty! I love all the vibrant colors and the way the artist rendered the whole piece! Lucina's hair looks great, and her big smile is the best as always! I'm glad I got the opportunity to commission this artist!",
 			date_str: "September 2024",
 			tags: ["hooters"],
@@ -5898,6 +5898,42 @@ var data = {
 			desc: "This is a Hooters Lucina by yancadoodles! Lucina looks so pretty! I love her ponytail and her wink! The way she struts forward with a big smile is the best! The tied up shirt is also a nice detail! The artist did a wonderful job on this artwork!",
 			date_str: "September 2024",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyq9c93dgm4.jpg", "https://cdn.imgchest.com/files/myd5c6eqjl4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgc2nrg64.jpg",
+			title: "Lucina Lounge Emotes (ZedoraArt)",
+			artist: "ZedoraArt",
+			artist_url: "https://x.com/ZedoraArt",
+			art_url: "https://x.com/ZedoraArt/status/1837532130785603645",
+			desc: "This is a emote commission of Lucina lounging by ZedoraArt! Lucina looks adorable! I love her cute and smug expression and all the detail in her clothes! I've wanted to commission the artist for a long time, and I'm super glad I got the opportunity! They did such a wonderful job!",
+			date_str: "September 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d7ogconl9gy.png", "https://cdn.imgchest.com/files/j7kzcq3vrv7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjcgoaeq7.png",
+			title: "Hooters Lucina (Fullllllllllll7)",
+			artist: "Fullllllllllll7",
+			artist_url: "https://x.com/Fullllllllllll7",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Fullllllllllll7! Lucina looks so cute! I love the way her hair is drawn and the way it opens up and flows. Her gentle smile is adorable as always, and the food looks great! I love the warm tones of the background and lighting too! The animated version is also a nice inclusion by the artist!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcp8bkn7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgc2oqlz4.png",
+			title: "Lucina Naizuri (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a Lucina naizuri commission by GrimmelsDaThird! Lucina tries her best to use her small breasts to please her man. He doesn't seem to mind her smaller size since he had no trouble ejaculating all over Lucina's face and chest!",
+			date_str: "September 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
