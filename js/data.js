@@ -593,7 +593,8 @@ var data = {
 				"https://cdn.imgchest.com/files/g4z9cw8w337.png",
 				"https://cdn.imgchest.com/files/pyq9c2zqpg4.png",
 				"https://cdn.imgchest.com/files/j7mmcdaemk7.png",
-				"https://cdn.imgchest.com/files/345xcbzz537.png"
+				"https://cdn.imgchest.com/files/345xcbzz537.png",
+				"https://cdn.imgchest.com/files/l7lxc868gz7.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -639,7 +640,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1783277079334924634' target='_blank'>Lucina Catches You in 4K</a><br/>
 			<a href='https://x.com/Mnejing30/status/1796395841823129691' target='_blank'>Emmeryn Has a Parachute</a><br/>
 			<a href='https://x.com/Mnejing30/status/1814096563930886255' target='_blank'>Breast Augmentation Surgery</a><br/>
-			<a href='https://x.com/Mnejing30/status/1831095324078981243' target='_blank'>Summer Olivia Jamming</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1831095324078981243' target='_blank'>Summer Olivia Jamming</a><br/>
+			<a href='https://x.com/Mnejing30/status/1840890518706012490' target='_blank'>Lucina Got Yamcha'd</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5750,11 +5752,11 @@ var data = {
 			title: "Hooters After Hours with Robcina (emilyblend34)",
 			artist: "emilyblend34",
 			artist_url: "https://x.com/emilyblend34",
-			art_url: "",
+			art_url: "https://x.com/emilyblend34/status/1841092341278658805",
 			desc: "This is an animation commission by emilyblend34! Lucina and Robin stick around at Hooter after hours and get a little frisky. After some cuddling and kissing, Robin bends Lucina over on a table and fucks her. He doesn't last long because of the excitement of having sex semi-publicly, but it looks like both of them had a good time. They decide to continue back home. You can watch the higher quality video of it <a href='https://cdn.imgchest.com/files/g4z9c62qqe7.mp4'>here</a>.",
 			date_str: "August 2024",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/345xcldwpx7.png"],
@@ -5934,6 +5936,42 @@ var data = {
 			desc: "This is a Lucina naizuri commission by GrimmelsDaThird! Lucina tries her best to use her small breasts to please her man. He doesn't seem to mind her smaller size since he had no trouble ejaculating all over Lucina's face and chest!",
 			date_str: "September 2024",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5c6b6z94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcv6v927.jpg",
+			title: "Hooters Lucina (queqiansuzume)",
+			artist: "queqiansuzume",
+			artist_url: "https://x.com/queqiansuzume",
+			art_url: "",
+			desc: "This is a Hooters Lucina by queqiansuzume! Lucina looks so pretty! I really love the outfit redesign the artist came up with! The belt, gloves, and asymmetrical leggings are really nice details and references to her original outfit! As always, Lucina's gentle smile is the best! The artist did such a wonderful job on this piece!",
+			date_str: "September 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcap2md4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my8xco5drx4.jpg",
+			title: "Camping Nah (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission of Nah camping under the stars by true_jek_art! As the weather starts to cool, Nah goes on a camping trip and sips from a cup with her name engraved on it using the Fire Emblem alphabet. The illustration has such as nice and cozy vibe!",
+			date_str: "October 2024",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b49zcd385wy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/345xcx2jom7.jpg",
+			title: "Hooters Lucina and Ingrid on Break (ihsnet)",
+			artist: "ihsnet",
+			artist_url: "https://x.com/ihsnet",
+			art_url: "https://x.com/LambdaIhs/status/1842083234944893136",
+			desc: "This is a joint commission with TheAshenJedi by ihsnet! Lucina and Ingrid take a break during their shift and get a little naughty in the break room. Ingrid equips a strap-on and fucks Lucina hard making her moan loudly. They do their best to clean up and leave the place without a trace, but everyone already heard the sounds of plapping and their moans.",
+			date_str: "October 2024",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
