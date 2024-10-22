@@ -4289,7 +4289,7 @@ var data = {
 			artist: "YusiVishnu",
 			artist_url: "https://x.com/YusiVishnu",
 			art_url: "https://x.com/YusiVishnu/status/1696131152606826809",
-			desc: "This is a joint commission I did with goo, and the art is done by YusiVishnu! It's a take on the meme of five men surrounding Piper Perri, but instead it is five Lucinas surrounding Robin. Robin has a few vials of vitality potions to make sure he has the stamina to fuck insatiable Lucinas. There are multiple variants as well, and they're all wonderful! Robin is a lucky man!",
+			desc: "This is a joint commission I did with goo, and the art is done by YusiVishnu! It's a take on the meme of five men surrounding Piper Perri, but instead it is five Lucinas surrounding Robin. Robin has a few vials of vitality potions to make sure he has the stamina to fuck insatiable Lucinas. There are multiple variants as well, and they're all wonderful! Robin is a lucky man! There is also a follow up reverse harem version <span class='series-link' index='495'>here</span>.",
 			date_str: "August 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -5755,7 +5755,7 @@ var data = {
 			art_url: "https://x.com/emilyblend34/status/1841092341278658805",
 			desc: "This is an animation commission by emilyblend34! Lucina and Robin stick around at Hooter after hours and get a little frisky. After some cuddling and kissing, Robin bends Lucina over on a table and fucks her. He doesn't last long because of the excitement of having sex semi-publicly, but it looks like both of them had a good time. They decide to continue back home. You can watch the higher quality video of it <a href='https://cdn.imgchest.com/files/g4z9c62qqe7.mp4'>here</a>.",
 			date_str: "August 2024",
-			tags: ["nsfw"],
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
@@ -5975,16 +5975,76 @@ var data = {
 			hidden: false
 		},
 		{
-			src: [""],
-			thumbnail: "",
-			title: "",
-			artist: "",
-			artist_url: "",
-			art_url: "",
-			desc: "",
-			date_str: "",
-			tags: [""],
+			src: ["https://cdn.imgchest.com/files/l7lxcmpolq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7ogc9b3dxy.png",
+			title: "Hooters Lucina (ru_riirst)",
+			artist: "ru_riirst",
+			artist_url: "https://x.com/ru_riirst",
+			art_url: "https://x.com/ru_riirst/status/1844603859215450153",
+			desc: "This is a Hooters Lucina by ru_riirst! Lucina looks so cute! I love the way the artist drew her hair and her shy expression! It looks like she might have snuck a bite of the wings and was caught! Lucina's adorable little smile is the best as always!",
+			date_str: "October 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pcw25zz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/w7pjcezk5b7.png",
+			title: "Hooters Lucina (gofelem)",
+			artist: "gofelem",
+			artist_url: "https://x.com/gofelem",
+			art_url: "This is a Hooters Lucina by gofelem! Lucina looks so cute and pretty! The background work is also amazing! The steaming plate of wings and big mugs of beer look appetizing, and Lucina's big smile is the best as always! I'm so glad I got the opportunity to commission this artist since I've adored their previous Lucina artwork! They did such a wonderful job!",
+			desc: "This is a Hooters Lucina by gofelem!",
+			date_str: "October 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/wye3ck8mjq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/84jdcd35rz4.png",
+			title: "Finally off the Clock (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina and Robin having sex in a car by decoxart! This is a gift for CrowWiseguy who wrote <a href='https://archiveofourown.org/works/46631020'>this Hooters Lucina fan fiction</a>. After Lucina's shift at Hooters ends, she offers Robin a ride home. After a short drive, things get hot and steamy in the car. Robin fucks Lucina while she's still in her uniform, and she rides him until he cums inside her. Please read the wonderfully written fan fiction by CrowWiseguy, and also please enjoy the amazing artwork by decoxart!",
+			date_str: "October 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmck3plr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9cr29p54.png",
+			title: "Hooters Lucina (yumilattea)",
+			artist: "yumilattea",
+			artist_url: "https://x.com/yumilattea",
+			art_url: "https://x.com/yumilattea/status/1846546959345262600",
+			desc: "This is a Hooters Lucina by yumilattea! Lucina looks so pretty! I love her confident smile and pose! I also love how the artist drew Lucina's hair. Lucina looks beautiful, and the artist did a wonderful job! I'm glad I got the opportunity to commission them!",
+			date_str: "October 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/84apcmwakm4.png", "https://cdn.imgchest.com/files/6yxkclk8dp7.png", "https://cdn.imgchest.com/files/pyvdclgme2y.png", "https://cdn.imgchest.com/files/k46ac63x5d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/myd5cvg6x94.png",
+			title: "Lucina's Reverse Harem (YusiVishnu)",
+			artist: "YusiVishnu",
+			artist_url: "https://x.com/YouseeVishnu",
+			art_url: "https://x.com/YouseeVishnu/status/1846906512511586755",
+			desc: "This is a joint commission with a friend of Lucina's reverse harem by YusiVishnu! It's a follow up to the <span class='series-link' index='350'>Robin harem joint commission</span> which was also a reference to same Piper Perri meme. Each of the Robins are anticipating a great night together with the best girl Lucina!",
+			date_str: "October 2024",
+			tags: ["nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739clgvok7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3yrgcla2ww4.png",
+			title: "Hooters Lucina (aussiebeef_j)",
+			artist: "aussiebeef_j",
+			artist_url: "https://x.com/aussiebeef_j",
+			art_url: "https://x.com/aussiebeef_j/status/1848376405513695485",
+			desc: "This is a Hooters Lucina by aussiebeef_j! Lucina looks so cute and pretty! I love her flustered expression! Holding six large mugs of beer is also an impressive feat! The artist did an amazing job on this artwork!",
+			date_str: "October 2024",
+			tags: ["hooters"],
+			hidden: false
 		}
 	]
 };
