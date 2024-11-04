@@ -4261,7 +4261,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cxz2r24.png"],
 			thumbnail: "https://cdn.imgchest.com/files/myd5cx95954.png",
-			title: "Hooters (Aizumi_0701)",
+			title: "Hooters Lucina (Aizumi_0701)",
 			artist: "Aizumi_0701",
 			artist_url: "https://x.com/Aizumi_0701",
 			art_url: "https://x.com/Aizumi_0701/status/1693867559916052694",
@@ -6045,6 +6045,54 @@ var data = {
 			date_str: "October 2024",
 			tags: ["hooters"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/myd5cvvl5l4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyq9crrnkm4.png",
+			title: "Hooters Lucina (majibomber)",
+			artist: "majibomber",
+			artist_url: "https://x.com/majibomber",
+			art_url: "https://x.com/majibomber/status/1849614351935697288",
+			desc: "This is a Hooters Lucina by majibomber! Lucina looks so cute! I haven't gotten many chibi style Hooters Lucinas, so I'm glad I got the opportunity to commission majibomber for one! I love the way the food was drawn, and as always I love Lucina's adorable smile!",
+			date_str: "October 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/j7mmcxz6b87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b49zcla3r8y.png",
+			title: "Falltime Lucina and Marianne (Doiparuni)",
+			artist: "Doiparuni",
+			artist_url: "https://x.com/Doiparuni",
+			art_url: "",
+			desc: "This is a joint commission with SixtyBuzzer by Doiparuni! Lucina and Marianne don their falltime clothes and out for a quick autumn walk together. The ladies look so pretty and fashionable, which is rare for Lucina! The artist did a wonderful job on the drawing them! This was also a piece done to celebrate Marianne's birthday in November!",
+			date_str: "October 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/k739crpjq37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l4necreq9z4.png",
+			title: "Beast Pirates Nico Robin Gives You a Peek (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Beast Pirates Nico Robin by GrimmelsDaThird! To celebrate Halloween, I thought that Nico Robin wearing the Beast Pirates costume was a great theme for a commission. Robin teases you and gives you a little peek too! This is a gift for JLoTheCholo!",
+			date_str: "October 2024",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: [""],
+			thumbnail: "",
+			title: "",
+			artist: "",
+			artist_url: "",
+			art_url: "",
+			desc: "",
+			date_str: "",
+			tags: [""],
+			hidden: true
 		}
 	]
 };
