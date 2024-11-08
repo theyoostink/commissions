@@ -3728,7 +3728,7 @@ var data = {
 			desc: "This is a commission of Lucina as her own birthday cake by GrimmelsDaThird! Lucina is decorated with cream and strawberries as her own birthday cake. It's a feast for the eyes! She looks so cute!",
 			date_str: "April 2023",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/d7ogcq8zv6y.png"],
@@ -4203,7 +4203,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/84apckq9qx4.png",
 			title: "Hooters Lucina (YusiVishnu)",
 			artist: "YusiVishnu",
-			artist_url: "https://x.com/YusiVishnu",
+			artist_url: "https://x.com/YouseeVishnu",
 			art_url: "https://x.com/YusiVishnu/status/1686729745726414848",
 			desc: "This is a Hooters Lucina by YusiVishnu! It's based on the panel from Chainsaw Man where Kobeni is playing DDR. This one is called Hoob Hoob Revolution, and Lucina busts out the dance moves! Lucina looks so cute and pretty when she's happily dancing her heart out. Her smiles are adorable! This was a really fun idea, and the artist did an amazing job on the piece!",
 			date_str: "August 2023",
@@ -4287,7 +4287,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/b49zcpenevy.png",
 			title: "Five Lucinas Surrounding Robin (YusiVishnu)",
 			artist: "YusiVishnu",
-			artist_url: "https://x.com/YusiVishnu",
+			artist_url: "https://x.com/YouseeVishnu",
 			art_url: "https://x.com/YusiVishnu/status/1696131152606826809",
 			desc: "This is a joint commission I did with goo, and the art is done by YusiVishnu! It's a take on the meme of five men surrounding Piper Perri, but instead it is five Lucinas surrounding Robin. Robin has a few vials of vitality potions to make sure he has the stamina to fuck insatiable Lucinas. There are multiple variants as well, and they're all wonderful! Robin is a lucky man! There is also a follow up reverse harem version <span class='series-link' index='495'>here</span>.",
 			date_str: "August 2023",
@@ -4309,9 +4309,9 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/j7mmclwxna7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/k739cobzbp7.png",
-			title: "Hooters Lucina (Myahogao)",
-			artist: "Myahogao",
-			artist_url: "https://x.com/Myahogao",
+			title: "Hooters Lucina (MahoMalice)",
+			artist: "MahoMalice",
+			artist_url: "https://x.com/MahoMalice",
 			art_url: "https://x.com/Myahogao/status/1700580563529441535",
 			desc: "This is a Hooters Lucina by Myahogao! Lucina look so cute and pretty! I love the artist's style, and they did a wonderful job on depicting Lucina. I also love Lucina's big smile! She looks like she's having fun, and I'm also glad to hear the artist also had fun drawing her!",
 			date_str: "September 2023",
@@ -4892,7 +4892,7 @@ var data = {
 			desc: "This is a Hooters Lucina by mystra77! Lucina looks super pretty and cute! I love the way the hair is colored and rendered! Her big smile is super adorable too! The background work, the wings, and beer all look so awesome! The artist did an amazing job on the whole piece!",
 			date_str: "February 2024",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdcpw5zry.png"],
@@ -5552,7 +5552,7 @@ var data = {
 			desc: "This is a Hooters Lucina by ClovisXVII! Lucina looks super pretty! I love the changes the artist made to the normal outfit, especially that little belt around her thigh! It's a really cool interpretation of the concept, and they did a wonderful job! I also really like how the background resembles a wrinkled up piece of paper!",
 			date_str: "June 2024",
 			tags: ["hooters"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdckr88gy.jpg", "https://cdn.imgchest.com/files/j7mmc6b5pk7.jpg"],
@@ -5600,7 +5600,7 @@ var data = {
 			desc: "This is a Hooters Lucina by LIMART05! Lucina looks so pretty! I love all the warm and bright colors! Lucina's confident pose and smile are awesome! I really like the artist's style and work, and they did a wonderful job!",
 			date_str: "June 2024",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/345xc2pmkz7.jpg", "https://cdn.imgchest.com/files/84apcpqldl4.jpg"],
@@ -6004,7 +6004,7 @@ var data = {
 			title: "Finally off the Clock (decoxart)",
 			artist: "decoxart",
 			artist_url: "https://x.com/decoxart",
-			art_url: null,
+			art_url: "https://x.com/decoxart/status/1853958955422163313",
 			desc: "This is a commission of Hooters Lucina and Robin having sex in a car by decoxart! This is a gift for CrowWiseguy who wrote <a href='https://archiveofourown.org/works/46631020'>this Hooters Lucina fan fiction</a>. After Lucina's shift at Hooters ends, she offers Robin a ride home. After a short drive, things get hot and steamy in the car. Robin fucks Lucina while she's still in her uniform, and she rides him until he cums inside her. Please read the wonderfully written fan fiction by CrowWiseguy, and also please enjoy the amazing artwork by decoxart!",
 			date_str: "October 2024",
 			tags: ["hooters", "nsfw"],
@@ -6080,6 +6080,18 @@ var data = {
 			desc: "This is a commission of Beast Pirates Nico Robin by GrimmelsDaThird! To celebrate Halloween, I thought that Nico Robin wearing the Beast Pirates costume was a great theme for a commission. Robin teases you and gives you a little peek too! This is a gift for JLoTheCholo!",
 			date_str: "October 2024",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/l7lxcbd9xr7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/my2pcbop557.jpg",
+			title: "Hooters Lucina (phrecklesart)",
+			artist: "phrecklesart",
+			artist_url: "https://x.com/phrecklesart",
+			art_url: null,
+			desc: "This is a Hooters Lucina by phrecklesart! Lucina looks so cool and pretty! The artist wanted to do a dynamic scene like a food brawl, and it turned out amazingly! You can really sense the motion in the piece from Lucina's pose, the flying food, and dust effects. It's such an awesome work of art that also highlights Lucina's ferocity as a fighter!",
+			date_str: "November 2024",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
