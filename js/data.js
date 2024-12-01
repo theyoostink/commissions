@@ -594,7 +594,8 @@ var data = {
 				"https://cdn.imgchest.com/files/pyq9c2zqpg4.png",
 				"https://cdn.imgchest.com/files/j7mmcdaemk7.png",
 				"https://cdn.imgchest.com/files/345xcbzz537.png",
-				"https://cdn.imgchest.com/files/l7lxc868gz7.png"
+				"https://cdn.imgchest.com/files/l7lxc868gz7.png",
+				"https://cdn.imgchest.com/files/myd5cd5zjm4.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -641,7 +642,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1796395841823129691' target='_blank'>Emmeryn Has a Parachute</a><br/>
 			<a href='https://x.com/Mnejing30/status/1814096563930886255' target='_blank'>Breast Augmentation Surgery</a><br/>
 			<a href='https://x.com/Mnejing30/status/1831095324078981243' target='_blank'>Summer Olivia Jamming</a><br/>
-			<a href='https://x.com/Mnejing30/status/1840890518706012490' target='_blank'>Lucina Got Yamcha'd</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1840890518706012490' target='_blank'>Lucina Got Yamcha'd</a><br/>
+			<a href='https://x.com/Mnejing30/status/1856841020820131908' target='_blank'>Homelander Kempf</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3617,7 +3619,7 @@ var data = {
 			artist: "incognigoat",
 			artist_url: "https://x.com/incognigoat",
 			art_url: "https://x.com/incognigoat/status/1643726595646173185",
-			desc: "This is a commission of Robin and Lucina having sex by incognigoat! After undressing, the couple immediately begin making love before they reach the bed. Robin starts off with fucking Lucina while clutching her chest and giving her a deep kiss. They look like they're enjoying themselves!",
+			desc: "This is a commission of Robin and Lucina having sex by incognigoat! After undressing, the couple immediately begin making love before they reach the bed. Robin starts off with fucking Lucina while clutching her chest and giving her a deep kiss. It looks like they're enjoying themselves!",
 			date_str: "April 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -4109,7 +4111,7 @@ var data = {
 			artist: "nyemadras",
 			artist_url: "https://x.com/nyemadras",
 			art_url: null,
-			desc: "This is a Hooters Lucina by nyemadras! It depicts what she does during and after her shift. Lucina looks so cute and pretty! She works hard during her shift, and I love the artist's use of colors! After her shift, Lucina goes home and makes love with her husband to destress. She looks so cute and sexy!",
+			desc: "This is a Hooters Lucina by nyemadras! It depicts what she does during and after her shift. Lucina looks so cute and pretty! She works hard during her shift, and I love the artist's use of colors! After her shift, Lucina goes home and makes love to her husband to destress. She looks so cute and sexy!",
 			date_str: "July 2023",
 			tags: ["hooters", "nsfw"],
 			hidden: false
@@ -6064,7 +6066,7 @@ var data = {
 			title: "Falltime Lucina and Marianne (Doiparuni)",
 			artist: "Doiparuni",
 			artist_url: "https://x.com/Doiparuni",
-			art_url: "",
+			art_url: "https://x.com/doiparuni/status/1860397349064835185",
 			desc: "This is a joint commission with SixtyBuzzer by Doiparuni! Lucina and Marianne don their falltime clothes and out for a quick autumn walk together. The ladies look so pretty and fashionable, which is rare for Lucina! The artist did a wonderful job on the drawing them! This was also a piece done to celebrate Marianne's birthday in November!",
 			date_str: "October 2024",
 			tags: [""],
@@ -6092,6 +6094,54 @@ var data = {
 			desc: "This is a Hooters Lucina by phrecklesart! Lucina looks so cool and pretty! The artist wanted to do a dynamic scene like a food brawl, and it turned out amazingly! You can really sense the motion in the piece from Lucina's pose, the flying food, and dust effects. It's such an awesome work of art that also highlights Lucina's ferocity as a fighter!",
 			date_str: "November 2024",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3yrgcexkga4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/pyvdc2xbvay.png",
+			title: "Hooters Lucina (oginon07)",
+			artist: "oginon07",
+			artist_url: "https://x.com/oginon07",
+			art_url: null,
+			desc: "This is a Hooters Lucina by oginon07! Lucina looks so pretty! I love her confident pose and expression! Her smug smirk is also really nice! The artist did a great job on this piece!",
+			date_str: "November 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/my2pc8drqm7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/l7lxcor2a87.png",
+			title: "Hooters Lucina (ZqZbq)",
+			artist: "ZqZbq",
+			artist_url: "https://x.com/ZqZbq",
+			art_url: "https://x.com/ZqZbq/status/1861552913858076762",
+			desc: "This is a Hooters Lucina by ZqZbq! Lucina is so cute! I love how the artist drew and colored Lucina's hair and the way it opens up! Lucina's adorable smile is the best as always! The artist did a wonderful job on this piece!",
+			date_str: "November 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/p7bwcnzmm97.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/l4nec6p99g4.jpg",
+			title: "Ninja Camilla (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission gift of Ninja Camilla for Spider_Tamer by true_jek_art! Ninja Camilla is using the dragon hand seal from Naruto as a reference to Dragon Veins and to Corrin. Camilla looks so pretty and elegant in her pose as she stands between the magic ninja flames!",
+			date_str: "November 2024",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/pyvdc236m5y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/k46acmrzxp7.png",
+			title: "Lucina Flashing (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a gift for FEFreak726 by GrimmelsDaThird! This is also a follow up to <span class='series-link' index='367'>this commission</span> of Lucina wearing a short skirt and long jacket. At night, Lucina wears a mask and just her jacket and walks around the town to flash her nude body to people passing by. She enjoys a bit of exhibitionist thrill!",
+			date_str: "November 2024",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
