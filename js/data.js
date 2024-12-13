@@ -4543,7 +4543,7 @@ var data = {
 			artist: "TomorrowsJoker",
 			artist_url: "https://x.com/TomorrowsJoker",
 			art_url: "https://x.com/TomorrowsJoker/status/1721721885455733013",
-			desc: "This is a Hooters Lucina by TomorrowsJoker! Lucina looks so pretty! The food looks delicious, and the light effects are super cool! The pose is dynamic and strong. It looks like a special artwork from FEH! The artist did a wonderful job on it!",
+			desc: "This is a Hooters Lucina by TomorrowsJoker! Lucina looks so pretty! The food looks delicious, and the light effects are super cool! The pose is dynamic and strong. It looks like a special attack artwork from FEH! The artist did a wonderful job on it!",
 			date_str: "November 2023",
 			tags: ["hooters"],
 			hidden: false
@@ -6141,6 +6141,54 @@ var data = {
 			art_url: null,
 			desc: "This is a gift for FEFreak726 by GrimmelsDaThird! This is also a follow up to <span class='series-link' index='367'>this commission</span> of Lucina wearing a short skirt and long jacket. At night, Lucina wears a mask and just her jacket and walks around the town to flash her nude body to people passing by. She enjoys a bit of exhibitionist thrill!",
 			date_str: "November 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnx5z8v4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9agrzv7.png",
+			title: "Hooters Lucina (kousetu0506)",
+			artist: "kousetu0506",
+			artist_url: "https://x.com/kousetu0506",
+			art_url: "https://x.com/kousetu0506/status/1865748813690106317",
+			desc: "This is a Hooters Lucina by kousetu0506! Lucina looks so pretty! I love all the bright colors that pop out against the warm background. The food looks great, and Lucina's big smile is adorable as always. The artist did such a wonderful job on this!",
+			date_str: "December 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8zkap54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczpra6a7.png",
+			title: "Hooters Lucina (Nyo02921978)",
+			artist: "Nyo02921978",
+			artist_url: "https://x.com/Nyo02921978",
+			art_url: "https://x.com/Nyo02921978/status/1867185303548821976",
+			desc: "This is a Hooters Lucina by Nyo02921978! Lucina looks so pretty and cute! I love how dynamic this piece is from the jumping chicken wings and movement cloud effects! Lucina's big smile is the best as always! The artist did such a wonderful job!",
+			date_str: "December 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7lxcpanlqk7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwxvp5vy.jpg",
+			title: "A Recipe for Love (YlvyNSFW)",
+			artist: "YlvyNSFW",
+			artist_url: "https://x.com/YlvyNSFW",
+			art_url: "https://x.com/YlvyNSFW/status/1867239382547300440",
+			desc: "This is a commission of Robin and Lucina having sex by YlvyNSFW! When Lucina teases Robin in the kitchen with a naked apron getup, Robin can't help but give into his lust. He fucks his wife hard while grabbing her breast and looking deeply into her eyes. The romantic and steamy scene ends with a powerful creampie, but the night is still young!",
+			date_str: "December 2024",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcap52jk7.png", "https://cdn.imgchest.com/files/y2pckqzlgg7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqlkw297.png",
+			title: "Ninja Lucina Gets Caught (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: "",
+			desc: "This is a commission of Robin and Ninja Lucina having sex by decoxart! Lucina trains to become a ninja by hiding and peeping on her husband who was restless in bed. Robin notices her presence and catches her. He decides to train her in a different way by testing her endurance. He fucks her hard after tearing open her outfit and challenges her to be silent like a ninja. Lucina completely fails the task as she moans loudly from her husband's hard and deep thrusts, but it seems like she doesn't mind.",
+			date_str: "December 2024",
 			tags: ["nsfw"],
 			hidden: false
 		},
