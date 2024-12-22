@@ -595,7 +595,8 @@ var data = {
 				"https://cdn.imgchest.com/files/j7mmcdaemk7.png",
 				"https://cdn.imgchest.com/files/345xcbzz537.png",
 				"https://cdn.imgchest.com/files/l7lxc868gz7.png",
-				"https://cdn.imgchest.com/files/myd5cd5zjm4.png"
+				"https://cdn.imgchest.com/files/myd5cd5zjm4.png",
+				"https://cdn.imgchest.com/files/4nec8zno634.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -626,15 +627,15 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1611181094472409088' target='_blank'>Lucina and Robin read a book</a><br/>
 			<a href='https://x.com/Mnejing30/status/1620919055740968960' target='_blank'>Dagr Thinks She's a God</a> (Gift for AlienAirplanes)<br/>
 			<a href='https://x.com/Mnejing30/status/1633234335997521920' target='_blank'>Lapis Tells You to Touch Grass</a><br/>
-			<a href='https://x.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra (Gift request for TwoFace)</a><br/>
+			<a href='https://x.com/Mnejing30/status/1645753528189878272' target='_blank'>Spring Triandra</a> (Gift request for TwoFace)<br/>
 			<a href='https://x.com/mnejing30/status/1659690764291694592' target='_blank'>Lucina and Young Lucina</a><br/>
 			<a href='https://x.com/mnejing30/status/1669535624561573889' target='_blank'>Palla Finds an Onion Ring in Her Fries</a><br/>
 			<a href='https://x.com/Mnejing30/status/1680195110766796802' target='_blank'>Lucina Pizza Time</a><br/>
-			<a href='https://x.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner (Gift request for labmemb3r)</a><br/>
+			<a href='https://x.com/mnejing30/status/1706457454996078684' target='_blank'>Palla and Minerva Spaghetti Dinner</a> (Gift request for labmemb3r)<br/>
 			<a href='https://x.com/mnejing30/status/1715508405140607414' target='_blank'>Adios Marth</a><br/>
 			<a href='https://x.com/mnejing30/status/1724201679678234847' target='_blank'>Effie Crushes a Watermelon</a><br/>
-			<a href='https://x.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor (Gift request for Piff)</a><br/>
-			<a href='https://x.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear (Gift request for Exalted)</a><br/>
+			<a href='https://x.com/Mnejing30/status/1731812624529260665' target='_blank'>Mistletoe with Loki and Thor</a> (Gift request for Piff)<br/>
+			<a href='https://x.com/Mnejing30/status/1744496801410056419' target='_blank'>New Year's Alear</a> (Gift request for Exalted)<br/>
 			<a href='https://x.com/Mnejing30/status/1755009915184414830' target='_blank'>Saori and Vanity</a><br/>
 			<a href='https://x.com/Mnejing30/status/1763713213051682974' target='_blank'>Lucing Painting Her Egg</a><br/>
 			<a href='https://x.com/Mnejing30/status/1776396158631588337' target='_blank'>Mika Sensei.</a><br/>
@@ -643,7 +644,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1814096563930886255' target='_blank'>Breast Augmentation Surgery</a><br/>
 			<a href='https://x.com/Mnejing30/status/1831095324078981243' target='_blank'>Summer Olivia Jamming</a><br/>
 			<a href='https://x.com/Mnejing30/status/1840890518706012490' target='_blank'>Lucina Got Yamcha'd</a><br/>
-			<a href='https://x.com/Mnejing30/status/1856841020820131908' target='_blank'>Homelander Kempf</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1856841020820131908' target='_blank'>Homelander Kempf</a><br/>
+			<a href='https://x.com/mnejing30/status/1869523411288109255' target='_blank'>Robcina Let Him Cook</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -4291,7 +4293,7 @@ var data = {
 			artist: "YusiVishnu",
 			artist_url: "https://x.com/YouseeVishnu",
 			art_url: "https://x.com/YusiVishnu/status/1696131152606826809",
-			desc: "This is a joint commission I did with goo, and the art is done by YusiVishnu! It's a take on the meme of five men surrounding Piper Perri, but instead it is five Lucinas surrounding Robin. Robin has a few vials of vitality potions to make sure he has the stamina to fuck insatiable Lucinas. There are multiple variants as well, and they're all wonderful! Robin is a lucky man! There is also a follow up reverse harem version <span class='series-link' index='495'>here</span>.",
+			desc: "This is a joint commission I did with goo, and the art is done by YusiVishnu! It's a take on the meme of five men surrounding Piper Perri, but instead it is five Lucinas surrounding Robin. Robin has a few vials of vitality potions to make sure he has the stamina to fuck the insatiable Lucinas. There are multiple variants as well, and they're all wonderful! Robin is a lucky man! There is also a follow up reverse harem version <span class='series-link' index='495'>here</span>.",
 			date_str: "August 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -4837,7 +4839,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/w7w6clkg23y.png", "https://cdn.imgchest.com/files/j7kzc56gbm7.png", "https://cdn.imgchest.com/files/g4z9cognvb7.png", "https://cdn.imgchest.com/files/pyq9cgjpkb4.png", "https://cdn.imgchest.com/files/p7bwcxm8d57.png", "https://cdn.imgchest.com/files/j7mmcvblav7.png"],
+			src: ["https://cdn.imgchest.com/files/w7w6clkg23y.png", "https://cdn.imgchest.com/files/j7kzc56gbm7.png", "https://cdn.imgchest.com/files/g4z9cognvb7.png", "https://cdn.imgchest.com/files/y2pckqldb67.png", "https://cdn.imgchest.com/files/7lxcpalrbd7.png", "https://cdn.imgchest.com/files/4jdcvx83p64.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcvbl9n7.png",
 			title: "Lucina and Robin Have Some Fun (Amemachi2A16)",
 			artist: "Amemachi2A16",
@@ -6089,7 +6091,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/my2pcbop557.jpg",
 			title: "Hooters Lucina (phrecklesart)",
 			artist: "phrecklesart",
-			artist_url: "https://x.com/phrecklesart",
+			artist_url: "https://x.com/Krephles",
 			art_url: null,
 			desc: "This is a Hooters Lucina by phrecklesart! Lucina looks so cool and pretty! The artist wanted to do a dynamic scene like a food brawl, and it turned out amazingly! You can really sense the motion in the piece from Lucina's pose, the flying food, and dust effects. It's such an awesome work of art that also highlights Lucina's ferocity as a fighter!",
 			date_str: "November 2024",
@@ -6186,10 +6188,34 @@ var data = {
 			title: "Ninja Lucina Gets Caught (decoxart)",
 			artist: "decoxart",
 			artist_url: "https://x.com/decoxart",
-			art_url: "",
+			art_url: "https://x.com/decoxart/status/1868067853905412454",
 			desc: "This is a commission of Robin and Ninja Lucina having sex by decoxart! Lucina trains to become a ninja by hiding and peeping on her husband who was restless in bed. Robin notices her presence and catches her. He decides to train her in a different way by testing her endurance. He fucks her hard after tearing open her outfit and challenges her to be silent like a ninja. Lucina completely fails the task as she moans loudly from her husband's hard and deep thrusts, but it seems like she doesn't mind.",
 			date_str: "December 2024",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ce5gz594.png", "https://cdn.imgchest.com/files/yrgcnxakxw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczpkx9e7.jpg",
+			title: "Hooters Lucina (Revenantart)",
+			artist: "Revenantart",
+			artist_url: "https://x.com/Revenantart",
+			art_url: "https://x.com/Revenantart/status/1869412999343300660",
+			desc: "This is a Hooters Lucina by Revenantart! Lucina looks so cute! I love her pose and the big smile on her face! The chicken wings also look delicious, and the background is cute too! The artist did such a great job!",
+			date_str: "December 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3kwoax4.png", "https://cdn.imgchest.com/files/yd5ce58d3w4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpaqo3m7.png",
+			title: "Hooters Lucina (shou_illust)",
+			artist: "shou_illust",
+			artist_url: "https://x.com/shou_illust",
+			art_url: null,
+			desc: "This is a Hooters Lucina by shou_illust! Lucina looks so pretty! I love her flustered expression as she tries to balance the plate of wings in one hand and hold the big mug of beer with the other. The sloshing of the beer and the jumping wings adds a really nice dynamic feel to the art!",
+			date_str: "December 2024",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
