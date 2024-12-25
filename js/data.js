@@ -3249,7 +3249,7 @@ var data = {
 			artist: "NEETlewds",
 			artist_url: "https://x.com/NEETlewds",
 			art_url: "https://x.com/NEETlewds/status/1626781992779137024",
-			desc: "This is a commission of Lucina having by NEETlewds! Lucina is enjoying her time getting fucked by her beloved. The session ends with a satisfying creampie! The artwork turned out really well!",
+			desc: "This is a commission of Lucina having sex by NEETlewds! Lucina is enjoying her time getting fucked by her beloved. The session ends with a satisfying creampie! The artwork turned out really well!",
 			date_str: "February 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -3681,7 +3681,7 @@ var data = {
 			artist: "Ebinkuu",
 			artist_url: "https://www.pixiv.net/users/78716022",
 			art_url: "https://www.pixiv.net/artworks/106911114",
-			desc: "This is a mini-comic commission of Robin and Lucina having by Ebinkuu! Robin and Lucina try out \"Plegian Sex\" which is based on \"Polynesian Sex\". It is something Robin has heard about on his recent visit to Plegia, and it supposedly enhances the sensations of lovemaking. However, it requires a few days of preparation during which masturbating and orgasming are not allowed. On the first day, no touching is allowed, so Robin and Lucina strip down and stare at each other's nude body for one hour. On the second day, hugging and kissing are allowed, so Robin and Lucina kiss and press their sweaty bodies against each other. On the third day, sensitive areas excluding the genitals can be touched, so Robin and Lucina caress each other and play with each other's erogenous zones. On the fourth day, all restrictions are lifted and the couple is allowed to have sex. Due to all their pent up sexual frustration building up the past few days, Robin and Lucina have a long and explosive sex marathon session that continues on to the fifth day.",
+			desc: "This is a mini-comic commission of Robin and Lucina having sex by Ebinkuu! Robin and Lucina try out \"Plegian Sex\" which is based on \"Polynesian Sex\". It is something Robin has heard about on his recent visit to Plegia, and it supposedly enhances the sensations of lovemaking. However, it requires a few days of preparation during which masturbating and orgasming are not allowed. On the first day, no touching is allowed, so Robin and Lucina strip down and stare at each other's nude body for one hour. On the second day, hugging and kissing are allowed, so Robin and Lucina kiss and press their sweaty bodies against each other. On the third day, sensitive areas excluding the genitals can be touched, so Robin and Lucina caress each other and play with each other's erogenous zones. On the fourth day, all restrictions are lifted and the couple is allowed to have sex. Due to all their pent up sexual frustration building up the past few days, Robin and Lucina have a long and explosive sex marathon session that continues on to the fifth day.",
 			date_str: "April 2023",
 			tags: ["nsfw"],
 			hidden: false
@@ -6092,7 +6092,7 @@ var data = {
 			title: "Hooters Lucina (phrecklesart)",
 			artist: "phrecklesart",
 			artist_url: "https://x.com/Krephles",
-			art_url: null,
+			art_url: "https://x.com/Krephles/status/1870973941294285240",
 			desc: "This is a Hooters Lucina by phrecklesart! Lucina looks so cool and pretty! The artist wanted to do a dynamic scene like a food brawl, and it turned out amazingly! You can really sense the motion in the piece from Lucina's pose, the flying food, and dust effects. It's such an awesome work of art that also highlights Lucina's ferocity as a fighter!",
 			date_str: "November 2024",
 			tags: ["hooters"],
@@ -6212,10 +6212,34 @@ var data = {
 			title: "Hooters Lucina (shou_illust)",
 			artist: "shou_illust",
 			artist_url: "https://x.com/shou_illust",
-			art_url: null,
+			art_url: "https://x.com/shou_illust/status/1871037032363167824",
 			desc: "This is a Hooters Lucina by shou_illust! Lucina looks so pretty! I love her flustered expression as she tries to balance the plate of wings in one hand and hold the big mug of beer with the other. The sloshing of the beer and the jumping wings adds a really nice dynamic feel to the art!",
 			date_str: "December 2024",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ce5w59m4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3kjkbe4.png",
+			title: "Hooters Lucina (ina0akatarou)",
+			artist: "ina0akatarou",
+			artist_url: "https://x.com/ina0akatarou",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ina0akatarou! Lucina looks so pretty and cute! I love the three versions for facial expressions! The pose is also cool and looks as if she's moving and stepping closer! The artist did a great job on the artwork!",
+			date_str: "December 2024",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7mmc9akg3e7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnxl5ad4.png",
+			title: "Morgan's Christmas Presents (shikilostman)",
+			artist: "shikilostman",
+			artist_url: "https://skeb.jp/@shikilostman",
+			art_url: null,
+			desc: "This is a commission of Morgan on Christmas morning by shikilostman! On Christmas morning, Morgan wakes up to a pile of presents in her bedroom that were delivered to her overnight by Santa! As she begins to open her gifts, her parents Robin and Lucina watch lovingly at their daughter enjoying her gifts!",
+			date_str: "December 2024",
+			tags: [""],
 			hidden: false
 		},
 		{
