@@ -2827,7 +2827,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/k46ac58lqq7.jpg",
 			title: "Lucina and Clair Swap Outfits (Rynn_art)",
 			artist: "Rynn_art",
-			artist_url: "https://x.com/Rynn_art",
+			artist_url: "https://x.com/Rynn_96",
 			art_url: "https://x.com/Rynn_art/status/1594356335222861826",
 			desc: "This is a joint commission I did with MRC Rulez, and the art was done by Rynn_art! Lucina and Clair are both voiced by Alexis Tipton, and MRC Rulez likes Clair. So, we decided to do a joint commission idea and did an outfit swap and a pose swap based on their official art! Both Lucina and Clair are so pretty and look like they are enjoying their time together at the park. There's also a spicy version too!",
 			date_str: "November 2022",
@@ -5259,7 +5259,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/pyvdc6lqvry.png", "https://cdn.imgchest.com/files/l4nec53rkb4.png", "https://cdn.imgchest.com/files/j7kzcnrl527.png", "https://cdn.imgchest.com/files/pyq9c6rqgv4.png"],
+			src: ["https://cdn.imgchest.com/files/yq9c33dgke4.png", "https://cdn.imgchest.com/files/yd5ceeqj5m4.png", "https://cdn.imgchest.com/files/yrgcnnrgxa4.png", "https://cdn.imgchest.com/files/7lxcppena57.png"],
 			thumbnail: "https://cdn.imgchest.com/files/345xceo5da7.png",
 			title: "Lucina with Robin and Grima (OppaiHobby)",
 			artist: "OppaiHobby",
@@ -6204,7 +6204,7 @@ var data = {
 			desc: "This is a Hooters Lucina by Revenantart! Lucina looks so cute! I love her pose and the big smile on her face! The chicken wings also look delicious, and the background is cute too! The artist did such a great job!",
 			date_str: "December 2024",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yq9c3kwoax4.png", "https://cdn.imgchest.com/files/yd5ce58d3w4.png"],
@@ -6224,7 +6224,7 @@ var data = {
 			title: "Hooters Lucina (ina0akatarou)",
 			artist: "ina0akatarou",
 			artist_url: "https://x.com/ina0akatarou",
-			art_url: null,
+			art_url: "https://x.com/ina0akatarou/status/1873181809678401877",
 			desc: "This is a Hooters Lucina by ina0akatarou! Lucina looks so pretty and cute! I love the three versions for facial expressions! The pose is also cool and looks as if she's moving and stepping closer! The artist did a great job on the artwork!",
 			date_str: "December 2024",
 			tags: ["hooters"],
@@ -6240,6 +6240,42 @@ var data = {
 			desc: "This is a commission of Morgan on Christmas morning by shikilostman! On Christmas morning, Morgan wakes up to a pile of presents in her bedroom that were delivered to her overnight by Santa! As she begins to open her gifts, her parents Robin and Lucina watch lovingly at their daughter enjoying her gifts!",
 			date_str: "December 2024",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7lxcppp6k67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvvvboj4.png",
+			title: "The Santas Visit Morgan (Leitz_ACaroline)",
+			artist: "Leitz_ACaroline",
+			artist_url: "https://x.com/Leitz_ACaroline",
+			art_url: "https://x.com/Leitz_ACaroline/status/1873074704992616482",
+			desc: "This is a joint commission with Exalted of the Robcina family by Leitz_ACaroline! Morgan's parents Robin and Lucina disguise themselves as Santa to deliver presents! They spoil their beloved daughter by bringing lots of gifts from a teddy bear to a pegaus plush. Morgan sleeps soundly and is unaware that Santa has just visited.",
+			date_str: "December 2024",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcaaaxql7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbbbxo9y.jpg",
+			title: "Snowboarder Summoner (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift for ExaltedBrand by true_jek_art! ExaltedBrand is represented by this FEH Summoner who is dressed in snowboarding gear in this artwork! I love the Askran design of the snowboard, and the Summoner looks great!",
+			date_str: "December 2024",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxxe8v27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c22bpdjy.png",
+			title: "Blizzaria's Gift (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission gift for LucinaSpiker by GrimmelsDaThird! Blizzaria from Yokai Watch presents to the viewer a Christmas gift! I hope you like what she got for you!",
+			date_str: "December 2024",
+			tags: ["other"],
 			hidden: false
 		},
 		{
