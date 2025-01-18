@@ -3108,7 +3108,7 @@ var data = {
 			desc: "This is a commission of Silque dressed in a traditional Japanese shrine maiden miko costume by true_jek_art! This was a gift for MisoSoup! I thought the idea of a priestess in another type of priestess clothing would be interesting to see, and true_jek_art did a great job!",
 			date_str: "January 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7kzcoem9b7.jpg", "https://cdn.imgchest.com/files/my2pcx98357.jpg"],
@@ -3240,7 +3240,7 @@ var data = {
 			desc: "This is a commission of office lady Charlotte by true_jek_art! This was a gift to Spy/Sera. The big white bow is super cute, and the name tag and lanyard is a really nice detail. The glasses variant also adds a bit of sophistication to Charlotte's look!",
 			date_str: "February 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my8xcwldwe4.png"],
@@ -3672,7 +3672,7 @@ var data = {
 			desc: "This is a commission of biker Larcei by true_jek_art! The gift is for Mr. TalkingDinosaur who loves Larcei! Larcei seems like someone who would enjoy motorbiking and riding fast vehicles. I love all the little references and details that the artists includes as always!",
 			date_str: "April 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/g4z9cn8lmq7.png", "https://cdn.imgchest.com/files/e4gdclva8x4.png"],
@@ -3840,7 +3840,7 @@ var data = {
 			desc: "This is a commission of volleyball Fir by true_jek_art! It's a gift for HIERARCHYOFMEMES who loves Fir! I feel like someone who is active like Fir would like playing volleyball. The artist did a great job adding in references to the game in the outfit and also on the ball. It turned out great!",
 			date_str: "May 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgcwkd6e4.png"],
@@ -3996,7 +3996,7 @@ var data = {
 			desc: "This is a commission of polo Marianne by true_jek_art! It's a gift for SixtyBuzzer who loves Marianne! I tried to think of an equestrian sport that Marianne might be good at, and polo came to mind. Marianne looks great in the outfit, and I'm sure she's going to have a lot of fun playing polo with Dorte too!",
 			date_str: "June 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k46ac5adbk7.png"],
@@ -4164,7 +4164,7 @@ var data = {
 			desc: "This is a commission of Lethe eating a burger by true_jek_art! This is a gift for Nilla who did some art of Hooters Lucina eating a burger, so I wanted to return the favor by getting artwork of Lethe eating a cat-shaped burger! It turned out really nice, and the colors are gorgeous!",
 			date_str: "July 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/6yxkcmj3qo7.png", "https://cdn.imgchest.com/files/w7pjc8xjkd7.png"],
@@ -4236,7 +4236,7 @@ var data = {
 			desc: "This is a commission of summer Lilith by true_jek_art! This was a gift for Antogames who loves Lilith from Fire Emblem Fates. Since Lilith has a red, white, and blue color scheme, I wanted her to enjoy a red, white, and blue popsicle. The sunset in the background looks great, and she looks very cute!",
 			date_str: "August 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/84jdcrwpj54.png"],
@@ -4476,7 +4476,7 @@ var data = {
 			desc: "This is a commission of skater Clarisse by true_jek_art! It's a gift for Bronze Felix whose favorite character is Clarisse from Fire Emblem! Clarisse looks really pretty, and the casual skater outfit looks great on her!",
 			date_str: "September 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/p7bwcvgqe27.png"],
@@ -4644,7 +4644,7 @@ var data = {
 			desc: "This is a commission of ballerina Azura by true_jek_art! It's a gift for MRCRulez who loves Azura! She looks really pretty! I thought a ballerina would fit Azura's graceful dancer persona really well. I was surprised there aren't any fanart of Azura as a ballerina, so I knew I had to commission one.",
 			date_str: "November 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739conrjb7.jpg"],
@@ -4656,7 +4656,7 @@ var data = {
 			desc: "This is a commission of Nephenee as a lacrosse player by true_jek_art! This is a gift for labmemb3r who loves Nephenee! I thought Nephenee as a lacrosse player would look nice since she can wear her usual helmet, and the lacrosse stick looks like a lance or halberd to match her in-game class. She looks great!",
 			date_str: "November 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/b49zcp6kv3y.png"],
@@ -4728,7 +4728,7 @@ var data = {
 			desc: "This is a commission of Corrin in a kimono by shikilostman! It's a gift for Seityr as part of a gift exchange. Since 2024 is the Year of the Dragon, I thought Corrin in a New Year's kimono holding a figuring of her dragon form would be really fitting! The artist did a wonderful job on the design of the kimono and the overall artwork. Corrin looks very pretty! I hope Seityr is pleased with the gift!",
 			date_str: "December 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/myd5cop8ko4.jpg"],
@@ -4740,7 +4740,7 @@ var data = {
 			desc: "This is a commission of Noire as a golfer by true_jek_art! This was a gift for Mifi, Wario Booty Hole, and DustDustDust who are all fans of Noire. I thought the idea of Noire as an archer and sharpshooter fit well with the idea of a golfer who can hit accurately. Her usual headband also reminded me of a golf visor. Noire looks really cute, and I'm glad to hear that the recipients really liked their gifts!",
 			date_str: "December 2023",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739c8w2pm7.png"],
@@ -4884,7 +4884,7 @@ var data = {
 			desc: "This is a commission of maid Shigure by true_jek_art! It's a gift for Lagger who loves Shigure from Blue Archive! Shigure loves making drinks and comes from a cold environment, so I thought Shigure as a maid or retro waitress making milkshakes was fitting. She looks great, and I love all of the vibrant colors!",
 			date_str: "February 2024",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3yrgc389gk4.png", "https://cdn.imgchest.com/files/j7mmcjznvq7.png", "https://cdn.imgchest.com/files/k739cwpk9o7.png"],
@@ -5388,7 +5388,7 @@ var data = {
 			desc: "This is a gift commission for AshenJedi who loves Ingrid by true_jek_art! AshenJedi likes to commission Ingrid with a large \"cake\" often, and Ingrid likes to eat. So, I decided on an idea of Ingrid as a baker making a large cake! Ingrid looks so pretty, and the artist did a wonderful job on this!",
 			date_str: "May 2024",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/my2pc5ppr57.jpg"],
@@ -5868,7 +5868,7 @@ var data = {
 			desc: "This is a commission of Rhea in a yukata by true_jek_art! This was a gift for Cosmic who loves Rhea! The Archbishop Rhea joins the late-summer festivities and dons an elegant yukata! She enjoys a candied apple as she walks from stall to stall greeting the people of Fodlan throughout the night!",
 			date_str: "September 2024",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/wye3ce5rzp4.jpg"],
@@ -5964,7 +5964,7 @@ var data = {
 			desc: "This is a gift commission of Nah camping under the stars by true_jek_art! As the weather starts to cool, Nah goes on a camping trip and sips from a cup with her name engraved on it using the Fire Emblem alphabet. The illustration has such as nice and cozy vibe!",
 			date_str: "October 2024",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/b49zcd385wy.jpg"],
@@ -6036,7 +6036,7 @@ var data = {
 			desc: "This is a joint commission with a friend of Lucina's reverse harem by YusiVishnu! It's a follow up to the <span class='series-link' index='350'>Robin harem joint commission</span> which was also a reference to same Piper Perri meme. Each of the Robins are anticipating a great night together with the best girl Lucina!",
 			date_str: "October 2024",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/k739clgvok7.png"],
@@ -6132,7 +6132,7 @@ var data = {
 			desc: "This is a commission gift of Ninja Camilla for Spider_Tamer by true_jek_art! Ninja Camilla is using the dragon hand seal from Naruto as a reference to Dragon Veins and to Corrin. Camilla looks so pretty and elegant in her pose as she stands between the magic ninja flames!",
 			date_str: "November 2024",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/pyvdc236m5y.png"],
@@ -6264,7 +6264,7 @@ var data = {
 			desc: "This is a gift for ExaltedBrand by true_jek_art! ExaltedBrand is represented by this FEH Summoner who is dressed in snowboarding gear in this artwork! I love the Askran design of the snowboard, and the Summoner looks great!",
 			date_str: "December 2024",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/739cxxe8v27.png"],
@@ -6275,6 +6275,42 @@ var data = {
 			art_url: null,
 			desc: "This is a commission gift for LucinaSpiker by GrimmelsDaThird! Blizzaria from Yokai Watch presents to the viewer a Christmas gift! I hope you like what she got for you!",
 			date_str: "December 2024",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/46acqnlwea7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc569xol4.png",
+			title: "Hooters Lucina (Ailheim)",
+			artist: "Ailheim",
+			artist_url: "https://x.com/Ailheim",
+			art_url: "https://x.com/Ailheim/status/1879649683611722176",
+			desc: "This is a Hooters Lucina by Ailheim! Lucina looks so pretty! I love the pose of her sitting down with a large mug of beer in hand! Of course as always Lucina's big smile is the best! I also like the blue painted nails! The artist did a wonderful job!",
+			date_str: "January 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ceqkkqp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvkggkm4.png",
+			title: "Hooters Lucina (lightgamein)",
+			artist: "lightgamein",
+			artist_url: "https://x.com/lightgamein",
+			art_url: "https://x.com/lightgamein/status/1880104699472539715",
+			desc: "This is a Hooters Lucina by lightgamein! Lucina looks so cute! I love all the wonderful bright colors and the overall vibrancy of the artwork! Lucina's head tilt and smile are really nice too!",
+			date_str: "January 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnr88ro4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3dzzdg4.jpg",
+			title: "Titania Catches a Feebas (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for skratt of Titania and Feebas by true_jek_art! skratt is a big fan of both of these characters, so I decided to have both of them in one artwork! Titania went to the sea to catch a Feebas who finally found a loving trainer to take care of it!",
+			date_str: "January 2025",
 			tags: ["other"],
 			hidden: false
 		},
