@@ -596,7 +596,8 @@ var data = {
 				"https://cdn.imgchest.com/files/345xcbzz537.png",
 				"https://cdn.imgchest.com/files/l7lxc868gz7.png",
 				"https://cdn.imgchest.com/files/myd5cd5zjm4.png",
-				"https://cdn.imgchest.com/files/4nec8zno634.png"
+				"https://cdn.imgchest.com/files/4nec8zno634.png",
+				"https://cdn.imgchest.com/files/4nec8g3v994.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -645,7 +646,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1831095324078981243' target='_blank'>Summer Olivia Jamming</a><br/>
 			<a href='https://x.com/Mnejing30/status/1840890518706012490' target='_blank'>Lucina Got Yamcha'd</a><br/>
 			<a href='https://x.com/Mnejing30/status/1856841020820131908' target='_blank'>Homelander Kempf</a><br/>
-			<a href='https://x.com/mnejing30/status/1869523411288109255' target='_blank'>Robcina Let Him Cook</a><br/>`,
+			<a href='https://x.com/mnejing30/status/1869523411288109255' target='_blank'>Robcina Let Him Cook</a><br/>
+			<a href='https://x.com/Mnejing30/status/1885473052668157958' target='_blank'>Saori's New Job</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -4425,7 +4427,7 @@ var data = {
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi",
 			art_url: "https://x.com/SINccubi/status/1703854712817115174",
-			desc: "This is a commission of Hooters Lucina having sex with Robin by SINccubi! After coming home from work, Lucina settles down by having a quickie with her husband Robin. They get really into, and Lucina tightly hugs a pillow when Robins fills her up!",
+			desc: "This is a commission of Hooters Lucina having sex with Robin by SINccubi! After coming home from work, Lucina settles down by having a quickie with her husband Robin. They get really into it, and Lucina tightly hugs a pillow when Robins fills her up!",
 			date_str: "September 2023",
 			tags: ["hooters", "nsfw"],
 			hidden: false
@@ -4593,7 +4595,7 @@ var data = {
 			artist: "lewillust",
 			artist_url: "https://x.com/lewillust",
 			art_url: "https://x.com/lewillust/status/1724398299476570320",
-			desc: "This is a joint commission with my friend who loves Clarisses of Hooters Lucina and Clarisse by lewillust! Clarisse is a new hire and isn't quite used to the uniform yet. Lucina as a longtime employee gives her some encouragement! Both of them look super pretty and cute! Clarisse's flustered expression and Lucina's big smile are the best! The artist did a great job!",
+			desc: "This is a joint commission with my friend who loves Clarisse of Hooters Lucina and Clarisse by lewillust! Clarisse is a new hire and isn't quite used to the uniform yet. Lucina as a longtime employee gives her some encouragement! Both of them look super pretty and cute! Clarisse's flustered expression and Lucina's big smile are the best! The artist did a great job!",
 			date_str: "November 2023",
 			tags: ["hooters"],
 			hidden: false
@@ -5745,7 +5747,7 @@ var data = {
 			artist: "decoxart",
 			artist_url: "https://x.com/decoxart",
 			art_url: "https://x.com/decoxart/status/1819886304970297848",
-			desc: "This is a commission of Robin and Masked Marth by decoxart! Robin discovers Marth's secret of actually being a woman in disguise while catching her stripping down at a hot spring. Robin teases Marth by saying that her disguise isn't complete without a man's penis, so he decides to lend him his dick. With Robin's hard dick in between her thighs, Marth is able to imitate jerking off until cumming in her hands. After this event, Marth and Robin part ways until they reunite much later in the story.",
+			desc: "This is a commission of Robin and Masked Marth by decoxart! Robin discovers Marth's secret of actually being a woman in disguise while catching her stripping down at a hot spring. Robin teases Marth by saying that her disguise isn't complete without a man's penis, so he decides to lend her his dick. With Robin's hard dick in between her thighs, Marth is able to imitate jerking off until cumming in her hands. After this event, Marth and Robin part ways until they reunite much later in the story.",
 			date_str: "August 2024",
 			tags: ["nsfw"],
 			hidden: false
@@ -6312,6 +6314,78 @@ var data = {
 			desc: "This is a gift commission for skratt of Titania and Feebas by true_jek_art! skratt is a big fan of both of these characters, so I decided to have both of them in one artwork! Titania went to the sea to catch a Feebas who finally found a loving trainer to take care of it!",
 			date_str: "January 2025",
 			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pck23p567.png", "https://cdn.imgchest.com/files/4jdcvk2g664.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnevxqa4.png",
+			title: "Hooters Lucina (surume_ikaTARO)",
+			artist: "surume_ikaTARO",
+			artist_url: "https://x.com/surume_ikaTARO",
+			art_url: "https://x.com/surume_ikaTARO/status/1881239328707535279",
+			desc: "This is a Hooters Lucina by surume_ikaTARO! Lucina looks so cute! I love the way her hair flows and how it is rendered! The pose with one leg up also adds a sense of motion as if she's moving toward the viewer with their order. As always, Lucina's adorable smile is the best!",
+			date_str: "January 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcqzoq2k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpe2prk7.png",
+			title: "Robcina: Time Together (fukuisora)",
+			artist: "fukuisora",
+			artist_url: "https://x.com/fukuisora",
+			art_url: "https://x.com/fukuisora/status/1882310929461006676",
+			desc: "This is a commission of Robin and Lucina having sex by fukuisora! Robin and Lucina finally have some time together, so they waste no time getting undressed and making love all night long. I love all the positions and scenarios the artist included in this piece!",
+			date_str: "January 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbgnb6wy.jpg", "https://cdn.imgchest.com/files/7kzcad3akk7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvk9v3a4.jpg",
+			title: "Robcina Onsen (Burnt_Green_Tea)",
+			artist: "Burnt_Green_Tea",
+			artist_url: "https://x.com/Burnt_Green_Tea",
+			art_url: "https://x.com/Burnt_Green_Tea/status/1882863540048101537",
+			desc: "This is a commission of Robin and Lucina at the onsen by Burnt_Green_Tea! The couple relax at the onsen and share a cup of sake together. As Robin pours a drink for his beloved Lucina, Lucina's towel slips down her chest and falls into the water while both of her hands were busy holding the cup. Robin doesn't seem to mind the mishap however. The onsen got even steamier afterwards...",
+			date_str: "January 2025",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxeaa9k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnrmmvw4.png",
+			title: "Lucina's Fresh Milk (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina offering some fresh milk from the source by GrimmelsDaThird! Lucina squirts some of her Exalt breast milk into a cup of coffee to help get your day started!",
+			date_str: "January 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2bjjlzy.png", "https://cdn.imgchest.com/files/ye3c2rzzaq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpekkzz7.png",
+			title: "Hooters Lucina (ribosoma_42)",
+			artist: "ribosoma_42",
+			artist_url: "https://x.com/ribosoma_42",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ribosoma_42! Lucina looks so pretty! I love the pose since it's not often you see Hooters Lucina on her side like this! Her smile is awesome too! The mug of beer and her expression seem like an invitation for you to relax with her!",
+			date_str: "January 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4apc56avzj4.png", "https://cdn.imgchest.com/files/46acqnxgor7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2bdqery.png",
+			title: "Hooters Lucina (kkkiss_etc)",
+			artist: "kkkiss_etc",
+			artist_url: "https://x.com/kkkiss_etc",
+			art_url: "https://x.com/kkkiss_etc/status/1885177511870624112",
+			desc: "This is a Hooters Lucina by kkkiss_etc! Lucina looks so amazingly beautiful in this artwork! I absolutely love the outfit design the artist came up with as well as all the bright colors and star effects! The pose and the bouncing tray and plate of food add a really nice sense of motion to the piece! The artist did such a wonderful job on this!",
+			date_str: "January 2025",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
