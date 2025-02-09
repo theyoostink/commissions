@@ -6370,7 +6370,7 @@ var data = {
 			title: "Hooters Lucina (ribosoma_42)",
 			artist: "ribosoma_42",
 			artist_url: "https://x.com/ribosoma_42",
-			art_url: null,
+			art_url: "https://x.com/ribosoma_42/status/1888377274384195733",
 			desc: "This is a Hooters Lucina by ribosoma_42! Lucina looks so pretty! I love the pose since it's not often you see Hooters Lucina on her side like this! Her smile is awesome too! The mug of beer and her expression seem like an invitation for you to relax with her!",
 			date_str: "January 2025",
 			tags: ["hooters", "nsfw"],
@@ -6386,6 +6386,54 @@ var data = {
 			desc: "This is a Hooters Lucina by kkkiss_etc! Lucina looks so amazingly beautiful in this artwork! I absolutely love the outfit design the artist came up with as well as all the bright colors and star effects! The pose and the bouncing tray and plate of food add a really nice sense of motion to the piece! The artist did such a wonderful job on this!",
 			date_str: "January 2025",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4jdcvggebo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2ee3r9y.png",
+			title: "Hooters Lucina (SnowCarnival)",
+			artist: "SnowCarnival",
+			artist_url: "https://x.com/SnowCarnival",
+			art_url: null,
+			desc: "This is a Hooters Lucina by SnowCarnival! Lucina looks so pretty! I love all the warm colors and tones in this artwork! The chicken and beer also look delicious! As always, Lucina's smile is the best!",
+			date_str: "February 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5cekkab64.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2xxqb24.jpg",
+			title: "Lunar New Year Lucina and Marianne",
+			artist: "matsuo95",
+			artist_url: "https://x.com/matsuo95",
+			art_url: "https://x.com/matsuo95/status/1887484453980885283",
+			desc: "This is a joint commission with SixtyBuzzer by matsuo95! To celebrate the Year of the Snake Lunar New Year, Lucina and Marianne don their qipaos! The two ladies look beautiful in their dresses! I also love how both of them have their hair tied up for the occasion!",
+			date_str: "February 2025",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3zzlvj4.jpg", "https://cdn.imgchest.com/files/yd5cekkam64.jpg", "https://cdn.imgchest.com/files/yrgcn88j9l4.jpg", "https://cdn.imgchest.com/files/7lxcp995xb7.jpg", "https://cdn.imgchest.com/files/4jdcvgge6q4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckppe6e7.jpg",
+			title: "Hooters Lucina (NiniNirai)",
+			artist: "NiniNirai",
+			artist_url: "https://x.com/NiniNirai",
+			art_url: "",
+			desc: "This is a Hooters Lucina by NiniNirai! Lucina looks so pretty! I love her confident pose and smile! The sloshing beer looks great too! The tied up shirt is always nice to see when the artist comes up with the outfit design! The artist did a wonderful job, and all the alternate versions are awesome!",
+			date_str: "February 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnxv6x84.png", "https://cdn.imgchest.com/files/4apc5zq8z34.png", "https://cdn.imgchest.com/files/45xcvzp5ze7.png", "https://cdn.imgchest.com/files/46acqo8dog7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvajpao7.png",
+			title: "Hooters Lucina Blowjob (ETT01024)",
+			artist: "ETT01024",
+			artist_url: "https://x.com/ETT01024",
+			art_url: "https://www.pixiv.net/artworks/127038149",
+			desc: "This is a commission Hooters Lucina giving a blowjob by ETT01024! After hours, Lucina pulls her favorite client aside and gives him a nice sloppy blowjob as she pleasures herself! He fills her mouth with his cum from her skillful technique, and Lucina takes it all! The artist did such a wonderful job on the artwork! Lucina looks so pretty and sexy!",
+			date_str: "February 2025",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
