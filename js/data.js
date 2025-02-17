@@ -5291,7 +5291,7 @@ var data = {
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi",
 			art_url: "https://x.com/SINccubi/status/1782848298338144548",
-			desc: "This is a commission of Lucina and Robin by SINccubi! Robin comes home early to a view of Lucina making chocolate in a naked apron. It looks like his wife was more irresistible than the chocolate, and Robin dives right in. The chocolate might have to wait as Lucina gets eaten out by Robin!",
+			desc: "This is a commission of Lucina and Robin by SINccubi! Robin comes home early to a view of Lucina making chocolate in a naked apron. It looks like his wife is more irresistible than the chocolate, and Robin dives right in. The chocolate may have to wait as Lucina gets eaten out by Robin!",
 			date_str: "April 2024",
 			tags: ["nsfw"],
 			hidden: false
@@ -5561,7 +5561,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/pyvdckr88gy.jpg", "https://cdn.imgchest.com/files/j7mmc6b5pk7.jpg"],
+			src: ["https://cdn.imgchest.com/files/pyvdckr88gy.jpg", "https://cdn.imgchest.com/files/j7mmc6b5pk7.jpg", "https://cdn.imgchest.com/files/y8xcnxqrzg4.gif"],
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcwnddw7.jpg",
 			title: "Lucina Emotes (EightyEightIDN)",
 			artist: "EightyEightIDN",
@@ -6370,7 +6370,7 @@ var data = {
 			title: "Hooters Lucina (ribosoma_42)",
 			artist: "ribosoma_42",
 			artist_url: "https://x.com/ribosoma_42",
-			art_url: "https://x.com/ribosoma_42/status/1888377274384195733",
+			art_url: "https://www.pixiv.net/en/artworks/127060722",
 			desc: "This is a Hooters Lucina by ribosoma_42! Lucina looks so pretty! I love the pose since it's not often you see Hooters Lucina on her side like this! Her smile is awesome too! The mug of beer and her expression seem like an invitation for you to relax with her!",
 			date_str: "January 2025",
 			tags: ["hooters", "nsfw"],
@@ -6418,7 +6418,7 @@ var data = {
 			title: "Hooters Lucina (NiniNirai)",
 			artist: "NiniNirai",
 			artist_url: "https://x.com/NiniNirai",
-			art_url: "",
+			art_url: null,
 			desc: "This is a Hooters Lucina by NiniNirai! Lucina looks so pretty! I love her confident pose and smile! The sloshing beer looks great too! The tied up shirt is always nice to see when the artist comes up with the outfit design! The artist did a wonderful job, and all the alternate versions are awesome!",
 			date_str: "February 2025",
 			tags: ["hooters", "nsfw"],
@@ -6434,6 +6434,30 @@ var data = {
 			desc: "This is a commission Hooters Lucina giving a blowjob by ETT01024! After hours, Lucina pulls her favorite client aside and gives him a nice sloppy blowjob as she pleasures herself! He fills her mouth with his cum from her skillful technique, and Lucina takes it all! The artist did such a wonderful job on the artwork! Lucina looks so pretty and sexy!",
 			date_str: "February 2025",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/45xcvz8kdq7.png", "https://cdn.imgchest.com/files/4apc5zvdgp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx2mv5p4.png",
+			title: "Hooters Lucina (ursla99)",
+			artist: "ursla99",
+			artist_url: "https://x.com/ursla99",
+			art_url: "https://x.com/ursla99/status/1890008609226170867",
+			desc: "This is a Hooters Lucina by ursla99! Lucina looks so pretty! I always love the tied up shirt design that some artists choose for the outfit! The inclusion of Feh the owl is such a nice detail as well! And as always, Lucina's smile and wink are the best!",
+			date_str: "February 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/46acqogak27.png", "https://cdn.imgchest.com/files/yvdcwrnbvjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnxql3q4.png",
+			title: "Were They Quick Enough? (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: "",
+			desc: "This is a commission done by decoxart! One night, Robin and Lucina get intimate after their daughter Morgan went to bed. Robin gulps down milk from Lucina's breasts as he fucks his wife. Unbeknownst to them, however, the couple forgot to close and lock their bedroom door. Morgan wakes up from a nightmare and sleepily walks over to her parents' bedroom for consolation. As the door swings open, Robin and Lucina quickly stop and cover themselves to act like they were reading a book together. Did Morgan catch them in the act, or were they quick enough?",
+			date_str: "February 2025",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
