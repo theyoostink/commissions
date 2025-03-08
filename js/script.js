@@ -241,7 +241,7 @@ function createTagsDropdown(tags) {
 		// If the tag is "nsfw" and is checked, then ask for 18+ confirmation
 		if (tag == "nsfw" && $(this).closest("input").prop("checked")) {
 			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
-			var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+			var nsfw_confirmation = nsfwVerification();
 			// Set the checkbox to unchecked if Cancel was selected instead of OK
 			if (!nsfw_confirmation) {
 				$(this).closest("input").prop("checked", false);
@@ -362,4 +362,19 @@ function showImagesThatMatch() {
 	$(".hidden-image").hide();
 
 	updateImageCountLabel();
+}
+
+function nsfwVerification() {
+	if (localStorage.getItem("nsfwVerified") && localStorage.getItem("nsfwVerified") == "verified") {
+		return true;
+	}
+	var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+	if (!nsfw_confirmation) {
+		localStorage.setItem("nsfwVerified", "notVerified")
+		return false;
+	}
+	else {
+		localStorage.setItem("nsfwVerified", "verified")
+		return true;
+	}
 }
