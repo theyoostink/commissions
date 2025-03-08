@@ -6,14 +6,15 @@ This is a webpage for my art commissions. Check it out! [https://theyoostink.git
 
 For any questions about the gallery site or how to use the template, contact Yoostink.
 
-I can also provide support for customized functionality like a danbooru-style tag selection feature instead of a filter, one-and-done age verification prompt, default display based on tag combinations, a mode for showing all entries, etc.
+I can also provide support for customized functionality like a danbooru-style tag selection feature instead of a filter, one-and-done age verification prompt, default display based on tag combinations, a mode for showing all entries, row-by-row display instead of column-by-column display, disabling permalinks, etc.
 
 Sites that use my template:
 - https://talkingdinosaur.github.io/commissions/
+- https://eebyverse.github.io/commissions/
 
 ## Customization
 
-I made this website from scratch, but I designed the code so that it can be used as a template by anyone who wants to copy it and customize it to make it their own. You just need some working knowledge of HTML, CSS, and JavaScript along with Bootstrap and jQuery. And obviously, you'll need knowledge of git and GitHub since you're already here. Once all of the setup is done, you just need to alter the JSON file to add entries.
+I made this website from scratch, but I designed the code so that it can be used as a template by anyone who wants to copy it and customize it to make it their own. You just need some working knowledge of HTML, CSS, and JavaScript along with Bootstrap and jQuery. And obviously, you'll need knowledge of git and GitHub since you're already here. Once all of the setup is done, you just need to alter the JSON file to add entries. I have written a more in-depth guide, so please let me know if you would like a copy.
 
 Files to modify:
 
@@ -45,7 +46,7 @@ An explanation of the `data.js` object fields:
 Regarding tags:
 
 - Tags should be lowercase (and are also case-sensitive)
-- The order of the tags is dictated by the order in which they appear in `data.js`
+- The order of the tags is dictated by the order in which they appear in `data.js`.
 - I recommend having a placeholder hidden entry as the first entry in `data.js` with the tag order you desire in the `tags` field
 - Having the placeholder hidden entry also allows your actual first entry to have an index of 1 since arrays are zero-indexed
 - Special logic is in place for the `nsfw` tag: selecting it in the Filter dropdown will ask the user to confirm their age where clicking OK will reveal NSFW images and Cancel will prevent them from enabling the tag
