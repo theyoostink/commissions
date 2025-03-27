@@ -597,7 +597,8 @@ var data = {
 				"https://cdn.imgchest.com/files/l7lxc868gz7.png",
 				"https://cdn.imgchest.com/files/myd5cd5zjm4.png",
 				"https://cdn.imgchest.com/files/4nec8zno634.png",
-				"https://cdn.imgchest.com/files/4nec8g3v994.png"
+				"https://cdn.imgchest.com/files/4nec8g3v994.png",
+				"https://cdn.imgchest.com/files/4apc5ql3av4.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -647,7 +648,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1840890518706012490' target='_blank'>Lucina Got Yamcha'd</a><br/>
 			<a href='https://x.com/Mnejing30/status/1856841020820131908' target='_blank'>Homelander Kempf</a><br/>
 			<a href='https://x.com/mnejing30/status/1869523411288109255' target='_blank'>Robcina Let Him Cook</a><br/>
-			<a href='https://x.com/Mnejing30/status/1885473052668157958' target='_blank'>Saori's New Job</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1885473052668157958' target='_blank'>Saori's New Job</a><br/>
+			<a href='https://x.com/mnejing30/status/1905041664458256727' target='_blank'>Lucina's Sharp Words</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -921,7 +923,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/6yxkcmj9w67.jpg",
 			title: "Hooters Lucina (LambOic029)",
 			artist: "LambOic029",
-			artist_url: "https://x.com/LambOic029",
+			artist_url: "https://www.pixiv.net/users/20398366",
 			art_url: "https://skeb.jp/@LambOic029/works/201",
 			desc: "This is Lamb's Hooters Lucina (LambOic029 on Twitter)! She looks really pretty and also really cute! I like the bashful expression in this one. The colors are also pleasant and have some warmth to them. It's all really nice!",
 			date_str: "December 2021",
@@ -2385,7 +2387,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/d7ogcq833jy.png",
 			title: "Nude Lucina Brushing Her Teeth (LambOic029)",
 			artist: "LambOic029",
-			artist_url: "https://x.com/LambOic029",
+			artist_url: "https://www.pixiv.net/users/20398366",
 			art_url: null,
 			desc: "This is a commission of nude Lucina brushing her teeth by LambOic029! It's a simple concept for a series of commissions I'm doing. Lucina is so cute and so pretty!",
 			date_str: "September 2022",
@@ -6518,6 +6520,78 @@ var data = {
 			desc: "This is a commission of Lucina and Masked Marth giving Robin a double titjob by TheHmago! While Robin was lounging in the bedroom, his two wives approach him in the nude and service him with their breasts. As they massage him, Robin massages their asses in return until he covers their entire upper bodies with a fountain of his cum. The three of them know this is far from over and ready themselves for some more fun!",
 			date_str: "March 2025",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnl8qpk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8x9dx7.png",
+			title: "Hooters Lucina (luyue662)",
+			artist: "luyue662",
+			artist_url: "https://x.com/luyue662",
+			art_url: "https://x.com/luyue662/status/1900206974622416975",
+			desc: "This is a Hooters Lucina by luyue662! Lucina looks so cute! I love all the bright colors and the dynamic parts of the artwork from the sloshing beer to the jumping chicken wings! Lucina's hair looks so good too! The artist did such a wonderful job!",
+			date_str: "March 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/46acqaegzp7.png", "https://cdn.imgchest.com/files/yvdcwbon65y.png", "https://cdn.imgchest.com/files/yxkczjoq257.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxvrmnn4.png",
+			title: "Hooters Niamh (LambOic029)",
+			artist: "LambOic029",
+			artist_url: "https://www.pixiv.net/users/20398366",
+			art_url: null,
+			desc: "This is a Hooters Niamh by LambOic029! Niamh is a character from Fire Emblem Cipher TCG, and she is the subject of the Lucina Fan Club's April Fool's Day joke! Niamh is very pretty!",
+			date_str: "March 2025",
+			tags: ["hooters", "other", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yvdcwbkgrwy.png", "https://cdn.imgchest.com/files/yxkczjwknb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv8zkeg7.png",
+			title: "Mumei After Plapping (takepopon)",
+			artist: "takepopon",
+			artist_url: "https://x.com/takepopon",
+			art_url: null,
+			desc: "This is a commission of Mumei after sex by takepopon! It is a birthday gift for my friend Exalted who loves Mumei! The artwork depicts Mumei after she gets bent over and plapped hard in her emo outfit. It looks like she enjoyed it and wants more!",
+			date_str: "March 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8wqneo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnl52er4.png",
+			title: "Rough Robcina Sex (PomeloMelon1)",
+			artist: "PomeloMelon1",
+			artist_url: "https://x.com/PomeloMelon1",
+			art_url: null,
+			desc: "This is a commission of rough Robcina sex by PomeloMelon1! A pajama-clad Robin was reading his book before bed when his nude wife approaches him. Giving into temptation, Robin quickly drops his pants and fucks Lucina hard and fast. He firmly grabs onto Lucina as he pounds her and eventually fills her up with tons of cum!",
+			date_str: "March 2025",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ye3c2pzvrn4.png", "https://cdn.imgchest.com/files/4z9cv8bqel7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvwoxk34.png",
+			title: "Hooters Lucina (dismaidenart)",
+			artist: "dismaidenart",
+			artist_url: "https://x.com/dismaidenart",
+			art_url: "https://x.com/dismaidenart/status/1904247594622062727",
+			desc: "This is a Hooters Lucina by dismaidenart! I really like their previous Hooters artwork, so I'm glad I got the opportunity to commission them for this! Lucina looks so cute after a clumsy fall! I love all the details in the background, especially the hilarious signs! The shirt logo is super creative too!",
+			date_str: "March 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxnazev7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpgkaex7.png",
+			title: "Hooters Lucina (Orlek_)",
+			artist: "Orlek_",
+			artist_url: "https://x.com/Orlek_",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Orlek_! It looks like Lucina slipped on a puddle and is falling forward! She's trying really hard to regain balance, but it looks like it's too late! Oh no! The artist did such a great job on the artwork! I love the bright colors, highlights, and the food artwork!",
+			date_str: "March 2025",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
