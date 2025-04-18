@@ -2011,7 +2011,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/345xcgk5jr7.png", "https://cdn.imgchest.com/files/84apckd82j4.png", "https://cdn.imgchest.com/files/k46ac5admr7.png", "https://cdn.imgchest.com/files/pyvdcebq2my.png"],
+			src: ["https://cdn.imgchest.com/files/345xcgk5jr7.png", "https://cdn.imgchest.com/files/84apckd82j4.png", "https://cdn.imgchest.com/files/4apc5kn6er4.png", "https://cdn.imgchest.com/files/46acq59n2x7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/345xcgkjoj7.png",
 			title: "Lucina and Robin Try for a Baby (Amemachi2A16)",
 			artist: "Amemachi2A16",
@@ -3811,7 +3811,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/k739condwe7.png", "https://cdn.imgchest.com/files/g4z9cn8lr87.png", "https://cdn.imgchest.com/files/my8xcwldmw4.png", "https://cdn.imgchest.com/files/345xcgkj3n7.png", "https://cdn.imgchest.com/files/84apckd2xg4.png", "https://cdn.imgchest.com/files/k46ac5amww7.png"],
+			src: ["https://cdn.imgchest.com/files/k739condwe7.png", "https://cdn.imgchest.com/files/g4z9cn8lr87.png", "https://cdn.imgchest.com/files/my8xcwldmw4.png", "https://cdn.imgchest.com/files/yvdcwe8a5ly.png", "https://cdn.imgchest.com/files/49zc2p6mq8y.png", "https://cdn.imgchest.com/files/4nec8j2gxz4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcx3qad7.png",
 			title: "Lucina and Robin Try for a Baby Again (Amemachi2A16)",
 			artist: "Amemachi2A16",
@@ -4843,7 +4843,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/w7w6clkg23y.png", "https://cdn.imgchest.com/files/j7kzc56gbm7.png", "https://cdn.imgchest.com/files/g4z9cognvb7.png", "https://cdn.imgchest.com/files/y2pckqldb67.png", "https://cdn.imgchest.com/files/7lxcpalrbd7.png", "https://cdn.imgchest.com/files/4jdcvx83p64.png"],
+			src: ["https://cdn.imgchest.com/files/w7w6clkg23y.png", "https://cdn.imgchest.com/files/j7kzc56gbm7.png", "https://cdn.imgchest.com/files/g4z9cognvb7.png", "https://cdn.imgchest.com/files/7bwckv8alk7.png", "https://cdn.imgchest.com/files/7pjcq89zvz7.png", "https://cdn.imgchest.com/files/7ogcbqjgely.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7mmcvbl9n7.png",
 			title: "Lucina and Robin Have Some Fun (Amemachi2A16)",
 			artist: "Amemachi2A16",
@@ -6664,6 +6664,42 @@ var data = {
 			desc: "This is a joint commission with Exalted by RedKite333! Morgan shocks her parents when she takes her first steps! She starts on her mother Lucina's side and stumbles over to her father Robin! She takes one last step into Robin's open embrace, and the proud parents celebrate!",
 			date_str: "April 2025",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzca9qwqj7.jpg", "https://cdn.imgchest.com/files/y2pck3vdvj7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvpxqxg7.jpg",
+			title: "Hooters Lucina (dekura_)",
+			artist: "dekura_",
+			artist_url: "https://x.com/dekura_",
+			art_url: "https://x.com/dekura_/status/1910436301347713430",
+			desc: "This is a Hooters Lucina by dekura_! Lucina looks so pretty! I love background art and lighting and shading! It really gives such a nice vibe to the piece! And as always, Lucina's big wide smile is the best! The artist did such an amazing job!",
+			date_str: "April 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbrowo6y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5qawan4.png",
+			title: "Morgan Hatched (Densho_Hiyoko)",
+			artist: "Densho_Hiyoko",
+			artist_url: "https://x.com/Densho_Hiyoko",
+			art_url: "https://x.com/Densho_Hiyoko/status/1911398436512936180",
+			desc: "This is a commission of female Morgan by Densho_Hiyoko! I always wondered what was inside Spring Bunny Lucina's egg, and it turns Lucina's daughter Morgan was inside the whole time! Morgan hatched from the egg to everyone's surprise!",
+			date_str: "April 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y8xcnwlorb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnwloob4.png",
+			title: "Hooters Lucina (schereas)",
+			artist: "schereas",
+			artist_url: "https://x.com/schereas",
+			art_url: "https://x.com/schereas/status/1912228286761218180",
+			desc: "This is a Hooters Lucina by schereas! Lucina looks so pretty! The background work is gorgeous too! I absolutely adore Lucina's gentle smile! The artist did such a wonderful job!",
+			date_str: "April 2025",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
