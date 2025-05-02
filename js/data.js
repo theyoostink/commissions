@@ -6703,6 +6703,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcnwag8p4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8jnkej4.png",
+			title: "Hooters Lucina (ant_jams)",
+			artist: "ant_jams",
+			artist_url: "https://x.com/ant_jams",
+			art_url: "https://x.com/ant_jams/status/1914345248219697411",
+			desc: "This is a Hooters Lucina by ant_jams! Lucina looks beautiful in this! I love her confident expression and pose, and I also love how toned her arms are especially as they hold two trays of an enormous amount of wings and beer! I also love how there is texture to the illustration as if it were painted on a canvas! The artist did such a stellar and amazing job on this, and I'm so glad I got the opportunity to commission such a talented artist!",
+			date_str: "April 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7mmc9l3vg27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckvex987.jpg",
+			title: "Office Romance (sierra117renner)",
+			artist: "sierra117renner",
+			artist_url: "https://x.com/sierra117renner",
+			art_url: null,
+			desc: "This is a commission of Robin and Lucina doing mutual masturbation by sierra117renner! One morning, Lucina approaches Robin in his study and tempts him with her nude body. Robin can't resist, so the couple start a bit of foreplay with some mutual masturbation. After they cum once each, they get ready to move on to the main course! The artist did such a great job of capturing this moment of romance and lust!",
+			date_str: "April 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3plwlg4.png", "https://cdn.imgchest.com/files/yd5cexa8ap4.png", "https://cdn.imgchest.com/files/yrgcnwjpjo4.png", "https://cdn.imgchest.com/files/7mmc9l6d657.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cexa8az4.png",
+			title: "Hooters Glory Hole (doehorn_tw)",
+			artist: "doehorn_tw",
+			artist_url: "https://x.com/doehorn_tw",
+			art_url: "",
+			desc: "This is a commission of Hooters Lucina at a glory hole by doehorn_tw! Lucina looks so pretty and sexy! The way she pulled her shirt and shorts down is so awesome as she pleasures two dicks poking through the glory holes. She squirts hard as the men cum all over her, so she must have really enjoyed it! I really love the artist's style, and the artist did such a wonderful job!",
+			date_str: "April 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7lxcpw5q5w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnwjpjb4.png",
+			title: "Hooters Lucina (kinakoyamamori)",
+			artist: "kinakoyamamori",
+			artist_url: "https://x.com/kinakoyamamori",
+			art_url: "https://www.pixiv.net/en/artworks/129704403",
+			desc: "This is a Hooters Lucina by kinakoyamamori! Lucina looks so pretty! I love how the light shines from behind her illuminating her flowing hair! The big mugs of beer look tasty, and Lucina's gentle smile is the best as always!",
+			date_str: "April 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcaom6br7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpwov6o7.png",
+			title: "Marianne and a Popsicle (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission gift for SixtyBuzzer by GrimmelsDaThird! Marianne messily licks up her dripping popsicle as she tries to cool down at the beach. She even pulled out her breast to cope with the heat, or was it on purpose to tempt you?",
+			date_str: "April 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
