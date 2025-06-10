@@ -1393,7 +1393,7 @@ var data = {
 			artist: "Mari48240422",
 			artist_url: "https://x.com/Mari48240422",
 			art_url: "https://x.com/Mari48240422/status/1514376585247264769",
-			desc: "This is a joint commmission I did with Exalted done by SeaSunSmasher (Mari48240422 on Twitter)! Morgan takes advantage of her mother's employee discount but goes a little too far. Will Lucina's wallet recover? The detail in the food and all the little background pieces are absolutely amazing! It was great working with the artist on this, and I'm glad to hear that they had a blast working on this. This artwork is truly spectacular and wonderful!",
+			desc: "This is a joint commission I did with Exalted done by SeaSunSmasher (Mari48240422 on Twitter)! Morgan takes advantage of her mother's employee discount but goes a little too far. Will Lucina's wallet recover? The detail in the food and all the little background pieces are absolutely amazing! It was great working with the artist on this, and I'm glad to hear that they had a blast working on this. This artwork is truly spectacular and wonderful!",
 			date_str: "April 2022",
 			tags: ["hooters"],
 			hidden: false
@@ -3697,7 +3697,7 @@ var data = {
 			artist: "sugarbell_art",
 			artist_url: "https://x.com/sugarbell_art",
 			art_url: "https://x.com/sugarbell_art/status/1652462307472035842",
-			desc: "This is a Hooters Lucina by sugarbell_art! Lucina looks so cute! I absolutely love all the vibrant colors and how bright the artwork is. Her smile is also gorgeous and adorable! The food art looks great too! I really like how the artist draws Lucina, so I'm glad to have had the opportunity to commmission them!",
+			desc: "This is a Hooters Lucina by sugarbell_art! Lucina looks so cute! I absolutely love all the vibrant colors and how bright the artwork is. Her smile is also gorgeous and adorable! The food art looks great too! I really like how the artist draws Lucina, so I'm glad to have had the opportunity to commission them!",
 			date_str: "April 2023",
 			tags: ["hooters", "nsfw"],
 			hidden: false
@@ -3829,7 +3829,7 @@ var data = {
 			artist: "Meziosaur",
 			artist_url: "https://x.com/meziosaur",
 			art_url: "https://x.com/meziosaur/status/1658653375339036672",
-			desc: "This is a commmission of a Palla portrait by Meziosaur! It's also a joint commission with labmemb3r since we both love Palla! I really love how Meziosaur drew Palla in this: elegant, dignified, and beautiful. Palla is amazingly pretty!",
+			desc: "This is a commission of a Palla portrait by Meziosaur! It's also a joint commission with labmemb3r since we both love Palla! I really love how Meziosaur drew Palla in this: elegant, dignified, and beautiful. Palla is amazingly pretty!",
 			date_str: "May 2023",
 			tags: ["other"],
 			hidden: false
@@ -3972,7 +3972,7 @@ var data = {
 			title: "Hooters Lucina (empe0317)",
 			artist: "empe0317",
 			artist_url: "https://x.com/empe0317",
-			art_url: "https://x.com/empe0317/status/1819494444779163877",
+			art_url: "https://x.com/empe0317/status/1928936335307370964",
 			desc: "This is a Hooters Lucina by empe0317! The artist is a great art style, and I love their Lucina artwork. I'm glad that I had the opportunity to commission them! Lucina looks really pretty, and all the colors are so nice and vibrant!",
 			date_str: "June 2023",
 			tags: ["hooters"],
@@ -6868,6 +6868,66 @@ var data = {
 			desc: "This is a Hooters Lucina by kzhjp! I really like the Hooters themed tiara and the refreshing look of her uniform! Lucina's smile is the best as always!",
 			date_str: "May 2025",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4gdcxel5zg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pcklxzbn7.png",
+			title: "Cumming on Exalt Lucina's Armpit (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission by GrimmelsDaThird! After seeing Lucina's exposed armpits in her Exalt dress, Lucina's husband makes a special request and asks to cum on her armpit. Lucina is a bit hesitant at first, but she allows him to do so. He gets a little too excited and ends up cumming all over Lucina instead of just her armpit. Lucina's a little annoyed that she has to clean up her dress and face, but she's a secretly happy that this pleased her husband so much.",
+			date_str: "May 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pcklz3ge7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqr5b3w7.png",
+			title: "Hooters Lucina (aki_Mai_2165)",
+			artist: "aki_Mai_2165",
+			artist_url: "https://x.com/aki_Mai_2165",
+			art_url: null,
+			desc: "This is a Hooters Lucina by aki_Mai_2165! I really like the pose and angle of this one since it's unique among the ones I have commissioned! I love the way how Lucina's hair flows and the colors used in the artwork!",
+			date_str: "May 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2o66eey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnobb8x4.png",
+			title: "Hooters Lucina (mgosketches)",
+			artist: "mgosketches",
+			artist_url: "https://x.com/mgosketches",
+			art_url: null,
+			desc: "This is a Hooters Lucina by mgosketches! Lucina looks so cute! I love all the warm colors in this piece and the trays of delicious wings and beer! Lucina's big smile is the best as always! Mango has such a great art style, and I'm glad I got the opportunity to commission them!",
+			date_str: "June 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4z9cvxjja87.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc98qqz97.png",
+			title: "Hooters Lucina (GrimaIsBestWaifu)",
+			artist: "GrimaIBW",
+			artist_url: "https://x.com/GrimaIBW",
+			art_url: "https://x.com/GrimaIBW/status/1932117758097125758",
+			desc: "This is a Hooters Lucina by GrimaIsBestWaifu! Lucina looks so pretty! I love Lucina's peaceful expression as she leans on a table with a mug of beer in hand! It looks like she's enjoying a short but well deserved break! I love the artist's style, and I have been seeing their art on Reddit for years now. I'm glad I got the opportunity to commission them now!",
+			date_str: "June 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yxkczoaqkw7.png", "https://cdn.imgchest.com/files/4nec8valnx4.png", "https://cdn.imgchest.com/files/7pjcqorkdg7.png", "https://cdn.imgchest.com/files/7ogcbndxw9y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3nmv2d4.png",
+			title: "Gifts for Severa (magmelmel)",
+			artist: "magmelmel",
+			artist_url: "https://x.com/magmelmel",
+			art_url: null,
+			desc: "This is a commission gift for bento by magmelmel! bento always encourages me to write, and one of his favorite characters is Severa! In this commissions, Severa is riding you in the cowgirl position as appreciation for buying her a new swimsuit! She seems to really like the bikini and sex! I also wrote a short story based on the art <a href='https://archiveofourown.org/works/66346684'>here</a>.",
+			date_str: "June 2025",
+			tags: [""],
 			hidden: false
 		},
 		{
