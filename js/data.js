@@ -6927,7 +6927,7 @@ var data = {
 			art_url: null,
 			desc: "This is a commission gift for bento by magmelmel! bento always encourages me to write, and one of his favorite characters is Severa! In this commissions, Severa is riding you in the cowgirl position as appreciation for buying her a new swimsuit! She seems to really like the bikini and sex! I also wrote a short story based on the art <a href='https://archiveofourown.org/works/66346684'>here</a>.",
 			date_str: "June 2025",
-			tags: [""],
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
