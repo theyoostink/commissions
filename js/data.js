@@ -6965,7 +6965,7 @@ var data = {
 			art_url: null,
 			desc: "This is a commission of Hooters Lucina having anal sex by vehn___! It's a continuation to my <span class='series-link' index='449'>previous commission</span>. After Robin gets sucked off, he plows Lucina's ass until he fills her up! Lucina seems to have enjoyed it, but after coming down from her orgasmic high, she got mad that her shorts were torn open.",
 			date_str: "",
-			tags: [""],
+			tags: ["hooters", "nsfw"],
 			hidden: true
 		},
 		{
