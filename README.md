@@ -11,6 +11,7 @@ I can also provide support for customized functionality like a danbooru-style ta
 Sites that use my template:
 - https://talkingdinosaur.github.io/commissions/
 - https://eebyverse.github.io/commissions/
+- https://theashenjedi.github.io/commissions/
 
 ## Customization
 

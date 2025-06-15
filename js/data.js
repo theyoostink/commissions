@@ -598,7 +598,8 @@ var data = {
 				"https://cdn.imgchest.com/files/myd5cd5zjm4.png",
 				"https://cdn.imgchest.com/files/4nec8zno634.png",
 				"https://cdn.imgchest.com/files/4nec8g3v994.png",
-				"https://cdn.imgchest.com/files/4apc5ql3av4.png"
+				"https://cdn.imgchest.com/files/4apc5ql3av4.png",
+				"https://cdn.imgchest.com/files/yd5celrrqa4.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -649,7 +650,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1856841020820131908' target='_blank'>Homelander Kempf</a><br/>
 			<a href='https://x.com/mnejing30/status/1869523411288109255' target='_blank'>Robcina Let Him Cook</a><br/>
 			<a href='https://x.com/Mnejing30/status/1885473052668157958' target='_blank'>Saori's New Job</a><br/>
-			<a href='https://x.com/mnejing30/status/1905041664458256727' target='_blank'>Lucina's Sharp Words</a><br/>`,
+			<a href='https://x.com/mnejing30/status/1905041664458256727' target='_blank'>Lucina's Sharp Words</a><br/>
+			<a href='https://x.com/Mnejing30/status/1932925887256932414' target='_blank'>Fallout Boy Ingrid (Gift request for TheAshenJedi)</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5109,11 +5111,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/k46acekren7.png", "https://cdn.imgchest.com/files/6yxkcoreox7.png", "https://cdn.imgchest.com/files/b49zcowjogy.png"],
 			thumbnail: "https://cdn.imgchest.com/files/j7kzc356327.png",
-			title: "Hooters Lucina (whimsycottt)",
-			artist: "whimsycottt",
+			title: "Hooters Lucina (Whimsycotttt)",
+			artist: "Whimsycotttt",
 			artist_url: "https://x.com/Whimsycotttt",
 			art_url: null,
-			desc: "This is a Hooters Lucina by whimsycottt! Lucina looks super cute! I really love the artist's style, so I'm glad I got the opportunity to commission them. The Feh on the shirt is adorable as well as Lucina's big smile! The ponytail alt is also really cute too!",
+			desc: "This is a Hooters Lucina by Whimsycotttt! Lucina looks super cute! I really love the artist's style, so I'm glad I got the opportunity to commission them. The Feh on the shirt is adorable as well as Lucina's big smile! The ponytail alt is also really cute too!",
 			date_str: "March 2024",
 			tags: ["hooters"],
 			hidden: false
@@ -6929,6 +6931,42 @@ var data = {
 			date_str: "June 2025",
 			tags: ["nsfw", "other"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnozzrp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3need24.jpg",
+			title: "Soccer Anna (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for Addict by true_jek_art! Addict is a big Anna fan, so I commissioned Anna in a soccer uniform! It looks like this one is the Anna from Askr with references to FEH on her outfit! Anna looks cute, and her wink is great!",
+			date_str: "June 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7bwckopwaw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwokpazy.png",
+			title: "Hooters Lucina and Mitan",
+			artist: "envydebiru021",
+			artist_url: "https://x.com/envydebiru021",
+			art_url: "https://x.com/envydebiru021/status/1933342711559696541",
+			desc: "This a joint commission with Jimm by envydebiru021! Lucina and Mitan both look so pretty! This is the first time I got a commission with the T-shirt design of the Hooters outfit, and it looks great on both Lucina and Mitan! The artist did a wonderful job on this!",
+			date_str: "June 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxma5we7.png", "https://cdn.imgchest.com/files/7w6c2ojn5ey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3nxagq4.png",
+			title: "Hooters Lucina Anal Sex (vehn___)",
+			artist: "vehn___",
+			artist_url: "https://x.com/vehn___",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina having anal sex by vehn___! It's a continuation to my <span class='series-link' index='449'>previous commission</span>. After Robin gets sucked off, he plows Lucina's ass until he fills her up! Lucina seems to have enjoyed it, but after coming down from her orgasmic high, she got mad that her shorts were torn open.",
+			date_str: "",
+			tags: [""],
+			hidden: true
 		},
 		{
 			src: [""],
