@@ -4827,7 +4827,7 @@ var data = {
 			artist: "Densho_Hiyoko",
 			artist_url: "https://x.com/Densho_Hiyoko",
 			art_url: "https://x.com/Densho_Hiyoko/status/1748326610514960580",
-			desc: "This is a commission mother and daughter Lucina and Morgan by Densho_Hiyoko! I've been a fan of the artist's cute Lucina chibi artwork for years. Lucina is trying to cover Morgan's eyes from seeing something embarassing. I wonder what it is!",
+			desc: "This is a commission of mother and daughter Lucina and Morgan by Densho_Hiyoko! I've been a fan of the artist's cute Lucina chibi artwork for years. Lucina is trying to cover Morgan's eyes from seeing something embarassing. I wonder what it is!",
 			date_str: "January 2024",
 			tags: [""],
 			hidden: false
@@ -4962,7 +4962,7 @@ var data = {
 			desc: "This is a Patreon request that won a poll by true_jek_art! On Patreon, the artist asked for suggestions for an upcoming poll. They mentioned some example ideas that can be suggested to give the patrons an idea of what they can request. One of the examples of Fallen Lucina. I just asked for Fallen Lucina to be added to the poll since it sounded interesting, and later Fallen Lucina won the poll! Lucina looks really pretty, and I love all the little details in the design. The Mark of Grima in her eye is a really cool touch!",
 			date_str: "February 2024",
 			tags: [""],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/j7mmcj6an37.png"],
@@ -6486,7 +6486,7 @@ var data = {
 			desc: "This is a commission of Nurse Ishtar by true_jek_art! It's a gift for eili_enie who is a big fan of Ishtar! Ishtar is always so pretty, and she looks especially beautiful as a nurse! I also really like the little photo on her badge! It's cute!",
 			date_str: "February 2025",
 			tags: ["other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/y2pckad8rr7.png", "https://cdn.imgchest.com/files/7lxcp3ro267.png"],
@@ -6570,7 +6570,7 @@ var data = {
 			desc: "This is a commission of rough Robcina sex by PomeloMelon1! A pajama-clad Robin was reading his book before bed when his nude wife approaches him. Giving into temptation, Robin quickly drops his pants and fucks Lucina hard and fast. He firmly grabs onto Lucina as he pounds her and eventually fills her up with tons of cum!",
 			date_str: "March 2025",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/ye3c2pzvrn4.png", "https://cdn.imgchest.com/files/4z9cv8bqel7.png"],
@@ -6738,7 +6738,7 @@ var data = {
 			desc: "This is a commission of Hooters Lucina at a glory hole by doehorn_tw! Lucina looks so pretty and sexy! The way she pulled her shirt and shorts down is so awesome as she pleasures two dicks poking through the glory holes. She squirts hard as the men cum all over her, so she must have really enjoyed it! I really love the artist's style, and the artist did such a wonderful job!",
 			date_str: "April 2025",
 			tags: ["hooters", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7lxcpw5q5w7.png"],
@@ -6966,6 +6966,42 @@ var data = {
 			desc: "This is a commission of Hooters Lucina having anal sex by vehn___! It's a continuation to my <span class='series-link' index='449'>previous commission</span>. After Robin gets sucked off, he plows Lucina's ass until he fills her up! Lucina seems to have enjoyed it, but after coming down from her orgasmic high, she got mad that her shorts were torn open.",
 			date_str: "",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c2okj8xy.png", "https://cdn.imgchest.com/files/ye3c23eznv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxmqalr7.png",
+			title: "Fallen Hooters Lucina (Evomanaphy)",
+			artist: "Evomanaphy",
+			artist_url: "https://x.com/EvomanaphyArt",
+			art_url: "https://x.com/EvomanaphyArt/status/1934137235659452781",
+			desc: "This is a commission of fallen Hooters Lucina by Evomanaphy! Hooters Lucina has fallen... and dropped your order! Oh no! She's tearing up, and mistakes happen. But, I know Lucina is strong, and she'll overcome this! Evomanaphy did a wonderful job! Thank you so much for the cute (and sad) art!",
+			date_str: "June 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3no2lo4.png", "https://cdn.imgchest.com/files/yd5celdg854.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbn3w6ey.png",
+			title: "Hooters Lucina (run___o___run)",
+			artist: "run___o___run",
+			artist_url: "https://x.com/run___o___run",
+			art_url: "https://x.com/run___o___run/status/1935295943915786296",
+			desc: "This is a Hooters Lucina by run___o___run! Lucina looks so cute and pretty! I love the lighting and colors and the big frothy mug of beer! Lucina's big smile is beautiful as always! The artist also included a bonus illustration featuring Lucina's abs! Lucina works hard at her job and stays fit!",
+			date_str: "June 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5cebqlgg4.png", "https://cdn.imgchest.com/files/yq9c36dn2v4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvdex927.png",
+			title: "Lucina Visits Anna's Secret Shop (ebinkuu18)",
+			artist: "ebinkuu18",
+			artist_url: "https://x.com/ebinkuu18",
+			art_url: "https://x.com/ebinkuu18/status/1936201447856545973",
+			desc: "This is a comic commission by Ebinku! I've had this idea in my backlog since 2021 apparently, and I'm so glad Ebinku was able to bring this idea to life! Robin and Lucina have been fooling around but want to keep their relationship a secret, especially from Chrom. They make sure to use protection to avoid any surprises. However, one day, their lust overtake their reason. They continue fucking for hours even after the condoms run out. It's up to the reader's interpretation if Lucina ended up pregnant or not. What do you think?",
+			date_str: "June 2025",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
