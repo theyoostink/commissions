@@ -12,6 +12,8 @@ Sites that use my template:
 - https://talkingdinosaur.github.io/commissions/
 - https://eebyverse.github.io/commissions/
 - https://theashenjedi.github.io/commissions/
+- https://violetblade.github.io/violetverse/
+- https://urbydizzy.github.io/urbyverse/
 
 ## Customization
 
