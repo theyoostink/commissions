@@ -7065,6 +7065,78 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3e9wbo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2dm9wp4.png",
+			title: "Hooters Lucina (_saoas)",
+			artist: "_saoas",
+			artist_url: "https://x.com/_saoas",
+			art_url: "https://x.com/_saoas/status/1943666241484497254",
+			desc: "This is a Hooters Lucina by _saoas! Lucina looks so pretty! I absolutely adore the way her hair is drawn and rendered! The colors are so nice and refreshing, and as always, Lucina's big smile is the best!",
+			date_str: "July 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/49zc2vaajay.png", "https://cdn.imgchest.com/files/7bwck299mg7.png", "https://cdn.imgchest.com/files/7kzcaxvv6g7.png", "https://cdn.imgchest.com/files/yd5cemkkwr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5vzzj24.png",
+			title: "Selia Sex on the Beach (tsuruyama123)",
+			artist: "tsuruyama123",
+			artist_url: "https://x.com/tsuruyama123",
+			art_url: "https://www.pixiv.net/artworks/133214470",
+			desc: "This is a commission of Selia by tsuruyama123! Selia is an OC of Mr.TalkingDinosaur, who designed a swimsuit for her. He gave me permission to commission Selia having sex in her swimsuit on the beach. Selia gets railed hard against a palm tree as the man gropes her tits. Outdoor sex excites them both, and they cum together!",
+			date_str: "July 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yvdcwnpr6py.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwck2w9o27.jpg",
+			title: "Scuba Timerra (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a commission of Scuba Timerra by true_jek_art! It's a gift for JoseJulio who loves Timerra! Timerra looks great when she dives into the water and explores!",
+			date_str: "July 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5cempkb24.png", "https://cdn.imgchest.com/files/739cxkwp6x7.png", "https://cdn.imgchest.com/files/ye3c2g6xdx4.png", "https://cdn.imgchest.com/files/y8xcnqmxkv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbxdln6y.png",
+			title: "Hooters Lucina (seiosArt)",
+			artist: "seiosArt",
+			artist_url: "https://x.com/seiosArt",
+			art_url: "This is a Hooters Lucina by seiosArt! Lucina looks so pretty! I love the pose as she hands over your order with a big confident smile! The variant also shows the opposite: a flustered Lucina dropping your order! I love the two different versions the artist made for this!",
+			desc: "This is a Hooters Lucina by seiosArt!",
+			date_str: "July 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7pjcqkg5q87.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2gmave4.jpg",
+			title: "Ballerina Lucina (sumustard)",
+			artist: "sumustard",
+			artist_url: "https://x.com/sumustard",
+			art_url: "https://x.com/sumustard/status/1947337869242102259",
+			desc: "This is a commission of Lucina as a ballerina by sumustard! Lucina looks absolutely beautiful! I let sumustard design the dress, and she did a wonderful job including references to her original outfit and mask! The gerbera daisies are also a reference to Lucina's S Support with M!Robin. I'm so glad that sumustard was able to turn my idea into a masterpiece!",
+			date_str: "July 2025",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4jdcv65nvb4.jpg", "https://cdn.imgchest.com/files/yrgcn92gna4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cv95oq57.jpg",
+			title: "Saori's Slurps (Rynn_96)",
+			artist: "Rynn_96",
+			artist_url: "https://x.com/Rynn_96",
+			art_url: "https://x.com/Rynn_96/status/1948735105335525552",
+			desc: "This is a commission of Saori by Rynn_96! After the opera event in Blue Archive, Saori enjoys a bowl of udon, and Sensei is reminded of last night's activities. Both yesterday and today, Saori was deliciously slurping up Sensei's treat! I wonder which one Saori enjoyed more!",
+			date_str: "July 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
