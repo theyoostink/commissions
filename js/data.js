@@ -5099,11 +5099,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/l7lxc2gldb7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/pyq9cn5m254.png",
-			title: "Hooters Lucina and Panette (dhokidoki)",
-			artist: "dhokidoki",
-			artist_url: "https://x.com/dhokidoki",
+			title: "Hooters Lucina and Panette (R2Z)",
+			artist: "R2Z",
+			artist_url: "https://x.com/ARTOOZEE",
 			art_url: null,
-			desc: "This is a commission of Hooters Lucina and Panette by dhokidoki! It was a joint commission with a friend whose favorite character from Engage is Panette. I really like how they are wearing both versions of the Hooters uniform: the classic white and orange uniform and the black uniform. They look really pretty, and their smiles are adorable! Lucina looks especially great with those abs too!",
+			desc: "This is a commission of Hooters Lucina and Panette by R2Z/dhokidoki! It was a joint commission with a friend whose favorite character from Engage is Panette. I really like how they are wearing both versions of the Hooters uniform: the classic white and orange uniform and the black uniform. They look really pretty, and their smiles are adorable! Lucina looks especially great with those abs too!",
 			date_str: "March 2024",
 			tags: ["hooters"],
 			hidden: false
@@ -7134,6 +7134,18 @@ var data = {
 			desc: "This is a commission of Saori by Rynn_96! After the opera event in Blue Archive, Saori enjoys a bowl of udon, and Sensei is reminded of last night's activities. Both yesterday and today, Saori was deliciously slurping up Sensei's treat! I wonder which one Saori enjoyed more!",
 			date_str: "July 2025",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbwpr2ey.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqdmbl37.png",
+			title: "Lucina is Pregnant (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina by GrimmelsDaThird! Lucina shows her husband Robin the good news: a positive test result for the pregnancy test! This looks like it will be the wonderful start of their family!",
+			date_str: "July 2025",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
