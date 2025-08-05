@@ -599,7 +599,8 @@ var data = {
 				"https://cdn.imgchest.com/files/4nec8zno634.png",
 				"https://cdn.imgchest.com/files/4nec8g3v994.png",
 				"https://cdn.imgchest.com/files/4apc5ql3av4.png",
-				"https://cdn.imgchest.com/files/yd5celrrqa4.png"
+				"https://cdn.imgchest.com/files/yd5celrrqa4.png",
+				"https://cdn.imgchest.com/files/yq9c32gqem4.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -651,7 +652,8 @@ var data = {
 			<a href='https://x.com/mnejing30/status/1869523411288109255' target='_blank'>Robcina Let Him Cook</a><br/>
 			<a href='https://x.com/Mnejing30/status/1885473052668157958' target='_blank'>Saori's New Job</a><br/>
 			<a href='https://x.com/mnejing30/status/1905041664458256727' target='_blank'>Lucina's Sharp Words</a><br/>
-			<a href='https://x.com/Mnejing30/status/1932925887256932414' target='_blank'>Fallout Boy Ingrid (Gift request for TheAshenJedi)</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1932925887256932414' target='_blank'>Fallout Boy Ingrid (Gift request for TheAshenJedi)</a><br/>
+			<a href='https://x.com/Mnejing30/status/1952506749195547095' target='_blank'>The Power of Naga and Anime</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -7146,6 +7148,30 @@ var data = {
 			desc: "This is a commission of Lucina by GrimmelsDaThird! Lucina shows her husband Robin the good news: a positive test result for the pregnancy test! This looks like it will be the wonderful start of their family!",
 			date_str: "July 2025",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4nec8nkr534.png", "https://cdn.imgchest.com/files/7bwckexqbq7.png", "https://cdn.imgchest.com/files/7pjcqd5j6p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnagd6w4.png",
+			title: "Flirting at Hooters (hulluzola)",
+			artist: "hulluzola",
+			artist_url: "https://x.com/hulluzola",
+			art_url: "https://www.pixiv.net/artworks/133491624",
+			desc: "This is a commission of Robin and Lucina flirting at Hooters by hulluzola! Lucina's coworker Severa points out that Lucina's boyfriend Robin is visiting the restaurant again two days in a row. Lucina heads over and flirts with him as they recall last night's sexual activities. Severa overhears the lovebirds and gets annoyed! I'm so glad I got the opportunity to commission this artist! I've been a fan of their Robcina artwork for a long time!",
+			date_str: "August 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxg9r397.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc93vx5m7.png",
+			title: "Hooters Lucina (motoiwork)",
+			artist: "motoiwork",
+			artist_url: "https://x.com/motoiwork",
+			art_url: "https://x.com/motoiwork/status/1952650359878599138",
+			desc: "This is a Hooters Lucina by motoiwork! Lucina looks super pretty! I love the ponytail and the tiara-style hair tie! The wink, smile, and hairstyle give this such a refreshing feeling, and I love all the chicken! The artist did such a wonderful job!",
+			date_str: "August 2025",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
