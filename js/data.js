@@ -6356,7 +6356,7 @@ var data = {
 			desc: "This is a commission of Robin and Lucina at the onsen by Burnt_Green_Tea! The couple relax at the onsen and share a cup of sake together. As Robin pours a drink for his beloved Lucina, Lucina's towel slips down her chest and falls into the water while both of her hands were busy holding the cup. Robin doesn't seem to mind the mishap however. The onsen got even steamier afterwards...",
 			date_str: "January 2025",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/739cxeaa9k7.png"],
@@ -7172,6 +7172,30 @@ var data = {
 			desc: "This is a Hooters Lucina by motoiwork! Lucina looks super pretty! I love the ponytail and the tiara-style hair tie! The wink, smile, and hairstyle give this such a refreshing feeling, and I love all the chicken! The artist did such a wonderful job!",
 			date_str: "August 2025",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7bwckebmb67.png", "https://cdn.imgchest.com/files/yq9c326j6p4.png", "https://cdn.imgchest.com/files/yd5cegbwbo4.png", "https://cdn.imgchest.com/files/yrgcna6q6g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvqebwr7.png",
+			title: "Cumming on Lucina (kuhuku006)",
+			artist: "kuhuku006",
+			artist_url: "https://x.com/kuhuku006",
+			art_url: "https://www.pixiv.net/artworks/133612969",
+			desc: "This is a commission of Robin and Lucina by kuhuku006! After some hot and heavy sex, Robin pulls out and starts cumming all over Lucina. But, he keeps cumming more and more and can't stop until Lucina is completely covered! Lucina is shocked at the amount of cum! Robin must have been extra excited that night!",
+			date_str: "August 2025",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbw3gq8y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxoadvk4.png",
+			title: "Hair Pulling (theOtherMadras)",
+			artist: "theOtherMadras",
+			artist_url: "https://x.com/theOtherMadras",
+			art_url: null,
+			desc: "This is a commission of Robin and Lucina having sex by theOtherMadras! Robin and Lucina decide to spice up sex just a little bit with some hair pulling. As Robin tugs on Lucina's hair, Lucina smacks her ass down into Robin's hip over and over! Lucina curls her toes as she seems to be really enjoying it!",
+			date_str: "August 2025",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
