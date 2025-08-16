@@ -6928,7 +6928,7 @@ var data = {
 			title: "Gifts for Severa (magmelmel)",
 			artist: "magmelmel",
 			artist_url: "https://x.com/magmelmel",
-			art_url: null,
+			art_url: "https://www.pixiv.net/artworks/133959282",
 			desc: "This is a commission gift for bento by magmelmel! bento always encourages me to write, and one of his favorite characters is Severa! In this commissions, Severa is riding you in the cowgirl position as appreciation for buying her a new swimsuit! She seems to really like the bikini and sex! I also wrote a short story based on the art <a href='https://archiveofourown.org/works/66346684'>here</a>.",
 			date_str: "June 2025",
 			tags: ["nsfw", "other"],
@@ -7194,6 +7194,18 @@ var data = {
 			artist_url: "https://x.com/theOtherMadras",
 			art_url: null,
 			desc: "This is a commission of Robin and Lucina having sex by theOtherMadras! Robin and Lucina decide to spice up sex just a little bit with some hair pulling. As Robin tugs on Lucina's hair, Lucina smacks her ass down into Robin's hip over and over! Lucina curls her toes as she seems to be really enjoying it!",
+			date_str: "August 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcb6lkpqy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxjp6xm7.png",
+			title: "Spooning Sex with Lucina (Devilukez10)",
+			artist: "Devilukez10",
+			artist_url: "https://x.com/Devilukez10",
+			art_url: "https://x.com/Devilukez10/status/1956097983101239611",
+			desc: "This is a commission of Lucina having sex by Devilukez10! This is a remake of <span class='series-link' index='41'>this commission</span> by the same artist! The artwork is now in color, and you can enjoy the blue-hair princess get plapped by a nice thick hard cock! The artist did such a wonderful job!",
 			date_str: "August 2025",
 			tags: ["nsfw"],
 			hidden: false
