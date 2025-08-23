@@ -7108,8 +7108,8 @@ var data = {
 			title: "Hooters Lucina (seiosArt)",
 			artist: "seiosArt",
 			artist_url: "https://x.com/seiosArt",
-			art_url: "This is a Hooters Lucina by seiosArt! Lucina looks so pretty! I love the pose as she hands over your order with a big confident smile! The variant also shows the opposite: a flustered Lucina dropping your order! I love the two different versions the artist made for this!",
-			desc: "This is a Hooters Lucina by seiosArt!",
+			art_url: "https://x.com/seiosArt/status/1956893842415784211",
+			desc: "This is a Hooters Lucina by seiosArt! Lucina looks so pretty! I love the pose as she hands over your order with a big confident smile! The variant also shows the opposite: a flustered Lucina dropping your order! I love the two different versions the artist made for this!",
 			date_str: "July 2025",
 			tags: ["hooters", "nsfw"],
 			hidden: false
@@ -7209,6 +7209,54 @@ var data = {
 			date_str: "August 2025",
 			tags: ["nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/739cxjnbqx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5ceaz9n24.png",
+			title: "Morgan Misses Dad (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1957086189569421500",
+			desc: "This is a commission of Lucina holding baby Morgan by RedKite333! As Robin heads out for work, Morgan cries out as she sees her father leaving. It's only been one minute, and Morgan already misses her dad! Lucina encourages her husband to return home as soon as possible so that they can all spend family time together!",
+			date_str: "August 2025",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7kzcakoggk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq2899k7.png",
+			title: "Hooters Mercedes (kousetu0506)",
+			artist: "kousetu0506",
+			artist_url: "https://x.com/kousetu0506",
+			art_url: "https://x.com/kousetu0506/status/1957432254298468575",
+			desc: "This Hooters Mercedes is a gift for Pheonixmaster1 that I commissioned from kousetu0506! PM1 is a pillar of the FEH community, and I've been a fan of and watched all of his guides and banner reviews. I got this artwork commissioned to express my gratitude and to wish PM1 a successful recovery!",
+			date_str: "August 2025",
+			tags: ["hooters", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pckell5v7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq2rraz7.png",
+			title: "Hooters Lucina Flashing (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a commission of Hooters Lucina flashing by Hayato_Stuff! Lucina gives you a little peek so that you give her an extra big tip!",
+			date_str: "August 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnj336n4.png", "https://cdn.imgchest.com/files/4z9cvzrrdj7.png", "https://cdn.imgchest.com/files/4z9cvzrrwj7.png", "https://cdn.imgchest.com/files/4apc5pxx3x4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb6ddlly.png",
+			title: "Bunny Plap (doehorn_tw)",
+			artist: "doehorn_tw",
+			artist_url: "https://x.com/doehorn_tw",
+			art_url: "",
+			desc: "This is a commission of Robin and bunny Lucina having sex by doehorn_tw! Robin finds his wife donning her spring bunny outfit, and he can't stop himself from ripping it open and fucking her! Lucina enjoys the rough fuck and Robin's fingers pinching her nipples! And Robin loves how cute and tight his wife is, and he expresses his love and lust by cumming deep inside her!",
+			date_str: "August 2025",
+			tags: ["nsfw"],
+			hidden: true
 		},
 		{
 			src: [""],
