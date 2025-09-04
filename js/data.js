@@ -6607,7 +6607,7 @@ var data = {
 			art_url: "https://x.com/Rynn_96/status/1905624645463933267",
 			desc: "This is a commission of Hooters Saori by Rynn_96! This is a gift for InexorableWaffle, Lagger, and FranzKarma Nick who helped me reroll for Saori when I started playing Blue Archive in 2024! Sensei brings Rio, Shigure, and Hina out for dinner to a Hooters restaurant where they find Saori who is working there as a part-time employee. Saori is a bit flustered, but she does her best taking everyone's orders.",
 			date_str: "March 2025",
-			tags: ["other"],
+			tags: ["hooters", "other"],
 			hidden: false
 		},
 		{
@@ -7257,6 +7257,78 @@ var data = {
 			date_str: "August 2025",
 			tags: ["nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcb6w983y.png", "https://cdn.imgchest.com/files/y2pckedw3k7.png", "https://cdn.imgchest.com/files/7pjcq2dexj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3l2raa4.png",
+			title: "Hooters Lucina (gravydood)",
+			artist: "gravydood",
+			artist_url: "https://x.com/gravydood",
+			art_url: null,
+			desc: "This is a Hooters Lucina by gravydood! Lucina looks so pretty! I really love the angle since it's pretty unique among the Hooters Lucina illustrations, and I also love the tan lines! The bunny suit version was also included as a bonus, and Lucina looks great in it! The artist did an amazing job!",
+			date_str: "August 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7w6c23wgngy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3lqb9l4.png",
+			title: "Hooters Lucina (Leitz_ACaroline)",
+			artist: "Leitz_ACaroline",
+			artist_url: "https://x.com/Leitz_ACaroline",
+			art_url: "https://x.com/Leitz_ACaroline/status/1960542858252886094",
+			desc: "This is a Hooters Lucina by Leitz_ACaroline! Lucina is so cute! I've worked with the artist on a number of joint commissions but not a direct one until now. Lucina looks so great with like seven big mugs of beer! Her strength stat must be off the charts!",
+			date_str: "August 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/y2pckg2zpl7.png", "https://cdn.imgchest.com/files/7lxcpqen927.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx2e9p27.png",
+			title: "Hooters Lucina (quickalas)",
+			artist: "quickalas",
+			artist_url: "https://bsky.app/profile/quickalas.bsky.social",
+			art_url: "https://bsky.app/profile/quickalas.bsky.social/post/3lxnbcjxaic27",
+			desc: "This is a Hooters Lucina by quickalas! Lucina looks so cute! I love the pose as she holds up the plate of chicken in the air with a big wide smile! It's nice seeing this concept in the pixel art format!",
+			date_str: "August 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c3wa5m34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnjgl3m4.png",
+			title: "Hooters Lucina (RotomDocs)",
+			artist: "RotomDocs",
+			artist_url: "https://x.com/RotomDocs",
+			art_url: "https://x.com/RotomDocs/status/1962159180468695390",
+			desc: "This is a Hooters Lucina by RotomDocs! Lucina is so cute! The wings and beer look tasty, and the way Lucina's hair is rendered is so nice! I love the Among Us picture in the background too! I've been a fan of the artist's previous works, so I'm glad I got the opportunity to commission them!",
+			date_str: "August 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yd5ce83zpq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcvrmkdw7.png",
+			title: "Hooters Lucina (nagatomo1565)",
+			artist: "nagatomo1565",
+			artist_url: "https://x.com/nagatomo1565",
+			art_url: null,
+			desc: "This is a Hooters Lucina by nagatomo1565! Lucina is adorable! The artist draws in Horikoshi's style, and they did a wonderful job! The person giving Lucina encouragement brightens up Lucina's day!",
+			date_str: "August 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yrgcnp5k384.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5eldgb4.png",
+			title: "Igrene Shows Off Her Special Panties (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Igrene by GrimmelsDaThird! Igrene wears some special revealing panties and gives you a peek! If you can keep it a secret for the day, she might even reward you at night!",
+			date_str: "August 2025",
+			tags: ["nsfw", "other"],
+			hidden: false
 		},
 		{
 			src: [""],
