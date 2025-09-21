@@ -600,7 +600,8 @@ var data = {
 				"https://cdn.imgchest.com/files/4nec8g3v994.png",
 				"https://cdn.imgchest.com/files/4apc5ql3av4.png",
 				"https://cdn.imgchest.com/files/yd5celrrqa4.png",
-				"https://cdn.imgchest.com/files/yq9c32gqem4.png"
+				"https://cdn.imgchest.com/files/yq9c32gqem4.png",
+				"https://cdn.imgchest.com/files/116bb4e6ac7e.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -653,7 +654,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1885473052668157958' target='_blank'>Saori's New Job</a><br/>
 			<a href='https://x.com/mnejing30/status/1905041664458256727' target='_blank'>Lucina's Sharp Words</a><br/>
 			<a href='https://x.com/Mnejing30/status/1932925887256932414' target='_blank'>Fallout Boy Ingrid (Gift request for TheAshenJedi)</a><br/>
-			<a href='https://x.com/Mnejing30/status/1952506749195547095' target='_blank'>The Power of Naga and Anime</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1952506749195547095' target='_blank'>The Power of Naga and Anime</a><br/>
+			<a href='https://x.com/Mnejing30/status/1964836013144158359' target='_blank'>Down Boy ft. Dorothea and Ferdinand</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5847,7 +5849,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/d7ogc2pjbly.png",
 			title: "Hooters Lucina (carefreejules15)",
 			artist: "carefreejules15",
-			artist_url: "https://x.com/carefreejules15",
+			artist_url: "https://bsky.app/profile/carefreejules.bsky.social",
 			art_url: null,
 			desc: "This is a Hooters Lucina Nendoroid 3D render by carefreejules15! Lucina looks so cute! Hooters Lucina looks so great in 3D too! Lucina's smile is adorable as always, and you can view it from any angle now! The artists did such a wonderful job on this, and I'm super glad I got the opportunity to commission them!",
 			date_str: "September 2024",
@@ -7328,6 +7330,78 @@ var data = {
 			desc: "This is a commission of Igrene by GrimmelsDaThird! Igrene wears some special revealing panties and gives you a peek! If you can keep it a secret for the day, she might even reward you at night!",
 			date_str: "August 2025",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5c5ec075db44.png", "https://cdn.imgchest.com/files/b976595e4ccc.png", "https://cdn.imgchest.com/files/3b6b1fa7f25b.png", "https://cdn.imgchest.com/files/39463f5a25ff.png", "https://cdn.imgchest.com/files/9286188153b7.png", "https://cdn.imgchest.com/files/9cd1a66fc922.png"],
+			thumbnail: "https://cdn.imgchest.com/files/641b429c746b.png",
+			title: "A Gladiator's Blowjob (micaiah_mrmm)",
+			artist: "micaiah_mrmm",
+			artist_url: "https://x.com/micaiah_mrmm",
+			art_url: "https://www.pixiv.net/artworks/134871816",
+			desc: "This is a commission of Gladiator Masked Marth by micaiah_mrmm! You get a nice blowjob after you spar with the Ferox gladiator Masked Marth! It's hard to tell how Lucina is feeling when her face is covered with a mask, but I bet she likes it when you fill her mouth with your cum!",
+			date_str: "September 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9fbb5bba7734.png", "https://cdn.imgchest.com/files/f378ec52bff7.png", "https://cdn.imgchest.com/files/5b42faea25e3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/673ce19db91f.png",
+			title: "Secret Festival Fuck (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "This is a commission of Robcina sex by decoxart! While everyone is focused on the bright and loud fireworks show, Robin and Lucina sneak away for a quickie in the woods! To make sure her yukata stays clean, Lucina takes Robin's cum in her mouth! I don't think Robin would be satisfied with just one round after seeing Lucina's pretty face! Hopefully, the fireworks show goes on for a little bit longer!",
+			date_str: "September 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/11b6d4df039e.png", "https://cdn.imgchest.com/files/d96943544948.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e15a79fa2ef2.png",
+			title: "Hooters Lucina (Tomo_Eokaiteru)",
+			artist: "Tomo_Eokaiteru",
+			artist_url: "https://x.com/Tomo_Eokaiteru",
+			art_url: "https://www.pixiv.net/artworks/135186188",
+			desc: "This is a Hooters Lucina by Tomo_Eokaiteru! Lucina looks so pretty! I love how the beer foam is flowing back as Lucina walks over with wings and beer! The artist did an amazing job on the outfit!",
+			date_str: "September 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/32fed3b35db9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fdf72a3c2c87.png",
+			title: "Hooters Lucina (symocosmos)",
+			artist: "symocosmos",
+			artist_url: "https://x.com/symocosmos",
+			art_url: "https://x.com/symocosmos/status/1967994692706115681",
+			desc: "This is a Hooters Lucina by symocosmos! Lucina looks so pretty! I absolutely adore Feh the owl freaking out over the chicken wings... or are they owl wings? The artist did such a nice job with the warm tones and Lucina's gentle smile!",
+			date_str: "September 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a32b2116d443.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ea71c8fd92e4.png",
+			title: "Hooters Lucina (icoooos)",
+			artist: "icoooos",
+			artist_url: "https://x.com/icoooos",
+			art_url: "https://x.com/icoooos/status/1968277721378922811",
+			desc: "This is a Hooters Lucina by icoooos! Lucina looks so pretty! I love the retro anime art style and the border around the piece! They way her hair flows and how it's colored are so nice! The artist did a great job!",
+			date_str: "September 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ab347a4c1d9a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bf103b4f61f9.png",
+			title: "Maid Lucina (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a maid Lucina commission by GrimmelsDaThird! Lucina looks adorable in a formal maid outfit! I love the way her hair is bundled up in a bun! It looks like this sort of dress is something she will need some time getting used to!",
+			date_str: "September 2025",
+			tags: [""],
 			hidden: false
 		},
 		{
