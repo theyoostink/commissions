@@ -7254,7 +7254,7 @@ var data = {
 			title: "Bunny Plap (doehorn_tw)",
 			artist: "doehorn_tw",
 			artist_url: "https://x.com/doehorn_tw",
-			art_url: "",
+			art_url: "https://www.pixiv.net/en/artworks/136243704",
 			desc: "This is a commission of Robin and bunny Lucina having sex by doehorn_tw! Robin finds his wife donning her spring bunny outfit, and he can't stop himself from ripping it open and fucking her! Lucina enjoys the rough fuck and Robin's fingers pinching her nipples! And Robin loves how cute and tight his wife is, and he expresses his love and lust by cumming deep inside her!",
 			date_str: "August 2025",
 			tags: ["nsfw"],
@@ -7499,6 +7499,42 @@ var data = {
 			date_str: "October 2025",
 			tags: ["nsfw", "other"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f78048b4cc61.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/34023c8fbbc3.jpg",
+			title: "Hooters Lucina (pretty_purin164)",
+			artist: "pretty_purin164",
+			artist_url: "https://x.com/pretty_purin164",
+			art_url: "https://www.pixiv.net/artworks/136154631",
+			desc: "This is a Hooters Lucina by pretty_purin164! Lucina is showing off her dance moves! The artist has a really unique style, so I was curious how their interpretation of Hooters Lucina would look! And she looks great! It's really nice to see Lucina in different poses!",
+			date_str: "October 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5a73fe9657c7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/02ec7e9a2920.png",
+			title: "Hooters Aeris (AAAmagasA)",
+			artist: "AAAmagasA",
+			artist_url: "https://x.com/AAAmagasA",
+			art_url: null,
+			desc: "This is a Hooters Aeris by AAAmagasA! Aeris is an OC of my friend tyle, and she looks great in the black Hooters uniform! Her shy expression is super cute!",
+			date_str: "October 2025",
+			tags: ["hooters", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c231705713a9.png", "https://cdn.imgchest.com/files/d0ae262f8306.png", "https://cdn.imgchest.com/files/7d2edb9a1c46.png"],
+			thumbnail: "https://cdn.imgchest.com/files/bc42444275e2.png",
+			title: "Hooters Lucina (carlo_montie)",
+			artist: "carlo_montie",
+			artist_url: "https://x.com/carlo_montie",
+			art_url: null,
+			desc: "This is a Hooters Lucina by carlo_montie! Lucina looks so pretty! I love the clean lines and colors in this piece! The beer and wings also look really tasty! The artist did such a wonderful job!",
+			date_str: "October 2025",
+			tags: ["hooters", "nsfw"],
+			hidden: false
 		},
 		{
 			src: [""],
