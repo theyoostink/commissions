@@ -601,7 +601,8 @@ var data = {
 				"https://cdn.imgchest.com/files/4apc5ql3av4.png",
 				"https://cdn.imgchest.com/files/yd5celrrqa4.png",
 				"https://cdn.imgchest.com/files/yq9c32gqem4.png",
-				"https://cdn.imgchest.com/files/116bb4e6ac7e.png"
+				"https://cdn.imgchest.com/files/116bb4e6ac7e.png",
+				"https://cdn.imgchest.com/files/90124bc962d6.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -655,7 +656,8 @@ var data = {
 			<a href='https://x.com/mnejing30/status/1905041664458256727' target='_blank'>Lucina's Sharp Words</a><br/>
 			<a href='https://x.com/Mnejing30/status/1932925887256932414' target='_blank'>Fallout Boy Ingrid (Gift request for TheAshenJedi)</a><br/>
 			<a href='https://x.com/Mnejing30/status/1952506749195547095' target='_blank'>The Power of Naga and Anime</a><br/>
-			<a href='https://x.com/Mnejing30/status/1964836013144158359' target='_blank'>Down Boy ft. Dorothea and Ferdinand</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1964836013144158359' target='_blank'>Down Boy ft. Dorothea and Ferdinand</a><br/>
+			<a href='https://x.com/Mnejing30/status/1985469321016197517' target='_blank'>Kagurabachi Lucina</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -5249,7 +5251,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/k739c3a9mr7.png",
 			title: "Hooters Lucina (ho47810)",
 			artist: "ho47810",
-			artist_url: "https://x.com/ho47810",
+			artist_url: "https://x.com/liyu47",
 			art_url: null,
 			desc: "This is a Hooters Lucina by ho47810! Lucina looks so cute! The background is stunningly cool, and those big mugs of beer looks tasty! The white outline around Lucina is also really nice, and Lucina's big smile is the best! The artist did a great job!",
 			date_str: "April 2024",
@@ -7434,7 +7436,7 @@ var data = {
 			title: "Robcina 69 (emilyblend34)",
 			artist: "emilyblend34",
 			artist_url: "https://x.com/emilyblend34",
-			art_url: null,
+			art_url: "https://x.com/emilyblend34/status/1979759008748884450",
 			desc: "This is a Robcina animation commission by emilyblend34! Robin and Lucina pleasure each other in the 69 position! Lucina uses her mouth expertly to bring Robin to a quick ejaculation! Robin is no slouch either since his tongue makes Lucina's hips dance! The passionate couple cum together! You can watch the higher quality video of it <a href='https://cdn.imgchest.com/files/e0783cd31340.mp4'>here</a>.",
 			date_str: "September 2025",
 			tags: ["nsfw"],
@@ -7482,7 +7484,7 @@ var data = {
 			title: "Warming Up (kusu26moosky)",
 			artist: "kusu26moosky",
 			artist_url: "https://x.com/kusu26moosky",
-			art_url: "https://x.com/kusu26moosky/status/1975548664786657398",
+			art_url: "https://www.pixiv.net/en/artworks/136578782",
 			desc: "This is a comic commission by kusu26moosky! A sudden storm forces Robin and Lucina into a nearby cave where they strip down to dry their wet clothes by a fire. After the war, the two of them develop a friendship, and they end up having secret unrequited feelings for each other. Things start to heat up in the cold cave as they share their warmth and love for each other!",
 			date_str: "October 2025",
 			tags: ["nsfw"],
@@ -7534,6 +7536,66 @@ var data = {
 			desc: "This is a Hooters Lucina by carlo_montie! Lucina looks so pretty! I love the clean lines and colors in this piece! The beer and wings also look really tasty! The artist did such a wonderful job!",
 			date_str: "October 2025",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/9c79f184dd7e.png", "https://cdn.imgchest.com/files/d16feb6a3740.png"],
+			thumbnail: "https://cdn.imgchest.com/files/07c4d6a3f32f.png",
+			title: "Masked Marth Backshots (rororopull)",
+			artist: "rororopull",
+			artist_url: "https://x.com/rororopull",
+			art_url: "https://x.com/rororopull/status/1982265398129992094",
+			desc: "This is a commission of summer Masked Marth getting backshots by rororopull! Masked Marth simply looks too cute in her swimsuit that you had to bring her to a secluded area of the beach and fuck her from behind! You keep going until you cum all over her plump ass, and though her mask hides her face, I think Masked Marth doesn't mind going for a second round!",
+			date_str: "October 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/48be53df4003.png", "https://cdn.imgchest.com/files/54b46cacd477.png"],
+			thumbnail: "https://cdn.imgchest.com/files/81dbb97fc29b.png",
+			title: "Hooters Lucina (VespidiaWasp)",
+			artist: "VespidiaWasp",
+			artist_url: "https://x.com/VespidiaWasp",
+			art_url: "https://x.com/VespidiaWasp/status/1983247569586401533",
+			desc: "This is a Hooters Lucina by VespidiaWasp! Lucina looks so cute! I love the big frothy mugs of beer and the huge platter of chicken! The tied up shirt is always nice to see, and Lucina's smile is the best as always! The artist did an amazing job!",
+			date_str: "October 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ee957f46017b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f0439712a3cb.png",
+			title: "Sweaty Larcei (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Larcei as a gift for Mr.TalkingDinosaur by GrimmelsDaThird! It's a sequel to <span class='series-link' index='410'>this gift</span> of a Wii Fit Larcei! Looks like Larcei worked up a sweat from the exercise!",
+			date_str: "October 205",
+			tags: ["other", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/64b85868308b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/037284b55d8f.png",
+			title: "Hooters Lucina (monikon13)",
+			artist: "monikon13",
+			artist_url: "https://x.com/monikon13",
+			art_url: null,
+			desc: "This is a Hooters Lucina by monikon13! Lucina looks so pretty! What I especially love in this artwork is the background! Lucina's gentle smile as she serves up some chicken and beer is awesome as always! The artist did a wonderful job!",
+			date_str: "October 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/bbca6153d9be.png"],
+			thumbnail: "https://cdn.imgchest.com/files/00f8293ee939.png",
+			title: "Lucina Naizuri (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a commission of Lucina performing a naizuri by Hayato_Stuff! Lucina makes up for her smaller breast size with her enthusiasm as she rubs her chest against a nice hard cock! The man sprays all over her to show Lucina that he still appreciates the princess and her petite chest!",
+			date_str: "November 2025",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
