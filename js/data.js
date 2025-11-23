@@ -7188,7 +7188,7 @@ var data = {
 			desc: "This is a commission of Robin and Lucina by kuhuku006! After some hot and heavy sex, Robin pulls out and starts cumming all over Lucina. But, he keeps cumming more and more and can't stop until Lucina is completely covered! Lucina is shocked at the amount of cum! Robin must have been extra excited that night!",
 			date_str: "August 2025",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7ogcbw3gq8y.png"],
@@ -7260,7 +7260,7 @@ var data = {
 			desc: "This is a commission of Robin and bunny Lucina having sex by doehorn_tw! Robin finds his wife donning her spring bunny outfit, and he can't stop himself from ripping it open and fucking her! Lucina enjoys the rough fuck and Robin's fingers pinching her nipples! And Robin loves how cute and tight his wife is, and he expresses his love and lust by cumming deep inside her!",
 			date_str: "August 2025",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7ogcb6w983y.png", "https://cdn.imgchest.com/files/y2pckedw3k7.png", "https://cdn.imgchest.com/files/7pjcq2dexj7.png"],
@@ -7488,7 +7488,7 @@ var data = {
 			desc: "This is a comic commission by kusu26moosky! A sudden storm forces Robin and Lucina into a nearby cave where they strip down to dry their wet clothes by a fire. After the war, the two of them develop a friendship, and they end up having secret unrequited feelings for each other. Things start to heat up in the cold cave as they share their warmth and love for each other!",
 			date_str: "October 2025",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/3de45c8acfd6.png", "https://cdn.imgchest.com/files/cf4cb9e04d90.png", "https://cdn.imgchest.com/files/dcac330d8ce2.png"],
@@ -7500,7 +7500,7 @@ var data = {
 			desc: "This is a commission gift for Mr.TalkingDinosaur by karamiyama! On a Christmas morning, Larcei wakes up her husband Seliph by getting on top of him while wearing a Santa costume! Seliph gets rock hard for his wife's body, and they fuck until he cums deep inside her! It seems like they liked their gifts for each other!",
 			date_str: "October 2025",
 			tags: ["nsfw", "other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/f78048b4cc61.jpg"],
@@ -7532,7 +7532,7 @@ var data = {
 			title: "Hooters Lucina (carlo_montie)",
 			artist: "carlo_montie",
 			artist_url: "https://x.com/carlo_montie",
-			art_url: null,
+			art_url: "https://x.com/carlo_montie/status/1992434641169731700",
 			desc: "This is a Hooters Lucina by carlo_montie! Lucina looks so pretty! I love the clean lines and colors in this piece! The beer and wings also look really tasty! The artist did such a wonderful job!",
 			date_str: "October 2025",
 			tags: ["hooters", "nsfw"],
@@ -7594,8 +7594,80 @@ var data = {
 			artist_url: "https://x.com/Hayato_Stuff",
 			art_url: null,
 			desc: "This is a commission of Lucina performing a naizuri by Hayato_Stuff! Lucina makes up for her smaller breast size with her enthusiasm as she rubs her chest against a nice hard cock! The man sprays all over her to show Lucina that he still appreciates the princess and her petite chest!",
+			date_str: "October 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/0e0553edd11f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/70a49f686660.png",
+			title: "Hooters Lucina (fusenryo2)",
+			artist: "fusenryo2",
+			artist_url: "https://x.com/fusenryo2",
+			art_url: null,
+			desc: "This is a Hooters Lucina by fusenryo2! Lucina looks so pretty! I really especially love the background which has awesome fiery tones! I also really like how Lucina's hair flows! I've been recommended this artist by many people, and they did a wonderful job!",
+			date_str: "November 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/da019dc7745d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/731347ea55e7.png",
+			title: "Hooters Lucina Envy (Evomanaphy)",
+			artist: "Evomanaphy",
+			artist_url: "https://x.com/Evomanaphy",
+			art_url: "https://x.com/Evomanaphy/status/1987893294433538402",
+			desc: "This is a commission of Lucina and Hooters Lucina by Evomanaphy! Lucina decides to visit her other self at her workplace and notices something different about her. Perhaps the two Lucinas are not exactly the same, and Lucina can't help but feel a slight tinge of envy.",
+			date_str: "November 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c79e4054c59e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7d49719d3cc2.png",
+			title: "Hooters Lucina (JebbeeSketches)",
+			artist: "JebbeeSketches",
+			artist_url: "https://x.com/JebbeeSketches",
+			art_url: "https://x.com/JebbeeSketches/status/1989937035545878881",
+			desc: "This is a Hooters Lucina by JebbeeSketches! Lucina looks so cute! I love the delicious looking wings and beer! I also really like her pose which makes it look like Lucina rushing over to deliver the order! Lucina's big smile is the best as always!",
+			date_str: "November 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/0b95ed8d376a.png", "https://cdn.imgchest.com/files/c9ce9f561aa7.png", "https://cdn.imgchest.com/files/f293ba5a631f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/90d8878c800c.png",
+			title: "A Christmas Present from Lucina (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: "https://x.com/decoxart/status/1990823838658048223",
+			desc: "This is a Christmas Robcina commission by decoxart! Robin finds a large present box one Christmas morning with a hole cut out on the side. The intelligent tactician Robin immediately deduces the purpose of the gift and sticks his dick through the hole into Lucina's waiting mouth. As Robin enjoys his gift, someone walks in and puts the couple into quite the predicament! Is their cover blown? Well, Robin certainly was!",
 			date_str: "November 2025",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3be9aa14e013.png", "https://cdn.imgchest.com/files/8cdbc73be2f4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/24d57abc68bb.png",
+			title: "Hooters Selia (run___o___run)",
+			artist: "run___o___run",
+			artist_url: "https://x.com/run___o___run",
+			art_url: null,
+			desc: "This is a Hooters Selia by run___o___run! Selia looks so cute and pretty! I love the light color tones and the big frothy mugs of beer! Selia big smile is adorable! The artist also added a bonus image of Selia after work! She deserves a break and a nice nap!",
+			date_str: "November 2025",
+			tags: ["hooters", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/43ea08f6b201.png"],
+			thumbnail: "https://cdn.imgchest.com/files/47367ff797e1.png",
+			title: "Hooters Lucina (t_misaomaru)",
+			artist: "t_misaomaru",
+			artist_url: "https://x.com/t_misaomaru",
+			art_url: null,
+			desc: "This is a Hooters Lucina by t_misaomaru! Lucina looks so pretty! The lighting and color tones give such nice warm vibes! I especially love how Lucina's hair was colored and drawn! It's beautiful! I really love the artist's Grima artwork, so I'm glad I got the opportunity to commission them!",
+			date_str: "November 2025",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
