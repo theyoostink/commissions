@@ -7671,6 +7671,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/07530edc71a6.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/64f01e423357.jpg",
+			title: "Summer Caeda (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for Mint by true_jek_art! Mint is a big fan of Caeda, so I commissioned a gift of summer Caeda enjoying a mint ice cream! Caeda is so pretty!",
+			date_str: "November 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b6e45040910d.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/995409b9d7b5.jpg",
+			title: "Gala Goldmary (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a Gala Goldmary gift commission for SwolePatrolDom by true_jek_art! Dom is a big Goldmary fan, so I wanted to get a commission gift of Goldmary wearing a pretty gala dress!",
+			date_str: "November 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4e00e2538fdf.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/43c96a9d00cd.jpg",
+			title: "Workout Leonie (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for Si67 by true_jek_art! Leonie gets ready to work out and wears her favorite exercise clothes! She asks you to join, but can you keep up with her?",
+			date_str: "November 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/1a7c0424dad4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/dcab2c149f5d.png",
+			title: "Masked Marth Male Swimwear Challenge (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Masked Marth by GrimmelsDaThird! Masked Marth takes on the male swimwear challenge where a flat chested lady wears a male swim trunks and pretends to be a man at the beach! With the mask and short hair, Lucina might be able to deceive the beachgoers!",
+			date_str: "November 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
