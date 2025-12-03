@@ -7719,6 +7719,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/5531500639c9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ac26768d7e28.png",
+			title: "Summer Cana (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: "https://x.com/Hayato_Stuff/status/1995619463287431397",
+			desc: "This is a commission of Cana from Fairy Tail by Hayato_Stuff! It's a gift for Wazz who drew a Hooters Lucina and whose favorite character is Cana! Cana is always enjoying a drink even when she goes to the beach!",
+			date_str: "November 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/20399cf7e4c8.png", "https://cdn.imgchest.com/files/a253efdf7214.png", "https://cdn.imgchest.com/files/5f4fbc638dec.png", "https://cdn.imgchest.com/files/0dd02dde23a1.png", "https://cdn.imgchest.com/files/a2f9dd0b1957.png", "https://cdn.imgchest.com/files/206cf055b500.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3702cb1684d1.png",
+			title: "Robcina Beach Sex (OathCradle)",
+			artist: "OathCradle",
+			artist_url: "https://x.com/OathCradle",
+			art_url: null,
+			desc: "This is a commission of Robin and Lucina having sex at the beach by OathCradle! Robin and Lucina sneak away from a beach party to a secluded area of the beach! Robin pounds Lucina hard against a rock until her voice leaks out and his cum leaks out too! If they don't hurry, some people from the party will start looking for them, but their lust powers them for another round!",
+			date_str: "December 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
