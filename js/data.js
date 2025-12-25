@@ -7743,6 +7743,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/41428fd3e49a.png"],
+			thumbnail: "https://cdn.imgchest.com/files/82eb8da841e3.png",
+			title: "Hooters Lucina (hiramine_akira)",
+			artist: "hiramine_akira",
+			artist_url: "https://x.com/hiramine_akira",
+			art_url: null,
+			desc: "This is a Hooters Lucina by hiramine_akira! Lucina looks so cute! The lighting and colors give this illustration such a nice warm tone! I love the big mug of foamy beer and Lucina's big adorable smile! The artist did an amazing job!",
+			date_str: "December 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3d87d32bec31.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e71cec214706.png",
+			title: "Lucina Paizuri (Devilukez10)",
+			artist: "Devilukez10",
+			artist_url: "https://x.com/Devilukez10",
+			art_url: null,
+			desc: "This is a colored version of <span class='series-link' index='27'>an old commission</span> I got from the same artist - Devilukez10! Lucina uses her small breasts to please a dick until it explodes all over her! It seems she's proud of the mess she made!",
+			date_str: "December 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c0bdb4b38bf1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4c2fd404b6c6.png",
+			title: "Hooters Lucina (yrfreakyneighbr)",
+			artist: "yrfreakyneighbr",
+			artist_url: "https://x.com/yrfreakyneighbr",
+			art_url: null,
+			desc: "This is a Hooters Lucina by yrfreakyneighbr! Lucina looks so pretty! I love the shading work on this illustration paired with the slight red and blue highlights. The outfit design is also unique and stylish! The artist did a wonderful job on this!",
+			date_str: "December 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ab86a9d72be5.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/396294be8efd.jpg",
+			title: "Workout Hilda (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a workout Hilda as a gift to Jordan D 64 by true_jek_art! Hilda might not like working, but she does like dressing up in workout clothes. She still makes sure to stay hydrated!",
+			date_str: "December 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a1f70cdfa2fe.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a7630fac7ae5.png",
+			title: "Hooters Lucina (MAZEiro0)",
+			artist: "MAZEiro0",
+			artist_url: "https://x.com/MAZEiro0",
+			art_url: "https://x.com/MAZEiro0/status/2002550496775872658",
+			desc: "This is a Hooters Lucina by MAZEiro0! Lucina looks so pretty! I love the bright colors and the way Lucina's hair was rendered! I absolutely adore this artist's Lucina artwork, and I'm so glad I got the opportunity to commission them for this wonderful illustration!",
+			date_str: "December 2025",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
