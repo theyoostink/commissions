@@ -7815,6 +7815,66 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/50994242de33.png"],
+			thumbnail: "https://cdn.imgchest.com/files/898b8f4d438e.png",
+			title: "Mitama Gives You a Peek (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Mitama by GrimmelsDaThird! Mitama uses ofuda paper talismans as pasties over her nipples and pussy, and she gives you a peek of what's under her clothes!",
+			date_str: "December 2025",
+			tags: ["other", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7f75f82d7d72.png"],
+			thumbnail: "https://cdn.imgchest.com/files/494472681e13.png",
+			title: "Chocolate Milk Lucina (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a commission of Lucina drinking chocolate milk by Hayato_Stuff! Lucina looks so pretty and so cute in this outfit designed by the artist! She seems to be really enjoying the nice large cup of chocolate milk!",
+			date_str: "December 2025",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/12de1714dea7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/0e381af72e4a.jpg",
+			title: "Naginata Lyn (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: "https://x.com/true_jek_art/status/2008284552360349967",
+			desc: "This is a commission of Lyn as a gift for Froginata by true_jek_art! Lyn wields a naginata and dons some Hoshidan style clothes! Lyn is super pretty in this setting!",
+			date_str: "January 2026",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f254cd91e863.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/9a52f099f8c5.jpg",
+			title: "Robin Goes Deep (SPYKEEE1945)",
+			artist: "SPYKEEE1945",
+			artist_url: "https://x.com/SPYKEEE1945",
+			art_url: null,
+			desc: "This is a commission of Robin and Lucina having sex by SPYKEEE1945! Lucina opens up her legs to allow Robin to go nice and deep inside her! Robin is raring to go, and he's not pulling until he cums and fills Lucina up!",
+			date_str: "January 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4748647ef8b8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2e5963f32232.png",
+			title: "Lucina Takes Charge (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: "https://bsky.app/profile/decoxart.bsky.social/post/3mbuh2kpc6s2k",
+			desc: "This is a commission of Lucina pegging Robin by decoxart! Lucina got an opportunity to give to Robin what she's been taking from him! She equips a strap-on and pegs Robin while jerking him off! Robin is tipped over the edge and cums all over his chest as Lucina takes pride in her work!",
+			date_str: "January 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
