@@ -602,7 +602,8 @@ var data = {
 				"https://cdn.imgchest.com/files/yd5celrrqa4.png",
 				"https://cdn.imgchest.com/files/yq9c32gqem4.png",
 				"https://cdn.imgchest.com/files/116bb4e6ac7e.png",
-				"https://cdn.imgchest.com/files/90124bc962d6.png"
+				"https://cdn.imgchest.com/files/90124bc962d6.png",
+				"https://cdn.imgchest.com/files/80d0d36f9e0f.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
 			title: "Mnejing30 Patreon Requests",
@@ -657,7 +658,8 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1932925887256932414' target='_blank'>Fallout Boy Ingrid (Gift request for TheAshenJedi)</a><br/>
 			<a href='https://x.com/Mnejing30/status/1952506749195547095' target='_blank'>The Power of Naga and Anime</a><br/>
 			<a href='https://x.com/Mnejing30/status/1964836013144158359' target='_blank'>Down Boy ft. Dorothea and Ferdinand</a><br/>
-			<a href='https://x.com/Mnejing30/status/1985469321016197517' target='_blank'>Kagurabachi Lucina</a><br/>`,
+			<a href='https://x.com/Mnejing30/status/1985469321016197517' target='_blank'>Kagurabachi Lucina</a><br/>
+			<a href='https://x.com/Mnejing30/status/2014843102478147814' target='_blank'>Engage Sweep</a><br/>`,
 			date_str: "October 2021 - Present",
 			tags: [""],
 			hidden: false
@@ -3379,7 +3381,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/g4z9cnjqav7.jpg",
 			title: "Hooters Lucina (sierra117renner)",
 			artist: "sierra117renner",
-			artist_url: "https://x.com/byhengg",
+			artist_url: "https://x.com/sierra117renner",
 			art_url: "https://x.com/sierra117renner/status/1633726670065524739",
 			desc: "This is a Hooters Lucina by sierra117renner! Lucina looks super pretty! I love the colors and the big frothy mugs of beer. The background is also really nice. The art was wonderfully done!",
 			date_str: "March 2023",
@@ -5804,7 +5806,7 @@ var data = {
 			title: "Hooters Lucina (FishineArt)",
 			artist: "FishineArt",
 			artist_url: "https://x.com/FishineArt",
-			art_url: "",
+			art_url: null,
 			desc: "This is Hooters Lucina by FishineArt! Lucina looks super pretty! I love the artist's art and doujins, so I'm really glad I got the opportunity to commission them! I love Lucina's smile and confident pose! The artist did such an amazing job, and I really appreciated that they did a version with wings and another with beer!",
 			date_str: "August 2024",
 			tags: ["hooters"],
@@ -6970,7 +6972,7 @@ var data = {
 			artist_url: "https://x.com/vehn___",
 			art_url: null,
 			desc: "This is a commission of Hooters Lucina having anal sex by vehn___! It's a continuation to my <span class='series-link' index='449'>previous commission</span>. After Robin gets sucked off, he plows Lucina's ass until he fills her up! Lucina seems to have enjoyed it, but after coming down from her orgasmic high, she got mad that her shorts were torn open.",
-			date_str: "",
+			date_str: "June 2025",
 			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
@@ -7932,6 +7934,66 @@ var data = {
 			desc: "This is a gift commission for InexorableWaffle by chuckni1! InexorableWaffle wrote a fanfic called <a href='https://archiveofourown.org/works/55629136'>Vanitas Vanitatum</a>, and this illustration is a scene from the story! Saori and Sensei get intimate and make love all night long!",
 			date_str: "January 2026",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7f7188201c73.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e5f66a96ac0a.png",
+			title: "Robin Orders Hooters Lucina for Takeout (KagiroNSFW)",
+			artist: "KagiroNSFW",
+			artist_url: "https://x.com/KagiroNSFW",
+			art_url: null,
+			desc: "This is a Robcina commission by KagiroNSFW! Robin takes his Hooters order to-go, and brings Lucina home! The two of them get nice and intimate and begin making love! They run out of condoms, but that doesn't stop the couple! Robin continues fucking Lucina raw until he fills her up!",
+			date_str: "January",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3593bb5e1409.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a4afb9f91187.png",
+			title: "Lucina is Waiting (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission of Lucina in a yukata by GrimmelsDaThird! Lucina is feeling a little horny, so she opens up her yukata and fingers herself. She seductively invites you to join her with her legs wide open!",
+			date_str: "January 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/667359256ef1.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/9d35e6f7d0da.jpg",
+			title: "Hooters Lucina (ninfnyx)",
+			artist: "ninfnyx",
+			artist_url: "https://x.com/ninfnyx",
+			art_url: null,
+			desc: "This is a Hooters Lucina by ninfnyx! Lucina looks so pretty! The artist draws food really well, so I wanted to get an illustration of Lucina with some chicken and beer! The food and drink look super delicious! I really love all the warm tones in the artwork too! The artist did an amazing job!",
+			date_str: "February 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5270c45813f8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/209efcc5fbdc.png",
+			title: "Palla's Treat (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a commission of Palla by Hayato_Stuff! Palla gives you a peek of her pussy after you saved her in the last battle! If you continue to do a good job, maybe she'll give you a little more!",
+			date_str: "February 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ed383e5a8139.png", "https://cdn.imgchest.com/files/93c0d6d0ecd8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/01873438365a.png",
+			title: "Hooters Poe (r516330600)",
+			artist: "r516330600",
+			artist_url: "https://x.com/r516330600",
+			art_url: "https://x.com/r516330600/status/2018696768125350306",
+			desc: "This is a Hooters Poe by r516330600! This is for the Lucina Fan Club's 2026 April Fool's Day joke where Poe will be the star of the server! Poe is from the Fire Emblem Cipher TCG, and I thought she would look great in the black version of the Hooters outfit since she usually wears a black uniform! Her breasts are hefty!",
+			date_str: "February 2026",
+			tags: ["hooters", "nsfw", "other"],
 			hidden: false
 		},
 		{
