@@ -7981,7 +7981,7 @@ var data = {
 			art_url: null,
 			desc: "This is a commission of Palla by Hayato_Stuff! Palla gives you a peek of her pussy after you saved her in the last battle! If you continue to do a good job, maybe she'll give you a little more!",
 			date_str: "February 2026",
-			tags: ["nsfw"],
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
@@ -7994,6 +7994,54 @@ var data = {
 			desc: "This is a Hooters Poe by r516330600! This is for the Lucina Fan Club's 2026 April Fool's Day joke where Poe will be the star of the server! Poe is from the Fire Emblem Cipher TCG, and I thought she would look great in the black version of the Hooters outfit since she usually wears a black uniform! Her breasts are hefty!",
 			date_str: "February 2026",
 			tags: ["hooters", "nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7d166f8427a9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/006b92ce40d6.png",
+			title: "Hooters Lucina (Conope)",
+			artist: "Conope",
+			artist_url: "https://x.com/Conope",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Conope! Lucina looks so cute! I especially love all the background details including the Falchion! But it looks like Lucina tipped a little too far back on the stool! Oh no! The artist did an amazing job, and I love all the vibrant colors!",
+			date_str: "February 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c38d3ab8e73d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9d71142444f6.png",
+			title: "Hooters Lucina and Peter Griffin (iamkowai)",
+			artist: "iamkowai",
+			artist_url: "https://x.com/iamkowai",
+			art_url: "https://x.com/iamkowai/status/2021434022237266341",
+			desc: "This is a Hooters Lucina and Peter Griffin by iamkowai! The artist is known for all of their Peter Griffin illustrations, so I'm so glad I got the opportunity to commission them for Lucina and Peter working together at Hooters! Lucina looks so cute, and Peter also looks great in the uniform! The artists did such a wonderful job on this!",
+			date_str: "February 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e3ece64a691d.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/8f42ad91f76e.jpg",
+			title: "Hooters Lucina (Towa27_Art)",
+			artist: "Towa27_Art",
+			artist_url: "https://x.com/Towa27_Art",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Towa27_Art! Lucina looks so pretty! I really love all the detail put into Lucina herself and the background! It's like a snapshot of Lucina's busy shift! Lucina is working so hard, and I'm sure she's doing a great job! The artist also did a great job on this amazing illustration!",
+			date_str: "February 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/64ef0eb5bd4c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8e93cc7da90d.png",
+			title: "Hooters Lucina (a_fjkw)",
+			artist: "a_fjkw",
+			artist_url: "https://x.com/a_fjkw",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Akira Fujikawa! Fujikawa has contributed artwork to the Fire Emblem Heroes game, and I've always loved their work! I got two commissions from them previously, and I got the opportunity to commission a Hooters Lucina this time! Lucina looks super pretty! I love the ponytail and the orange ribbon! The food looks great, and the gradient background is really pleasant!",
+			date_str: "February 2026",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
