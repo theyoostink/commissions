@@ -5962,7 +5962,7 @@ var data = {
 			title: "Hooters Lucina (queqiansuzume)",
 			artist: "queqiansuzume",
 			artist_url: "https://x.com/queqiansuzume",
-			art_url: "",
+			art_url: null,
 			desc: "This is a Hooters Lucina by queqiansuzume! Lucina looks so pretty! I really love the outfit redesign the artist came up with! The belt, gloves, and asymmetrical leggings are really nice details and references to her original outfit! As always, Lucina's gentle smile is the best! The artist did such a wonderful job on this piece!",
 			date_str: "September 2024",
 			tags: ["hooters"],
@@ -8042,6 +8042,18 @@ var data = {
 			desc: "This is a Hooters Lucina by Akira Fujikawa! Fujikawa has contributed artwork to the Fire Emblem Heroes game, and I've always loved their work! I got two commissions from them previously, and I got the opportunity to commission a Hooters Lucina this time! Lucina looks super pretty! I love the ponytail and the orange ribbon! The food looks great, and the gradient background is really pleasant!",
 			date_str: "February 2026",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c20b922fe46b.png", "https://cdn.imgchest.com/files/d1b88ef56261.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5e415acbc3ea.png",
+			title: "Late to the Meeting (ebinkuu18)",
+			artist: "ebinkuu18",
+			artist_url: "https://x.com/ebinkuu18",
+			art_url: "",
+			desc: "This is a short comic commission by ebinkuu18! After a long night of multiple rounds of sex, the lovebirds Robin and Lucina wake up slightly late. Chrom's meeting is in only thirty minutes, but the couple need to first wash their bodies to erase the evidence of their lovemaking. They decide to continue where they left off from last night, but one round turns into two and then three and then four. They end up an hour late to the meeting, and Chrom has to scold them yet again for their tardiness.",
+			date_str: "February 2026",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
