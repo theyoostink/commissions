@@ -8050,7 +8050,7 @@ var data = {
 			title: "Late to the Meeting (ebinkuu18)",
 			artist: "ebinkuu18",
 			artist_url: "https://x.com/ebinkuu18",
-			art_url: "",
+			art_url: "https://x.com/ebinkuu18/status/2023934603921101134",
 			desc: "This is a short comic commission by ebinkuu18! After a long night of multiple rounds of sex, the lovebirds Robin and Lucina wake up slightly late. Chrom's meeting is in only thirty minutes, but the couple need to first wash their bodies to erase the evidence of their lovemaking. They decide to continue where they left off from last night, but one round turns into two and then three and then four. They end up an hour late to the meeting, and Chrom has to scold them yet again for their tardiness.",
 			date_str: "February 2026",
 			tags: ["nsfw"],
