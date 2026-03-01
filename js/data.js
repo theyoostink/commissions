@@ -5777,6 +5777,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/3af09796f89c.png", "https://cdn.imgchest.com/files/1d3bc83ea4b2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/42b9686ea2bb.png",
+			title: "Hooters Lucina (Delicious_brain)",
+			artist: "Delicious_brain",
+			artist_url: "Delicious_brain",
+			art_url: "https://x.com/Delicious_brain/status/1824868796928282802",
+			desc: "This is a Hooters Lucina by Delicious_brain! Lucina is so pretty! I love her big wide smile as she holds some delicious looking wings and beer! The tied-up shirt is always a nice touch! The artist did a wonderful job!",
+			date_str: "August 2024",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: ["https://cdn.imgchest.com/files/345xcldwpx7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/84apcjgoqm4.png",
 			title: "Family Beach Trip (Leitz_ACaroline)",
@@ -8112,6 +8124,18 @@ var data = {
 			artist_url: "https://x.com/Devilukez10",
 			art_url: "https://x.com/Devilukez10/status/2026409532017246404",
 			desc: "This is a commission of Pekomama by Devilukez10! Pekomama pulls out a carrot and teases you with her tongue and MILF breasts! Perhaps, you can give her what she wants: a nice big stiff carrot of your own!",
+			date_str: "February 2026",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/185d83c068ca.png"],
+			thumbnail: "https://cdn.imgchest.com/files/be1c53f01e85.png",
+			title: "Mercedes Gives You a Peek (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a commission gift for Willanator93 by GrimmelsDaThird! Mercedes in her summer uniform lifts up her skirt to reveal her panties. She gives you a rare peek at her gorgeous ass and teases you!",
 			date_str: "February 2026",
 			tags: ["nsfw", "other"],
 			hidden: false
