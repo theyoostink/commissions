@@ -5781,7 +5781,7 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/42b9686ea2bb.png",
 			title: "Hooters Lucina (Delicious_brain)",
 			artist: "Delicious_brain",
-			artist_url: "Delicious_brain",
+			artist_url: "https://x.com/Delicious_brain",
 			art_url: "https://x.com/Delicious_brain/status/1824868796928282802",
 			desc: "This is a Hooters Lucina by Delicious_brain! Lucina is so pretty! I love her big wide smile as she holds some delicious looking wings and beer! The tied-up shirt is always a nice touch! The artist did a wonderful job!",
 			date_str: "August 2024",
@@ -8138,6 +8138,30 @@ var data = {
 			desc: "This is a commission gift for Willanator93 by GrimmelsDaThird! Mercedes in her summer uniform lifts up her skirt to reveal her panties. She gives you a rare peek at her gorgeous ass and teases you!",
 			date_str: "February 2026",
 			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/5d7ba6ce5c05.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/818e87d71a2d.jpg",
+			title: "A Stroll in the Park (Balg4rt)",
+			artist: "Balg4rt",
+			artist_url: "https://x.com/Balg4rt",
+			art_url: null,
+			desc: "This is a joint commission with SixtyBuzzer by Balg4rt! Lucina and Marianne are both busy mothers who are taking time off for a stroll in the park together! The catch up and chat about their families and reminisce!",
+			date_str: "March 2026",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b60d6eeec8c1.png", "https://cdn.imgchest.com/files/76d442bfa6f6.png", "https://cdn.imgchest.com/files/1119492d177c.png", "https://cdn.imgchest.com/files/72cb068f7236.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5d217f8f66b5.png",
+			title: "Hooters Lucina Buttjob (loodncrood)",
+			artist: "loodncrood",
+			artist_url: "https://x.com/loodncrood",
+			art_url: null,
+			desc: "This is a Hooters Lucina commission by loodncrood! It's another day at Hooters, and Lucina has a special something for her favorite customer! You bend her over on the counter as you rub your hard cock on her butt! It doesn't take long before you shower her with tons of cum! Lucina seems to have really enjoyed that, and she hopes you'll give her a big tip!",
+			date_str: "March 2026",
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
