@@ -8146,7 +8146,7 @@ var data = {
 			title: "A Stroll in the Park (Balg4rt)",
 			artist: "Balg4rt",
 			artist_url: "https://x.com/Balg4rt",
-			art_url: null,
+			art_url: "https://x.com/sixtybuzzer/status/2029235153537778142",
 			desc: "This is a joint commission with SixtyBuzzer by Balg4rt! Lucina and Marianne are both busy mothers who are taking time off for a stroll in the park together! The catch up and chat about their families and reminisce!",
 			date_str: "March 2026",
 			tags: [""],
@@ -8163,6 +8163,54 @@ var data = {
 			date_str: "March 2026",
 			tags: ["hooters", "nsfw"],
 			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a38f7284784c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6a288a50894e.png",
+			title: "All-Nighter (SINccubi)",
+			artist: "SINccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: "",
+			desc: "This is a Robcina commission by SINccubi! Robin and Lucina start their night with a movie, but things slowly escalate! Robin drops his pants, and Lucina strips down to her underwear to give a blowjob! Then, they both strip down all the way to make love on the couch! They fuck all night until it's morning! Robin is completely worn out, but it looks like Lucina still has energy to spare!",
+			date_str: "March 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d965952b9ebc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/00c3c0096293.png",
+			title: "Hooters Lucina (wish-fuu)",
+			artist: "wish-fuu",
+			artist_url: "https://bsky.app/profile/wish-fuu.bsky.social",
+			art_url: "https://bsky.app/profile/wish-fuu.bsky.social/post/3mgbucgverc2i",
+			desc: "This is a Hooters Lucina by wish-fuu! Lucina looks so pretty! I love her big smile as she greets you with some beer and wings! The warm color tones and lighting add to the gentleness of this illustration! The artist did a wonderful job!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/35aedb38463d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b78caa445343.png",
+			title: "Beach Shower (SINccubi)",
+			artist: "SINccubi",
+			artist_url: "https://x.com/SINccubi",
+			art_url: "",
+			desc: "This is a Robcina commission by SINccubi! Robin and Lucina strip down and fuck while hiding at the beach showers! They use the sound of the running water to mask their moans and grunts, but the bumps against the stall door is still very audible! Severa notices some strange sounds coming from a nearby stall! Will she discover them?",
+			date_str: "March 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/167f3fb8fb13.png", "https://cdn.imgchest.com/files/e7482bcbcb32.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d1399ed2b2ec.png",
+			title: "Finishing on Alear and Celine (ten102021)",
+			artist: "ten102021",
+			artist_url: "https://x.com/ten102021",
+			art_url: null,
+			desc: "This is a birthday gift for Exalted by ten102021! After a long night fucking both Alear and Celine, you unload everything that you have all over the both of them! The sight of them covered in your semen turns you on even more! Maybe the nighttime activities aren't over just yet...",
+			date_str: "March 2026",
+			tags: ["nsfw", "other"],
+			hidden: true
 		},
 		{
 			src: [""],
