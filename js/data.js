@@ -8170,7 +8170,7 @@ var data = {
 			title: "All-Nighter (SINccubi)",
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi",
-			art_url: "",
+			art_url: "https://x.com/SINccubi/status/2030014678059958557",
 			desc: "This is a Robcina commission by SINccubi! Robin and Lucina start their night with a movie, but things slowly escalate! Robin drops his pants, and Lucina strips down to her underwear to give a blowjob! Then, they both strip down all the way to make love on the couch! They fuck all night until it's morning! Robin is completely worn out, but it looks like Lucina still has energy to spare!",
 			date_str: "March 2026",
 			tags: ["nsfw"],
@@ -8198,7 +8198,7 @@ var data = {
 			desc: "This is a Robcina commission by SINccubi! Robin and Lucina strip down and fuck while hiding at the beach showers! They use the sound of the running water to mask their moans and grunts, but the bumps against the stall door is still very audible! Severa notices some strange sounds coming from a nearby stall! Will she discover them?",
 			date_str: "March 2026",
 			tags: ["nsfw"],
-			hidden: false
+			hidden: true
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/167f3fb8fb13.png", "https://cdn.imgchest.com/files/e7482bcbcb32.png"],
@@ -8210,6 +8210,30 @@ var data = {
 			desc: "This is a birthday gift for Exalted by ten102021! After a long night fucking both Alear and Celine, you unload everything that you have all over the both of them! The sight of them covered in your semen turns you on even more! Maybe the nighttime activities aren't over just yet...",
 			date_str: "March 2026",
 			tags: ["nsfw", "other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/55f3f90c8dc8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ed1d4d915362.png",
+			title: "Hooters Lucina (Negidesu1105)",
+			artist: "Negidesu1105",
+			artist_url: "https://x.com/Negidesu1105",
+			art_url: null,
+			desc: "This is a Hooters Lucina by Negidesu1105! Lucina looks so cute! The piece has all of my favorites: a wink, a big smile, and a tied-up shirt! The warm and bright colors are also so nice! I also love the artist's version of the logo!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e844be809cb3.jpg", "https://cdn.imgchest.com/files/e1a33c153529.jpg", "https://cdn.imgchest.com/files/1d8f4709603f.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/45fa87ee6c10.jpg",
+			title: "Hooters Lucina (matriks_16)",
+			artist: "matriks_16",
+			artist_url: "https://x.com/matriks_16",
+			art_url: "https://x.com/matriks_16/status/2029904834137075870",
+			desc: "This is a Hooters Lucina by matriks_16! Lucina is so pretty! The tied-up shirt is always a nice detail, and I love how Lucina is balancing a tray of beer mugs with ease! The artist did a wonderful job, and I love the pose and sense of motion in this piece!",
+			date_str: "March 2026",
+			tags: ["hooters", "nsfw"],
 			hidden: true
 		},
 		{
