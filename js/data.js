@@ -8210,7 +8210,7 @@ var data = {
 			desc: "This is a birthday gift for Exalted by ten102021! After a long night fucking both Alear and Celine, you unload everything that you have all over the both of them! The sight of them covered in your semen turns you on even more! Maybe the nighttime activities aren't over just yet...",
 			date_str: "March 2026",
 			tags: ["nsfw", "other"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/55f3f90c8dc8.png"],
@@ -8235,6 +8235,66 @@ var data = {
 			date_str: "March 2026",
 			tags: ["hooters", "nsfw"],
 			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/6138ed7234eb.png"],
+			thumbnail: "https://cdn.imgchest.com/files/08ad85e4bf2e.png",
+			title: "Hooters Lucina (yanmarson99)",
+			artist: "yanmarson99",
+			artist_url: "https://x.com/yanmarson99",
+			art_url: "https://x.com/yanmarson99/status/2030144035068010607",
+			desc: "This is a Hooters Lucian by yanmarson99! Lucina looks so cute! I give artists the freedom to adjust the outfit, and I really like this artist's version of the outfit with a skirt and spats!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b4718b510dc4.png", "https://cdn.imgchest.com/files/d8c9a465bcff.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0409b0663b0e.png",
+			title: "Hooters Lucina (mugitorono3)",
+			artist: "mugitorono3",
+			artist_url: "https://bsky.app/profile/mugitorono3.bsky.social",
+			art_url: "https://bsky.app/profile/mugitorono3.bsky.social/post/3mgpgajllsc2i",
+			desc: "This is a Hooters Lucina by mugitorono3! Lucina looks so cute! I love Lucina's big smile as always, and the mugs of beer look tasty and refreshing! The artist also did a wonderful job on the background art!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a1713c7ebd96.png"],
+			thumbnail: "https://cdn.imgchest.com/files/eea5f01927ea.png",
+			title: "Hooters Lucina (surippa1010)",
+			artist: "surippa1010",
+			artist_url: "https://x.com/surippa1010",
+			art_url: "https://x.com/surippa1010/status/2031631284808855903",
+			desc: "This is a Hooters Lucina by surippa1010! It looks like Lucina is in a hurry! I really love the sense of motion in this art: the jumping chicken wings and flying beer foam! The artist did an amazing job!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/582c617c07a4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1cfda5ec4fa0.png",
+			title: "Hooters Lucina (adricarraART)",
+			artist: "adricarraART",
+			artist_url: "https://x.com/adricarraART",
+			art_url: "https://x.com/adricarraART/status/2032154430976454815",
+			desc: "This is a Hooters Lucina by adricarraART! Lucina looks so cute! The big mug of beer looks tasty with the nice frothy head spilling over! Lucina's big smile is the best as always! The artist did a great job on this illustration!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4fa29116cfee.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8d59c489c770.png",
+			title: "Are You A Virgin? (decoxart)",
+			artist: "decoxart",
+			artist_url: "https://x.com/decoxart",
+			art_url: null,
+			desc: "This is a commission by decoxart! It's a reference to the Tokyo Ghoul panel but with Hooters Lucina and Robin instead! After being asked the question, Robin takes Lucina back to his apartment after work and makes love to her! I wonder what his answer was to the question. Well, at least he's not one anymore after all that!",
+			date_str: "March 2026",
+			tags: ["nsfw"],
+			hidden: false
 		},
 		{
 			src: [""],
