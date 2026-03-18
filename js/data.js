@@ -8293,7 +8293,7 @@ var data = {
 			art_url: null,
 			desc: "This is a commission by decoxart! It's a reference to the Tokyo Ghoul panel but with Hooters Lucina and Robin instead! After being asked the question, Robin takes Lucina back to his apartment after work and makes love to her! I wonder what his answer was to the question. Well, at least he's not one anymore after all that!",
 			date_str: "March 2026",
-			tags: ["nsfw"],
+			tags: ["hooters", "nsfw"],
 			hidden: false
 		},
 		{
