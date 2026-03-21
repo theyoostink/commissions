@@ -8194,11 +8194,11 @@ var data = {
 			title: "Beach Shower (SINccubi)",
 			artist: "SINccubi",
 			artist_url: "https://x.com/SINccubi",
-			art_url: "",
+			art_url: "https://x.com/SINccubi/status/2035089584674009151",
 			desc: "This is a Robcina commission by SINccubi! Robin and Lucina strip down and fuck while hiding at the beach showers! They use the sound of the running water to mask their moans and grunts, but the bumps against the stall door is still very audible! Severa notices some strange sounds coming from a nearby stall! Will she discover them?",
 			date_str: "March 2026",
 			tags: ["nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/167f3fb8fb13.png", "https://cdn.imgchest.com/files/e7482bcbcb32.png"],
