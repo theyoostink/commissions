@@ -8297,6 +8297,30 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/1189de841c87.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/42af0819288e.jpg",
+			title: "Hooters Lucina (pudelmudel)",
+			artist: "pudelmudel",
+			artist_url: "https://ko-fi.com/pudelmudel",
+			art_url: null,
+			desc: "This is a Hooters Lucina by pudelmudel! Lucina is so pretty! I especially really love how her hair was drawn! The food looks tasty, and I adore the art style! I'm very glad I got the opportunity to commission the artist!",
+			date_str: "March 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7a22ae889a84.png", "https://cdn.imgchest.com/files/11c24af48c21.png"],
+			thumbnail: "https://cdn.imgchest.com/files/894d1193d55f.png",
+			title: "Hooters Lucina (sirimof)",
+			artist: "sirimof",
+			artist_url: "https://x.com/sirimof",
+			art_url: null,
+			desc: "This is a Hooters Lucina by sirimof! Lucina is so pretty! I absolutely love this artist's style, so I'm glad to see Lucina in their art style! I also love how her tits hang low as she bends forward to show off her chest!",
+			date_str: "March 2026",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
