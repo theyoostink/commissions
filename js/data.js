@@ -8321,6 +8321,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/cd01f8669cfa.jpg", "https://cdn.imgchest.com/files/f15410669350.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/d5c86d32230b.jpg",
+			title: "Hooters Lucina (AramyxDraws)",
+			artist: "AramyxDraws",
+			artist_url: "https://x.com/AramyxDraws",
+			art_url: "https://x.com/AramyxDraws/status/2037656602837156145",
+			desc: "This is a Hooters Lucina by AramyxDraws! Lucina looks so pretty! I love her plump ass drawn by an artist who draws them well! Her wink is so nice too! She probably wants to meet up later after her shift!",
+			date_str: "March 2026",
+			tags: ["hooters", "nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e0fa3ed38039.png"],
+			thumbnail: "https://cdn.imgchest.com/files/fc16ad5e05df.png",
+			title: "Shamir Opens Up (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a gift for TheDidlyDoo by Hayato_Stuff! Shamir finally gets to relax during a trip to the ryokan, and when the night quiets downs, she opens up literally. With her open yukata, Shamir presents her amazing body to you! Will you accept her invitation?",
+			date_str: "March 2026",
+			tags: ["nsfw", "other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a331da8d4d22.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c1ee01d32a2d.png",
+			title: "Micaiah Opens Up (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a gift for Eldritch Leaf by Hayato_Stuff! After a trip to the summer festival, Micaiah begins stripping down! The night isn't over yet for her, and she wants to let you know that it's not over for you either!",
+			date_str: "March 2026",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/da442a54244c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a5cc0d0c1048.png",
+			title: "Hooters Lucina Spill (GrimmelsDaThird)",
+			artist: "GrimmelsDaThird",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: null,
+			desc: "This is a Hooters Lucina commission by GrimmelsDaThird! Lucina is on her way to deliver a glass of water, but she stumbles and spills the drink! Some gets on her clothes revealing her pretty nipples through the slightly transparent shirt! She'll be sure to not make the same mistake twice!",
+			date_str: "March 2026",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
@@ -8330,7 +8378,7 @@ var data = {
 			desc: "",
 			date_str: "",
 			tags: [""],
-			hidden: true
+			hidden: false
 		}
 	]
 };
