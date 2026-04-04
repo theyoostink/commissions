@@ -8378,7 +8378,7 @@ var data = {
 			desc: "",
 			date_str: "",
 			tags: [""],
-			hidden: false
+			hidden: true
 		}
 	]
 };

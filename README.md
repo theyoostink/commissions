@@ -14,6 +14,7 @@ Sites that use my template:
 - https://theashenjedi.github.io/commissions/
 - https://violetblade.github.io/violetverse/
 - https://urbydizzy.github.io/urbyverse/
+- https://loneshadowstar.github.io/
 
 ## Customization
 
