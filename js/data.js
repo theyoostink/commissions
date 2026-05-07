@@ -8539,6 +8539,42 @@ var data = {
 			hidden: true
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/0312cb9b87f9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/014498913091.png",
+			title: "Hooters Lucina (brozoco)",
+			artist: "brozoco",
+			artist_url: "https://x.com/brozoco",
+			art_url: "https://x.com/brozoco/status/2050984140422394144",
+			desc: "This is a Hooters Lucina by brozoco! Lucina is so cute in this! I love the pose and the scenario she's in as if she's taking a break during her work shift! I really enjoy these kinds of illustrations depicting Lucina in a moment in time! The artist did an amazing job!",
+			date_str: "May 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f27ee70b5cf7.png", "https://cdn.imgchest.com/files/2b681f5971f4.png", "https://cdn.imgchest.com/files/084a7508da55.png", "https://cdn.imgchest.com/files/9b6f041f9b5f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/42a196accadc.png",
+			title: "Hooters Lucina (CheeNoSuke_2020)",
+			artist: "CheeNoSuke_2020",
+			artist_url: "https://x.com/CheeNoSuke_2020",
+			art_url: "https://www.pixiv.net/artworks/144366157",
+			desc: "This is a Hooters Lucina by CheeNoSuke_2020! Lucina is so cute and pretty! The beer and wing look delicious in this illustration! Lucina's gentle smile is the best as always, and I love seeing her happy! The artist did a wonderful job on the artwork!",
+			date_str: "May 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3f8023cf1e2c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a181ca52cf75.png",
+			title: "Hooters Lucina (nekomata)",
+			artist: "nekomata",
+			artist_url: "https://x.com/nekomata",
+			art_url: "https://x.com/nekomata/status/2051320753312976983",
+			desc: "This is a Hooters Lucina by nekomata! Lucina looks so pretty! I really like this artist's style and past works, so I'm glad I got the opportunity to commission them! The food looks tasty, and I love Lucina's confident pose! It's such a wonderful illustration!",
+			date_str: "May 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
