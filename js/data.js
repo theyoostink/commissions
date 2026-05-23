@@ -6117,11 +6117,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/l7lxcbd9xr7.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/my2pcbop557.jpg",
-			title: "Hooters Lucina (phrecklesart)",
+			title: "Hooters Lucina (Krephles)",
 			artist: "phrecklesart",
 			artist_url: "https://x.com/Krephles",
 			art_url: "https://x.com/Krephles/status/1870973941294285240",
-			desc: "This is a Hooters Lucina by phrecklesart! Lucina looks so cool and pretty! The artist wanted to do a dynamic scene like a food brawl, and it turned out amazingly! You can really sense the motion in the piece from Lucina's pose, the flying food, and dust effects. It's such an awesome work of art that also highlights Lucina's ferocity as a fighter!",
+			desc: "This is a Hooters Lucina by Krephles! Lucina looks so cool and pretty! The artist wanted to do a dynamic scene like a food brawl, and it turned out amazingly! You can really sense the motion in the piece from Lucina's pose, the flying food, and dust effects. It's such an awesome work of art that also highlights Lucina's ferocity as a fighter!",
 			date_str: "November 2024",
 			tags: ["hooters"],
 			hidden: false
@@ -7752,7 +7752,7 @@ var data = {
 			title: "Robcina Beach Sex (OathCradle)",
 			artist: "OathCradle",
 			artist_url: "https://x.com/OathCradle",
-			art_url: null,
+			art_url: "https://x.com/OathCradle/status/2048008524618477923",
 			desc: "This is a commission of Robin and Lucina having sex at the beach by OathCradle! Robin and Lucina sneak away from a beach party to a secluded area of the beach! Robin pounds Lucina hard against a rock until her voice leaks out and his cum leaks out too! If they don't hurry, some people from the party will start looking for them, but their lust powers them for another round!",
 			date_str: "December 2025",
 			tags: ["nsfw"],
@@ -8572,6 +8572,54 @@ var data = {
 			desc: "This is a Hooters Lucina by nekomata! Lucina looks so pretty! I really like this artist's style and past works, so I'm glad I got the opportunity to commission them! The food looks tasty, and I love Lucina's confident pose! It's such a wonderful illustration!",
 			date_str: "May 2026",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/2de260737f88.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9ff02c4f44e2.png",
+			title: "The Morning After (RedKite333)",
+			artist: "RedKite333",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/2052726786837172470",
+			desc: "This is a Robcina commission by RedKite333! After getting married, Robin and Lucina try for a baby to add a member to their new family! After making love all night long, they succeed and peacefully sleep while dreaming of a wonderful future together!",
+			date_str: "May 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/dcb7124ce74e.png", "https://cdn.imgchest.com/files/32b2126eb21c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f55ad9886354.png",
+			title: "Hooters Lucina (kakitamajiru_23)",
+			artist: "kakitamajiru_23",
+			artist_url: "https://x.com/kakitamajiru_23",
+			art_url: null,
+			desc: "This is a Hooters Lucina by kakitamajiru_23! Lucina looks so cute! I especially like the version with Lucina's wink! She shows off the large mugs of beer that she's getting ready to deliver! I also really like the background design! The artist did a wonderful job!",
+			date_str: "May 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/1fece48dc4c8.png", "https://cdn.imgchest.com/files/e60ee709a6e7.png", "https://cdn.imgchest.com/files/74e8c451bde2.png", "https://cdn.imgchest.com/files/35603ad6c679.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b77f756f4efc.png",
+			title: "Robcina Lovey-Dovey Missionary (magmelmel)",
+			artist: "magmelmel",
+			artist_url: "https://x.com/magmelmel",
+			art_url: null,
+			desc: "This is a Robcina commmission by magmelmel! Robin and Lucina strip all the way down for some intense lovemaking in bed! Robin gives his wife what she wants: a hard pounding until he cums inside! Robin's dick is still a bit excited and shoots a little extra on Lucina's body even after pulling out! Maybe just one round isn't enough for a newlywed couple!",
+			date_str: "May 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/87fd9410cb28.png", "https://cdn.imgchest.com/files/8034be36f05e.png", "https://cdn.imgchest.com/files/c67741bdd1f7.png", "https://cdn.imgchest.com/files/3201802834a4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5b95a64ea7ec.png",
+			title: "Summer Shez Full Nelson (Devilukez10)",
+			artist: "Devilukez10",
+			artist_url: "https://x.com/Devilukez10",
+			art_url: "https://x.com/Devilukez10/status/2055435345253249273",
+			desc: "This is a commission of female Shez by Devilukez10! Shez hits the beach for some surfing and sunbathing, but it seems her swimsuit caught the attention of a horny Byleth! Byleth locks her in a full nelson and pounds away at her defenseless pussy until he empties himself deep inside her! It's a bit rough, but Shez enjoyed this kind of physical activity at the beach too!",
+			date_str: "May 2026",
+			tags: ["nsfw", "other"],
 			hidden: false
 		},
 		{
