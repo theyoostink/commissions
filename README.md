@@ -11,10 +11,12 @@ I can also provide support for customized functionality like a danbooru-style ta
 Sites that use my template:
 - https://talkingdinosaur.github.io/commissions/
 - https://eebyverse.github.io/commissions/
-- https://theashenjedi.github.io/commissions/
 - https://violetblade.github.io/violetverse/
 - https://urbydizzy.github.io/urbyverse/
 - https://loneshadowstar.github.io/
+- https://fangcomms.com/
+- https://insaiyan7.github.io/commissions/
+- https://scarlet-flowers.github.io/commissions/
 
 ## Customization
 
