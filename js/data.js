@@ -8725,9 +8725,33 @@ var data = {
 			artist: "El_Pan_Frances",
 			artist_url: "https://x.com/El_Pan_Frances",
 			art_url: "https://x.com/El_Pan_Frances/status/2066599224586740033",
-			desc: "",
+			desc: "This is a Hooters Lucina by El_Pan_Frances! Lucina looks so cute! I really like illustrations that depict a snapshot of her work shift since it gives a nice slice-of-life vibe! It looks like Lucina is doing a great job, and the artist for this also did an amazing job!",
 			date_str: "June 2026",
 			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/12c6d471b09b.png", "https://cdn.imgchest.com/files/76042381f07e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ee286c73da33.png",
+			title: "Scuba Lucina and Lyn (rein_creamsoda)",
+			artist: "rein_creamsoda",
+			artist_url: "https://x.com/rein_creamsoda",
+			art_url: "https://x.com/rein_creamsoda/status/2068508072289685627",
+			desc: "This is a joint commission with JoseJulio by rein_creamsoda! Lucina and Lyn both go scuba diving to check out all the tropical fish! The two beautiful ladies enjoy spending time with each other underwater and have fun with all the pretty fish around them!",
+			date_str: "June 2026",
+			tags: ["nsfw"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/679ac9236a64.png", "https://cdn.imgchest.com/files/d06146f6abbc.png", "https://cdn.imgchest.com/files/33ae1ed4c79b.png", "https://cdn.imgchest.com/files/a30f79ceada6.png", "https://cdn.imgchest.com/files/9d3a59fdc588.png", "https://cdn.imgchest.com/files/27accc595cfa.png", "https://cdn.imgchest.com/files/2db6c80ba110.png", "https://cdn.imgchest.com/files/41864259cefc.png", "https://cdn.imgchest.com/files/2c72983c1cad.png", "https://cdn.imgchest.com/files/e51bdda84de5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/745d496faf23.png",
+			title: "Up Against the Wall (koshimakitokage)",
+			artist: "koshimakitokage",
+			artist_url: "https://x.com/koshimakitokage",
+			art_url: "https://x.com/koshimakitokage/status/2068670432014942425",
+			desc: "This is a Robcina commission by koshimakitokage! One morning, Robin decides he wants to lift up his wife and fuck her against the wall! Lucina wraps her legs around her husband as he pounds up and into her over and over until he unloads inside! They exerted a bit more physical energy for this particular morning sexercise!",
+			date_str: "June 2026",
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
