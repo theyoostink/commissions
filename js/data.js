@@ -8755,6 +8755,54 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7286819b9871.png"],
+			thumbnail: "https://cdn.imgchest.com/files/983044a8aaab.png",
+			title: "On His Desk (shmkdxh)",
+			artist: "shmkdxh",
+			artist_url: "https://x.com/shmkdxh",
+			art_url: "https://x.com/shmkdxh/status/2070238437488169264",
+			desc: "This is a Robcina commission by shmkdxh! Things get hot and steamy in Robin's office! Robin pins his wife down on his desk and fucks her roughly! After Robin fills her up, his dick fires off a few more times on Lucina's body! He stays hard after seeing his wife's hot lewd body and hearing her beg for more! The artist did a wonderful job depicting this scene and the disheveled state of Lucina's clothes and Robin's desk!",
+			date_str: "June 2026",
+			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4c96142abdf9.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/ae76cb2a5ba1.jpg",
+			title: "Lucina and Pidgey (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for Pidgey by true_jek_art! While Lucina is relaxing, a Pidgey flies by and lands on her shoulder! The two of them spend time together while enjoying the outdoor atmosphere!",
+			date_str: "July 2026",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/8981843b779f.png", "https://cdn.imgchest.com/files/bb3708b818de.png", "https://cdn.imgchest.com/files/9a9efdc53ed4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/eb07b34260d1.png",
+			title: "Hooters Lucina (DizzyIsDizzy)",
+			artist: "DizzyIsDizzy",
+			artist_url: "https://x.com/DizzyIsDizzy",
+			art_url: "https://x.com/DizzyIsDizzy/status/2074497306687320509",
+			desc: "This is a Hooters Lucina by DizzyIsDizzy! Lucina looks so cute in this art style! I love all the foam effects hopping out of the beer, and the colors are so nice and vibrant! The artist did such a wonderful job on this illustration!",
+			date_str: "July 2026",
+			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/1837b199af42.png"],
+			thumbnail: "https://cdn.imgchest.com/files/162acf7f5a7e.png",
+			title: "Scuba Cordelia (fusenryo2)",
+			artist: "fusenryo2",
+			artist_url: "https://x.com/fusenryo2",
+			art_url: null,
+			desc: "This is a commission of Cordelia scuba diving by fusenryo2! This swimsuit design is from one of Cordelia's Cipher cards, and fanart of it is really rare in comparison to her swimsuit design from FEH. It turned out really well, and the artist did a great job!",
+			date_str: "July 2026",
+			tags: ["other"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",
