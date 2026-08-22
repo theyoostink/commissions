@@ -607,7 +607,7 @@ var data = {
 				"https://cdn.imgchest.com/files/f1fce6993525.png"
 				],
 			thumbnail: "https://cdn.imgchest.com/files/84apckd2wv4.jpg",
-			title: "Mnejing30 Patreon Requests",
+			title: "Mnejing30 Patreon/Ko-fi Requests",
 			artist: "Mnejing30",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: null,
@@ -662,7 +662,7 @@ var data = {
 			<a href='https://x.com/Mnejing30/status/1985469321016197517' target='_blank'>Kagurabachi Lucina</a><br/>
 			<a href='https://x.com/Mnejing30/status/2014843102478147814' target='_blank'>Engage Sweep</a><br/>
 			<a href='https://x.com/Mnejing30/status/2041843320704659951' target='_blank'>Hope for Lucina</a><br/>`,
-			date_str: "October 2021 - Present",
+			date_str: "October 2021 - April 2026",
 			tags: [""],
 			hidden: false
 		},
@@ -1622,6 +1622,18 @@ var data = {
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1521901905563336705",
 			desc: "This is a commission of the Robcina family by RedKite333! It's a reference to the Yotsubato pose, and RedKite did a great job drawing this happy family! Morgan looks especially adorable! Happy Birthday Morgan!",
+			date_str: "May 2022",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/d82b2b999cc6.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/2308135a0fb2.png",
+			title: "Baby Lucina (lightdasher)",
+			artist: "lightdasher",
+			artist_url: "https://x.com/lightdasher",
+			art_url: null,
+			desc: "This is a commission of a baby Lucina animation by lightdasher! It's based on a baby Seliph animation, and the Lucina look so cute too!",
 			date_str: "May 2022",
 			tags: [""],
 			hidden: false
@@ -9016,6 +9028,42 @@ var data = {
 			desc: "This is a Sailor Palla by true_jek_art! It is a gift for AlonsoNSR who is a fan of Sailor Jupiter and Palla, so I combined them both into one idea! Palla looks so pretty in the Sailor outfit, and the green theme throughout is really nice!",
 			date_str: "August 2026",
 			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/698dc7ec1d53.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/19b29ebc7700.jpg",
+			title: "Hooters Lucina (TheKimersonShow)",
+			artist: "TheKimersonShow",
+			artist_url: "https://x.com/TheKimersonShow",
+			art_url: null,
+			desc: "This is a Hooters Lucina by TheKimersonShow! Lucina looks so pretty! I love her peaceful pose as she relaxes on the table! I've been a fan of the artist's work for years, so I'm so glad to have had the opportunity to commission them!",
+			date_str: "August 2026",
+			tags: ["hooters"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/892ce7a347c3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a1d3ed498c26.png",
+			title: "Shina (Hayato_Stuff)",
+			artist: "Hayato_Stuff",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: null,
+			desc: "This is a commission of Shina by Hayato_Stuff! Shina is the OC of Eldritch Leaf, and this was a gift for him! The ninja strikes with her bow and arrow in a cool pose!",
+			date_str: "August 2026",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/906b8a6935ab.png"],
+			thumbnail: "https://cdn.imgchest.com/files/94ea4c7c2eb9.png",
+			title: "Hooters Lucina (aimermermer)",
+			artist: "aimermermer",
+			artist_url: "https://x.com/aimermermer",
+			art_url: null,
+			desc: "This is a Hooters Lucina by aimermermer! Lucina looks so cute! I absolutely adore her big smile as she delivers an order! I also really like the background that resembles a zigzag brushstroke! The artist did a wonderful job, and I love the colors!",
+			date_str: "August 2026",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
