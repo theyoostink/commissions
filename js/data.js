@@ -8616,7 +8616,7 @@ var data = {
 			title: "Robcina Lovey-Dovey Missionary (magmelmel)",
 			artist: "magmelmel",
 			artist_url: "https://x.com/magmelmel",
-			art_url: null,
+			art_url: "https://www.pixiv.net/en/artworks/149857836",
 			desc: "This is a Robcina commmission by magmelmel! Robin and Lucina strip all the way down for some intense lovemaking in bed! Robin gives his wife what she wants: a hard pounding until he cums inside! Robin's dick is still a bit excited and shoots a little extra on Lucina's body even after pulling out! Maybe just one round isn't enough for a newlywed couple!",
 			date_str: "May 2026",
 			tags: ["nsfw"],
@@ -9184,6 +9184,30 @@ var data = {
 			desc: "This is a Robcina sex commission by THOR! Robin and Lucina start their Valentine's Day with a literal bang! Robin thrusts into Lucina until she squirts all over the bed! She takes off her clothes to avoid dirtying them and lets Robin resume fucking her until he cums inside her and all over her! All this lovemaking causes Lucina to squirt once more as an explosive conclusion! I'm really glad I got the opportunity to commission this artist and see a wholesome Robcina illustration by them!",
 			date_str: "September 2026",
 			tags: ["nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/ba9429a6fa21.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f4791c54f0f1.png",
+			title: "Summer Ishtar and Reinhardt (LoptoArt)",
+			artist: "LoptoArt",
+			artist_url: "https://x.com/LoptoArt",
+			art_url: "https://x.com/LoptoArt/status/2099513107295125550",
+			desc: "This is a commission by LoptoArt! It's a portrait of summer Ishtar and Reinhardt together in the style of the FEH default pose! The swimsuit designs are by Lopto too! It looks like this beach couple are ready for both battle and fun in the sun!",
+			date_str: "September 2026",
+			tags: ["nsfw", "other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/e7cc7e14bad9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/91479d945bf7.png",
+			title: "Hooters Lucina (oniiyanna)",
+			artist: "oniiyanna",
+			artist_url: "https://x.com/oniiyanna",
+			art_url: null,
+			desc: "This is a Hooters Lucina by oniiyanna! Lucina looks so cute! I really love all the warm colors and tones in this artwork! The tied up shirt is always a nice detail! I'm glad I got the opportunity to commission this artist, and Lucina looks great in their style!",
+			date_str: "September 2026",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
