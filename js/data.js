@@ -6885,11 +6885,11 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/y8xcn35aqe4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczrwpqm7.png",
-			title: "Hooters Lucina Chibis (LustrousDreams)",
-			artist: "LustrousDreams",
-			artist_url: "https://x.com/LustrousDreams",
+			title: "Hooters Lucina Chibis (folkvangr)",
+			artist: "folkvangr",
+			artist_url: "https://bsky.app/profile/folkvangr.bsky.social",
 			art_url: null,
-			desc: "These are Hooters Lucina chibis by LustrousDreams! Lucina looks so cute! I love the sequence of Lucina taking orders, delivering the food, and stumbling on her way over! The artist did an amazing job depicting Lucina's hectic shift at Hooters!",
+			desc: "These are Hooters Lucina chibis by folkvangr! Lucina looks so cute! I love the sequence of Lucina taking orders, delivering the food, and stumbling on her way over! The artist did an amazing job depicting Lucina's hectic shift at Hooters!",
 			date_str: "May 2025",
 			tags: ["hooters"],
 			hidden: false
@@ -9304,6 +9304,54 @@ var data = {
 			desc: "This is a Hooters Lucina by SquishLewds! Lucina looks so cute! I love her big wide smile as she walks over the order of chicken wings and a big mug of beer! I really like the pose since it gives off a vibe of playful confidence! The artist did a wonderful job!",
 			date_str: "October 2026",
 			tags: ["hooters", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/43fc7eaa8613.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/959f39bdfa4d.jpg",
+			title: "The Dance of Reinhardt and Ishtar (true_jek_art)",
+			artist: "true_jek_art",
+			artist_url: "https://x.com/true_jek_art",
+			art_url: null,
+			desc: "This is a gift commission for friegeschair by true_jek_art! Reinhardt and Ishtar attend a fancy ball where they dance and drink all night under a big bright full moon! The couple enjoy a romantic night together as all the other attendees of ball look on with awe and envy!",
+			date_str: "October 2025",
+			tags: ["other"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/b1b97c72996f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/98ee9b19b36f.png",
+			title: "Christmas Leda (thrananaart)",
+			artist: "thrananaart",
+			artist_url: "https://x.com/thrananaart",
+			art_url: null,
+			desc: "This is a commission of Christmas Leda by thrananaart! I really liked the outfit that fusenryo2 designed for Leda, so I got another commission of her in it by thrananaart! Leda looks really pretty! I like her gentle smile and pose as she hands over your Christmas present!",
+			date_str: "November 2026",
+			tags: ["other"],
+			hidden: true
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/46fd9c90b7f8.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/dea272d77fdc.png",
+			title: "Eat It Up Lucina (mawsteryowda_)",
+			artist: "mawsteryowda_",
+			artist_url: "https://x.com/mawsteryowda_",
+			art_url: null,
+			desc: "This is an animation commission of Lucina by mawsteryowda_! It's a reference to the Eat It Up meme featuring Reze from Chainsaw Man! The artist did such a great job on this fun animation!",
+			date_str: "November 2026",
+			tags: [""],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/cdd1a246fb19.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/f7e8e46d68f8.png",
+			title: "Hooters Lucina by YamanataVault",
+			artist: "YamanataVault",
+			artist_url: "https://x.com/YamanataVault",
+			art_url: "https://x.com/YamanataVault/status/2118795556210540851",
+			desc: "This is a Hooters Lucina by YamanataVault! Lucina looks beautiful in this gorgeous illustration! I love the way Lucina's hair flows, and I love all the details in the background too! The tied up shirt with the Feh logo are always such nice details to see! I'm so glad I got the opportunity to commission YamanataVault and glad to hear that they enjoyed working on it! This is truly a masterpiece!",
+			date_str: "November 2026",
+			tags: ["hooters"],
 			hidden: false
 		},
 		{
